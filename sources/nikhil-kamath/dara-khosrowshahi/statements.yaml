@@ -1,1 +1,51 @@
-statements: []
+statements:
+  - id: nikhil-kamath-045
+    person: nikhil-kamath
+    source: nikhil-kamath-dara-khosrowshahi
+    type: assertion
+    text: >
+      Says he lives split between Bangalore, Mumbai, and Goa in India.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Dara
+      Khosrowshahi), no diarization. Attribution inferred from
+      conversational role, not confirmed via video. Adds Mumbai and Goa
+      to the previously-established Bangalore base (see
+      nikhil-kamath-020).
+
+  - id: nikhil-kamath-046
+    person: nikhil-kamath
+    source: nikhil-kamath-dara-khosrowshahi
+    type: experience
+    text: >
+      Confirms running a private equity fund and says he spent much of
+      the past couple of years investing in the transition to electric
+      mobility -- scooters, trucks, buses, and a flying-taxi company --
+      mostly focused on India but with some investments elsewhere.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-045.
+      Cross-reference: corroborates and extends nikhil-kamath-010
+      (Vinod Khosla episode -- same EV thesis, adds "flying taxi" and
+      confirms geographic focus) and nikhil-kamath-032 (Nikesh Arora
+      episode -- confirms "private equity fund" terminology). Three
+      independent extractions describing the same fund and thesis is a
+      strong signal but still not itself verification.
