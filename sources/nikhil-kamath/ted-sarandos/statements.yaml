@@ -1,1 +1,74 @@
-statements: []
+statements:
+  - id: nikhil-kamath-034
+    person: nikhil-kamath
+    source: nikhil-kamath-ted-sarandos
+    type: experience
+    text: >
+      Says he holds a small partnership stake in a talent management
+      agency called Collective, which he describes as the largest such
+      agency in India, and mentions having spent time in their office.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Ted
+      Sarandos), no diarization. Attribution inferred from
+      conversational role, not confirmed via video.
+
+  - id: nikhil-kamath-035
+    person: nikhil-kamath
+    source: nikhil-kamath-ted-sarandos
+    type: experience
+    text: >
+      Says he was previously an investor in the multiplex cinema chain
+      that is now PVR Inox (India's largest, formed from a merger),
+      and describes a personal friendship with a person referred to
+      as "AJ" who runs the company.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-034. "AJ" is
+      not fully identified in the transcript -- worth confirming full
+      name during verification.
+
+  - id: nikhil-kamath-036
+    person: nikhil-kamath
+    source: nikhil-kamath-ted-sarandos
+    type: assertion
+    text: >
+      Describes this podcast (WTF) as unmonetized -- no ads, no
+      sponsors -- characterizing it as close to a charity project
+      around entrepreneurship in India. Separately mentions running
+      "maybe 10-20 different things" in parallel across his content
+      efforts and his brokerage business (Zerodha).
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-034. This
+      statement is about the source material itself (the podcast's own
+      business model) rather than about an external topic -- still
+      subject to the same verification requirement as any other
+      statement before being treated as fact.
