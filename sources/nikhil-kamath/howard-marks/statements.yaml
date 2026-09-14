@@ -1,1 +1,119 @@
-statements: []
+statements:
+  - id: nikhil-kamath-095
+    person: nikhil-kamath
+    source: nikhil-kamath-howard-marks
+    type: assertion
+    text: >
+      Describes the podcast's format and target audience to Howard
+      Marks at the outset: most episodes are free-flowing conversations
+      aimed at entrepreneurial-minded people of Indian origin roughly
+      25 to 30 years old, who are looking to invest, trade, or start a
+      business from the bottom up.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Howard
+      Marks), no diarization. Attribution inferred from conversational
+      role, not confirmed via video.
+
+  - id: nikhil-kamath-096
+    person: nikhil-kamath
+    source: nikhil-kamath-howard-marks
+    type: experience
+    text: >
+      Mentions being personal friends with the head of a Norwegian
+      sovereign wealth fund (referred to as "Nikolai"), whom he
+      references having interviewed roughly a year earlier.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-095. Likely
+      refers to Nicolai Tangen, CEO of Norges Bank Investment
+      Management, but the name is transcribed only as "Nikolai" --
+      confirm identity during verification rather than assuming.
+
+  - id: nikhil-kamath-097
+    person: nikhil-kamath
+    source: nikhil-kamath-howard-marks
+    type: assertion
+    text: >
+      States that he is 39 years old, that most of his investing is in
+      India, and asks Howard Marks whether -- assuming India keeps
+      growing around 6-7% and per-capita GDP keeps rising -- it would be
+      reasonable to stay roughly 80% allocated to equities for the next
+      20 to 30 years.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-095. A direct,
+      specific age statement -- cross-reference against any other
+      episode stating his age or birth year during verification.
+
+  - id: nikhil-kamath-098
+    person: nikhil-kamath
+    source: nikhil-kamath-howard-marks
+    type: experience
+    text: >
+      Says he has long been fascinated with the idea of going off to a
+      mountain in solitude to arrive at some kind of evolutionary
+      realization that would prompt him to actively change direction in
+      life, and asks Howard whether he has ever managed to do something
+      similar himself.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-095.
+
+  - id: nikhil-kamath-099
+    person: nikhil-kamath
+    source: nikhil-kamath-howard-marks
+    type: experience
+    text: >
+      Says he has read all of Nassim Nicholas Taleb's books and
+      expresses admiration for him, while discussing the contrast
+      between Taleb's tail-risk/optionality approach and Howard Marks's
+      approach to distressed debt.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-095.
