@@ -1,1 +1,119 @@
-statements: []
+statements:
+  - id: nikhil-kamath-130
+    person: nikhil-kamath
+    source: nikhil-kamath-neal-mohan
+    type: assertion
+    text: >
+      States he is 38 years old, and describes his personal media
+      journey growing up largely in Bangalore: watching Hindi TV
+      serials on traditional broadcast TV, following cricket, and
+      getting his first personal media-consumption device around age
+      16-17.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing YouTube
+      CEO Neal Mohan), no diarization. Attribution inferred from
+      conversational role, not confirmed via video. Cross-reference: this
+      episode is published 2025-05-24, between nikhil-kamath-101 (age 36,
+      Kiran Mazumdar-Shaw episode, published 2023-07-22) and
+      nikhil-kamath-097/119 (age 39, Howard Marks/Martin Escobari
+      episodes, published 2026-05). The 36 -> 38 -> 39 progression
+      across these publish dates is internally consistent with a single
+      birth year and is a useful anchor for verification.
+
+  - id: nikhil-kamath-131
+    person: nikhil-kamath
+    source: nikhil-kamath-neal-mohan
+    type: experience
+    text: >
+      Quantifies his current media habits: roughly 30% of his free time
+      on YouTube, 30% on social media, and the remainder split between
+      broadcast news, other platforms, and Netflix.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130.
+
+  - id: nikhil-kamath-132
+    person: nikhil-kamath
+    source: nikhil-kamath-neal-mohan
+    type: experience
+    text: >
+      Admits a personal quirk: watching Netflix on his TV makes him
+      subconsciously feel like he is "doing something wrong," while
+      watching YouTube for similar leisure content makes him feel like
+      he is "doing something right," which he attributes to an
+      unconscious association between YouTube and learning.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130.
+
+  - id: nikhil-kamath-133
+    person: nikhil-kamath
+    source: nikhil-kamath-neal-mohan
+    type: experience
+    text: >
+      Describes how his app usage has shifted over the past six or
+      seven years: he did not use Spotify then, but now turns to
+      Spotify for music (a role YouTube used to fill for him), to
+      YouTube for podcasts and learning-oriented content, and to
+      Netflix for entertainment.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130.
+
+  - id: nikhil-kamath-134
+    person: nikhil-kamath
+    source: nikhil-kamath-neal-mohan
+    type: experience
+    text: >
+      Mentions that after this recording (at the WAVES summit) he is
+      participating in a roundtable discussion with the Indian Prime
+      Minister.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130.
