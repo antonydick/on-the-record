@@ -1,1 +1,182 @@
-statements: []
+statements:
+  - id: nikhil-kamath-100
+    person: nikhil-kamath
+    source: nikhil-kamath-kiran-mazumdar-shaw
+    type: experience
+    text: >
+      Describes himself and Kiran Mazumdar-Shaw as close personal
+      friends who are part of the same Bangalore social circle -- they
+      regularly hang out, share the same friends, and do dinners and
+      Sunday lunches together.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Kiran
+      Mazumdar-Shaw, a personal friend), no diarization. Attribution
+      inferred from conversational role, not confirmed via video.
+
+  - id: nikhil-kamath-101
+    person: nikhil-kamath
+    source: nikhil-kamath-kiran-mazumdar-shaw
+    type: assertion
+    text: >
+      States he is 36 years old at the time of this conversation, and
+      confirms he does not have kids and does not intend to have
+      children.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100. This
+      episode published 2023-07-22, earlier than most other episodes in
+      this dataset -- the stated age of 36 here is consistent with (not
+      contradicting) the later self-reported ages of 39
+      (nikhil-kamath-097, Howard Marks episode) and "nearing 40"
+      (nikhil-kamath-053, Ruchir Sharma episode), which were recorded
+      later. Also corroborates nikhil-kamath-068 (Ajay Banga episode,
+      also no kids). Cross-reference these during verification to
+      establish a consistent age/birth-year timeline.
+
+  - id: nikhil-kamath-102
+    person: nikhil-kamath
+    source: nikhil-kamath-kiran-mazumdar-shaw
+    type: experience
+    text: >
+      Confirms (in response to Kiran referencing "you signed the giving
+      pledge like I did") that he has signed the Giving Pledge, and
+      mentions he consulted Nandan Nilekani for advice when considering
+      it. Explains his reasoning as reaching clarity that, having
+      decided he will never have children, there is no point dying with
+      unspent wealth that has nowhere to go.
+    topic: philanthropy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100. A
+      significant, publicly-checkable claim (Giving Pledge signatories
+      are published) -- confirm during verification.
+
+  - id: nikhil-kamath-103
+    person: nikhil-kamath
+    source: nikhil-kamath-kiran-mazumdar-shaw
+    type: mechanism
+    text: >
+      Describes the podcast's original charity model: the show was
+      never intended to make money, so at the end of each episode he
+      and the guest each donate a set amount (proposing 25 lakh rupees
+      each, 50 lakh total, for this episode) and the audience votes to
+      decide which charity receives the pooled donation, with the
+      stated goal of keeping the process as democratic as possible and
+      scaling it up over time.
+    topic: philanthropy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100.
+      Cross-reference: an earlier, audience-vote-based version of the
+      charity mechanism later described (in the more recent Chamath
+      Palihapitiya episode, nikhil-kamath-083) as guest-matched startup
+      grants to young Indian founders -- during verification, determine
+      whether the program evolved over time from this audience-choice
+      model to the founder-grant model, or whether both run in
+      parallel.
+
+  - id: nikhil-kamath-104
+    person: nikhil-kamath
+    source: nikhil-kamath-kiran-mazumdar-shaw
+    type: experience
+    text: >
+      Mentions that his brother, a professor who teaches in Canada, had
+      visited a couple of weeks before this recording, and that they
+      had lunch together on a Sunday where his brother raised ideas
+      about virtue signaling that Nikhil found intriguing.
+    topic: family
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100.
+
+  - id: nikhil-kamath-105
+    person: nikhil-kamath
+    source: nikhil-kamath-kiran-mazumdar-shaw
+    type: experience
+    text: >
+      Reflects that he felt inauthentic for a large part of his life,
+      says he is now recognizing and making peace with his own flaws,
+      and feels this is helping him care less about external validation
+      -- while admitting he still seeks it to some degree.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100.
+
+  - id: nikhil-kamath-106
+    person: nikhil-kamath
+    source: nikhil-kamath-kiran-mazumdar-shaw
+    type: experience
+    text: >
+      Recounts that his sister-in-law fell seriously ill roughly two
+      years before this recording, and that he called Kiran Mazumdar-
+      Shaw -- who had never met her -- for help; Kiran spent about 30
+      minutes on the phone connecting him with different doctors. Says
+      his sister-in-law has since recovered.
+    topic: family
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100. Sensitive
+      health/family content -- treat with particular care during
+      verification and do not surface as settled fact (including the
+      nature of the illness, which is not stated explicitly here) until
+      independently confirmed, per SKILL.md guidance.
