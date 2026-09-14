@@ -1,1 +1,318 @@
-statements: []
+statements:
+  - id: nikhil-kamath-053
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: assertion
+    text: >
+      Mentions, in passing near the end of the conversation, that he is
+      nearing 40 years old.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Ruchir
+      Sharma), no diarization. Attribution inferred from conversational
+      role, not confirmed via video. Cross-reference during verification
+      against any other episode where Nikhil states his age or birth
+      year to corroborate.
+
+  - id: nikhil-kamath-054
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: experience
+    text: >
+      Says that when he was growing up, his grandfather's aspiration for
+      him was to join the IAS (Indian Administrative Service), reflecting
+      an older generation's view of government service as the most
+      high-minded career path.
+    topic: family
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. Family
+      detail -- treat with care during verification per SKILL.md
+      guidance on sensitive/family content.
+
+  - id: nikhil-kamath-055
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: belief
+    text: >
+      Expresses concern that Indian brands, teenagers, and young adults
+      spend hours a day on American-owned platforms (WhatsApp, YouTube,
+      Instagram, Twitter/X, Netflix), and that this represents a large,
+      uncounted transfer of value and data to US tech companies beyond
+      what shows up in software-services export figures.
+    topic: technology
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+
+  - id: nikhil-kamath-056
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: belief
+    text: >
+      Says he personally favors buying Indian brands over foreign ones
+      as a matter of practice -- citing buying shirts and footwear from
+      domestic Indian brands -- and frames this as part of a broader
+      trend of Indians becoming more consumer-patriotic.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. The specific
+      brand names mentioned are unclear/garbled in the auto-transcript
+      and should be confirmed via video during verification rather than
+      assumed.
+
+  - id: nikhil-kamath-057
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: experience
+    text: >
+      States that he personally holds gold as an investment, and makes a
+      habit of keeping roughly 8-10% of his holdings in gold, a practice
+      he says he has followed for a long time.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+
+  - id: nikhil-kamath-058
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: experience
+    text: >
+      States that despite having academic/curiosity-driven interest in
+      crypto, he has never personally purchased Bitcoin.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+
+  - id: nikhil-kamath-059
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: experience
+    text: >
+      Says he was involved with GIFT City (Gujarat International
+      Finance Tec-City) from when it started, and that he remains on
+      its board, working closely with the people who run it.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. A
+      verifiable, checkable public-role claim -- confirm via GIFT
+      City's own board disclosures during verification.
+
+  - id: nikhil-kamath-060
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: assertion
+    text: >
+      Says that as a broker (i.e. Zerodha), the company ends up earning
+      less revenue on a typical trade than the combined total a user
+      pays in securities transaction tax, exchange transaction charges,
+      and SEBI turnover fees.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. A specific
+      business-economics claim about Zerodha -- worth checking against
+      any public statements/filings during verification.
+
+  - id: nikhil-kamath-061
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: belief
+    text: >
+      Identifies the informal/illegal "dabba" trading market (bets
+      settled directly between participants or against a local
+      bookmaker-style broker, bypassing formal exchanges) as the single
+      biggest hindrance to his brokerage business, and says the country
+      needs to find a way to curtail it.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+
+  - id: nikhil-kamath-062
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: experience
+    text: >
+      Mentions that during a recent trip to the US, he met the founders
+      of the prediction-market platforms Kalshi and Polymarket.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+
+  - id: nikhil-kamath-063
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: experience
+    text: >
+      Describes a chance meeting with financier Michael Milken (whom he
+      estimates to be around 80 years old) at a place where they were
+      both staying -- striking up a conversation in a hallway that
+      turned into a multi-hour discussion, including about social
+      mobility and Milken's ideas on child trust funds.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+
+  - id: nikhil-kamath-064
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: mechanism
+    text: >
+      Says he has been researching whether India could build a
+      stablecoin backed by a mix of gold and Indian rupees (rather than
+      the US dollar) to address remittance flows into India, and
+      identifies the 1% TDS (tax deducted at source) on crypto and
+      stablecoin transactions in India as the main obstacle preventing
+      such a product from being built domestically.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+
+  - id: nikhil-kamath-065
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: belief
+    text: >
+      Questions why he personally continues to use WhatsApp to
+      communicate given discomfort with putting his data on an American
+      company's platform, and argues India should build its own
+      alternative the way China built domestic equivalents to Western
+      tech platforms.
+    topic: technology
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+
+  - id: nikhil-kamath-066
+    person: nikhil-kamath
+    source: nikhil-kamath-ruchir-sharma
+    type: experience
+    text: >
+      Says he has watched Ruchir Sharma's annual "top 10 trends" segment
+      with Prannoy Roy for many years, and describes Prannoy Roy as a
+      good friend of his.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
