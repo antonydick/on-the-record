@@ -1,1 +1,184 @@
-statements: []
+statements:
+  - id: nikhil-kamath-087
+    person: nikhil-kamath
+    source: nikhil-kamath-enervenue-hina
+    type: experience
+    text: >
+      Explains he wanted to host this conversation because he runs a
+      private equity fund that invests in a number of energy-transition
+      companies, and sees the storage and movability of energy (rather
+      than generation itself) as the core bottleneck, citing India's
+      falling renewable generation costs as an example.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: multi-guest panel (Nikhil hosting EnerVenue
+      CEO Henning Rath and HiNa Battery CEO Kun Tang), no diarization.
+      Attribution inferred from conversational role and content (Nikhil
+      is the one asking questions from an Indian-investor perspective);
+      not confirmed via video. Cross-reference: consistent with
+      nikhil-kamath-086 (Chamath episode), which also references "our
+      private equity fund."
+
+  - id: nikhil-kamath-088
+    person: nikhil-kamath
+    source: nikhil-kamath-enervenue-hina
+    type: experience
+    text: >
+      Recounts a recent weekend trip to Hong Kong where he and
+      companions went to a Sichuan restaurant (named as "Royal Majestic
+      Sichuan") and asked for a chili chicken dish to be made as spicy
+      as possible -- which he says was a mistake.
+    topic: travel
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+
+  - id: nikhil-kamath-089
+    person: nikhil-kamath
+    source: nikhil-kamath-enervenue-hina
+    type: belief
+    text: >
+      Says that after this trip to China he wants to go back to India
+      and start a business, and that he is undecided between starting
+      an electric car company or a battery company -- explaining that
+      he is putting his questions to the two guests partly through that
+      lens.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+
+  - id: nikhil-kamath-090
+    person: nikhil-kamath
+    source: nikhil-kamath-enervenue-hina
+    type: experience
+    text: >
+      Says his fund has been reviewing an Indian rare-earth-elements
+      company as a potential investment, but that the finished product
+      would end up far more expensive than simply importing from China,
+      making the domestic-sourcing case look unfeasible at least at the
+      time.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+
+  - id: nikhil-kamath-091
+    person: nikhil-kamath
+    source: nikhil-kamath-enervenue-hina
+    type: experience
+    text: >
+      Discloses that he is an investor (not an operator) in a data
+      center, and says firsthand that the facility keeps hundreds of
+      thousands of liters of diesel on-site for backup generators
+      because its hyperscaler tenants mandate it.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+
+  - id: nikhil-kamath-092
+    person: nikhil-kamath
+    source: nikhil-kamath-enervenue-hina
+    type: experience
+    text: >
+      Mentions that he and his fund are investors (not operators) in
+      India's solar manufacturing ecosystem, in the context of
+      discussing the Indian government's rule barring the import of
+      solar cells from China.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+
+  - id: nikhil-kamath-093
+    person: nikhil-kamath
+    source: nikhil-kamath-enervenue-hina
+    type: experience
+    text: >
+      Says he has personally installed solar panels at the home he
+      lives in, but that it has only reduced his electricity bill by
+      roughly 10-20%, framing it as insufficient to meaningfully offset
+      his household energy needs.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+
+  - id: nikhil-kamath-094
+    person: nikhil-kamath
+    source: nikhil-kamath-enervenue-hina
+    type: experience
+    text: >
+      Mentions he has been reading a number of books on Chinese history
+      recently, and offers the view that China's governance model has
+      generally worked well for the country.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
