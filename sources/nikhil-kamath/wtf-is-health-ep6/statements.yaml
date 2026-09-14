@@ -1,0 +1,58 @@
+statements:
+  - id: nikhil-kamath-001
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-health-ep6
+    type: experience
+    text: >
+      In the roughly 17-18 years since he started trading, he has taken
+      only one day off (a hospital stay), and describes his life as
+      being dictated less by his own schedule than by the timing of
+      financial markets -- closer to an addiction or way of life than a
+      job.
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION UNCERTAIN: this is a 4-person panel episode
+      (Nikhil Kamath, Nithin Kamath, Mukesh Bansal, Suniel Shetty) and
+      the source transcript has no speaker diarization. Attributed to
+      Nikhil based on internal consistency with his publicly known role
+      as Zerodha's day-to-day trader (vs. Nithin, described elsewhere in
+      the same transcript as running the brokerage/business side) -- not
+      a confirmed attribution. Verify against the actual recording
+      before moving past draft.
+
+  - id: nikhil-kamath-002
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-health-ep6
+    type: experience
+    text: >
+      He struggles to fall asleep and typically gets only 5-5.5 hours;
+      because he starts work early in the morning, he ends up working
+      out late at night (around 10-11pm), which he describes as making
+      it harder to sleep the following night -- a self-reinforcing
+      cycle he has not resolved.
+    topic: sleep
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION UNCERTAIN: same caveat as nikhil-kamath-001 --
+      no diarization in this 4-person panel transcript. This statement
+      immediately follows the same speaker turn as nikhil-kamath-001 in
+      the transcript, which is the basis for attributing it to the same
+      person (Nikhil). Verify against the actual recording before moving
+      past draft.

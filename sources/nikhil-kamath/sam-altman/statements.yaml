@@ -1,0 +1,73 @@
+statements:
+  - id: nikhil-kamath-005
+    person: nikhil-kamath
+    source: nikhil-kamath-sam-altman
+    type: experience
+    text: >
+      Describes an active practice of researching investment sectors
+      and themes with input from people like Sam Altman, referencing a
+      prior private call about which sectors and themes to invest in
+      for the next decade, and follow-up research on specific themes
+      (an aging population, and rising luxury/discretionary spending)
+      discussed on that call.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Sam
+      Altman), no diarization in the transcript. Attribution inferred
+      from conversational role and subject matter (referring to a
+      private call with Altman as interviewer, not interviewee) rather
+      than confirmed via video. Verify before moving past draft.
+
+  - id: nikhil-kamath-006
+    person: nikhil-kamath
+    source: nikhil-kamath-sam-altman
+    type: assertion
+    text: >
+      Describes creating content -- in context, this podcast/his media
+      work -- roughly once a month.
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-005 -- inferred
+      from conversational role, not confirmed via video. Verify before
+      moving past draft.
+
+  - id: nikhil-kamath-007
+    person: nikhil-kamath
+    source: nikhil-kamath-sam-altman
+    type: experience
+    text: >
+      Mentions recently traveling between San Francisco and New York
+      over a couple of months, meeting numerous AI founders, including
+      a meeting with Harvey (the AI legal-tech company).
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-005 -- inferred
+      from conversational role, not confirmed via video. Verify before
+      moving past draft.

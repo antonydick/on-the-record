@@ -5,20 +5,20 @@ by hand — changes will be overwritten on the next push to main._
 
 ## People
 
-- Total: 1
+- Total: 2
 
 ## Sources (appearances)
 
-- Total: 2
-  - pending: 2
-  - extracted: 0
+- Total: 65
+  - pending: 61
+  - extracted: 4
   - in_review: 0
   - complete: 0
 
 ## Statements
 
-- Total: 3
-  - draft: 1
+- Total: 13
+  - draft: 11
   - unverified: 0
   - reviewed: 1
   - verified: 1

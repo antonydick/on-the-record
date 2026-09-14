@@ -1,0 +1,46 @@
+statements:
+  - id: nikhil-kamath-003
+    person: nikhil-kamath
+    source: nikhil-kamath-elon-musk
+    type: assertion
+    text: >
+      Describes his primary job as being a stock broker and stock
+      investor.
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: this is a 1:1 interview (Nikhil interviewing
+      Elon Musk), no diarization in the transcript, but attribution is
+      inferred from conversational role (interviewer making a personal
+      aside mid-question) rather than confirmed via video -- verify
+      against the recording before moving past draft.
+
+  - id: nikhil-kamath-004
+    person: nikhil-kamath
+    source: nikhil-kamath-elon-musk
+    type: experience
+    text: >
+      Says he used to be a small shareholder of X (Twitter) and was
+      paid out when Elon Musk bought the company.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-003 -- inferred
+      from conversational role, not confirmed via video. Verify against
+      the recording before moving past draft.

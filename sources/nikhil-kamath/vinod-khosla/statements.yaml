@@ -1,0 +1,83 @@
+statements:
+  - id: nikhil-kamath-008
+    person: nikhil-kamath
+    source: nikhil-kamath-vinod-khosla
+    type: experience
+    text: >
+      Is part of the Giving Pledge community, through which he had
+      previously met Vinod Khosla and his family before this interview.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Vinod
+      Khosla), no diarization in the transcript. Attribution inferred
+      from conversational role (Khosla addressing Nikhil directly about
+      "your family," referencing a shared community) rather than
+      confirmed via video. Verify before moving past draft.
+
+  - id: nikhil-kamath-009
+    person: nikhil-kamath
+    source: nikhil-kamath-vinod-khosla
+    type: experience
+    text: >
+      Describes his team's ongoing research into an investment thesis
+      built around demographic shifts -- an aging, "sicker" global
+      population, declining birth rates, and rising discretionary
+      spending among people with more free time potentially favoring
+      speculative and luxury businesses. The same thesis (aging
+      population, discretionary/luxury spend) recurs in his interview
+      with Sam Altman (see nikhil-kamath-005), suggesting it's a
+      standing framework he brings to multiple conversations, not a
+      one-off remark.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-008 -- inferred
+      from conversational role, not confirmed via video. Verify before
+      moving past draft. Cross-reference with nikhil-kamath-005 is based
+      on textual similarity across two independently-extracted sources,
+      not a confirmed link -- worth checking both together during
+      verification.
+
+  - id: nikhil-kamath-010
+    person: nikhil-kamath
+    source: nikhil-kamath-vinod-khosla
+    type: experience
+    text: >
+      Says that over the past couple of years he invested across the
+      electric-mobility sector -- scooter companies, cars, trucks,
+      buses, and even a flying-taxi company -- on the assumption that
+      mobility would shift from internal-combustion to electric, and is
+      now questioning that thesis given what he describes as slowing EV
+      adoption in the current cycle.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-008 -- inferred
+      from conversational role ("I have a personal question," "I bet on
+      everything from..."), not confirmed via video. Verify before
+      moving past draft.
