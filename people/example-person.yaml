@@ -1,0 +1,9 @@
+# EXAMPLE / TEMPLATE — not a real person. Demonstrates the person.schema.yaml
+# shape. Copy this file to create a real person; do not fill in real bio
+# details here.
+id: example-person
+name: "Example Person (placeholder — not a real person)"
+credentials: "Placeholder credential line"
+bio: >
+  Placeholder bio. Replace with the person's real, public one-or-two
+  sentence bio when onboarding an actual person.

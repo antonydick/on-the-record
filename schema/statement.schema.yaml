@@ -1,51 +1,71 @@
 $schema: "http://json-schema.org/draft-07/schema#"
-$id: claim.schema.yaml
-title: Claim
+$id: statement.schema.yaml
+title: Statement
 description: >
-  One claim extracted from one source. Validates each item in the
-  `claims:` list of sources/<show-slug>/<expert-slug>/claims.yaml.
+  One source-grounded statement extracted from one appearance. Validates
+  each item in the `statements:` list of
+  sources/<person-slug>/<interviewer-slug>/statements.yaml.
 
   Two concerns are kept in separate objects on purpose, as a core
   project rule — do not collapse them:
-  - `verification`: did the expert actually say this, accurately
+  - `verification`: did the person actually say this, accurately
     attributed to a specific place in the source? A provenance check,
     not a truth check.
-  - `evidence`: what, if anything, supports the claim's content being
-    true. A claim can be fully verified (the expert really said it)
-    while its content is false, contested, or simply unassessed —
-    that's a separate axis entirely.
+  - `evidence`: what, if anything, supports the statement's content
+    being true. A statement can be fully verified (the person really
+    said it) while its content is false, contested, or simply
+    unassessed — that's a separate axis entirely.
+
+  A statement is always grounded in one specific source. Any narrative
+  or progression connecting statements across multiple sources (e.g.
+  "they went from X to Y to Z over several interviews") is something an
+  agent constructs at answer time from several statements — it is never
+  itself stored as a statement.
 type: object
-required: [id, expert, source, type, claim, verification]
+required: [id, person, source, type, text, verification]
 properties:
   id:
     type: string
     description: Unique across the entire repo, not just this file.
-  expert:
+  person:
     type: string
-    description: Must match an experts/<id>.yaml id.
+    description: Must match a people/<id>.yaml id.
   source:
     type: string
     description: Must match a sources/*/*/metadata.yaml id.
   type:
     type: string
-    enum: [finding, recommendation, anecdote, opinion, definition, citation]
+    enum:
+      - assertion
+      - experience
+      - belief
+      - recommendation
+      - observation
+      - mechanism
+      - evidence
+      - qualification
+      - example
     description: >
-      finding = a reported empirical result. recommendation =
-      prescriptive advice/protocol. anecdote = first-person story or
-      experience. opinion = subjective judgment or prediction, not
-      empirically checkable. definition = explains a term or concept.
-      citation = the expert referencing another study or person's work.
-  claim:
+      assertion = a general statement not fitting a more specific type
+      below. experience = a first-person memory, story, or lived event.
+      belief = a subjective opinion, value judgment, or prediction.
+      recommendation = prescriptive advice. observation = something
+      noticed or reported as fact. mechanism = explains how or why
+      something works. evidence = cites or references external support
+      (a study, another person's work). qualification = a caveat,
+      condition, or exception attached to another statement. example =
+      a concrete illustrative instance.
+  text:
     type: string
-    description: The claim itself, in the expert's own words where possible.
+    description: The statement itself, in the person's own words where possible.
   topic:
     type: string
   verification:
     type: object
     description: >
-      Provenance only: is this accurately attributed to the expert at
+      Provenance only: is this accurately attributed to the person at
       a specific point in the source. Says nothing about whether the
-      claim's content is true — see `evidence` for that.
+      statement's content is true — see `evidence` for that.
     required: [status]
     properties:
       status:
@@ -82,14 +102,14 @@ properties:
   evidence:
     type: object
     description: >
-      Truth/support for the claim's content — deliberately separate
+      Truth/support for the statement's content — deliberately separate
       from `verification`, which only covers attribution.
     properties:
       excerpt:
         type: ["string", "null"]
         description: >
           A concise excerpt of independent evidence bearing on the
-          claim's truth, if any has been gathered. Not a transcript
+          statement's truth, if any has been gathered. Not a transcript
           quote — that belongs to verification/attribution, not here.
     additionalProperties: false
   notes:

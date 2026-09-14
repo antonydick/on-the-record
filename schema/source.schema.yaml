@@ -2,15 +2,17 @@ $schema: "http://json-schema.org/draft-07/schema#"
 $id: source.schema.yaml
 title: Source
 description: >
-  Metadata for one interview/appearance by one expert on one show.
-  Validates sources/<show-slug>/<expert-slug>/metadata.yaml. The
-  directory's <show-slug> and <expert-slug> segments must match this
-  file's show_slug and expert fields.
+  Metadata for one appearance by one person — an interview, podcast
+  episode, talk, or article featuring them, with a given interviewer
+  (who need not be the same across a person's appearances). Validates
+  sources/<person-slug>/<interviewer-slug>/metadata.yaml. The
+  directory's <person-slug> and <interviewer-slug> segments must match
+  this file's person and interviewer_slug fields.
 type: object
 required:
   - id
-  - expert
-  - show_slug
+  - person
+  - interviewer_slug
   - title
   - url
   - platform
@@ -20,16 +22,18 @@ required:
 properties:
   id:
     type: string
-    description: Unique id for this source, referenced by claims[].source.
-  expert:
+    description: Unique id for this source, referenced by statements[].source.
+  person:
     type: string
-    description: Must match an experts/<id>.yaml id.
-  show_slug:
+    description: Must match a people/<id>.yaml id. The person who appeared.
+  interviewer_slug:
     type: string
     pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
     description: >
-      Slug of the show/interviewer this appearance was on; must match
-      the first path segment under sources/.
+      Slug identifying who interviewed/hosted this appearance; must
+      match the second path segment under sources/<person>/. Does not
+      need to correspond to a people/*.yaml entry — the interviewer is
+      just an attribute of this appearance, not a tracked person here.
   title:
     type: string
   url:
@@ -51,10 +55,11 @@ properties:
     type: string
     enum: [pending, extracted, in_review, complete]
     description: >
-      Pipeline stage for this source as a whole, independent of any
-      single claim's verification status. pending = source registered,
-      nothing extracted yet. extracted = draft claims pulled from the
-      transcript via the extraction prompt. in_review = at least one
-      claim has been looked at by a human. complete = every claim in
-      this source has reached a terminal status (verified or rejected).
+      Pipeline stage for this appearance as a whole, independent of any
+      single statement's verification status. pending = registered,
+      nothing extracted yet. extracted = draft statements pulled from
+      the transcript via the extraction prompt. in_review = at least
+      one statement has been looked at by a human. complete = every
+      statement from this appearance has reached a terminal status
+      (verified or rejected).
 additionalProperties: false

@@ -1,0 +1,41 @@
+# EXAMPLE / TEMPLATE — placeholder statements about a fictional person, shown
+# only to demonstrate statement.schema.yaml shapes (draft and verified). Do
+# not use this file as a pattern for real statements by copying the text —
+# copy the structure only.
+statements:
+  - id: example-person-001
+    person: example-person
+    source: example-person-interviewer-one-001
+    type: experience
+    text: "TEMPLATE — placeholder statement text, not a real statement by anyone."
+    topic: example-topic
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "Draft example: freshly extracted, nothing checked yet."
+
+  - id: example-person-002
+    person: example-person
+    source: example-person-interviewer-one-001
+    type: recommendation
+    text: "TEMPLATE — placeholder statement text, not a real statement by anyone."
+    topic: example-topic
+    verification:
+      status: verified
+      verified_at: "1970-01-02"
+      verified_by: "example-reviewer"
+      source_url: "https://example.com/PLACEHOLDER-fill-in-real-source-url?t=100"
+      start_timestamp: "00:01:40"
+      end_timestamp: "00:02:05"
+    evidence:
+      excerpt: null
+    notes: >
+      Verified example: shows the fields required once a statement
+      reaches verified status (source_url, start/end timestamps,
+      verified_at).

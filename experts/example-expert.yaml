@@ -1,9 +1,0 @@
-# EXAMPLE / TEMPLATE — not a real person. Demonstrates the expert.schema.yaml
-# shape. Copy this file to create a real expert; do not fill in real bio
-# details here.
-id: example-expert
-name: "Example Expert (placeholder — not a real person)"
-credentials: "Placeholder credential line"
-bio: >
-  Placeholder bio. Replace with the expert's real, public one-or-two
-  sentence bio when onboarding an actual expert.

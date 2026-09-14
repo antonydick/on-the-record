@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Validate experts/*.yaml, sources/*/*/metadata.yaml, and
-sources/*/*/claims.yaml against schema/*.schema.yaml, plus cross-file
-rules that JSON Schema alone can't express (id uniqueness, references
-that must resolve, and extra fields required once a claim is verified).
+"""Validate people/*.yaml, sources/*/*/metadata.yaml, and
+sources/*/*/statements.yaml against schema/*.schema.yaml, plus
+cross-file rules that JSON Schema alone can't express (id uniqueness,
+references that must resolve, and extra fields required once a
+statement is verified).
 
 Collects every error before exiting, so a single run reports everything
 wrong across the repo rather than stopping at the first problem.
@@ -58,31 +59,30 @@ def validate_against_schema(path: Path, data, validator: Draft7Validator, errors
 def main() -> int:
     errors = Errors()
 
-    expert_validator = load_schema("expert.schema.yaml")
+    person_validator = load_schema("person.schema.yaml")
     source_validator = load_schema("source.schema.yaml")
-    claim_validator = load_schema("claim.schema.yaml")
+    statement_validator = load_schema("statement.schema.yaml")
 
-    expert_ids: dict[str, Path] = {}
+    person_ids: dict[str, Path] = {}
     source_ids: dict[str, Path] = {}
-    claim_ids: dict[str, Path] = {}
+    statement_ids: dict[str, Path] = {}
 
-    # --- experts/*.yaml ---
-    for path in sorted((REPO_ROOT / "experts").glob("*.yaml")):
+    # --- people/*.yaml ---
+    for path in sorted((REPO_ROOT / "people").glob("*.yaml")):
         data = load_yaml(path, errors)
         if data is None:
             continue
-        validate_against_schema(path, data, expert_validator, errors)
-        expert_id = data.get("id") if isinstance(data, dict) else None
-        if expert_id:
-            if expert_id != path.stem:
-                errors.add(path, f"id '{expert_id}' does not match filename '{path.stem}.yaml'")
-            if expert_id in expert_ids:
-                errors.add(path, f"duplicate expert id '{expert_id}' (also in {expert_ids[expert_id].relative_to(REPO_ROOT)})")
+        validate_against_schema(path, data, person_validator, errors)
+        person_id = data.get("id") if isinstance(data, dict) else None
+        if person_id:
+            if person_id != path.stem:
+                errors.add(path, f"id '{person_id}' does not match filename '{path.stem}.yaml'")
+            if person_id in person_ids:
+                errors.add(path, f"duplicate person id '{person_id}' (also in {person_ids[person_id].relative_to(REPO_ROOT)})")
             else:
-                expert_ids[expert_id] = path
+                person_ids[person_id] = path
 
-    # --- sources/*/*/metadata.yaml ---
-    source_expert: dict[str, str] = {}
+    # --- sources/<person>/<interviewer>/metadata.yaml ---
     for path in sorted((REPO_ROOT / "sources").glob("*/*/metadata.yaml")):
         data = load_yaml(path, errors)
         if data is None:
@@ -91,11 +91,11 @@ def main() -> int:
         if not isinstance(data, dict):
             continue
 
-        show_slug_dir, expert_dir = path.parent.parts[-2], path.parent.parts[-1]
-        if data.get("show_slug") and data["show_slug"] != show_slug_dir:
-            errors.add(path, f"show_slug '{data['show_slug']}' does not match directory '{show_slug_dir}'")
-        if data.get("expert") and data["expert"] != expert_dir:
-            errors.add(path, f"expert '{data['expert']}' does not match directory '{expert_dir}'")
+        person_dir, interviewer_dir = path.parent.parts[-2], path.parent.parts[-1]
+        if data.get("person") and data["person"] != person_dir:
+            errors.add(path, f"person '{data['person']}' does not match directory '{person_dir}'")
+        if data.get("interviewer_slug") and data["interviewer_slug"] != interviewer_dir:
+            errors.add(path, f"interviewer_slug '{data['interviewer_slug']}' does not match directory '{interviewer_dir}'")
 
         source_id = data.get("id")
         if source_id:
@@ -103,53 +103,51 @@ def main() -> int:
                 errors.add(path, f"duplicate source id '{source_id}' (also in {source_ids[source_id].relative_to(REPO_ROOT)})")
             else:
                 source_ids[source_id] = path
-                source_expert[source_id] = data.get("expert")
 
-        expert_ref = data.get("expert")
-        if expert_ref and expert_ref not in expert_ids:
-            errors.add(path, f"expert '{expert_ref}' does not match any experts/*.yaml id")
+        person_ref = data.get("person")
+        if person_ref and person_ref not in person_ids:
+            errors.add(path, f"person '{person_ref}' does not match any people/*.yaml id")
 
-    # --- sources/*/*/claims.yaml ---
-    for path in sorted((REPO_ROOT / "sources").glob("*/*/claims.yaml")):
+    # --- sources/<person>/<interviewer>/statements.yaml ---
+    for path in sorted((REPO_ROOT / "sources").glob("*/*/statements.yaml")):
         data = load_yaml(path, errors)
         if data is None:
             continue
-        if not isinstance(data, dict) or not isinstance(data.get("claims"), list):
-            errors.add(path, "must be a mapping with a top-level 'claims' list")
+        if not isinstance(data, dict) or not isinstance(data.get("statements"), list):
+            errors.add(path, "must be a mapping with a top-level 'statements' list")
             continue
 
-        for i, claim in enumerate(data["claims"]):
-            claim_path_label = f"{path}[{i}]"
-            validate_against_schema(path, claim, claim_validator, errors)
-            if not isinstance(claim, dict):
+        for statement in data["statements"]:
+            validate_against_schema(path, statement, statement_validator, errors)
+            if not isinstance(statement, dict):
                 continue
 
-            claim_id = claim.get("id")
-            if claim_id:
-                if claim_id in claim_ids:
-                    errors.add(path, f"duplicate claim id '{claim_id}' (also in {claim_ids[claim_id].relative_to(REPO_ROOT)})")
+            statement_id = statement.get("id")
+            if statement_id:
+                if statement_id in statement_ids:
+                    errors.add(path, f"duplicate statement id '{statement_id}' (also in {statement_ids[statement_id].relative_to(REPO_ROOT)})")
                 else:
-                    claim_ids[claim_id] = path
+                    statement_ids[statement_id] = path
 
-            expert_ref = claim.get("expert")
-            if expert_ref and expert_ref not in expert_ids:
-                errors.add(path, f"claim '{claim_id}': expert '{expert_ref}' does not match any experts/*.yaml id")
+            person_ref = statement.get("person")
+            if person_ref and person_ref not in person_ids:
+                errors.add(path, f"statement '{statement_id}': person '{person_ref}' does not match any people/*.yaml id")
 
-            source_ref = claim.get("source")
+            source_ref = statement.get("source")
             if source_ref and source_ref not in source_ids:
-                errors.add(path, f"claim '{claim_id}': source '{source_ref}' does not match any source metadata id")
+                errors.add(path, f"statement '{statement_id}': source '{source_ref}' does not match any source metadata id")
 
-            verification = claim.get("verification") or {}
+            verification = statement.get("verification") or {}
             if verification.get("status") == "verified":
                 missing = [f for f in VERIFIED_REQUIRED_FIELDS if not verification.get(f)]
                 if missing:
                     errors.add(
                         path,
-                        f"claim '{claim_id}': status is 'verified' but missing required field(s): {', '.join(missing)}",
+                        f"statement '{statement_id}': status is 'verified' but missing required field(s): {', '.join(missing)}",
                     )
 
     if errors.ok:
-        print(f"OK: {len(expert_ids)} experts, {len(source_ids)} sources, {len(claim_ids)} claims — all valid.")
+        print(f"OK: {len(person_ids)} people, {len(source_ids)} sources, {len(statement_ids)} statements — all valid.")
         return 0
 
     print(f"FAILED: {len(errors.items)} error(s)\n")

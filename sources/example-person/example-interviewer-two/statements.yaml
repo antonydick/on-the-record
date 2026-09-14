@@ -1,0 +1,21 @@
+# EXAMPLE / TEMPLATE — placeholder statement from a second appearance by the
+# same fictional example-person, with a different interviewer. Demonstrates
+# how statements about the same topic can accumulate across appearances for
+# one person (see README.md's longitudinal-reconstruction demo).
+statements:
+  - id: example-person-003
+    person: example-person
+    source: example-person-interviewer-two-001
+    type: qualification
+    text: "TEMPLATE — placeholder statement text, not a real statement by anyone."
+    topic: example-topic
+    verification:
+      status: reviewed
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "Reviewed example: plausible on a read-through, not yet re-checked against the primary source."
