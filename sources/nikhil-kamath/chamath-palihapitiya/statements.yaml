@@ -1,1 +1,108 @@
-statements: []
+statements:
+  - id: nikhil-kamath-083
+    person: nikhil-kamath
+    source: nikhil-kamath-chamath-palihapitiya
+    type: experience
+    text: >
+      Describes a grant program tied to his podcast: he has guests give
+      money to a charity he chooses, matches their donation himself
+      (sometimes joined by friends), and uses the pooled funds to make
+      pure grants -- no equity taken, no repayment required -- directly
+      to young, technical Indian founders (under 25) who lack startup
+      capital. Says he funds a dozen or so founders every couple of
+      months, and cites a pet-protein company called "Posible," now
+      worth an estimated $40-50 million, along with a few other
+      roughly $50 million outcomes, as results of the program.
+    topic: philanthropy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Chamath
+      Palihapitiya), no diarization. Attribution inferred from
+      conversational role, not confirmed via video. Cross-reference:
+      compare against nikhil-kamath-079 (Brian Armstrong episode), which
+      describes a differently-detailed program called "Foundry"
+      ($500k per founder, cohorts of 20-25, consumer companies, founders
+      living together) -- during verification, determine whether these
+      are the same initiative described inconsistently, or genuinely
+      distinct programs (this one reads as closer to the "WTFund" this
+      notebook/podcast is named after).
+
+  - id: nikhil-kamath-084
+    person: nikhil-kamath
+    source: nikhil-kamath-chamath-palihapitiya
+    type: belief
+    text: >
+      Says he has long been fascinated with the idea of building a
+      social media company out of India that could appeal to young
+      Indians, and is actively trying to work out a framework for how
+      such a platform could succeed -- asking Chamath (a Facebook/Meta
+      alum) for advice and floating the idea of continuing the
+      conversation in person.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-083.
+
+  - id: nikhil-kamath-085
+    person: nikhil-kamath
+    source: nikhil-kamath-chamath-palihapitiya
+    type: experience
+    text: >
+      Mentions having recently attended the World Economic Forum at
+      Davos, and observing how European attendees reacted to the
+      posture the US was taking there.
+    topic: travel
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-083.
+
+  - id: nikhil-kamath-086
+    person: nikhil-kamath
+    source: nikhil-kamath-chamath-palihapitiya
+    type: observation
+    text: >
+      Says that, based on what he has seen through his own private
+      equity fund's review of Indian companies, many legacy Indian
+      real-estate firms have recently started describing themselves as
+      "data center companies" rather than real-estate companies, and
+      frames this as a warning sign of speculative, arbitrage-driven
+      behavior rather than genuine innovation.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-083. Confirms
+      involvement with a private equity fund reviewing Indian
+      companies -- worth cross-referencing against other episodes and
+      public record during verification.
