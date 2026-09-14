@@ -1,1 +1,57 @@
-statements: []
+statements:
+  - id: nikhil-kamath-040
+    person: nikhil-kamath
+    source: nikhil-kamath-narendra-modi
+    type: assertion
+    text: >
+      Describes himself as South Indian, having grown up mostly in
+      Bangalore; says his mother's family is from Mysore (a
+      Kannada-speaking area) and his father was from near Mangalore;
+      says he learned Hindi in school but is not very fluent in it.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing PM
+      Narendra Modi), no diarization, and this transcript is in Hindi
+      (auto-transcribed, initially garbled by a clipboard encoding
+      issue that was fixed before extraction -- re-verify the source
+      text quality when checking against the recording). Attribution
+      inferred from conversational role, not confirmed via video.
+      Adds detail beyond nikhil-kamath-020 (Ranbir Kapoor episode),
+      which covered his father's Canara Bank postings but not the
+      specific family hometowns of Mysore/Mangalore -- worth
+      reconciling both during verification.
+
+  - id: nikhil-kamath-041
+    person: nikhil-kamath
+    source: nikhil-kamath-narendra-modi
+    type: belief
+    text: >
+      States his age as 38, and says that around age 20 he came to
+      believe capitalism was the right way to organize the world, a
+      belief he says he still holds as of this recording.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-040.
+      Cross-reference: this episode's publish date (2025-01-10 per
+      metadata.yaml) falls between nikhil-kamath-026 (age 38,
+      2024-12-19) and nikhil-kamath-015 (age 38, 2025-04-10) --
+      consistent with the same age-38 window established across three
+      independently-extracted episodes.
