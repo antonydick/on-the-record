@@ -1,1 +1,119 @@
-statements: []
+statements:
+  - id: nikhil-kamath-067
+    person: nikhil-kamath
+    source: nikhil-kamath-ajay-banga
+    type: experience
+    text: >
+      Says he has spent a large part of the last two years investing in
+      green energy, energy transition, and storage, including the
+      broader electric-vehicle grid ecosystem.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing World Bank
+      President Ajay Banga), no diarization. Attribution inferred from
+      conversational role, not confirmed via video.
+
+  - id: nikhil-kamath-068
+    person: nikhil-kamath
+    source: nikhil-kamath-ajay-banga
+    type: experience
+    text: >
+      Mentions, in the context of a question about whether the world
+      would have fewer problems if fewer people had children, that he
+      himself does not have kids.
+    topic: family
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-067. Personal/
+      family detail -- treat with particular care during verification
+      and do not surface as settled fact until independently confirmed,
+      per SKILL.md guidance on sensitive content.
+
+  - id: nikhil-kamath-069
+    person: nikhil-kamath
+    source: nikhil-kamath-ajay-banga
+    type: experience
+    text: >
+      Recounts going for a walk in Central Park (New York) and talking
+      with a couple of American men in their mid-to-late twenties, who
+      remarked that in every movie they grew up watching, the villain
+      was always from a communist country.
+    topic: travel
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-067.
+
+  - id: nikhil-kamath-070
+    person: nikhil-kamath
+    source: nikhil-kamath-ajay-banga
+    type: belief
+    text: >
+      Argues, by analogy to the slowdown in transistor density gains
+      (Moore's Law), that the cost of AI compute will eventually stop
+      being artificially subsidized by large Western tech companies, and
+      says that today he would rather buy shares in a large Indian IT
+      services company trading at roughly 15x earnings than in a large
+      US AI company, on the view that Indian labor-cost arbitrage still
+      holds.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-067. This is a
+      stated investment thesis/opinion, not a disclosed transaction --
+      should not be read as confirmation of an actual current holding.
+
+  - id: nikhil-kamath-071
+    person: nikhil-kamath
+    source: nikhil-kamath-ajay-banga
+    type: experience
+    text: >
+      Mentions having spoken with a World Bank colleague of Ajay Banga's
+      about the bank's jobs-related research and data.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-067. The
+      colleague's name is garbled in the auto-transcript (rendered as
+      "Tanir") -- needs confirmation via video during verification
+      rather than being assumed.
