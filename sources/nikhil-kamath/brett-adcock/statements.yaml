@@ -1,1 +1,46 @@
-statements: []
+statements:
+  - id: nikhil-kamath-051
+    person: nikhil-kamath
+    source: nikhil-kamath-brett-adcock
+    type: experience
+    text: >
+      Mentions an investment in an Indian electric-air-taxi (eVTOL)
+      company.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Brett
+      Adcock), no diarization. Attribution inferred from conversational
+      role, not confirmed via video. The company name is garbled in the
+      auto-transcript (rendered as "aviation") -- needs the actual name
+      confirmed during verification. Cross-reference: corroborates the
+      "flying taxi" investment mentioned in nikhil-kamath-010 (Vinod
+      Khosla) and nikhil-kamath-046 (Dara Khosrowshahi).
+
+  - id: nikhil-kamath-052
+    person: nikhil-kamath
+    source: nikhil-kamath-brett-adcock
+    type: experience
+    text: >
+      Mentions a recent investment in the hardware/consumer electronics
+      company Nothing (the phone company).
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-051.
