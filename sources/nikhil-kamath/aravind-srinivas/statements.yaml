@@ -1,1 +1,53 @@
-statements: []
+statements:
+  - id: nikhil-kamath-038
+    person: nikhil-kamath
+    source: nikhil-kamath-aravind-srinivas
+    type: experience
+    text: >
+      Confirms he was in Dubai for the India vs. New Zealand cricket
+      final, recording part of this conversation from his hotel room
+      there.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Aravind
+      Srinivas), no diarization. Attribution inferred from
+      conversational role, not confirmed via video. Cross-reference:
+      corroborates nikhil-kamath-037 (Christopher Luxon episode), which
+      makes the same claim -- two independent extractions agreeing is a
+      useful signal but not itself verification.
+
+  - id: nikhil-kamath-039
+    person: nikhil-kamath
+    source: nikhil-kamath-aravind-srinivas
+    type: experience
+    text: >
+      Describes working in "the stock investor world" and says that
+      over much of the last decade, he/his team experimented with
+      neural networks trained on stock market data (price, volume,
+      time-based factors) to try to predict future price movements or
+      power a robo-advisory service, but says this did not play out the
+      way they expected.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-038. Not fully
+      clear from the transcript whether "we" refers to Nikhil
+      personally, Zerodha, or a broader team -- worth clarifying scope
+      during verification.
