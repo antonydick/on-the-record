@@ -1,1 +1,172 @@
-statements: []
+statements:
+  - id: nikhil-kamath-112
+    person: nikhil-kamath
+    source: nikhil-kamath-mankind-dr-reddys
+    type: experience
+    text: >
+      Mentions he works in private equity, and that a number of his
+      friends in the US are bullish on aggregating small Indian
+      hospitals into branded chains, name-checking Max and an unnamed
+      hospital group with an upcoming IPO; says some of the hospital
+      owners involved in this trend are personal friends of his.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: two-guest panel (Nikhil hosting Mankind
+      Pharma's Rajiv Juneja and Dr. Reddy's G.V. Prasad), no
+      diarization. Attribution inferred from conversational role and
+      content, not confirmed via video. The second hospital-IPO name is
+      garbled in the auto-transcript ("money pulse") -- confirm during
+      verification rather than guessing which company this refers to.
+
+  - id: nikhil-kamath-113
+    person: nikhil-kamath
+    source: nikhil-kamath-mankind-dr-reddys
+    type: experience
+    text: >
+      States he personally takes a range of supplements daily, including
+      magnesium, a sleep aid, and omega-3.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112.
+
+  - id: nikhil-kamath-114
+    person: nikhil-kamath
+    source: nikhil-kamath-mankind-dr-reddys
+    type: experience
+    text: >
+      Recounts that around 20-22 years before this recording (i.e.
+      around age 17), he started a pharmacy store with two shops, and
+      recalls earning extra income from displaying certain products
+      prominently -- citing condoms as an example -- similar to a
+      landlord collecting rent for shelf placement.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112. A
+      surprising, specific, and checkable biographical claim not
+      mentioned elsewhere in this dataset -- confirm carefully during
+      verification given the difficulty of speaker attribution in this
+      episode's fast, cross-talking exchanges.
+
+  - id: nikhil-kamath-115
+    person: nikhil-kamath
+    source: nikhil-kamath-mankind-dr-reddys
+    type: experience
+    text: >
+      Mentions having traveled to China the previous January and being
+      amazed by the innovation ecosystem he saw there.
+    topic: travel
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112.
+      Cross-reference: consistent with the China trip discussed in the
+      nikhil-kamath-enervenue-hina episode.
+
+  - id: nikhil-kamath-116
+    person: nikhil-kamath
+    source: nikhil-kamath-mankind-dr-reddys
+    type: experience
+    text: >
+      Says he is currently reading a book about the political
+      transition from Mao Zedong to Deng Xiaoping in China.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112.
+      Cross-reference: nearly verbatim corroboration of
+      nikhil-kamath-094 (EnerVenue x HiNa episode), where he describes
+      reading "a bunch of books on Chinese history" including this same
+      Mao-to-Deng transition -- strong same-period corroboration across
+      two independently recorded episodes.
+
+  - id: nikhil-kamath-117
+    person: nikhil-kamath
+    source: nikhil-kamath-mankind-dr-reddys
+    type: experience
+    text: >
+      Discusses his own health/biohacking routine in some detail: says
+      he recently received stem cell treatments (sourced from umbilical
+      cord donors) in a country where the procedure is legal, uses
+      "salmon sperm DNA" (polynucleotide) injections, and plays a
+      racquet sport (referenced elsewhere as paddle/padel) around two
+      hours a day, which he links to ongoing tennis elbow and a
+      recurring clicking sound in his right knee.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112. Personal
+      health content -- treat with particular care during verification
+      and do not present as medical advice or settled fact; note that
+      the guests explicitly point out these treatments (stem cells,
+      polynucleotide injections) are not FDA-approved / evidence-backed
+      for the uses discussed.
+
+  - id: nikhil-kamath-118
+    person: nikhil-kamath
+    source: nikhil-kamath-mankind-dr-reddys
+    type: experience
+    text: >
+      Mentions that roughly ten of his friends have expressed interest
+      in starting a business around GLP-1 weight-loss drugs.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112.
