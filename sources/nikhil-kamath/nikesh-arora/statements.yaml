@@ -1,1 +1,45 @@
-statements: []
+statements:
+  - id: nikhil-kamath-032
+    person: nikhil-kamath
+    source: nikhil-kamath-nikesh-arora
+    type: assertion
+    text: >
+      Refers to running a private equity fund, distinct from his
+      day-to-day trading, as part of his investing activity.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Nikesh
+      Arora), no diarization. Attribution inferred from conversational
+      role, not confirmed via video.
+
+  - id: nikhil-kamath-033
+    person: nikhil-kamath
+    source: nikhil-kamath-nikesh-arora
+    type: experience
+    text: >
+      Says he extended a trip to Silicon Valley longer than originally
+      planned, describing meeting a dozen or so young founders over
+      lunches and dinners that week and feeling energized/humbled by
+      the experience -- attributing it to the area having become a
+      concentrated hub again.
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-032.
