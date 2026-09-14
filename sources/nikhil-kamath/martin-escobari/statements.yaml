@@ -1,1 +1,153 @@
-statements: []
+statements:
+  - id: nikhil-kamath-119
+    person: nikhil-kamath
+    source: nikhil-kamath-martin-escobari
+    type: assertion
+    text: >
+      States he is 39 years old (noting he has "a few months left" at
+      that age before turning 40), in the context of a discussion about
+      mortality and giving away wealth within one's lifetime.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: dinner-table conversation with multiple
+      participants (Nikhil hosting Martin Escobari of General Atlantic,
+      with recurring guest Arian/Aryan and, later, additional dinner
+      guests Florian Brandt and "Andy"/Anirudh), no diarization.
+      Attribution inferred from conversational role and content, not
+      confirmed via video. Cross-reference: consistent with
+      nikhil-kamath-097 (Howard Marks episode, also age 39, published
+      2026-05-04, close in time to this episode's 2026-05-28 date).
+
+  - id: nikhil-kamath-120
+    person: nikhil-kamath
+    source: nikhil-kamath-martin-escobari
+    type: experience
+    text: >
+      Martin Escobari, addressing Nikhil directly while discussing his
+      own marriage, states "I know you're not married" -- Nikhil does
+      not contest this and responds jokingly about learning
+      Portuguese/Spanish.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-119. Second-hand
+      (asserted about Nikhil by Martin, not stated by Nikhil himself in
+      the first person) -- confirm independently during verification.
+
+  - id: nikhil-kamath-121
+    person: nikhil-kamath
+    source: nikhil-kamath-martin-escobari
+    type: belief
+    text: >
+      Describes rebalancing his own portfolio so that his largest
+      allocation will soon be Indian IT-services and banking stocks,
+      buying them at roughly 12-15x earnings -- calling this
+      counterintuitive in an AI-first world, but justified by their
+      durable competitive moats and his long-term bet that India will
+      become a $10 trillion economy, attributing his own wealth to
+      having invested heavily in India.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-119.
+      Cross-reference: consistent with nikhil-kamath-082 (Brian
+      Armstrong episode), where he similarly favors a large, cheap
+      Indian IT-services company over an expensive US AI company; this
+      statement adds much more specific portfolio-allocation detail.
+
+  - id: nikhil-kamath-122
+    person: nikhil-kamath
+    source: nikhil-kamath-martin-escobari
+    type: experience
+    text: >
+      Mentions he interviewed Anthropic's CEO the previous month,
+      calling him one of his favorite people in the world -- describing
+      him as a humble, idealistic biologist-turned-founder, and noting
+      his age as 41.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-119. Anthropic's
+      CEO is Dario Amodei, a trained biologist -- likely who is meant
+      here, but confirm during verification rather than assuming, and
+      check whether a corresponding episode/source exists or should be
+      added to this dataset.
+
+  - id: nikhil-kamath-123
+    person: nikhil-kamath
+    source: nikhil-kamath-martin-escobari
+    type: experience
+    text: >
+      Mentions that before this recording (in New York), he spent time
+      with a diverse group of Columbia University students, including
+      some from Brazil.
+    topic: travel
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-119.
+
+  - id: nikhil-kamath-124
+    person: nikhil-kamath
+    source: nikhil-kamath-martin-escobari
+    type: experience
+    text: >
+      Recounts a quote from an unnamed young Indian woman he had
+      recently spoken with, about how without a shared memory a person
+      is left with "scattered memories" and no one to remind them of it
+      -- says the idea resonated with him.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-119. Vague on
+      context (who this person is, in what setting) -- do not
+      over-interpret as a romantic disclosure; confirm context during
+      verification.
