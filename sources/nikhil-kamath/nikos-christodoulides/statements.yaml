@@ -1,1 +1,27 @@
-statements: []
+statements:
+  - id: nikhil-kamath-135
+    person: nikhil-kamath
+    source: nikhil-kamath-nikos-christodoulides
+    type: experience
+    text: >
+      Says he is a big fan of history and philosophy and wishes more
+      people were, explaining that learning the Cypriot president was a
+      historian by training is what piqued his interest in requesting
+      this interview.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Cypriot
+      President Nikos Christodoulides), no diarization. Attribution
+      inferred from conversational role, not confirmed via video. This
+      episode is a formal geopolitical/diplomatic conversation with very
+      little personal disclosure from Nikhil -- extraction here is
+      correspondingly sparse rather than padded to match other episodes.
