@@ -1,1 +1,124 @@
-statements: []
+statements:
+  - id: nikhil-kamath-125
+    person: nikhil-kamath
+    source: nikhil-kamath-mati-staniszewski
+    type: experience
+    text: >
+      Says his fintech company (unnamed in this exchange) has about 14
+      people, mostly based in Bengaluru with a few near Mumbai; confirms
+      he is originally from Bengaluru and is now based partly there and
+      partly in Mumbai and Goa.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing ElevenLabs
+      co-founder/CEO Mati Staniszewski), no diarization. Attribution
+      inferred from conversational role, not confirmed via video.
+
+  - id: nikhil-kamath-126
+    person: nikhil-kamath
+    source: nikhil-kamath-mati-staniszewski
+    type: experience
+    text: >
+      Confirms he is a small ("tiny") investor in Nothing, Carl Pei's
+      consumer electronics company, and mentions that after this
+      recording he is traveling to London to visit Nothing's design
+      studio.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-125.
+
+  - id: nikhil-kamath-127
+    person: nikhil-kamath
+    source: nikhil-kamath-mati-staniszewski
+    type: belief
+    text: >
+      Elaborates on his motivation for wanting to build a new social
+      media platform for India: believes current social media is
+      "broken," citing data showing declining organic engagement among
+      16-20 year olds and a near-total loss of organic (non-branded,
+      non-influencer) content; says he is uncomfortable that a foreign
+      country's algorithm shapes the mood and cultural evolution of
+      India's youth; and describes wanting a tightly gated platform of
+      verified real people with an algorithm that does not reward
+      negativity or outrage.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-125.
+      Cross-reference: substantially elaborates on nikhil-kamath-084
+      (Chamath Palihapitiya episode) and nikhil-kamath-065
+      (Brian Armstrong episode's WhatsApp/data-sovereignty view).
+
+  - id: nikhil-kamath-128
+    person: nikhil-kamath
+    source: nikhil-kamath-mati-staniszewski
+    type: experience
+    text: >
+      Describes his podcast as entrepreneur-heavy, aiming to help
+      people start companies, including a grant that gives some guests/
+      participants money and helps them build a network.
+    topic: philanthropy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-125.
+      Cross-reference: corroborates the podcast-linked grant program
+      described in nikhil-kamath-083 (Chamath Palihapitiya episode) and
+      nikhil-kamath-103 (Kiran Mazumdar-Shaw episode).
+
+  - id: nikhil-kamath-129
+    person: nikhil-kamath
+    source: nikhil-kamath-mati-staniszewski
+    type: experience
+    text: >
+      States he owns a house (not an office) in Goa, where he keeps
+      dogs, and describes it as "a lot of fun" -- offering to take the
+      guest there when he visits India in February.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-125.
+      Cross-reference: corroborates nikhil-kamath-107 and
+      nikhil-kamath-109 (MakeMyTrip x Taj episode) on his move to /
+      residence in Goa.
