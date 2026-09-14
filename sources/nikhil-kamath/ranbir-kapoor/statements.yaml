@@ -1,1 +1,160 @@
-statements: []
+statements:
+  - id: nikhil-kamath-020
+    person: nikhil-kamath
+    source: nikhil-kamath-ranbir-kapoor
+    type: experience
+    text: >
+      Describes his childhood geography: born in Shimoga, Karnataka;
+      his father worked at Canara Bank and was transferred roughly
+      every three years, taking the family to Hassan (Karnataka) and
+      then Karnal; the family settled in Bangalore when he was about 7,
+      and he describes himself as "pretty much a Bangalore boy" for
+      the 30 years since.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Ranbir
+      Kapoor), no diarization in the transcript. This is a candid,
+      non-topic-driven conversation with a lot of personal disclosure
+      from both parties -- attribution here is inferred from context
+      (host answering his own question back to the guest, "your turn")
+      rather than confirmed via video. Verify carefully before moving
+      past draft, including double-checking this isn't misattributed
+      to Ranbir Kapoor.
+
+  - id: nikhil-kamath-021
+    person: nikhil-kamath
+    source: nikhil-kamath-ranbir-kapoor
+    type: experience
+    text: >
+      Describes his early trading days roughly 19-20 years before this
+      recording: starting with small capital and trading aggressively
+      (buying far out-of-the-money options), building up a corpus over
+      a few years, then losing it all in a single day and "going bust"
+      -- says this happened to him a couple of times, but not in the
+      13-14 years before this recording.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020.
+
+  - id: nikhil-kamath-022
+    person: nikhil-kamath
+    source: nikhil-kamath-ranbir-kapoor
+    type: experience
+    text: >
+      Describes his father passing away roughly three months before
+      this recording, while Nikhil was traveling (in Dubai en route to
+      a work meeting); says he received word his father was unlikely
+      to survive just before boarding his flight back to Bangalore, and
+      that his father died during the flight, before he landed --
+      describes significant guilt about not being present. Separately
+      describes that 13 days later, during the family's mourning
+      rituals, his brother Nithin had a stroke while Nithin's wife was
+      simultaneously in Dubai being treated for stage 3 cancer.
+    topic: family
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020. This is
+      sensitive personal/family information -- treat with particular
+      care during verification, and do not surface any part of it as
+      established fact (per SKILL.md) unless and until a human has
+      directly confirmed it against the recording. This is a strong
+      example of the kind of easily-missed, scattered personal
+      disclosure this project exists to capture -- but that makes
+      careful, accurate verification more important here, not less.
+
+  - id: nikhil-kamath-023
+    person: nikhil-kamath
+    source: nikhil-kamath-ranbir-kapoor
+    type: belief
+    text: >
+      Says he rents rather than owns his home in Bangalore, and is
+      skeptical of residential real estate as an investment in India,
+      citing rental yields of around 3% against prevailing borrowing
+      costs of 10-11% -- says he feels like he's "getting a deal"
+      renting rather than buying and has no emotional attachment to
+      owning a home.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020.
+
+  - id: nikhil-kamath-024
+    person: nikhil-kamath
+    source: nikhil-kamath-ranbir-kapoor
+    type: experience
+    text: >
+      Describes a childhood dog, a boxer named Hobbes (after the comic
+      strip Calvin and Hobbes), who was with the family for 11 years;
+      says he still keeps a picture of the dog in his office cabin.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020.
+
+  - id: nikhil-kamath-025
+    person: nikhil-kamath
+    source: nikhil-kamath-ranbir-kapoor
+    type: experience
+    text: >
+      Describes recently investing in the coffee brand Subko, and
+      says he is considering (but had not yet invested in, as of this
+      recording) a brand called "111" that makes shirts using Karnataka
+      Bandani/ikat textiles -- cites both as examples of small Indian
+      craft brands he's drawn to over larger foreign brands.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020. "Had not
+      yet invested" is time-sensitive to this recording's publish date
+      (2024-07-26 per metadata.yaml) -- may no longer be accurate by
+      the time this is verified.
