@@ -1,1 +1,85 @@
-statements: []
+statements:
+  - id: nikhil-kamath-026
+    person: nikhil-kamath
+    source: nikhil-kamath-kumar-birla
+    type: assertion
+    text: >
+      States that he started trading/investing at age 17, has been
+      doing it for 21 years as of this recording, and gives his current
+      age as 38.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Kumar
+      Birla), no diarization. Attribution inferred from conversational
+      role and self-referential content, not confirmed via video. Cross
+      -reference: this episode published 2024-12-19 per metadata.yaml,
+      between nikhil-kamath-013 (age 37, June 2024) and
+      nikhil-kamath-015 (age 38, April 2025) -- all three are
+      internally consistent with a birthday between June and December
+      2024. Also relevant to the Ep #6 health-panel material: an
+      unattributed passage there (see sources/nikhil-kamath/
+      wtf-is-health-ep6) has someone starting to trade "by 15 16,"
+      attributed there to Nithin describing Nikhil in the third person
+      -- this statement's "started at 17" is closer but not identical,
+      worth reconciling during verification.
+
+  - id: nikhil-kamath-027
+    person: nikhil-kamath
+    source: nikhil-kamath-kumar-birla
+    type: experience
+    text: >
+      Says he rarely cries -- estimates around five times in the last
+      decade -- and lists the occasions he can recall: his brother's
+      stroke, his father's death, a dog passing away, and one breakup,
+      with a fifth occasion he could not recall.
+    topic: family
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-026.
+      Cross-reference: corroborates nikhil-kamath-022 (Ranbir Kapoor
+      episode), which describes the father's death and brother's stroke
+      in more detail -- two independent extractions naming the same
+      events is a useful signal but not itself verification. Treat with
+      the same sensitivity-during-verification note as
+      nikhil-kamath-022.
+
+  - id: nikhil-kamath-028
+    person: nikhil-kamath
+    source: nikhil-kamath-kumar-birla
+    type: experience
+    text: >
+      Admits that he estimates he does no more than about 90 minutes
+      of genuinely productive work on a typical day, describing the
+      rest as "pretending to work" -- says this realization came from
+      a conversation with his brother and a company CXO about how
+      little of a workday is actually spent on focused, high-value
+      work.
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-026.
