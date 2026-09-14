@@ -1,1 +1,99 @@
-statements: []
+statements:
+  - id: nikhil-kamath-011
+    person: nikhil-kamath
+    source: nikhil-kamath-bill-gates-ep1
+    type: assertion
+    text: >
+      Says he records this podcast once a month.
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview, no diarization. Attribution
+      inferred from conversational role (host framing the show format)
+      rather than confirmed via video. Corroborates nikhil-kamath-006
+      from the Sam Altman episode, which makes the same "once a month"
+      claim -- two independent extractions agreeing is a useful signal
+      but not itself a verification; still check against the recording.
+
+  - id: nikhil-kamath-012
+    person: nikhil-kamath
+    source: nikhil-kamath-bill-gates-ep1
+    type: experience
+    text: >
+      Says he joined the Giving Pledge the year before this recording,
+      and that he is one of four Indian signatories, all based in
+      Bangalore and all friends of his.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-011. "The year
+      before this recording" is relative to this episode's publish date
+      (2024-06-14 per metadata.yaml) -- convert to an absolute year
+      during verification rather than assuming which year was meant.
+
+  - id: nikhil-kamath-013
+    person: nikhil-kamath
+    source: nikhil-kamath-bill-gates-ep1
+    type: assertion
+    text: >
+      States his age as 37 at the time of this recording.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-011. Useful as a
+      timeline anchor (episode published 2024-06-14 per metadata.yaml)
+      if confirmed -- gives an approximate birth year once verified.
+
+  - id: nikhil-kamath-014
+    person: nikhil-kamath
+    source: nikhil-kamath-bill-gates-ep1
+    type: experience
+    text: >
+      Describes co-running a foundation called "Rainmatter" that works
+      on climate issues, and separately mentions a school project and
+      a malnutrition initiative done in collaboration with the Gates
+      Foundation.
+    topic: philanthropy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-011. Relevant
+      cross-reference: the Ep #6 health-panel extraction (see
+      sources/nikhil-kamath/wtf-is-health-ep6) includes an unattributed
+      "Rainmatter Health" passage that was deliberately left unassigned
+      to any speaker due to panel-attribution uncertainty. This
+      statement -- Nikhil describing Rainmatter as "our foundation" in
+      a clean 1:1 setting -- suggests it may be a joint initiative
+      rather than solely his brother Nithin's, which is worth
+      reconsidering when verifying the Ep #6 material.

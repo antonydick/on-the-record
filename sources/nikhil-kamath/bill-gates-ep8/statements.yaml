@@ -1,1 +1,118 @@
-statements: []
+statements:
+  - id: nikhil-kamath-015
+    person: nikhil-kamath
+    source: nikhil-kamath-bill-gates-ep8
+    type: assertion
+    text: >
+      States his age as 38 at the time of this recording, while having
+      lunch with team members in their early 20s.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview, no diarization. Attribution
+      inferred from conversational role, not confirmed via video.
+      Cross-reference: nikhil-kamath-013 (Bill Gates Ep #1, published
+      2024-06-14) has him stating his age as 37; this episode published
+      2025-04-10 has him at 38 -- consistent with a birthday in that
+      ~10-month window. Worth checking both together during
+      verification to help pin down an approximate birth date.
+
+  - id: nikhil-kamath-016
+    person: nikhil-kamath
+    source: nikhil-kamath-bill-gates-ep8
+    type: experience
+    text: >
+      Says he attends the Giving Pledge offsite with Bill Gates every
+      year.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-015. Extends
+      nikhil-kamath-012 (Giving Pledge membership, from Ep #1).
+
+  - id: nikhil-kamath-017
+    person: nikhil-kamath
+    source: nikhil-kamath-bill-gates-ep8
+    type: experience
+    text: >
+      Describes what has driven him at different points in life: early
+      on, simply wanting money because he grew up without it and
+      associated it with happiness; later, feeling driven more by
+      power, jealousy, insecurity, and seeking validation; currently
+      describes himself as uncertain and moving between wanting to make
+      more money and wanting to give it away.
+    topic: motivation
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-015.
+
+  - id: nikhil-kamath-018
+    person: nikhil-kamath
+    source: nikhil-kamath-bill-gates-ep8
+    type: experience
+    text: >
+      Says he spent about a week (roughly 14-15 hours total, during
+      travel and before bed) reading Bill Gates's memoir "Source Code"
+      in preparation for this interview.
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-015.
+
+  - id: nikhil-kamath-019
+    person: nikhil-kamath
+    source: nikhil-kamath-bill-gates-ep8
+    type: experience
+    text: >
+      Half-jokingly asks Bill Gates for career advice at the end of the
+      interview, saying he feels he is "losing out" on the AI wave and
+      is considering taking an unpaid internship or job in the US (e.g.
+      at an AI lab) to get direct exposure to the field.
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-015. This
+      exchange happens in informal post-interview banter, which may
+      affect how literally it should be taken -- flag for the verifier
+      to note tone, not just content, when checking against the
+      recording.
