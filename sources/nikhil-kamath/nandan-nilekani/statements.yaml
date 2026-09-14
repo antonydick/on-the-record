@@ -1,1 +1,70 @@
-statements: []
+statements:
+  - id: nikhil-kamath-029
+    person: nikhil-kamath
+    source: nikhil-kamath-nandan-nilekani
+    type: experience
+    text: >
+      Says he most often sees Nandan Nilekani socially, at Nilekani's
+      house, rather than through professional/media contexts, framing
+      this interview as unusual since he doesn't normally hear Nilekani
+      speak at length in public.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Nandan
+      Nilekani), no diarization. Attribution inferred from
+      conversational role, not confirmed via video.
+
+  - id: nikhil-kamath-030
+    person: nikhil-kamath
+    source: nikhil-kamath-nandan-nilekani
+    type: assertion
+    text: >
+      States that Zerodha was a major beneficiary of Aadhaar-based
+      eKYC for customer onboarding in the capital markets industry.
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-029.
+
+  - id: nikhil-kamath-031
+    person: nikhil-kamath
+    source: nikhil-kamath-nandan-nilekani
+    type: experience
+    text: >
+      Says he has personally spent about a year researching the energy
+      transition sector as a potential investment theme.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-029.
+      Cross-reference: extends the pattern seen in nikhil-kamath-005
+      (Sam Altman) and nikhil-kamath-009 (Vinod Khosla), where he
+      describes ongoing, sustained research into specific investment
+      sectors/themes -- here it's energy transition rather than
+      demographics/luxury spend, suggesting this is a general working
+      habit (parallel sector research tracks) rather than a one-off.
