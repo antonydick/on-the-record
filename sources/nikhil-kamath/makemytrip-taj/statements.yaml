@@ -1,1 +1,137 @@
-statements: []
+statements:
+  - id: nikhil-kamath-107
+    person: nikhil-kamath
+    source: nikhil-kamath-makemytrip-taj
+    type: experience
+    text: >
+      Says he grew up visiting Goa, and that a couple of years before
+      this recording he moved there and now lives there much of the
+      time. Observes that foreign tourists have become rare in Goa,
+      with travelers increasingly choosing Sri Lanka instead.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: multi-guest panel/documentary-style episode
+      (Nikhil hosting MakeMyTrip CEO Rajesh Magow and IHCL/Taj CEO
+      Puneet Chhatwal, with additional segments featuring several travel
+      startup founders -- Tribo's Siddharth Gupta, Stayvista's Amit
+      Damani, India Hikes's co-founders, and Buketto's Bhavika Bakshi),
+      no diarization, heavily edited/"woven" format per the episode's
+      own intro. Attribution here is higher-confidence than most of this
+      episode because it is a first-person "story of my own life"
+      aside, clearly in Nikhil's voice as host. Given the unusual
+      difficulty of speaker attribution in this format, statements from
+      this episode were extracted far more conservatively than usual --
+      most of the multi-hour discussion was not attributed at all.
+
+  - id: nikhil-kamath-108
+    person: nikhil-kamath
+    source: nikhil-kamath-makemytrip-taj
+    type: experience
+    text: >
+      Mentions that he has been going to Alibag frequently "for
+      Foundry" over the preceding couple of months, crossing the Atal
+      Setu bridge many times to get there.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-107.
+      Cross-reference: corroborates and localizes nikhil-kamath-079
+      (Brian Armstrong episode), which describes "Foundry" as a
+      Y Combinator-style accelerator in India -- this places it (or at
+      least a campus/cohort of it) specifically in Alibag.
+
+  - id: nikhil-kamath-109
+    person: nikhil-kamath
+    source: nikhil-kamath-makemytrip-taj
+    type: experience
+    text: >
+      A guest, addressing Nikhil directly, states that he has a home in
+      Bangalore and a home in Mumbai in addition to spending a lot of
+      time at his house in Goa; Nikhil does not contest this.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-107. This
+      statement is technically second-hand (asserted about Nikhil by an
+      unidentified guest, not stated by Nikhil himself), so confidence
+      is lower than a direct first-person statement -- confirm
+      independently during verification.
+
+  - id: nikhil-kamath-110
+    person: nikhil-kamath
+    source: nikhil-kamath-makemytrip-taj
+    type: experience
+    text: >
+      Mentions having recently traveled to the US with Nandan and
+      Rohini Nilekani, and describes a new project of Nandan's --
+      referred to as "fintech" -- aimed at tokenizing asset classes
+      across geographies; says he has read the white paper a few times
+      and had it explained to him, and expresses interest in bringing a
+      similar effort to India.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-107.
+      Cross-reference: reinforces the close personal relationship with
+      Nandan Nilekani implied elsewhere (e.g. nikhil-kamath-096's
+      Norwegian-fund-friend context and the general "Nandan is our
+      favorite person" aside in the Ruchir Sharma episode).
+
+  - id: nikhil-kamath-111
+    person: nikhil-kamath
+    source: nikhil-kamath-makemytrip-taj
+    type: observation
+    text: >
+      Observes that when he travels to New York, London, or LA, more
+      and more hotels and venues (citing Soho House, Chez Margaux, and
+      Maison Estelle as examples) operate as exclusive membership clubs,
+      and reflects that this reflects a widening gap between "haves"
+      and "have-nots" who increasingly don't want to cross paths.
+    topic: travel
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-107. Venue
+      names are approximated from a garbled auto-transcript ("Shea
+      Margo," "Maison Estel") -- confirm exact names during
+      verification.
