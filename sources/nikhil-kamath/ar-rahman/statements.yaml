@@ -1,1 +1,50 @@
-statements: []
+statements:
+  - id: nikhil-kamath-049
+    person: nikhil-kamath
+    source: nikhil-kamath-ar-rahman
+    type: assertion
+    text: >
+      Describes himself as half Konkani, half Kannada; says his father
+      is from a town called Udyavar near Udupi, and his mother is from
+      Mysore.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing A.R.
+      Rahman), no diarization. Attribution inferred from conversational
+      role, not confirmed via video. Cross-reference: more specific
+      than nikhil-kamath-040 (Narendra Modi episode: father "from near
+      Mangalore," mother from Mysore) -- Udyavar/Udupi and Mangalore are
+      both coastal Karnataka and roughly consistent, but the two should
+      be reconciled during verification rather than assumed identical.
+
+  - id: nikhil-kamath-050
+    person: nikhil-kamath
+    source: nikhil-kamath-ar-rahman
+    type: experience
+    text: >
+      Mentions his father passed away the year before this recording.
+    topic: family
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-049.
+      Cross-reference: third independent corroboration of the father's
+      death, alongside nikhil-kamath-022 (Ranbir Kapoor) and
+      nikhil-kamath-027 (Kumar Birla). Treat with the same
+      sensitivity-during-verification note as those.
