@@ -1,1 +1,24 @@
-statements: []
+statements:
+  - id: nikhil-kamath-037
+    person: nikhil-kamath
+    source: nikhil-kamath-christopher-luxon
+    type: experience
+    text: >
+      Mentions recently attending the India vs. New Zealand cricket
+      final in Dubai.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing NZ PM
+      Christopher Luxon), no diarization. Attribution inferred from
+      conversational role, not confirmed via video. Low-yield episode
+      overall -- mostly NZ politics/business philosophy discussion with
+      little other personal-history content from Nikhil.
