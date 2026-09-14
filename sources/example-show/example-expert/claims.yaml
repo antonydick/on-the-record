@@ -1,0 +1,40 @@
+# EXAMPLE / TEMPLATE — placeholder claims about a fictional expert, shown
+# only to demonstrate claim.schema.yaml shapes (draft and verified). Do not
+# use this file as a pattern for real claims by copying the claim text —
+# copy the structure only.
+claims:
+  - id: example-expert-001
+    expert: example-expert
+    source: example-show-example-expert-001
+    type: recommendation
+    claim: "TEMPLATE — placeholder claim text, not a real statement by anyone."
+    topic: example-topic
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "Draft example: freshly extracted, nothing checked yet."
+
+  - id: example-expert-002
+    expert: example-expert
+    source: example-show-example-expert-001
+    type: finding
+    claim: "TEMPLATE — placeholder claim text, not a real statement by anyone."
+    topic: example-topic
+    verification:
+      status: verified
+      verified_at: "1970-01-02"
+      verified_by: "example-reviewer"
+      source_url: "https://example.com/PLACEHOLDER-fill-in-real-source-url?t=100"
+      start_timestamp: "00:01:40"
+      end_timestamp: "00:02:05"
+    evidence:
+      excerpt: null
+    notes: >
+      Verified example: shows the fields required once a claim reaches
+      verified status (source_url, start/end timestamps, verified_at).

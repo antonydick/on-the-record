@@ -1,0 +1,60 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+$id: source.schema.yaml
+title: Source
+description: >
+  Metadata for one interview/appearance by one expert on one show.
+  Validates sources/<show-slug>/<expert-slug>/metadata.yaml. The
+  directory's <show-slug> and <expert-slug> segments must match this
+  file's show_slug and expert fields.
+type: object
+required:
+  - id
+  - expert
+  - show_slug
+  - title
+  - url
+  - platform
+  - published_date
+  - format
+  - processing_status
+properties:
+  id:
+    type: string
+    description: Unique id for this source, referenced by claims[].source.
+  expert:
+    type: string
+    description: Must match an experts/<id>.yaml id.
+  show_slug:
+    type: string
+    pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+    description: >
+      Slug of the show/interviewer this appearance was on; must match
+      the first path segment under sources/.
+  title:
+    type: string
+  url:
+    type: string
+    format: uri
+  platform:
+    type: string
+    enum: [youtube, podcast, article, book, other]
+  published_date:
+    type: string
+    format: date
+  duration:
+    type: string
+    description: Optional total runtime, e.g. "01:42:10".
+  format:
+    type: string
+    enum: [podcast, video, article, book]
+  processing_status:
+    type: string
+    enum: [pending, extracted, in_review, complete]
+    description: >
+      Pipeline stage for this source as a whole, independent of any
+      single claim's verification status. pending = source registered,
+      nothing extracted yet. extracted = draft claims pulled from the
+      transcript via the extraction prompt. in_review = at least one
+      claim has been looked at by a human. complete = every claim in
+      this source has reached a terminal status (verified or rejected).
+additionalProperties: false

@@ -1,0 +1,97 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+$id: claim.schema.yaml
+title: Claim
+description: >
+  One claim extracted from one source. Validates each item in the
+  `claims:` list of sources/<show-slug>/<expert-slug>/claims.yaml.
+
+  Two concerns are kept in separate objects on purpose, as a core
+  project rule — do not collapse them:
+  - `verification`: did the expert actually say this, accurately
+    attributed to a specific place in the source? A provenance check,
+    not a truth check.
+  - `evidence`: what, if anything, supports the claim's content being
+    true. A claim can be fully verified (the expert really said it)
+    while its content is false, contested, or simply unassessed —
+    that's a separate axis entirely.
+type: object
+required: [id, expert, source, type, claim, verification]
+properties:
+  id:
+    type: string
+    description: Unique across the entire repo, not just this file.
+  expert:
+    type: string
+    description: Must match an experts/<id>.yaml id.
+  source:
+    type: string
+    description: Must match a sources/*/*/metadata.yaml id.
+  type:
+    type: string
+    enum: [finding, recommendation, anecdote, opinion, definition, citation]
+    description: >
+      finding = a reported empirical result. recommendation =
+      prescriptive advice/protocol. anecdote = first-person story or
+      experience. opinion = subjective judgment or prediction, not
+      empirically checkable. definition = explains a term or concept.
+      citation = the expert referencing another study or person's work.
+  claim:
+    type: string
+    description: The claim itself, in the expert's own words where possible.
+  topic:
+    type: string
+  verification:
+    type: object
+    description: >
+      Provenance only: is this accurately attributed to the expert at
+      a specific point in the source. Says nothing about whether the
+      claim's content is true — see `evidence` for that.
+    required: [status]
+    properties:
+      status:
+        type: string
+        enum: [draft, unverified, reviewed, verified, rejected]
+        description: >
+          draft = auto-extracted by the extraction prompt, untouched
+          by a human. unverified = a human has entered/edited it but
+          not checked it against the primary source. reviewed = a
+          human has looked at it and believes it's plausible but has
+          not re-checked the primary source at a timestamp. verified =
+          a human re-checked the primary source at the given
+          timestamps and confirmed the attribution is accurate.
+          rejected = checked and found inaccurate or misattributed —
+          stays in the file, never deleted, for auditability.
+      verified_at:
+        type: ["string", "null"]
+        format: date
+        description: Required (non-null) when status is verified.
+      verified_by:
+        type: ["string", "null"]
+      source_url:
+        type: ["string", "null"]
+        description: >
+          Deep link to the exact clip/passage (e.g. a timestamped video
+          URL). Required (non-null) when status is verified.
+      start_timestamp:
+        type: ["string", "null"]
+        description: Required (non-null) when status is verified.
+      end_timestamp:
+        type: ["string", "null"]
+        description: Required (non-null) when status is verified.
+    additionalProperties: false
+  evidence:
+    type: object
+    description: >
+      Truth/support for the claim's content — deliberately separate
+      from `verification`, which only covers attribution.
+    properties:
+      excerpt:
+        type: ["string", "null"]
+        description: >
+          A concise excerpt of independent evidence bearing on the
+          claim's truth, if any has been gathered. Not a transcript
+          quote — that belongs to verification/attribution, not here.
+    additionalProperties: false
+  notes:
+    type: string
+additionalProperties: false
