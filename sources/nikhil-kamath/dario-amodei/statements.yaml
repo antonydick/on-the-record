@@ -1,1 +1,74 @@
-statements: []
+statements:
+  - id: nikhil-kamath-042
+    person: nikhil-kamath
+    source: nikhil-kamath-dario-amodei
+    type: experience
+    text: >
+      Describes recently hiring a developer to spend a couple of hours
+      a day teaching him the basics of coding, motivated by a fear of
+      missing out on how AI is changing the world. Says he connected
+      Claude to his Google Drive, mail, and calendar, used Claude's
+      "cowork" feature and Claude Code to write simple financial-
+      research scripts, and later set up a Claude-based bot
+      (referred to as "open claw") on a Mac mini connected to a
+      Telegram account, using it to manage files on a remote server.
+      Separately admits he personally struggled to get Claude Code
+      working at first, describing himself as having no coding
+      background.
+    topic: work-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Dario
+      Amodei), no diarization. Attribution inferred from conversational
+      role, not confirmed via video.
+
+  - id: nikhil-kamath-043
+    person: nikhil-kamath
+    source: nikhil-kamath-dario-amodei
+    type: experience
+    text: >
+      Mentions investing in an Indian data center business.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-042.
+
+  - id: nikhil-kamath-044
+    person: nikhil-kamath
+    source: nikhil-kamath-dario-amodei
+    type: experience
+    text: >
+      Says that in the week before this recording, he spent three
+      hours a day at a hospital receiving nebulizer treatment and
+      stem-cell infusions.
+    topic: health
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-042. This is
+      personal medical information -- treat with particular care during
+      verification, and do not surface as established fact (per
+      SKILL.md) unless directly confirmed against the recording.
