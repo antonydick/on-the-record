@@ -1,1 +1,265 @@
-statements: []
+statements:
+  - id: nikhil-kamath-072
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: experience
+    text: >
+      Opens the conversation by describing himself as a crypto critic,
+      saying he has never bought any bitcoin, blockchain tokens, Solana,
+      or Ethereum, and that he expects to remain a skeptic even after
+      talking to Brian Armstrong (though he isn't fully sure he will).
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Coinbase
+      CEO Brian Armstrong; his friend Hardik and an aide referred to as
+      Arian join partway through), no diarization. Attribution inferred
+      from conversational role, not confirmed via video. Cross-reference:
+      corroborates and extends nikhil-kamath-058 (never personally
+      bought Bitcoin, from the Ruchir Sharma episode) to crypto assets
+      more broadly.
+
+  - id: nikhil-kamath-073
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: experience
+    text: >
+      Says that over the past year his philanthropic focus has included
+      a bit of climate-related giving, and a larger push around
+      entrepreneurship -- providing seed capital to people in India who
+      need it to get a business started.
+    topic: philanthropy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+
+  - id: nikhil-kamath-074
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: experience
+    text: >
+      Recalls a story from a childhood book (source not specified) about
+      a kingdom where the king holds a large majority -- but not
+      all -- of the wealth and society remains stable, versus one where
+      the king holds almost everything and the people come for him; uses
+      it as his mental model for when wealth concentration becomes
+      socially destabilizing.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+
+  - id: nikhil-kamath-075
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: experience
+    text: >
+      Says that a couple of years earlier he tried to explore building a
+      business around remittances into India using stablecoins, given
+      how large India's remittance inflows are, but concluded there was
+      no viable stablecoin off-ramp in India at the time and that the
+      Indian government had good reason to be wary of enabling one.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+      Cross-reference: corroborates nikhil-kamath-064 (Ruchir Sharma
+      episode), where he mentions researching a rupee/gold-backed
+      stablecoin for remittances -- this statement adds that the
+      exploration dates back roughly two years and was shelved over the
+      lack of an off-ramp.
+
+  - id: nikhil-kamath-076
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: mechanism
+    text: >
+      Pitches his own idea for a gold-tokenization system: local
+      custody/clearing-house centers where Indian households could
+      deposit jewelry they aren't currently wearing, in exchange for a
+      gold-backed coin they could then lend, invest, or pledge, given
+      how much gold Indian families accumulate over generations.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+
+  - id: nikhil-kamath-077
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: assertion
+    text: >
+      Describes his own approach to trading equities as fundamentals-
+      driven -- based on a company's earnings, industry, and sector --
+      explicitly contrasting this with his trader friend Hardik's more
+      psychological, sentiment-driven approach to trading crypto.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+
+  - id: nikhil-kamath-078
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: assertion
+    text: >
+      Mentions that he moved to the US roughly seven years before this
+      conversation and set up a number of companies there.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072. Timeline
+      detail worth cross-referencing against other episodes and public
+      record during verification.
+
+  - id: nikhil-kamath-079
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: experience
+    text: >
+      Describes founding "Foundry," a Y Combinator-style startup
+      accelerator in India, where roughly 20-25 young founders are given
+      about $500,000 each every six months and live together in a house
+      while building consumer companies.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072. A specific,
+      checkable claim about a named program -- confirm details (name,
+      cohort size, funding amount, cadence) during verification.
+
+  - id: nikhil-kamath-080
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: assertion
+    text: >
+      Says the brokerage business he runs in India (not named in this
+      exchange, but consistent with Zerodha) has operated as a discount
+      broker for about 18 years, and compares its regulatory constraints
+      (e.g. on fractionalizing shares) to Robinhood's in the US.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+
+  - id: nikhil-kamath-081
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: experience
+    text: >
+      Mentions a friend, a private-equity investor based in San
+      Francisco, who was an early investor in Coinbase and once gave him
+      a memorable argument for thinking of crypto/bitcoin as a form of
+      "energy as the unit of transaction."
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072. The
+      friend's name is garbled in the auto-transcript (rendered as
+      "Mickey Mala") -- needs confirmation via video during
+      verification rather than being assumed.
+
+  - id: nikhil-kamath-082
+    person: nikhil-kamath
+    source: nikhil-kamath-brian-armstrong
+    type: belief
+    text: >
+      Says that if he were to short a broad basket of private AI
+      companies today, he believes he could be profitable within five
+      years, reflecting skepticism that current private AI valuations
+      are justified even though he thinks AI itself has real use cases.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+      Cross-reference: consistent in spirit with Ruchir Sharma's AI-
+      bubble skepticism discussed in the nikhil-kamath-ruchir-sharma
+      episode, though this is Nikhil's own independently stated view.
