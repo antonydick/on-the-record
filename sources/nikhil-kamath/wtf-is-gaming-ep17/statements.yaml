@@ -1,1 +1,55 @@
-statements: []
+statements:
+  - id: nikhil-kamath-208
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-gaming-ep17
+    type: experience
+    text: >
+      Discloses that he is an investor in Nazara Technologies (India's
+      only listed gaming company, founded by guest Nitish Mittersain),
+      holding around a 5% stake.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting Nazara
+      Technologies founder Nitish Mittersain, Krafton India's Sean [Sung
+      Hyun] Kim, Lila Games' Joseph, and esports player/content creator
+      "8bit Thug"), no diarization in the auto-transcript. Stated
+      explicitly in first person as a disclosure ("for all the
+      disclosures that should be made I am an investor in Nitish's
+      company... 5% investor").
+
+  - id: nikhil-kamath-209
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-gaming-ep17
+    type: experience
+    text: >
+      In the show's recurring end-of-episode community-support segment,
+      proposes identifying 20 promising young people in Indian gaming
+      through an open application process (with the panelists jointly
+      selecting the 20), to receive mentorship, internships, grants, and
+      cloud credits from the assembled companies; commits 1 crore rupees
+      of his own toward this, matching Krafton's commitment, alongside
+      Nazara's separate 1 crore rupee commitment.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-208. This is the
+      show's recurring closing format, proposed and narrated in first
+      person by the host near the end of the episode ("so I'll do one CR
+      as well").
