@@ -12,23 +12,32 @@ statements:
       job.
     topic: work-habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=6HE6d0lKh4o&t=1966s"
+      start_timestamp: "32:46"
+      end_timestamp: "33:30"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION UNCERTAIN: this is a 4-person panel episode
-      (Nikhil Kamath, Nithin Kamath, Mukesh Bansal, Suniel Shetty) and
-      the source transcript has no speaker diarization. Attributed to
-      Nikhil based on internal consistency with his publicly known role
-      as Zerodha's day-to-day trader (vs. Nithin, described elsewhere in
-      the same transcript as running the brokerage/business side) -- not
-      a confirmed attribution. Verify against the actual recording
-      before moving past draft.
+      SPEAKER ATTRIBUTION RESOLVED: this is a 4-person panel episode
+      (Nikhil Kamath, Nithin Kamath, Mukesh Bansal, Suniel Shetty), no
+      diarization in the source transcript, but the real video shows an
+      unbroken single-speaker shot from 31:19 through 33:30 (same person,
+      same seated position, white t-shirt, green-wall backdrop) covering
+      both this statement and nikhil-kamath-002, and NotebookLM
+      cross-referenced surrounding dialogue (Mukesh addresses the speaker
+      as "the youngest among all of us... in your 30s"; Nithin, replying
+      right after, calls the speaker "brother") to confirm the speaker is
+      Nikhil Kamath, not Nithin/Mukesh/Suniel. Confirmed via video at
+      32:46-33:30: "You know, like since the day I started trading, I'm
+      talking like 17, 18 years, ... But outside of that, I've not missed
+      a single day trading. So I've not had a [single day off in pretty
+      much 18 years outside of that so it's more than a job for me.] It
+      is also an addiction. It's also a way of [life where my life is
+      dictated less by my] timings but more by the timings of financial
+      events." Occurs in the "Nikhil's schedule as a trader" chapter.
 
   - id: nikhil-kamath-002
     person: nikhil-kamath
@@ -43,18 +52,31 @@ statements:
       cycle he has not resolved.
     topic: sleep
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=6HE6d0lKh4o&t=6852s"
+      start_timestamp: "1:54:12"
+      end_timestamp: "1:54:18"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION UNCERTAIN: same caveat as nikhil-kamath-001 --
-      no diarization in this 4-person panel transcript. This statement
-      immediately follows the same speaker turn as nikhil-kamath-001 in
-      the transcript, which is the basis for attributing it to the same
-      person (Nikhil). Verify against the actual recording before moving
-      past draft.
+      SPEAKER ATTRIBUTION RESOLVED: same basis as nikhil-kamath-001
+      (unbroken single-speaker shot, NotebookLM cross-reference of
+      surrounding dialogue) -- confirmed Nikhil Kamath, not
+      Nithin/Mukesh/Suniel. This drafted statement actually blends two
+      separate real remarks Nikhil makes at different points in the
+      episode: (1) at 31:19-31:36, during "Nikhil's schedule as a
+      trader," he says "Okay. I think for me it's sleep. I struggle to
+      fall asleep and I start work early in the morning so I have to
+      work out at night. I typically go to the gym at 10:00 p.m or 11
+      p.m, which in turn is a cycle which will make it harder for me to
+      sleep the next night" (has the "10-11pm" detail, no hour count);
+      (2) at 1:54:12-1:54:18, during the closing "Summary" chapter, he
+      repeats the same point with the specific hour count: "[what I'm
+      doing for my health now is my biggest] issue is I can't sleep cuz I
+      start work early and I work out [late in the night] I struggle with
+      5 hours, 5 and 1/2 hours." Pinned to the second (1:54:12-1:54:18)
+      occurrence since it is the one that contains the "5-5.5 hours"
+      figure in the drafted text; the 31:19-31:36 occurrence corroborates
+      the "10-11pm" / cause-and-effect sleep-cycle framing.
