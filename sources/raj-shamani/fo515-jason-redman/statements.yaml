@@ -1,1581 +1,1429 @@
 statements:
-  - id: raj-shamani-02601
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      In both the episode's cold open and later in the conversation, Raj says
-      there was a time when Al-Qaeda tried its very best to kill Jason,
-      noting he was shot eight times, and asks him to explain in detail what
-      happened.
-    topic: al-qaeda-assassination-attempt
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:00], recurring ~[00:44:38]-[00:45:53]. Transcribed via YouTube
-      Hindi auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote. The cold-open teaser
-      reuses a clip from later in the interview; the two instances are
-      combined here as a single statement.
-
-  - id: raj-shamani-02602
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj states that the episode is sponsored by their travel partner
-      Goibibo, and tells viewers to check the link in the description to
-      download the app and get a special discount as first-time users.
-    topic: sponsorship
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:09]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02603
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: recommendation
-    text: >
-      Before starting the episode, Raj asks viewers who find these
-      conversations useful to subscribe to the channel, saying it helps him
-      bring more impactful guests and valuable insights to the audience.
-    topic: channel-growth
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02604
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      In his opening remarks, Raj tells Jason he is genuinely grateful he
-      made time for this conversation and considers it an honor to sit next
-      to him, adding that he believes millions of people like himself could
-      improve their lives by adopting parts of Jason's mindset and worldview.
-    topic: guest-appreciation-intro
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:43]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02605
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj opens by asking Jason how he would introduce himself to the "1%"
-      of viewers who have no idea who he is, what he does, or where he's
-      from.
-    topic: guest-introduction-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:21]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02606
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      After Jason lists several words describing himself (dreamer, warrior,
-      leader, failure, husband, entrepreneur, etc.), Raj proposes breaking
-      each part down one at a time, starting with "Navy SEAL," and asks in
-      simple words what motivates someone to join the Navy SEALs.
-    topic: navy-seal-motivation-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:41]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02607
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj observes that, unlike in countries such as India where someone
-      born in a border region may naturally want to join the military after
-      witnessing atrocities firsthand, the US is not currently engaged in
-      any border war, and asks why people still choose to join the Navy,
-      SEALs, or the military when they could become anything in America --
-      even a millionaire or billionaire.
-    topic: military-enlistment-us-vs-india
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:08:05]-[00:08:35]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02608
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: observation
-    text: >
-      Raj remarks that SEAL training must be extremely harsh, given that
-      people typically want to join the military after harboring a naive
-      fantasy from things like watching "G.I. Joe" as kids.
-    topic: seal-training-difficulty-comment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:10:42]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02609
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks Jason to walk him through the entire SEAL training routine --
-      starting from day one, how many phases there are, what happens in
-      each, and what the hardest part is.
-    topic: seal-training-routine-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:10:42]-[00:11:20]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02610
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      While Jason is describing the traits that make someone suited for
-      special operations, Raj asks whether the same would apply to Indian
-      special forces such as the MARCOS or the Para Special Forces.
-    topic: marcos-comparison-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:12:19]-[00:12:50]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. This passage was notably garbled in the ASR
-      output; treat with extra care during verification.
-
-  - id: raj-shamani-02611
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks how much sleep a candidate gets per day during Hell Week,
-      then follows up to confirm that the answer (about 3 hours) is the
-      total for the entire week, not per day.
-    topic: hell-week-sleep-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:17:18]-[00:17:53]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02612
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks Jason whether there was ever a point during Hell Week when he
-      wanted to quit.
-    topic: quitting-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:19:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript uses "I" instead of "you" here, which
-      appears to be an ASR pronoun-transcription error given the context
-      (Jason answers "oh yes").
-
-  - id: raj-shamani-02613
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      After the term comes up, Raj asks what the SEAL concept of "violence
-      of action" actually means.
-    topic: violence-of-action-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:20:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02614
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj states that shooting accuracy of around 90% in training reportedly
-      drops to around 40-50% in actual combat because of adrenaline, and
-      asks how operators are still able to carry out "violence of action"
-      with precision under those conditions.
-    topic: combat-accuracy-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:21:56]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02615
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj suggests that no matter how hard the training, real combat must be
-      mentally harder, since during training you know backup and doctors are
-      present in a more controlled environment, whereas being in a
-      completely desolate part of Afghanistan would not feel the same
-      mentally.
-    topic: training-vs-combat-mental-difficulty
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:23:48]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02616
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj remarks that this is a very distinctive mindset and asks how
-      someone trains themselves to reach that level.
-    topic: mindset-training-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:25:49]-[00:26:16]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02617
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks Jason which was easier for him personally -- the actual
-      battlefield or training.
-    topic: battlefield-vs-training-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:27:46]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02618
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Noting that Jason said he was also an instructor for a while, Raj asks
-      what the scariest thing was that he trained his men for.
-    topic: scariest-training-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:29:17]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02619
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      During the discussion of night live-fire training, Raj asks whether
-      they trained fully blacked out or while wearing night-vision goggles.
-    topic: night-vision-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:30:48]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02620
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      After hearing about training that simulates "blue-on-blue"
-      friendly-fire scenarios, Raj reacts that it sounds like madness, and
-      asks Jason whether he thinks it's actually madness or a legitimate,
-      strategically planned form of training, pointing to the track record
-      of US special operations' success as context for the question.
-    topic: blue-on-blue-training-reaction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:31:55]-[00:32:24]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02621
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks what, in Jason's view, makes Navy SEALs different from other
-      forces, and whether he has personally worked with other countries'
-      special forces.
-    topic: seal-differentiation-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:32:58]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02622
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj follows up by asking specifically which foreign special forces
-      units Jason has worked with.
-    topic: foreign-special-forces-worked-with
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:33:14]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02623
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks Jason who he considers the deadliest special forces in the
-      world; after Jason jokes that it's the Americans, Raj presses him to
-      name whichever comes in second.
-    topic: deadliest-special-forces-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:33:56]-[00:34:09]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02624
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj challenges Jason with a claim he says other special forces make
-      about the Americans -- that if you took away their technology, they
-      would find it very difficult to survive -- and asks whether he thinks
-      that's true.
-    topic: us-tech-dependence-challenge
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:35:21]-[00:35:56]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02625
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj asks whether fighting an enemy on their own harsh home terrain --
-      someone born and raised in rugged mountains lacking infrastructure and
-      sometimes even good food or water -- tests one's own survival
-      instincts, giving the example of not having access to clean drinking
-      water at the right time.
-    topic: fighting-on-enemy-terrain
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:38:16]-[00:38:52]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02626
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks how they prevent or manage getting sick from bad water or
-      food while operating deep behind enemy lines without resupply.
-    topic: preventing-illness-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:40:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript's pronoun here is also ambiguous
-      (possible ASR pronoun-swap, similar to raj-shamani-02612).
-
-  - id: raj-shamani-02627
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks Jason to tell him about his time in Afghanistan -- why he
-      went there, what the reason was, what motivated him, and what
-      happened from day one up until he actually arrived.
-    topic: afghanistan-deployment-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:41:50]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02628
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj states that in the close-combat ambush, Jason was hit by
-      machine-gun fire from a distance of about 45 feet.
-    topic: machine-gun-45-feet
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:45:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02629
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj says he has a (replica) model of Jason's skull showing the injury,
-      calls it "quite shocking," and asks him to explain in detail what
-      happened and why his condition is the way it is now.
-    topic: skull-model-reaction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:45:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02630
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      While Jason is describing the electric-shock sensation of being shot
-      in the arm, Raj asks, by way of comparison, whether he has ever hit
-      his elbow (his "funny bone").
-    topic: funny-bone-analogy
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:48:13]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02631
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks what it felt like in the exact moment Jason was shot and
-      surrounded by a hail of gunfire -- noting he was hit by eight bullets
-      in total, including some stopped by his body armor -- and how he was
-      able to keep moving afterward.
-    topic: moment-of-being-shot-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:50:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02632
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks whether the bullet that struck Jason's helmet went all the
-      way through or stopped inside it.
-    topic: helmet-bullet-penetration-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:56:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02633
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: experience
-    text: >
-      Raj tells Jason that even though he has probably retold this story
-      many times before and it may feel routine to him by now, just
-      thinking about what he went through gives Raj goosebumps.
-    topic: empathetic-reaction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:53:53]-[00:54:21]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02634
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks Jason to explain, "like to a five-year-old," what actually
-      happens in the body when someone is shot -- what happens in the first
-      second, and what happens after that.
-    topic: explain-gunshot-simply
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:53:53]-[00:54:21]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02635
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: observation
-    text: >
-      Raj summarizes that the combination of anger, Navy SEAL training,
-      family, and faith is what gave Jason hope that he would survive.
-    topic: survival-motivation-recap
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:59:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02636
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj tells Jason he's very impressed by his jacket, says he wants to
-      discuss it in detail, and asks how much it weighs.
-    topic: jacket-weight-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:00:21] (also used as the episode's cold-open teaser, ~[00:00:00]).
-      Transcribed via YouTube Hindi auto-captions; text is a close English
-      translation of the original Hindi/Hinglish, not a verbatim quote.
-
-  - id: raj-shamani-02637
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks, hypothetically, whether the body-armor plate would protect
-      him if he were shot right where he is sitting.
-    topic: armor-hypothetical-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:01:46] (also used as the episode's cold-open teaser, ~[00:00:00]).
-      Transcribed via YouTube Hindi auto-captions; text is a close English
-      translation of the original Hindi/Hinglish, not a verbatim quote.
-
-  - id: raj-shamani-02638
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks what kind of rounds the armor could stop if the shot came
-      from a machine gun instead of a handgun.
-    topic: machine-gun-vs-handgun-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:02:16]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02639
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks what kind of bullets can penetrate this type of body armor,
-      whether armor-piercing rounds are commonly used, and whether snipers
-      use them.
-    topic: armor-piercing-rounds-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:02:43]-[01:03:11]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02640
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks whether a sniper would be able to get past the body armor.
-    topic: sniper-vs-armor-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:03:11] (also used as the episode's cold-open teaser, ~[00:00:24]).
-      Transcribed via YouTube Hindi auto-captions; text is a close English
-      translation of the original Hindi/Hinglish, not a verbatim quote.
-
-  - id: raj-shamani-02641
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks whether the helmet Jason wore would be able to stop a
-      sniper's bullet.
-    topic: helmet-vs-sniper-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:03:11]-[01:03:39]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02642
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      While looking at Jason's prop gear, Raj asks how many rounds each
-      magazine can hold, and confirms the total works out to 90 rounds
-      across the three magazines shown.
-    topic: magazine-capacity-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:04:33]-[01:04:59]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02643
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: observation
-    text: >
-      Raj notes that Jason watched his fellow soldiers deploy, get wounded,
-      and in some cases die for their country during his service in Iraq
-      and Afghanistan.
-    topic: soldiers-sacrifice-observation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:07:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02644
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj states that the US built an Afghan army of roughly 300,000
-      soldiers at a cost of trillions of dollars over the years, and that
-      this army collapsed within just a few weeks of the US withdrawal, then
-      asks what the whole point of going into Afghanistan was.
-    topic: afghan-army-collapse
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:07:38]-[01:08:17]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. The transcript's cost figure ("trillions") and
-      army size ("~300,000") are as stated by Raj and have not been
-      independently confirmed.
-
-  - id: raj-shamani-02645
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks why Jason thinks US political leadership made the decision to
-      withdraw the way they did, and why he thinks America failed in
-      Afghanistan.
-    topic: afghanistan-failure-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:09:02]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02646
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks whether Jason would call the Afghanistan mission a failure
-      now.
-    topic: afghanistan-failure-label-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:09:35]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02647
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj states that Afghanistan collapsed in 2021, and after Jason isn't
-      sure whether it was 2021 or 2022, notes that it's only been a few
-      years since then.
-    topic: afghanistan-collapse-year
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:12:30]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02648
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj points out that twenty years ago the US viewed the threat from
-      Afghanistan as dangerous enough to invade and promise to bring peace
-      to the region and eliminate terrorism, yet twenty years later, after
-      withdrawing, the US doesn't seem to view it as dangerous anymore, and
-      asks what changed to make it seem less dangerous now.
-    topic: danger-perception-inconsistency
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:13:09]-[01:13:38]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02649
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks why Jason thinks the US lost the will to stay engaged.
-    topic: lost-will-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:13:38]-[01:14:04]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02650
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks whether Jason thinks Americans, in general, don't want war.
-    topic: american-war-appetite-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02651
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks whether Americans now believe there's no purpose in trying to
-      eliminate terrorism in other parts of the world.
-    topic: terrorism-purpose-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:37]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02652
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj describes a rule of engagement he says Indian special forces
-      follow in insurgency-heavy areas -- that they may only decide to
-      engage if they see someone carrying an unauthorized weapon, meaning
-      even a confirmed target without a visible weapon is very hard for them
-      to engage -- and asks whether something similar is a strict rule for
-      US forces too.
-    topic: rules-of-engagement-comparison
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:15:11]-[01:15:42]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02653
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks whether Jason and his unit always followed the rules of war.
-    topic: rules-of-war-adherence-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:16:08]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02654
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks directly whether innocent people were killed during these
-      operations.
-    topic: civilian-casualties-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:16:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02655
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj compares the reported number of strategically-targeted deaths to
-      the much larger civilian death toll of WWII, says that comparison
-      doesn't justify indiscriminate bombing, and asks Jason whether he
-      thinks the side currently dropping bombs (in the context of the Iran
-      conflict being discussed) is doing the right thing.
-    topic: bombing-campaign-justification-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:17:10]-[01:17:49]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. This passage was ambiguous/garbled in the ASR
-      output about exactly which party's bombing campaign is being referred
-      to; treat with extra care during verification.
-
-  - id: raj-shamani-02656
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj says he doesn't think America is innocent either, noting that
-      America has also repeatedly retaliated against Iran whenever Iran has
-      tried something; says he doesn't know who's right or wrong since
-      different news channels tell different stories, but that what's being
-      seen right now amounts to a severe atrocity against human life, and
-      asks whether Jason agrees.
-    topic: us-iran-retaliation-cycle
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:18:52]-[01:19:28]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02657
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: observation
-    text: >
-      Raj asks Jason how many times, in his experience talking to
-      Americans, he has heard an American say "death to Iran, we want to
-      wipe that place off the map" -- noting the answer is essentially
-      never -- and contrasts this with Iran having said the equivalent about
-      America/Israel for roughly the past 50 years.
-    topic: death-to-iran-vs-death-to-america
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:19:45]-[01:20:07]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02658
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks whether Jason thinks America will be able to win in Iran.
-    topic: iran-war-winnable-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:21:44]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02659
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj mentions he'd seen a news report that around 2,000 US personnel
-      were being sent, and asks whether ground deployment for the Iran
-      operation has already begun.
-    topic: iran-ground-troops-report
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:22:15]-[01:22:45]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. The "~2,000" figure is as stated by Raj and has
-      not been independently confirmed.
-
-  - id: raj-shamani-02660
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks Jason to confirm his view that no war can be won without
-      deploying ground troops, or at least that a war in Iran specifically
-      cannot be won without troops on the ground.
-    topic: no-war-without-troops-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:23:14]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02661
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj says he finds it interesting that both Trump and Netanyahu told
-      the Iranian public it was their chance to rise up and overthrow the
-      regime, and mockingly asks with what -- since ordinary Iranians don't
-      have weapons -- pointing out they'd have nothing to fight with but
-      stones.
-    topic: trump-netanyahu-iran-regime-change
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:23:49]-[01:24:26]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02662
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj observes that one thing both the US and India have in common that
-      he finds fascinating is the freedom to dream big and the freedom to
-      actually pursue and achieve something in entrepreneurship, a job, or
-      whatever field someone is in.
-    topic: us-india-freedom-to-dream
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:24:26]-[01:24:56]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02663
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj says that to achieve your dreams you have to become an
-      exceptional version of yourself -- including a version of you willing
-      to take risks -- and asks Jason whether he thinks people should take
-      risks and push themselves toward their most relentless, risk-tolerant
-      form in order to fulfill their dreams, clarifying he means being
-      willing to take risks rather than physical danger.
-    topic: risk-taking-for-dreams
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:25:27]-[01:26:06]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02664
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks Jason directly whether he has failed, how his journey has
-      been, and whether he has tried things that didn't work out at all.
-    topic: failure-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:27:07]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
-
-  - id: raj-shamani-02665
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: belief
-    text: >
-      Raj asks whether people who focus only on financial success end up
-      achieving more in life, and whether, in doing so, they lose their
-      soul.
-    topic: financial-success-vs-soul
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:29:18]-[01:29:47]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02666
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: observation
-    text: >
-      Raj tells Jason he really liked the sign that was placed on his
-      hospital-room door, thanks him for it, and says he wants to talk about
-      it for a minute.
-    topic: door-sign-comment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:30:23]-[01:30:48]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. The pronoun in the transcript ("my door") appears
-      to be an ASR/translation swap for "your door," based on context --
-      Jason is the one who describes writing and posting this sign after
-      being wounded.
-
-  - id: raj-shamani-02667
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: assertion
-    text: >
-      Raj asks what "complete" recovery actually means to Jason.
-    topic: complete-recovery-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:32:43]-[01:33:00]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
-
-  - id: raj-shamani-02668
-    person: raj-shamani
-    source: raj-shamani-fo515-jason-redman
-    type: recommendation
-    text: >
-      Raj closes the episode by asking viewers to do three things: subscribe
-      to the channel, comment with feedback on what the show got right or
-      wrong, and share the episode with at least one other person.
-    topic: outro-cta
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:36:11]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj's standard end-of-episode call to action.
+- id: raj-shamani-02601
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'In both the episode''s cold open and later in the conversation, Raj says there was a time when Al-Qaeda tried its very best to kill Jason, noting he was shot eight times, and asks him to explain in detail what happened.
+
+    '
+  topic: al-qaeda-assassination-attempt
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00], recurring ~[00:44:38]-[00:45:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The cold-open teaser reuses a clip from later in the interview; the two instances are combined here as a single statement.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02602
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj states that the episode is sponsored by their travel partner Goibibo, and tells viewers to check the link in the description to download the app and get a special discount as first-time users.
+
+    '
+  topic: sponsorship
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02603
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: recommendation
+  text: 'Before starting the episode, Raj asks viewers who find these conversations useful to subscribe to the channel, saying it helps him bring more impactful guests and valuable insights to the audience.
+
+    '
+  topic: channel-growth
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02604
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'In his opening remarks, Raj tells Jason he is genuinely grateful he made time for this conversation and considers it an honor to sit next to him, adding that he believes millions of people like himself could improve their lives by adopting parts of Jason''s mindset and worldview.
+
+    '
+  topic: guest-appreciation-intro
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:43]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02605
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj opens by asking Jason how he would introduce himself to the "1%" of viewers who have no idea who he is, what he does, or where he''s from.
+
+    '
+  topic: guest-introduction-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:03:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02606
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'After Jason lists several words describing himself (dreamer, warrior, leader, failure, husband, entrepreneur, etc.), Raj proposes breaking each part down one at a time, starting with "Navy SEAL," and asks in simple words what motivates someone to join the Navy SEALs.
+
+    '
+  topic: navy-seal-motivation-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:07:41]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02607
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj observes that, unlike in countries such as India where someone born in a border region may naturally want to join the military after witnessing atrocities firsthand, the US is not currently engaged in any border war, and asks why people still choose to join the Navy, SEALs, or the military when they could become anything in America -- even a millionaire or billionaire.
+
+    '
+  topic: military-enlistment-us-vs-india
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:08:05]-[00:08:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02608
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: observation
+  text: 'Raj remarks that SEAL training must be extremely harsh, given that people typically want to join the military after harboring a naive fantasy from things like watching "G.I. Joe" as kids.
+
+    '
+  topic: seal-training-difficulty-comment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:10:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02609
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks Jason to walk him through the entire SEAL training routine -- starting from day one, how many phases there are, what happens in each, and what the hardest part is.
+
+    '
+  topic: seal-training-routine-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:10:42]-[00:11:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02610
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'While Jason is describing the traits that make someone suited for special operations, Raj asks whether the same would apply to Indian special forces such as the MARCOS or the Para Special Forces.
+
+    '
+  topic: marcos-comparison-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:12:19]-[00:12:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This passage was notably garbled in the ASR output; treat with extra care during verification.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02611
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks how much sleep a candidate gets per day during Hell Week, then follows up to confirm that the answer (about 3 hours) is the total for the entire week, not per day.
+
+    '
+  topic: hell-week-sleep-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:17:18]-[00:17:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02612
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks Jason whether there was ever a point during Hell Week when he wanted to quit.
+
+    '
+  topic: quitting-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:19:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript uses "I" instead of "you" here, which appears to be an ASR pronoun-transcription error given the context (Jason answers "oh yes").
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02613
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'After the term comes up, Raj asks what the SEAL concept of "violence of action" actually means.
+
+    '
+  topic: violence-of-action-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:20:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02614
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj states that shooting accuracy of around 90% in training reportedly drops to around 40-50% in actual combat because of adrenaline, and asks how operators are still able to carry out "violence of action" with precision under those conditions.
+
+    '
+  topic: combat-accuracy-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:21:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02615
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj suggests that no matter how hard the training, real combat must be mentally harder, since during training you know backup and doctors are present in a more controlled environment, whereas being in a completely desolate part of Afghanistan would not feel the same mentally.
+
+    '
+  topic: training-vs-combat-mental-difficulty
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:23:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02616
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj remarks that this is a very distinctive mindset and asks how someone trains themselves to reach that level.
+
+    '
+  topic: mindset-training-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:25:49]-[00:26:16]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02617
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks Jason which was easier for him personally -- the actual battlefield or training.
+
+    '
+  topic: battlefield-vs-training-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:27:46]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02618
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Noting that Jason said he was also an instructor for a while, Raj asks what the scariest thing was that he trained his men for.
+
+    '
+  topic: scariest-training-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:29:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02619
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'During the discussion of night live-fire training, Raj asks whether they trained fully blacked out or while wearing night-vision goggles.
+
+    '
+  topic: night-vision-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:30:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02620
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'After hearing about training that simulates "blue-on-blue" friendly-fire scenarios, Raj reacts that it sounds like madness, and asks Jason whether he thinks it''s actually madness or a legitimate, strategically planned form of training, pointing to the track record of US special operations'' success as context for the question.
+
+    '
+  topic: blue-on-blue-training-reaction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:31:55]-[00:32:24]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02621
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks what, in Jason''s view, makes Navy SEALs different from other forces, and whether he has personally worked with other countries'' special forces.
+
+    '
+  topic: seal-differentiation-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:32:58]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02622
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj follows up by asking specifically which foreign special forces units Jason has worked with.
+
+    '
+  topic: foreign-special-forces-worked-with
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:33:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02623
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks Jason who he considers the deadliest special forces in the world; after Jason jokes that it''s the Americans, Raj presses him to name whichever comes in second.
+
+    '
+  topic: deadliest-special-forces-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:33:56]-[00:34:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02624
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj challenges Jason with a claim he says other special forces make about the Americans -- that if you took away their technology, they would find it very difficult to survive -- and asks whether he thinks that''s true.
+
+    '
+  topic: us-tech-dependence-challenge
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:35:21]-[00:35:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02625
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj asks whether fighting an enemy on their own harsh home terrain -- someone born and raised in rugged mountains lacking infrastructure and sometimes even good food or water -- tests one''s own survival instincts, giving the example of not having access to clean drinking water at the right time.
+
+    '
+  topic: fighting-on-enemy-terrain
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:38:16]-[00:38:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02626
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks how they prevent or manage getting sick from bad water or food while operating deep behind enemy lines without resupply.
+
+    '
+  topic: preventing-illness-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=m7v7KLttM3k&t=2406s
+    start_timestamp: 00:40:06
+    end_timestamp: 00:40:20
+  evidence:
+    excerpt: null
+  notes: '~[00:40:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript''s pronoun here is also ambiguous (possible ASR pronoun-swap, similar to raj-shamani-02612).
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=m7v7KLttM3k&t=2406s in-browser (caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02627
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks Jason to tell him about his time in Afghanistan -- why he went there, what the reason was, what motivated him, and what happened from day one up until he actually arrived.
+
+    '
+  topic: afghanistan-deployment-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:41:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02628
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj states that in the close-combat ambush, Jason was hit by machine-gun fire from a distance of about 45 feet.
+
+    '
+  topic: machine-gun-45-feet
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:45:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02629
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj says he has a (replica) model of Jason''s skull showing the injury, calls it "quite shocking," and asks him to explain in detail what happened and why his condition is the way it is now.
+
+    '
+  topic: skull-model-reaction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:45:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02630
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'While Jason is describing the electric-shock sensation of being shot in the arm, Raj asks, by way of comparison, whether he has ever hit his elbow (his "funny bone").
+
+    '
+  topic: funny-bone-analogy
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:48:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02631
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks what it felt like in the exact moment Jason was shot and surrounded by a hail of gunfire -- noting he was hit by eight bullets in total, including some stopped by his body armor -- and how he was able to keep moving afterward.
+
+    '
+  topic: moment-of-being-shot-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:50:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02632
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks whether the bullet that struck Jason''s helmet went all the way through or stopped inside it.
+
+    '
+  topic: helmet-bullet-penetration-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:56:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02633
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: experience
+  text: 'Raj tells Jason that even though he has probably retold this story many times before and it may feel routine to him by now, just thinking about what he went through gives Raj goosebumps.
+
+    '
+  topic: empathetic-reaction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:53:53]-[00:54:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02634
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks Jason to explain, "like to a five-year-old," what actually happens in the body when someone is shot -- what happens in the first second, and what happens after that.
+
+    '
+  topic: explain-gunshot-simply
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:53:53]-[00:54:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02635
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: observation
+  text: 'Raj summarizes that the combination of anger, Navy SEAL training, family, and faith is what gave Jason hope that he would survive.
+
+    '
+  topic: survival-motivation-recap
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:59:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02636
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj tells Jason he''s very impressed by his jacket, says he wants to discuss it in detail, and asks how much it weighs.
+
+    '
+  topic: jacket-weight-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:00:21] (also used as the episode''s cold-open teaser, ~[00:00:00]). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02637
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks, hypothetically, whether the body-armor plate would protect him if he were shot right where he is sitting.
+
+    '
+  topic: armor-hypothetical-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:01:46] (also used as the episode''s cold-open teaser, ~[00:00:00]). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02638
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks what kind of rounds the armor could stop if the shot came from a machine gun instead of a handgun.
+
+    '
+  topic: machine-gun-vs-handgun-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:02:16]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02639
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks what kind of bullets can penetrate this type of body armor, whether armor-piercing rounds are commonly used, and whether snipers use them.
+
+    '
+  topic: armor-piercing-rounds-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:02:43]-[01:03:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02640
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks whether a sniper would be able to get past the body armor.
+
+    '
+  topic: sniper-vs-armor-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:03:11] (also used as the episode''s cold-open teaser, ~[00:00:24]). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02641
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks whether the helmet Jason wore would be able to stop a sniper''s bullet.
+
+    '
+  topic: helmet-vs-sniper-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:03:11]-[01:03:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02642
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'While looking at Jason''s prop gear, Raj asks how many rounds each magazine can hold, and confirms the total works out to 90 rounds across the three magazines shown.
+
+    '
+  topic: magazine-capacity-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:04:33]-[01:04:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02643
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: observation
+  text: 'Raj notes that Jason watched his fellow soldiers deploy, get wounded, and in some cases die for their country during his service in Iraq and Afghanistan.
+
+    '
+  topic: soldiers-sacrifice-observation
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:07:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02644
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj states that the US built an Afghan army of roughly 300,000 soldiers at a cost of trillions of dollars over the years, and that this army collapsed within just a few weeks of the US withdrawal, then asks what the whole point of going into Afghanistan was.
+
+    '
+  topic: afghan-army-collapse
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:07:38]-[01:08:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript''s cost figure ("trillions") and army size ("~300,000") are as stated by Raj and have not been independently confirmed.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02645
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks why Jason thinks US political leadership made the decision to withdraw the way they did, and why he thinks America failed in Afghanistan.
+
+    '
+  topic: afghanistan-failure-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:09:02]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02646
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks whether Jason would call the Afghanistan mission a failure now.
+
+    '
+  topic: afghanistan-failure-label-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:09:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02647
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj states that Afghanistan collapsed in 2021, and after Jason isn''t sure whether it was 2021 or 2022, notes that it''s only been a few years since then.
+
+    '
+  topic: afghanistan-collapse-year
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:12:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02648
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj points out that twenty years ago the US viewed the threat from Afghanistan as dangerous enough to invade and promise to bring peace to the region and eliminate terrorism, yet twenty years later, after withdrawing, the US doesn''t seem to view it as dangerous anymore, and asks what changed to make it seem less dangerous now.
+
+    '
+  topic: danger-perception-inconsistency
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:13:09]-[01:13:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02649
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks why Jason thinks the US lost the will to stay engaged.
+
+    '
+  topic: lost-will-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:13:38]-[01:14:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02650
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks whether Jason thinks Americans, in general, don''t want war.
+
+    '
+  topic: american-war-appetite-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:14:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02651
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks whether Americans now believe there''s no purpose in trying to eliminate terrorism in other parts of the world.
+
+    '
+  topic: terrorism-purpose-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:14:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02652
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj describes a rule of engagement he says Indian special forces follow in insurgency-heavy areas -- that they may only decide to engage if they see someone carrying an unauthorized weapon, meaning even a confirmed target without a visible weapon is very hard for them to engage -- and asks whether something similar is a strict rule for US forces too.
+
+    '
+  topic: rules-of-engagement-comparison
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:15:11]-[01:15:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02653
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks whether Jason and his unit always followed the rules of war.
+
+    '
+  topic: rules-of-war-adherence-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:16:08]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02654
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks directly whether innocent people were killed during these operations.
+
+    '
+  topic: civilian-casualties-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:16:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02655
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj compares the reported number of strategically-targeted deaths to the much larger civilian death toll of WWII, says that comparison doesn''t justify indiscriminate bombing, and asks Jason whether he thinks the side currently dropping bombs (in the context of the Iran conflict being discussed) is doing the right thing.
+
+    '
+  topic: bombing-campaign-justification-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:17:10]-[01:17:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This passage was ambiguous/garbled in the ASR output about exactly which party''s bombing campaign is being referred to; treat with extra care during verification.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02656
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj says he doesn''t think America is innocent either, noting that America has also repeatedly retaliated against Iran whenever Iran has tried something; says he doesn''t know who''s right or wrong since different news channels tell different stories, but that what''s being seen right now amounts to a severe atrocity against human life, and asks whether Jason agrees.
+
+    '
+  topic: us-iran-retaliation-cycle
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:18:52]-[01:19:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02657
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: observation
+  text: 'Raj asks Jason how many times, in his experience talking to Americans, he has heard an American say "death to Iran, we want to wipe that place off the map" -- noting the answer is essentially never -- and contrasts this with Iran having said the equivalent about America/Israel for roughly the past 50 years.
+
+    '
+  topic: death-to-iran-vs-death-to-america
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:19:45]-[01:20:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02658
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks whether Jason thinks America will be able to win in Iran.
+
+    '
+  topic: iran-war-winnable-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:21:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02659
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj mentions he''d seen a news report that around 2,000 US personnel were being sent, and asks whether ground deployment for the Iran operation has already begun.
+
+    '
+  topic: iran-ground-troops-report
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:22:15]-[01:22:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The "~2,000" figure is as stated by Raj and has not been independently confirmed.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02660
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks Jason to confirm his view that no war can be won without deploying ground troops, or at least that a war in Iran specifically cannot be won without troops on the ground.
+
+    '
+  topic: no-war-without-troops-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:23:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02661
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj says he finds it interesting that both Trump and Netanyahu told the Iranian public it was their chance to rise up and overthrow the regime, and mockingly asks with what -- since ordinary Iranians don''t have weapons -- pointing out they''d have nothing to fight with but stones.
+
+    '
+  topic: trump-netanyahu-iran-regime-change
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:23:49]-[01:24:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02662
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj observes that one thing both the US and India have in common that he finds fascinating is the freedom to dream big and the freedom to actually pursue and achieve something in entrepreneurship, a job, or whatever field someone is in.
+
+    '
+  topic: us-india-freedom-to-dream
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:24:26]-[01:24:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02663
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj says that to achieve your dreams you have to become an exceptional version of yourself -- including a version of you willing to take risks -- and asks Jason whether he thinks people should take risks and push themselves toward their most relentless, risk-tolerant form in order to fulfill their dreams, clarifying he means being willing to take risks rather than physical danger.
+
+    '
+  topic: risk-taking-for-dreams
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:25:27]-[01:26:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02664
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks Jason directly whether he has failed, how his journey has been, and whether he has tried things that didn''t work out at all.
+
+    '
+  topic: failure-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:27:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02665
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: belief
+  text: 'Raj asks whether people who focus only on financial success end up achieving more in life, and whether, in doing so, they lose their soul.
+
+    '
+  topic: financial-success-vs-soul
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:29:18]-[01:29:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02666
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: observation
+  text: 'Raj tells Jason he really liked the sign that was placed on his hospital-room door, thanks him for it, and says he wants to talk about it for a minute.
+
+    '
+  topic: door-sign-comment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:30:23]-[01:30:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The pronoun in the transcript ("my door") appears to be an ASR/translation swap for "your door," based on context -- Jason is the one who describes writing and posting this sign after being wounded.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02667
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: assertion
+  text: 'Raj asks what "complete" recovery actually means to Jason.
+
+    '
+  topic: complete-recovery-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:32:43]-[01:33:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a long (68-statement), guest-dense episode; a spot-check sample across the timeline mostly landed on Jason Redman''s own (guest) content rather than Raj''s framing, or wasn''t reached in the sampled pass. Left as draft pending a closer, dedicated re-check.'
+- id: raj-shamani-02668
+  person: raj-shamani
+  source: raj-shamani-fo515-jason-redman
+  type: recommendation
+  text: 'Raj closes the episode by asking viewers to do three things: subscribe to the channel, comment with feedback on what the show got right or wrong, and share the episode with at least one other person.
+
+    '
+  topic: outro-cta
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=m7v7KLttM3k&t=5771s
+    start_timestamp: 01:36:11
+    end_timestamp: 01:36:25
+  evidence:
+    excerpt: null
+  notes: '~[01:36:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj''s standard end-of-episode call to action.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=m7v7KLttM3k&t=5771s in-browser (caption text check, close match) at this point in the recording.'
