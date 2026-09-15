@@ -1,1 +1,87 @@
-statements: []
+statements:
+  - id: nikhil-kamath-219
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-real-estate-ep20
+    type: experience
+    text: >
+      Reveals he recently bought a house, breaking from his previously
+      stated position that he would not buy property; explains that
+      renting's main drawback for him was the lack of certainty over how
+      long he could stay somewhere -- he had to move out of a home he
+      would have preferred to keep living in -- and that not wanting to
+      deal with that uncertainty again is what made buying make sense.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: three-person panel (Nikhil hosting Prestige
+      Group's Irfan Razack, Brigade Group's Nirupa Shankar, and Embassy/
+      WeWork India's Karan Virwani), no diarization in the auto-
+      transcript. Stated in first person after Irfan directly calls him
+      out as a "convert" for having bought a house.
+
+  - id: nikhil-kamath-220
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-real-estate-ep20
+    type: belief
+    text: >
+      Says he dislikes real estate's illiquidity as an asset class and
+      would rather hold something like gold for that reason, while
+      separately noting a personal desire, as someone whose wealth is
+      largely in "virtual" stock-market holdings, to eventually convert
+      some of that paper wealth into tangible assets since he does not
+      know when the stock market might correct.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-219. Stated in
+      first person during a discussion of real estate versus other asset
+      classes. Cross-reference: consistent with his stated gold
+      investment history in nikhil-kamath-171 (WTF is Finance Ep 4) and
+      other episodes.
+
+  - id: nikhil-kamath-221
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-real-estate-ep20
+    type: experience
+    text: >
+      Describes a friend, a real estate investor in his 70s referred to
+      in the transcript as "Marcel Areno" (likely a garbled transcription
+      of the investor's actual name -- confirm during verification) who
+      has signed the Giving Pledge, with whom he had dinner in the US
+      shortly before this recording; says this friend gave him a roughly
+      two-hour presentation making the case for shorting commercial real
+      estate in parts of America and China, citing changed work culture
+      and mispriced properties, though not India specifically since he
+      had not researched it.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-219. Told in
+      first person while asking the panel to react to this friend's
+      thesis. The friend's name is almost certainly mis-transcribed by
+      the auto-transcript -- verify the actual identity before treating
+      as confirmed.
