@@ -1,1 +1,55 @@
-statements: []
+statements:
+  - id: nikhil-kamath-206
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-finance-ep4
+    type: belief
+    text: >
+      States that India, like China, has capital controls, and says he
+      personally believes that over the long term, removing those
+      capital controls would result in more money flowing into India than
+      flowing out.
+    topic: economics
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: two-guest interview (Nikhil with economics
+      writer Matthew Klein of The Overshoot, co-author of "Trade Wars Are
+      Class Wars," and Shanghai-based economics professor Michael Pettis'
+      collaborator/China-macro academic referred to as "Ning" in the
+      auto-transcript, author of "China's Guaranteed Bubble"), no
+      diarization, but turn-taking is clearer than in multi-founder panel
+      episodes since this is a structured interview. Stated in first
+      person ("I personally believe...") while asking the guests about
+      China's capital controls.
+
+  - id: nikhil-kamath-207
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-finance-ep4
+    type: experience
+    text: >
+      Says he personally knows Ray Dalio, and that Dalio has told him
+      repeatedly that when short-term interest rates rise above long-term
+      rates, that yield-curve inversion is the first real signal that the
+      dollar's incumbency as the world's reserve currency is beginning to
+      change.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-206. Stated in
+      first person ("I know Ray Dalio and he keeps saying that...") while
+      asking the guests to weigh in on the theory.
