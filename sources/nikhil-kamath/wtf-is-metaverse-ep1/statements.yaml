@@ -13,12 +13,12 @@ statements:
       magnitude higher on a comparable basis.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=tWzalcN_Inc&t=1160s"
+      start_timestamp: "19:19"
+      end_timestamp: "19:49"
     evidence:
       excerpt: null
     notes: >
@@ -27,9 +27,16 @@ statements:
       guests -- a fashion-metaverse founder referred to as "Marcos,"
       a gaming/metaverse guest referred to as "Prashant," and virtual-
       influencer creator Himanshu -- joining later), no diarization,
-      extremely fast cross-talk among 3-6 speakers throughout. Given
-      the unusual difficulty of speaker attribution in this format,
-      only this one statement was extracted with reasonable confidence
-      (it matches Nikhil's known investor persona and is phrased in
-      first person as personal research); the rest of the multi-hour
-      discussion was not attributed to any individual speaker.
+      extremely fast cross-talk among 3-6 speakers throughout. This
+      particular statement was confirmed via video: 19:19-19:49 is one
+      unbroken camera shot of a single speaker (host framing) matching
+      Nikhil's known appearance across his own channel's thumbnails,
+      delivering the whole passage from "watched a bunch of videos
+      including the one from Mark Zuckerberg" through "researching The
+      Meta stock... for the last six months... fairly valued... 13,
+      14 times multiples... in India... you have to add like one or
+      two zeros on top of that" without a cut to another speaker.
+      Content (personal investing research, "our ecosystem" as an
+      investor) also matches Nikhil's persona rather than the other
+      panelists'. The rest of the multi-hour discussion remains
+      unattributed to any individual speaker.
