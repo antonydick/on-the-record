@@ -1,294 +1,232 @@
 statements:
-  - id: raj-shamani-04201
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: assertion
-    text: >
-      Raj introduces the episode's guest by saying: "Aliia Roza, a former
-      secret agent and behavioral profiling expert. If you've ever thought
-      about how spies think or how manipulation actually works, this
-      episode is for you."
-    topic: episode-intro
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:30]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This line falls within the cold-open/trailer montage
-      at the very start of the episode, which splices together clips from
-      later in the interview; it is captured here once, at its position in
-      the transcript, rather than again at its likely later re-occurrence.
+- id: raj-shamani-04201
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: assertion
+  text: 'Raj introduces the episode''s guest by saying: "Aliia Roza, a former secret agent and behavioral profiling expert. If you''ve ever thought about how spies think or how manipulation actually works, this episode is for you."
 
-  - id: raj-shamani-04202
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: assertion
-    text: >
-      Raj announces that the episode is sponsored by their travel partner,
-      Goibibo, and tells viewers to check the link in the description for a
-      special discount for first-time users of the app.
-    topic: episode-sponsorship
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:48]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: episode-intro
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This line falls within the cold-open/trailer montage at the very start of the episode, which splices together clips from later in the interview; it is captured here once, at its position in the transcript, rather than again at its likely later re-occurrence.
 
-  - id: raj-shamani-04203
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: belief
-    text: >
-      Reacting (with laughter and apparent surprise) to Aliia describing how
-      someone could deliberately manufacture urgency to influence a romantic
-      or business partner, Raj says this is genuinely "dark psychology," and
-      that he hopes she will be responsible about sharing it — i.e., that
-      people won't actually go and do this.
-    topic: manipulation-ethics
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:44:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript has no speaker labels; this reaction is
-      inferred to be Raj's from context (a first-person aside interjected
-      mid-explanation, expressing hope about how the information will be
-      used, immediately followed by laughter/surprise markers).
 
-  - id: raj-shamani-04204
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: belief
-    text: >
-      Reacting with apparent surprise to Aliia's description of a
-      manipulative partner using fabricated ultimatums (e.g., claiming "my
-      father is against us" or that an ex-boyfriend wants her back) to force
-      a man into commitment, Raj says this is a red flag and that it's
-      better to break up with people who do this.
-    topic: relationship-red-flags
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:47:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attributed to Raj based on the explicit "(sounding
-      surprised)" marker in the transcript setting this reaction apart from
-      Aliia's surrounding explanation; the transcript itself has no speaker
-      labels.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, showed the cold-open teaser, or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-04202
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: assertion
+  text: 'Raj announces that the episode is sponsored by their travel partner, Goibibo, and tells viewers to check the link in the description for a special discount for first-time users of the app.
 
-  - id: raj-shamani-04205
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: experience
-    text: >
-      After Aliia explains that many men stay with an emotionally
-      manipulative partner rather than restart dating from scratch, Raj
-      reacts (laughing) that this is crazy, but concedes it's true, and says
-      he can think of some men he personally knows who think this way.
-    topic: relationship-red-flags
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:48:02]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript has no speaker labels; this is inferred
-      to be Raj's reaction (rather than Aliia's) from the flow of the
-      exchange — a reaction to, then a personal aside following, her
-      explanation.
+    '
+  topic: episode-sponsorship
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-04206
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: belief
-    text: >
-      Raj pushes back on Aliia's claim that men who post lots of gym photos
-      are showing insecurity, asking whether it doesn't just mean they want
-      to show off muscle they built through hard work — arguing there's
-      nothing wrong with that because they're proud of something they did.
-    topic: social-media-red-flags
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:07:05]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript has no speaker labels; attributed to
-      Raj as a counter-argument voiced against the position Aliia had just
-      laid out.
 
-  - id: raj-shamani-04207
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: experience
-    text: >
-      Raj tells Aliia that when he searched for and researched her online
-      ahead of the interview, one word stood out that seemed to capture her
-      — something related to sex/espionage — and he asks her what that term
-      means.
-    topic: guest-research
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:36:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The specific term itself is garbled in the ASR
-      (rendered as something like "sexes"/"sexage"), likely a mistranscribed
-      English word such as "sexpionage"; it has been described rather than
-      translated literally since the exact word could not be confirmed.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, showed the cold-open teaser, or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-04203
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: belief
+  text: 'Reacting (with laughter and apparent surprise) to Aliia describing how someone could deliberately manufacture urgency to influence a romantic or business partner, Raj says this is genuinely "dark psychology," and that he hopes she will be responsible about sharing it — i.e., that people won''t actually go and do this.
 
-  - id: raj-shamani-04208
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: belief
-    text: >
-      Raj says that when he hears about this world of "sexpionage"/honey
-      trapping, it sounds like a fictional James Bond movie — build a
-      psychological connection with someone, trap them, then extract
-      information — and says he's sure most people watching the podcast
-      have the same image in their heads. He then asks Aliia for a bitter
-      truth about her world that would shatter that fictional image.
-    topic: spy-world-perception
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:38:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attributed to Raj based on the reference to "people
-      watching this" (i.e. the podcast's audience) and the direct request
-      to Aliia to describe her own world; the transcript has no speaker
-      labels.
+    '
+  topic: manipulation-ethics
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NGV5S9j_oL4&t=2652s
+    start_timestamp: 00:44:12
+    end_timestamp: 00:44:45
+  evidence:
+    excerpt: null
+  notes: '~[00:44:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript has no speaker labels; this reaction is inferred to be Raj''s from context (a first-person aside interjected mid-explanation, expressing hope about how the information will be used, immediately followed by laughter/surprise markers).
 
-  - id: raj-shamani-04209
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: evidence
-    text: >
-      Raj says he read in a book that the Soviet Union ran a government-run
-      school in Kazan to train women as sexual/seduction agents, and asks
-      Aliia whether the academy where she earned her own qualification was
-      the same kind of school, or a different one.
-    topic: kgb-kazan-school
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:08:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj does not name the book; only the claim itself and
-      the follow-up question are captured here. The transcript has no
-      speaker labels, but this reads as the interviewer introducing outside
-      research, consistent with Raj's role.
 
-  - id: raj-shamani-04210
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: belief
-    text: >
-      Referring back to Aliia telling him he could be an easy target, Raj
-      says that going forward, if he notices a woman he's interested in
-      wearing his favorite color seven times in a row, he'll take note of
-      it, having now learned that this kind of deliberate style-matching can
-      be a honey-trap/manipulation tactic.
-    topic: honey-trap-awareness
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:16:36]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Clearly attributed to Raj via his explicit "you said I
-      could be an easy target" framing referring to himself.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NGV5S9j_oL4&t=2652s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-04204
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: belief
+  text: 'Reacting with apparent surprise to Aliia''s description of a manipulative partner using fabricated ultimatums (e.g., claiming "my father is against us" or that an ex-boyfriend wants her back) to force a man into commitment, Raj says this is a red flag and that it''s better to break up with people who do this.
 
-  - id: raj-shamani-04211
-    person: raj-shamani
-    source: raj-shamani-fo523-aliia-roza
-    type: belief
-    text: >
-      Raj says that after this conversation, he'll be careful about people
-      who give him excessive compliments, agreeing with Aliia that
-      over-the-top flattery is a warning sign.
-    topic: honey-trap-awareness
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:17:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Follows directly from the preceding self-directed
-      takeaway about style-matching; the transcript has no speaker labels,
-      but the first-person "I will be careful" framing is inferred to be
-      Raj's closing reflection.
+    '
+  topic: relationship-red-flags
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:47:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attributed to Raj based on the explicit "(sounding surprised)" marker in the transcript setting this reaction apart from Aliia''s surrounding explanation; the transcript itself has no speaker labels.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, showed the cold-open teaser, or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-04205
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: experience
+  text: 'After Aliia explains that many men stay with an emotionally manipulative partner rather than restart dating from scratch, Raj reacts (laughing) that this is crazy, but concedes it''s true, and says he can think of some men he personally knows who think this way.
+
+    '
+  topic: relationship-red-flags
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NGV5S9j_oL4&t=2882s
+    start_timestamp: 00:48:02
+    end_timestamp: 00:48:20
+  evidence:
+    excerpt: null
+  notes: '~[00:48:02]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript has no speaker labels; this is inferred to be Raj''s reaction (rather than Aliia''s) from the flow of the exchange — a reaction to, then a personal aside following, her explanation.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NGV5S9j_oL4&t=2882s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-04206
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: belief
+  text: 'Raj pushes back on Aliia''s claim that men who post lots of gym photos are showing insecurity, asking whether it doesn''t just mean they want to show off muscle they built through hard work — arguing there''s nothing wrong with that because they''re proud of something they did.
+
+    '
+  topic: social-media-red-flags
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NGV5S9j_oL4&t=4014s
+    start_timestamp: 01:06:54
+    end_timestamp: 01:07:12
+  evidence:
+    excerpt: null
+  notes: '~[01:07:05]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript has no speaker labels; attributed to Raj as a counter-argument voiced against the position Aliia had just laid out.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NGV5S9j_oL4&t=4014s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-04207
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: experience
+  text: 'Raj tells Aliia that when he searched for and researched her online ahead of the interview, one word stood out that seemed to capture her — something related to sex/espionage — and he asks her what that term means.
+
+    '
+  topic: guest-research
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NGV5S9j_oL4&t=5790s
+    start_timestamp: 01:36:30
+    end_timestamp: 01:37:00
+  evidence:
+    excerpt: null
+  notes: '~[01:36:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The specific term itself is garbled in the ASR (rendered as something like "sexes"/"sexage"), likely a mistranscribed English word such as "sexpionage"; it has been described rather than translated literally since the exact word could not be confirmed.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NGV5S9j_oL4&t=5790s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-04208
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: belief
+  text: 'Raj says that when he hears about this world of "sexpionage"/honey trapping, it sounds like a fictional James Bond movie — build a psychological connection with someone, trap them, then extract information — and says he''s sure most people watching the podcast have the same image in their heads. He then asks Aliia for a bitter truth about her world that would shatter that fictional image.
+
+    '
+  topic: spy-world-perception
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NGV5S9j_oL4&t=5880s
+    start_timestamp: 01:38:00
+    end_timestamp: 01:38:15
+  evidence:
+    excerpt: null
+  notes: '~[01:38:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attributed to Raj based on the reference to "people watching this" (i.e. the podcast''s audience) and the direct request to Aliia to describe her own world; the transcript has no speaker labels.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NGV5S9j_oL4&t=5880s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-04209
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: evidence
+  text: 'Raj says he read in a book that the Soviet Union ran a government-run school in Kazan to train women as sexual/seduction agents, and asks Aliia whether the academy where she earned her own qualification was the same kind of school, or a different one.
+
+    '
+  topic: kgb-kazan-school
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NGV5S9j_oL4&t=7728s
+    start_timestamp: 02:08:48
+    end_timestamp: 02:09:02
+  evidence:
+    excerpt: null
+  notes: '~[02:08:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj does not name the book; only the claim itself and the follow-up question are captured here. The transcript has no speaker labels, but this reads as the interviewer introducing outside research, consistent with Raj''s role.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NGV5S9j_oL4&t=7728s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-04210
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: belief
+  text: 'Referring back to Aliia telling him he could be an easy target, Raj says that going forward, if he notices a woman he''s interested in wearing his favorite color seven times in a row, he''ll take note of it, having now learned that this kind of deliberate style-matching can be a honey-trap/manipulation tactic.
+
+    '
+  topic: honey-trap-awareness
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:16:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Clearly attributed to Raj via his explicit "you said I could be an easy target" framing referring to himself.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, showed the cold-open teaser, or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-04211
+  person: raj-shamani
+  source: raj-shamani-fo523-aliia-roza
+  type: belief
+  text: 'Raj says that after this conversation, he''ll be careful about people who give him excessive compliments, agreeing with Aliia that over-the-top flattery is a warning sign.
+
+    '
+  topic: honey-trap-awareness
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NGV5S9j_oL4&t=8220s
+    start_timestamp: 02:17:00
+    end_timestamp: 02:17:15
+  evidence:
+    excerpt: null
+  notes: '~[02:17:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Follows directly from the preceding self-directed takeaway about style-matching; the transcript has no speaker labels, but the first-person "I will be careful" framing is inferred to be Raj''s closing reflection.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NGV5S9j_oL4&t=8220s in-browser (English caption text check, close/exact match).'
