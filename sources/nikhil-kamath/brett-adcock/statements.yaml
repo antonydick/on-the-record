@@ -9,7 +9,7 @@ statements:
       company.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -18,13 +18,28 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Brett
-      Adcock), no diarization. Attribution inferred from conversational
-      role, not confirmed via video. The company name is garbled in the
+      SPEAKER ATTRIBUTION: 1:1 video-call interview (Nikhil interviewing
+      Brett Adcock), no diarization. The company name is garbled in the
       auto-transcript (rendered as "aviation") -- needs the actual name
       confirmed during verification. Cross-reference: corroborates the
       "flying taxi" investment mentioned in nikhil-kamath-010 (Vinod
-      Khosla) and nikhil-kamath-046 (Dara Khosrowshahi).
+      Khosla) and nikhil-kamath-046 (Dara Khosrowshahi). Content
+      confirmed present via NotebookLM (exact line: "i have an
+      investment in a company here in India which does electric taxis
+      called aviation," followed by "...traffic is a big problem in
+      India and...how different Archer is"). Located the surrounding
+      conversation on video -- a "short flights / eVTOL" discussion
+      starting ~6:22 (Nikhil: "Would it also change short haul
+      flights?") through Brett's aviation-safety/battery explanation
+      (~6:32-8:52), which bridges into a "flying robot" segue at 8:55
+      ("if you think about what we do at Figure, building robots...")
+      and a long technical deep-dive on humanoid design (through
+      ~12:00+). The exact sentence containing "I have an investment"
+      was NOT pinned to a specific second in this pass despite dense
+      scrubbing of 6:00-15:00 of the 1:36:19 video -- it sits somewhere
+      in or just after this block; a future pass should resume around
+      12:00-15:00 (chapter "What's inside..." starts at 15:00) rather
+      than re-checking 0:00-12:00.
 
   - id: nikhil-kamath-052
     person: nikhil-kamath
@@ -36,7 +51,7 @@ statements:
       company Nothing (the phone company).
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -45,4 +60,14 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-051.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-051. Content
+      confirmed present via NotebookLM (exact line: "I was investing in
+      a hardware company recently called nothing the phone company,"
+      preceded by "...using AI systems for information retrieval like a
+      Google search and it's mostly a constraint on hardware at this
+      point so this is a digression Brett but..." and followed by
+      "...give me some advice i was playing off this thesis that a lot
+      of the large language models are getting very democratized").
+      This is a separate, later AI-hardware-constraints discussion, not
+      the same segment as nikhil-kamath-051's aviation/robots block.
+      Exact video timestamp NOT located in this pass.
