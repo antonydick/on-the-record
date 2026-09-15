@@ -13,27 +13,34 @@ statements:
       waste, and land use.
     topic: philanthropy
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
+      status: rejected
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
       source_url: null
       start_timestamp: null
       end_timestamp: null
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: four-guest panel (Nikhil's brother Nithin
-      Kamath/Zerodha, Karthik Reddy/Blume Ventures, Rajan Anandan/Peak
-      XV-Sequoia, Prashanth Prakash/Accel), no diarization in the
-      auto-transcript. This statement is confidently attributed to Nikhil
-      because it is the first of the four closing charity pledges (the
-      recurring WTF show ritual where the host commits to a cause), stated
-      immediately after the host's framing of the segment, in first person,
-      and precedes each guest's individual "next" pledge in turn
-      (Prashanth/Rajan/Karthik each match the same 25-lakh amount
-      afterward). Cross-reference: fixed/matched-pledge charity segments
-      also appear in several other episodes (e.g.
-      wtf-is-venture-capital-2025-ep24, wtf-is-real-estate-ep20).
+      MISATTRIBUTED -- REJECTED. This statement is a four-guest panel
+      (Nikhil's brother Nithin Kamath/Zerodha, Karthik Reddy/Blume
+      Ventures, Rajan Anandan/Peak XV-Sequoia, Prashanth Prakash/Accel),
+      no diarization in the auto-transcript. The draft's attribution
+      guess (first of the closing charity pledges, stated by the host) was
+      wrong: NotebookLM cross-reference and the real video (~2:26:10-
+      2:26:50 in the "Third Edition: Vote for a Charity" segment) confirm
+      the ACT Environment / 25-lakh pledge was actually spoken by guest
+      Prashanth Prakash, not Nikhil Kamath ("since we spoke so much for
+      climate and I kind of I'm all in there yeah I'd like to kind of pick
+      act environment ... I will commit of course I've already committed
+      to act and commit an additional 25 lakhs to act ... act environment
+      focuses on air water waste and land use"). Nikhil's own contribution
+      in this same segment is the separate statement nikhil-kamath-226
+      (adding his own 25 lakh and letting the audience pick a charity for
+      him). This entry is being kept per CONTRIBUTING.md policy (never
+      delete a rejected statement) rather than removed; the correct
+      Prashanth Prakash statement should be captured under his own
+      person/source records in a future pass, not here.
 
   - id: nikhil-kamath-226
     person: nikhil-kamath
@@ -48,20 +55,22 @@ statements:
       released.
     topic: philanthropy
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=zCTm1wHcfkI&t=8925s"
+      start_timestamp: "2:28:45"
+      end_timestamp: "2:28:56"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same four-guest panel and no-diarization caveat
-      as nikhil-kamath-225. Attributed to Nikhil because it is stated
-      immediately after all three guests have named their own personal
-      charity picks and pledge amounts, framed as the host adding his own
-      separate commitment on top of theirs and turning the charity
-      selection over to the audience — consistent with the host's role
-      throughout this recurring segment, and immediately followed by the
-      episode's closing thanks and sign-off.
+      as nikhil-kamath-225 (see that entry's notes for the correction --
+      the ACT/25-lakh pledge there was actually Prashanth Prakash, not
+      Nikhil). This statement, by contrast, is confirmed as Nikhil's own:
+      the real video at 2:28:45-2:28:56 shows Nikhil Kamath on screen
+      (unbroken shot) saying, right after Prashanth/Rajan/Karthik have
+      each named their own charity picks, "environmental support yeah so
+      I'll also add 25 lakhs and I will let the audience pick a charity
+      for me and we will put this poll out as soon as the episode is
+      out," immediately followed by the group's closing thanks.
