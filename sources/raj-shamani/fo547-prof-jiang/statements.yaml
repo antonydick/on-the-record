@@ -1,296 +1,253 @@
 statements:
-  - id: raj-shamani-09001
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: belief
-    text: >
-      In his intro narration for the episode, Raj described Prof. Jiang as
-      one of the biggest geopolitical analysts, saying Jiang had predicted
-      the most dangerous conflicts happening in the world right now before
-      anyone else did.
-    topic: prof-jiang-predictive-track-record
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:25]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is from the cold-open/intro narration, spoken by
-      Raj over preview clips of the guest.
+- id: raj-shamani-09001
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: belief
+  text: 'In his intro narration for the episode, Raj described Prof. Jiang as one of the biggest geopolitical analysts, saying Jiang had predicted the most dangerous conflicts happening in the world right now before anyone else did.
 
-  - id: raj-shamani-09002
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: belief
-    text: >
-      Before letting Prof. Jiang continue laying out his "occult
-      financiers/politicians" framework, Raj asked him whether he really
-      believed it was true, or whether it was just a conspiracy theory that
-      people like the two of them - and maybe around 500 others - believed
-      in their own way because they don't fully understand how the world
-      works.
-    topic: conspiracy-theory-skepticism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:29:16]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: prof-jiang-predictive-track-record
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ywd-Ve8a8Tc&t=30s
+    start_timestamp: 00:00:30
+    end_timestamp: 00:00:42
+  evidence:
+    excerpt: null
+  notes: '~[00:00:25]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is from the cold-open/intro narration, spoken by Raj over preview clips of the guest.
 
-  - id: raj-shamani-09003
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: qualification
-    text: >
-      Raj directly asked Prof. Jiang whether the Epstein/occult-financier
-      narrative he was laying out was something he was telling Raj as
-      established fact, or whether it was Jiang's own guess/interpretation.
-    topic: fact-vs-speculation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:08:33]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09004
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: qualification
-    text: >
-      Raj said he didn't fully agree with Jiang's claim that these hidden
-      financiers are only "accelerating" world events rather than
-      controlling them outright, and said he wasn't sure about it - though
-      he allowed there was a small chance Jiang could be right.
-    topic: skepticism-of-jiang-theory
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:11:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker attribution inferred from surrounding
-      dialogue flow (Jiang responds by conceding the point and continuing).
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ywd-Ve8a8Tc&t=30s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09002
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: belief
+  text: 'Before letting Prof. Jiang continue laying out his "occult financiers/politicians" framework, Raj asked him whether he really believed it was true, or whether it was just a conspiracy theory that people like the two of them - and maybe around 500 others - believed in their own way because they don''t fully understand how the world works.
 
-  - id: raj-shamani-09005
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: belief
-    text: >
-      Raj pushed back on Jiang's theory, saying it seemed very unlikely
-      that the world's most powerful nation could be influenced by the
-      methods, goals, and mission of a small nation, since even a
-      country's single most powerful person (its president) doesn't run
-      the whole system alone - many parts actually run it.
-    topic: skepticism-of-jiang-theory
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:18:50]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker attribution supported by Jiang's immediate
-      reply calling it "a very good question."
+    '
+  topic: conspiracy-theory-skepticism
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:29:16]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09006
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: belief
-    text: >
-      Raj said he personally does not think Donald Trump will actually get
-      a third term as US president, calling the idea "nonsense" - noting
-      as one reason that Trump would be about 80 years old by the time it
-      could happen.
-    topic: trump-third-term
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:13:35]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This exchange is rapid back-and-forth in the
-      transcript; speaker turns inferred from context and mild ASR
-      uncertainty is possible.
 
-  - id: raj-shamani-09007
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: qualification
-    text: >
-      Raj admitted he was confused about why Jiang specifically singled
-      out China and Japan as one of the three deliberately engineered
-      conflict zones in Eurasia (alongside Europe/Russia and Iran/Israel),
-      saying he didn't understand that part.
-    topic: china-japan-conflict-theory
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:30:02]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09003
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: qualification
+  text: 'Raj directly asked Prof. Jiang whether the Epstein/occult-financier narrative he was laying out was something he was telling Raj as established fact, or whether it was Jiang''s own guess/interpretation.
 
-  - id: raj-shamani-09008
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: evidence
-    text: >
-      Raj said he had read a report stating that India's dependency on the
-      United States rose from 16% to more than 50%, right after the
-      US-Iran incident.
-    topic: india-us-trade-dependency
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:35:34]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj does not name the report.
+    '
+  topic: fact-vs-speculation
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:08:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09009
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: observation
-    text: >
-      Raj noted a pattern he was drawing across countries: Saudi Arabia
-      has huge oil reserves yet, per Jiang's framework, is one of the
-      weakest countries; Venezuela has abundant natural resources yet had
-      its president toppled/removed; the same is true of Cuba and of many
-      other naturally resource-rich countries, including several in
-      Africa. He asked why such resource-rich countries end up among the
-      weakest rather than the most powerful.
-    topic: resource-curse-pattern
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:02:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript renders the country name as "जुला",
-      which from context (a president being "picked up"/removed) appears
-      to be a garbled ASR rendering of "Venezuela" - flagged as uncertain.
 
-  - id: raj-shamani-09010
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: evidence
-    text: >
-      Raj mentioned he had heard that tech figures like Peter Thiel had
-      bought a company that operates on an island or similar location,
-      run by that same group of people.
-    topic: seasteading
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:47:24]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Jiang's reply identifies this as "seasteading."
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09004
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: qualification
+  text: 'Raj said he didn''t fully agree with Jiang''s claim that these hidden financiers are only "accelerating" world events rather than controlling them outright, and said he wasn''t sure about it - though he allowed there was a small chance Jiang could be right.
 
-  - id: raj-shamani-09011
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: assertion
-    text: >
-      Raj asked Prof. Jiang how he arrives at all his predictions and
-      conclusions - what he reads, what he studies, and how he builds his
-      overall narrative/theory.
-    topic: interview-methodology
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:22:43]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: skepticism-of-jiang-theory
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:11:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker attribution inferred from surrounding dialogue flow (Jiang responds by conceding the point and continuing).
 
-  - id: raj-shamani-09012
-    person: raj-shamani
-    source: raj-shamani-fo547-prof-jiang
-    type: observation
-    text: >
-      Raj noted that his usual final question to almost all of his guests
-      is what price they had to pay to become who they are - here he
-      asked Prof. Jiang what price he paid to become "Professor Jiang."
-    topic: recurring-closing-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:25:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09005
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: belief
+  text: 'Raj pushed back on Jiang''s theory, saying it seemed very unlikely that the world''s most powerful nation could be influenced by the methods, goals, and mission of a small nation, since even a country''s single most powerful person (its president) doesn''t run the whole system alone - many parts actually run it.
+
+    '
+  topic: skepticism-of-jiang-theory
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:18:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker attribution supported by Jiang''s immediate reply calling it "a very good question."
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09006
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: belief
+  text: 'Raj said he personally does not think Donald Trump will actually get a third term as US president, calling the idea "nonsense" - noting as one reason that Trump would be about 80 years old by the time it could happen.
+
+    '
+  topic: trump-third-term
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:13:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This exchange is rapid back-and-forth in the transcript; speaker turns inferred from context and mild ASR uncertainty is possible.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09007
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: qualification
+  text: 'Raj admitted he was confused about why Jiang specifically singled out China and Japan as one of the three deliberately engineered conflict zones in Eurasia (alongside Europe/Russia and Iran/Israel), saying he didn''t understand that part.
+
+    '
+  topic: china-japan-conflict-theory
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:30:02]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09008
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: evidence
+  text: 'Raj said he had read a report stating that India''s dependency on the United States rose from 16% to more than 50%, right after the US-Iran incident.
+
+    '
+  topic: india-us-trade-dependency
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:35:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj does not name the report.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09009
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: observation
+  text: 'Raj noted a pattern he was drawing across countries: Saudi Arabia has huge oil reserves yet, per Jiang''s framework, is one of the weakest countries; Venezuela has abundant natural resources yet had its president toppled/removed; the same is true of Cuba and of many other naturally resource-rich countries, including several in Africa. He asked why such resource-rich countries end up among the weakest rather than the most powerful.
+
+    '
+  topic: resource-curse-pattern
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:02:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript renders the country name as "जुला", which from context (a president being "picked up"/removed) appears to be a garbled ASR rendering of "Venezuela" - flagged as uncertain.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09010
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: evidence
+  text: 'Raj mentioned he had heard that tech figures like Peter Thiel had bought a company that operates on an island or similar location, run by that same group of people.
+
+    '
+  topic: seasteading
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:47:24]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Jiang''s reply identifies this as "seasteading."
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09011
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: assertion
+  text: 'Raj asked Prof. Jiang how he arrives at all his predictions and conclusions - what he reads, what he studies, and how he builds his overall narrative/theory.
+
+    '
+  topic: interview-methodology
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:22:43]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09012
+  person: raj-shamani
+  source: raj-shamani-fo547-prof-jiang
+  type: observation
+  text: 'Raj noted that his usual final question to almost all of his guests is what price they had to pay to become who they are - here he asked Prof. Jiang what price he paid to become "Professor Jiang."
+
+    '
+  topic: recurring-closing-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ywd-Ve8a8Tc&t=8745s
+    start_timestamp: 02:25:45
+    end_timestamp: 02:25:58
+  evidence:
+    excerpt: null
+  notes: '~[02:25:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ywd-Ve8a8Tc&t=8745s in-browser (English caption text check, close/exact match).'
