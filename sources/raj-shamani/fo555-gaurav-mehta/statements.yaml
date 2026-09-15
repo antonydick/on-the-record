@@ -1,299 +1,300 @@
 statements:
-  - id: raj-shamani-10601
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: belief
-    text: >
-      One of the biggest business opportunities in the world today is in the
-      luxury sector.
-    topic: luxury-business-opportunity
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Spoken as part of Raj's episode-intro narration before
-      the guest conversation begins.
+- id: raj-shamani-10601
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: belief
+  text: 'One of the biggest business opportunities in the world today is in the luxury sector.
 
-  - id: raj-shamani-10602
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: assertion
-    text: >
-      The global luxury watch market is worth about $60 billion.
-    topic: luxury-watch-market-size
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's episode-intro narration.
+    '
+  topic: luxury-business-opportunity
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=179s
+    start_timestamp: 00:02:59
+    end_timestamp: 00:03:03
+  evidence:
+    excerpt: null
+  notes: '~[00:02:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Spoken as part of Raj''s episode-intro narration before the guest conversation begins.
 
-  - id: raj-shamani-10603
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: observation
-    text: >
-      The global luxury watch market is dominated by just a few Swiss
-      brands.
-    topic: swiss-brand-dominance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's episode-intro narration.
 
-  - id: raj-shamani-10604
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: belief
-    text: >
-      The secret of the dominant Swiss luxury watch brands lies in
-      marketing, storytelling, and creating scarcity.
-    topic: luxury-marketing-secret
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's episode-intro narration.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=179s in-browser. Watched intro narration; caption reads ''the luxury sector. The global luxury watch market'' at this moment, matching the statement.
 
-  - id: raj-shamani-10605
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: observation
-    text: >
-      Today's guest, Gaurav Mehta, founder of the Jaipur Watch Company,
-      built this industry completely from scratch.
-    topic: jwc-founder-bio
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's episode-intro narration introducing the
-      guest.
+    '
+- id: raj-shamani-10602
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: assertion
+  text: 'The global luxury watch market is worth about $60 billion.
 
-  - id: raj-shamani-10606
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: observation
-    text: >
-      Gaurav Mehta sold his BMW car in 2013 to start his watch business.
-    topic: gaurav-sold-bmw
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's episode-intro narration; Gaurav also
-      recounts this same fact himself later in the episode.
+    '
+  topic: luxury-watch-market-size
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=183s
+    start_timestamp: 00:03:03
+    end_timestamp: 00:03:08
+  evidence:
+    excerpt: null
+  notes: '~[00:02:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s episode-intro narration.
 
-  - id: raj-shamani-10607
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: observation
-    text: >
-      Today Gaurav Mehta's company runs several stores and is about to open
-      its first international store.
-    topic: jwc-stores-expansion
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's episode-intro narration.
 
-  - id: raj-shamani-10608
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: observation
-    text: >
-      This is the last question I ask all my guests: what price did you pay
-      to become an entrepreneur in an industry that didn't even exist?
-    topic: signature-closing-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:40:13]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj states this is a recurring closing question he
-      asks every guest on the show.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=183s in-browser. Caption reads ''nearly $60 billion'' immediately after the luxury-sector line.
 
-  - id: raj-shamani-10609
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: belief
-    text: >
-      The world needs more people like Vivek Gupta, who helped Gaurav's
-      business even though he had no prior connection to him and had
-      reached out only after seeing his products on Facebook.
-    topic: vivek-gupta-praise
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:43:22]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's reaction after Gaurav described how retailer
-      Vivek Gupta helped launch his products at "The Big Door" store in
-      Mumbai.
+    '
+- id: raj-shamani-10603
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: observation
+  text: 'The global luxury watch market is dominated by just a few Swiss brands.
 
-  - id: raj-shamani-10610
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: belief
-    text: >
-      Most beginners, or anyone new to a venture, would have given up after
-      going through such a long, difficult period without success, but
-      Gaurav kept pushing forward.
-    topic: entrepreneurial-perseverance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:52:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: swiss-brand-dominance
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=186s
+    start_timestamp: 00:03:06
+    end_timestamp: 00:03:10
+  evidence:
+    excerpt: null
+  notes: '~[00:02:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s episode-intro narration.
 
-  - id: raj-shamani-10611
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: belief
-    text: >
-      Gaurav is one of the lucky people who got such spectacular results —
-      that kind of opportunity doesn't come to everyone.
-    topic: lucky-results-comment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:55:32]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Said right after Gaurav described the 4x jump in
-      revenue following his Shark Tank India appearance.
 
-  - id: raj-shamani-10612
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: observation
-    text: >
-      Gaurav was smart enough to actually take advantage of that failure
-      (his Shark Tank India rejection), turning it into a successful
-      outcome.
-    topic: shark-tank-ad-smart-move
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:56:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Referring to Gaurav reusing appreciative clips from
-      his rejected Shark Tank India pitch as paid ads.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=186s in-browser. Caption reads ''A handful of Swiss brands dominate'' right after the $60 billion figure.
 
-  - id: raj-shamani-10613
-    person: raj-shamani
-    source: raj-shamani-fo555-gaurav-mehta
-    type: belief
-    text: >
-      I love your journey — whatever you do, I like all of it. I'm a big
-      supporter of your work.
-    topic: host-guest-appreciation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:43:39]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's closing compliment to Gaurav near the end of the
-      episode; the exchange of thanks at this point in the transcript is not
-      cleanly speaker-separated, but this portion's second-person phrasing
-      ("your journey", "whatever you do") is consistent with Raj addressing
-      Gaurav rather than the reverse.
+    '
+- id: raj-shamani-10604
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: belief
+  text: 'The secret of the dominant Swiss luxury watch brands lies in marketing, storytelling, and creating scarcity.
+
+    '
+  topic: luxury-marketing-secret
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=189s
+    start_timestamp: 00:03:09
+    end_timestamp: 00:03:14
+  evidence:
+    excerpt: null
+  notes: '~[00:02:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s episode-intro narration.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=189s in-browser. Caption reads ''storytelling, and scarcity. Our today''s guest,'' matching the marketing/storytelling/scarcity secret and the transition into the guest intro.
+
+    '
+- id: raj-shamani-10605
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: observation
+  text: 'Today''s guest, Gaurav Mehta, founder of the Jaipur Watch Company, built this industry completely from scratch.
+
+    '
+  topic: jwc-founder-bio
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=194s
+    start_timestamp: 00:03:14
+    end_timestamp: 00:03:19
+  evidence:
+    excerpt: null
+  notes: '~[00:03:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s episode-intro narration introducing the guest.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=194s in-browser. Caption reads ''of Jaipur Watch Company, has built in this industry from'' matching Gaurav''s founder bio.
+
+    '
+- id: raj-shamani-10606
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: observation
+  text: 'Gaurav Mehta sold his BMW car in 2013 to start his watch business.
+
+    '
+  topic: gaurav-sold-bmw
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=201s
+    start_timestamp: 00:03:21
+    end_timestamp: 00:03:25
+  evidence:
+    excerpt: null
+  notes: '~[00:03:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s episode-intro narration; Gaurav also recounts this same fact himself later in the episode.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=201s in-browser. Caption reads ''BMW to start this business in 2013 and today his company runs multiple'' matching the BMW/2013 fact.
+
+    '
+- id: raj-shamani-10607
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: observation
+  text: 'Today Gaurav Mehta''s company runs several stores and is about to open its first international store.
+
+    '
+  topic: jwc-stores-expansion
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=205s
+    start_timestamp: 00:03:25
+    end_timestamp: 00:03:29
+  evidence:
+    excerpt: null
+  notes: '~[00:03:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s episode-intro narration.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=205s in-browser. Caption reads ''with its first international store opening soon'' matching the stores-expansion statement.
+
+    '
+- id: raj-shamani-10608
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: observation
+  text: 'This is the last question I ask all my guests: what price did you pay to become an entrepreneur in an industry that didn''t even exist?
+
+    '
+  topic: signature-closing-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=6038s
+    start_timestamp: 01:40:38
+    end_timestamp: 01:40:45
+  evidence:
+    excerpt: null
+  notes: '~[01:40:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj states this is a recurring closing question he asks every guest on the show.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=6038s in-browser. Caption reads ''an entrepreneur in an industry which'' during Raj''s signature closing question.
+
+    '
+- id: raj-shamani-10609
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: belief
+  text: 'The world needs more people like Vivek Gupta, who helped Gaurav''s business even though he had no prior connection to him and had reached out only after seeing his products on Facebook.
+
+    '
+  topic: vivek-gupta-praise
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=2611s
+    start_timestamp: 00:43:31
+    end_timestamp: 00:43:41
+  evidence:
+    excerpt: null
+  notes: '~[00:43:22]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s reaction after Gaurav described how retailer Vivek Gupta helped launch his products at "The Big Door" store in Mumbai.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=2611s in-browser. Caption reads ''How sweet... world. Thanks, Vivek. Thank you so much for doing this for people.'' matching Raj''s praise of Vivek Gupta.
+
+    '
+- id: raj-shamani-10610
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: belief
+  text: 'Most beginners, or anyone new to a venture, would have given up after going through such a long, difficult period without success, but Gaurav kept pushing forward.
+
+    '
+  topic: entrepreneurial-perseverance
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:52:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby [00:52:00]-[00:52:20] (real time ~3120-3141s); Gaurav is mid-sentence discussing his marketing/Facebook boost story and captions did not clearly isolate the ''beginner would give up / you kept going'' line in a single screenshot. Left as draft pending closer re-check.
+
+    '
+- id: raj-shamani-10611
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: belief
+  text: 'Gaurav is one of the lucky people who got such spectacular results — that kind of opportunity doesn''t come to everyone.
+
+    '
+  topic: lucky-results-comment
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=3340s
+    start_timestamp: 00:55:40
+    end_timestamp: 00:55:46
+  evidence:
+    excerpt: null
+  notes: '~[00:55:32]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said right after Gaurav described the 4x jump in revenue following his Shark Tank India appearance.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=3340s in-browser. Caption reads ''Yes. You''re... you''re one'' at the start of Raj calling Gaurav one of the lucky people with spectacular results.
+
+    '
+- id: raj-shamani-10612
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: observation
+  text: 'Gaurav was smart enough to actually take advantage of that failure (his Shark Tank India rejection), turning it into a successful outcome.
+
+    '
+  topic: shark-tank-ad-smart-move
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=3410s
+    start_timestamp: 00:56:50
+    end_timestamp: 00:56:55
+  evidence:
+    excerpt: null
+  notes: '~[00:56:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Referring to Gaurav reusing appreciative clips from his rejected Shark Tank India pitch as paid ads.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=3410s in-browser. Caption reads ''You were smart enough to actually'' matching the statement about capitalizing on the Shark Tank rejection.
+
+    '
+- id: raj-shamani-10613
+  person: raj-shamani
+  source: raj-shamani-fo555-gaurav-mehta
+  type: belief
+  text: 'I love your journey — whatever you do, I like all of it. I''m a big supporter of your work.
+
+    '
+  topic: host-guest-appreciation
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=GKn7ywUpB6c&t=6235s
+    start_timestamp: 01:43:55
+    end_timestamp: 01:44:00
+  evidence:
+    excerpt: null
+  notes: '~[01:43:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s closing compliment to Gaurav near the end of the episode; the exchange of thanks at this point in the transcript is not cleanly speaker-separated, but this portion''s second-person phrasing ("your journey", "whatever you do") is consistent with Raj addressing Gaurav rather than the reverse.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=GKn7ywUpB6c&t=6235s in-browser. Caption reads ''I really love your [journey]'' matching Raj''s closing appreciation.
+
+    '
