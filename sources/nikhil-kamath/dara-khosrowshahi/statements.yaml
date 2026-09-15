@@ -8,20 +8,21 @@ statements:
       Says he lives split between Bangalore, Mumbai, and Goa in India.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=2B8gABDfh7I&t=86s"
+      start_timestamp: "1:26"
+      end_timestamp: "1:30"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Dara
-      Khosrowshahi), no diarization. Attribution inferred from
-      conversational role, not confirmed via video. Adds Mumbai and Goa
-      to the previously-established Bangalore base (see
-      nikhil-kamath-020).
+      Khosrowshahi), no diarization, but confirmed via video captions
+      at 1:26-1:30: after Dara asks where Nikhil is based out of India,
+      Nikhil replies "So, I live between Bangalore, Mumbai and Goa, in
+      India." Adds Mumbai and Goa to the previously-established
+      Bangalore base (see nikhil-kamath-020).
 
   - id: nikhil-kamath-046
     person: nikhil-kamath
@@ -35,19 +36,23 @@ statements:
       mostly focused on India but with some investments elsewhere.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=2B8gABDfh7I&t=4870s"
+      start_timestamp: "1:21:10"
+      end_timestamp: "1:21:28"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-045.
+      SPEAKER ATTRIBUTION: confirmed via video captions at 1:21:10-
+      1:21:28: Nikhil says "So, Dara, I have a fund back home in
+      India... like a private equity fund... I think I've spent a lot
+      of the last couple of years buying into the transition into
+      electric mobility... so we got everything from electric scooters
+      to trucks to buses, we even did [an] electric flying taxi
+      investment recently," addressed directly to Dara by name.
       Cross-reference: corroborates and extends nikhil-kamath-010
       (Vinod Khosla episode -- same EV thesis, adds "flying taxi" and
       confirms geographic focus) and nikhil-kamath-032 (Nikesh Arora
-      episode -- confirms "private equity fund" terminology). Three
-      independent extractions describing the same fund and thesis is a
-      strong signal but still not itself verification.
+      episode -- confirms "private equity fund" terminology).
