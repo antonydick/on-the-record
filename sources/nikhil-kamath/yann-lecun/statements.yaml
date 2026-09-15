@@ -1,1 +1,55 @@
-statements: []
+statements:
+  - id: nikhil-kamath-148
+    person: nikhil-kamath
+    source: nikhil-kamath-yann-lecun
+    type: belief
+    text: >
+      Mentions his own background working in finance and hedge funds,
+      where fund managers have long tried to feed large amounts of data
+      into neural networks to recognize patterns, but expresses
+      skepticism that this works well for markets -- saying it is easy
+      to retrospectively tweak data to make a model appear to make
+      sense, while financial activity tends to be too random to reliably
+      model this way.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Yann
+      LeCun), no diarization. Attribution inferred from conversational
+      role, not confirmed via video. This episode is a long, deeply
+      technical tutorial on AI/ML concepts with very little personal
+      disclosure from Nikhil -- extraction here is correspondingly
+      sparse.
+
+  - id: nikhil-kamath-149
+    person: nikhil-kamath
+    source: nikhil-kamath-yann-lecun
+    type: experience
+    text: >
+      Mentions he was reviewing a data-center business as a potential
+      investment, which prompted his question to Yann LeCun about
+      whether building data centers in India is a good place to focus
+      energy and capital.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-148.
+      Cross-reference: consistent with the data-center investing
+      mentioned in nikhil-kamath-091 and nikhil-kamath-092
+      (EnerVenue x HiNa episode).
