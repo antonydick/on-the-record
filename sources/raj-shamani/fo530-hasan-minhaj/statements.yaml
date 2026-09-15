@@ -1,891 +1,820 @@
 statements:
-  - id: raj-shamani-05601
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: observation
-    text: >
-      In introducing Hasan Minhaj at the top of the episode, Raj describes him
-      as someone who went from performing at small, anonymous venues to
-      standing at the center of the White House Correspondents' Dinner, and
-      says he has redefined comedy in the modern world.
-    topic: guest-intro
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is intro/teaser narration read over the episode
-      open; wording is editorial framing rather than a direct quote of a
-      spoken exchange.
+- id: raj-shamani-05601
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: observation
+  text: 'In introducing Hasan Minhaj at the top of the episode, Raj describes him as someone who went from performing at small, anonymous venues to standing at the center of the White House Correspondents'' Dinner, and says he has redefined comedy in the modern world.
 
-  - id: raj-shamani-05602
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether trying to live up to the standard set by his
-      parents' hard work and work ethic ever negatively affects his
-      creativity.
-    topic: family-expectations
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:24]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This question appears in the intro teaser montage; the
-      answer that follows it there is a jump-cut from elsewhere in the
-      interview, so only the question itself is captured here.
+    '
+  topic: guest-intro
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is intro/teaser narration read over the episode open; wording is editorial framing rather than a direct quote of a spoken exchange.
 
-  - id: raj-shamani-05603
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: observation
-    text: >
-      Raj says he has heard many accounts of Indians living in the US, UK,
-      and elsewhere facing various problems.
-    topic: indian-diaspora
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05604
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan what it feels like to be an Indian who has reached the
-      heights of success, and whether Hasan also faces difficulties because
-      he is Indian.
-    topic: indian-diaspora
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05602
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether trying to live up to the standard set by his parents'' hard work and work ethic ever negatively affects his creativity.
 
-  - id: raj-shamani-05605
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether he had invited Zakir Khan onto his show.
-    topic: zakir-khan
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:32]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. It is ambiguous from the transcript alone whether "his
-      show" refers to Hasan's own show/podcast or to the live show/gig by
-      Zakir Khan that Hasan attended in New York; verifier should confirm
-      against the recording.
+    '
+  topic: family-expectations
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:24]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This question appears in the intro teaser montage; the answer that follows it there is a jump-cut from elsewhere in the interview, so only the question itself is captured here.
 
-  - id: raj-shamani-05606
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether it is hard to make it in comedy in New York too.
-    topic: nyc-comedy-scene
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:09:21]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05607
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: belief
-    text: >
-      Raj remarks that life in Delhi is of course hard too, but says he likes
-      something about Hasan's craft of stand-up comedy, especially because
-      Hasan says stand-up comedy was born in New York.
-    topic: nyc-comedy-scene
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:09:50]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turn-taking is unusually tangled in this
-      passage (ASR gives no speaker labels); attribution to Raj is based on
-      him addressing "your craft" to Hasan, but should be double-checked
-      against the recording.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05603
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: observation
+  text: 'Raj says he has heard many accounts of Indians living in the US, UK, and elsewhere facing various problems.
 
-  - id: raj-shamani-05608
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: observation
-    text: >
-      Raj states that there are many street shows in New York as well, and
-      that among the most memorable shows held at Madison Square are those
-      at Madison Square Garden and Radio City Music Hall.
-    topic: nyc-venues
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:09:50]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: indian-diaspora
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=7C8vFzRv8dg&t=170s
+    start_timestamp: 00:02:50
+    end_timestamp: 00:03:00
+  evidence:
+    excerpt: null
+  notes: '~[00:02:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05609
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks whether it is really very difficult to make it in comedy in
-      New York, or whether everything feels the same now because of the
-      internet age.
-    topic: internet-age-comedy
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:10:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05610
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: observation
-    text: >
-      Raj notes that Hasan started doing comedy quite early, around 2004,
-      roughly twenty years before this conversation, and asks whether Hasan
-      thinks things have changed since then and whether people have become
-      more aggressive.
-    topic: comedy-industry-change
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:12:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=7C8vFzRv8dg&t=170s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-05604
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan what it feels like to be an Indian who has reached the heights of success, and whether Hasan also faces difficulties because he is Indian.
 
-  - id: raj-shamani-05611
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks whether comedians of that earlier era had more freedom to make
-      social commentary about the people and society around them than
-      comedians have today.
-    topic: comedy-industry-change
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:12:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: indian-diaspora
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=7C8vFzRv8dg&t=174s
+    start_timestamp: 00:02:54
+    end_timestamp: 00:03:05
+  evidence:
+    excerpt: null
+  notes: '~[00:02:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05612
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: evidence
-    text: >
-      Raj says he was reading an interview with Hasan in which Hasan said he
-      has the drive/tenacity needed to succeed, and asks where that comes
-      from.
-    topic: hasan-drive
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:14:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript literally says Raj was "interviewing"
-      Hasan at this point, which is likely an ASR mistranscription of "was
-      reading" (the phrase "मैं फिर से पढ़ रहा था" — "I was reading again" —
-      recurs elsewhere in the transcript in the same context).
 
-  - id: raj-shamani-05613
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: evidence
-    text: >
-      Raj says he was reading a study/research finding that sons of immigrant
-      parents work extraordinarily hard to prove to their fathers that they
-      are worth something, and that someone described this as such sons
-      building monuments to show they deserve it.
-    topic: immigrant-sons-research
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:16:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=7C8vFzRv8dg&t=174s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-05605
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether he had invited Zakir Khan onto his show.
 
-  - id: raj-shamani-05614
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether he seeks his father's approval.
-    topic: father-approval
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:16:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: zakir-khan
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:07:32]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. It is ambiguous from the transcript alone whether "his show" refers to Hasan''s own show/podcast or to the live show/gig by Zakir Khan that Hasan attended in New York; verifier should confirm against the recording.
 
-  - id: raj-shamani-05615
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether he still seeks his father's approval today.
-    topic: father-approval
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:17:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05616
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: observation
-    text: >
-      Raj notes that Hasan has said he felt insecure about money at some
-      point because he grew up seeing his parents argue about money, and
-      asks whether that insecurity ever goes away.
-    topic: money-insecurity
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:19:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05606
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether it is hard to make it in comedy in New York too.
 
-  - id: raj-shamani-05617
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan to elaborate on what he learned from the personal
-      finance book he mentioned (J.L. Collins's "The Simple Path to Wealth")
-      that changed his relationship with money.
-    topic: money-book
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:21:16]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript says "my relationship" rather than
-      "your relationship," which is likely a translation/ASR pronoun
-      artifact; interpreted here as Raj asking about Hasan's own relationship
-      with money, consistent with the surrounding conversation.
+    '
+  topic: nyc-comedy-scene
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:09:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05618
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: observation
-    text: >
-      Raj notes that Hasan's parents were worried because he was choosing a
-      career they had no knowledge about.
-    topic: parents-career-worry
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:22:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05619
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether, now that he has chosen his uncertain career
-      path and understands its certainties and uncertainties, he would want
-      his own children to choose the same path.
-    topic: children-career-path
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:22:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05607
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: belief
+  text: 'Raj remarks that life in Delhi is of course hard too, but says he likes something about Hasan''s craft of stand-up comedy, especially because Hasan says stand-up comedy was born in New York.
 
-  - id: raj-shamani-05620
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: evidence
-    text: >
-      Raj says he read that small rejections affect Hasan very deeply, and
-      asks him to confirm this.
-    topic: rejection-sensitivity
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:28:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: nyc-comedy-scene
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:09:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn-taking is unusually tangled in this passage (ASR gives no speaker labels); attribution to Raj is based on him addressing "your craft" to Hasan, but should be double-checked against the recording.
 
-  - id: raj-shamani-05621
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: observation
-    text: >
-      Raj observes that in a 60-minute stand-up special, a comedian might
-      prepare around 20 punchlines, of which about 10 do not work, meaning
-      the comedian faces rejection roughly every 5 to 10 minutes.
-    topic: standup-rejection-mechanics
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:28:34]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05622
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan why he chose a career involving so much rejection, given
-      that rejection has affected him so deeply.
-    topic: rejection-sensitivity
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:28:34]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05608
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: observation
+  text: 'Raj states that there are many street shows in New York as well, and that among the most memorable shows held at Madison Square are those at Madison Square Garden and Radio City Music Hall.
 
-  - id: raj-shamani-05623
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: experience
-    text: >
-      Raj says he was very happy to meet Hasan on The Daily Show, and remarks
-      that he wishes Hasan had his own show.
-    topic: daily-show-meeting
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:30:09]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Hasan corrects Raj immediately after, noting he did
-      have his own show (Patriot Act).
+    '
+  topic: nyc-venues
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:09:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05624
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan what comes next for him.
-    topic: hasan-future-plans
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:30:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05625
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan what his biggest dream is.
-    topic: hasan-biggest-dream
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:31:05]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05609
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks whether it is really very difficult to make it in comedy in New York, or whether everything feels the same now because of the internet age.
 
-  - id: raj-shamani-05626
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan what his worldview is now.
-    topic: hasan-worldview
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:32:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: internet-age-comedy
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:10:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05627
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj tells Hasan not to talk about his upcoming projects, and instead
-      asks what Hasan currently finds exciting or sees as a problem in the
-      world, from any perspective — Indian, Western, or otherwise.
-    topic: world-perspective
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:32:40]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05628
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether he thinks he will adopt that same rebellious
-      attitude to make his point going forward.
-    topic: rebellious-attitude
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:36:16]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05610
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: observation
+  text: 'Raj notes that Hasan started doing comedy quite early, around 2004, roughly twenty years before this conversation, and asks whether Hasan thinks things have changed since then and whether people have become more aggressive.
 
-  - id: raj-shamani-05629
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: observation
-    text: >
-      Raj notes that this conversation is taking place in New York, and
-      states that New York City elected Zohran Mamdani as its mayor.
-    topic: zohran-mamdani
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:36:48]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: comedy-industry-change
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=7C8vFzRv8dg&t=746s
+    start_timestamp: 00:12:26
+    end_timestamp: 00:12:38
+  evidence:
+    excerpt: null
+  notes: '~[00:12:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05630
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj says he is curious, in Hasan's opinion, why Mamdani won, and what
-      people liked most about him.
-    topic: zohran-mamdani
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:38:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05631
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: belief
-    text: >
-      Raj comments that it is genuinely inspiring to see this, and says he
-      loves talking about this topic.
-    topic: zohran-mamdani
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=7C8vFzRv8dg&t=746s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-05611
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks whether comedians of that earlier era had more freedom to make social commentary about the people and society around them than comedians have today.
 
-  - id: raj-shamani-05632
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether he thinks America is still viewed as the ideal
-      place the way everyone used to see it before.
-    topic: america-ideal-place
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: comedy-industry-change
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:12:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05633
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks whether the sentiment of America being the place to be is
-      dying, while more opportunities emerge around the world instead.
-    topic: america-ideal-place
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:30]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05634
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan, with India entering the global stage, what he thinks
-      India's outlook and perspective on the world stage is, and what he
-      thinks Hasan's generation feels about the world.
-    topic: india-global-perspective
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:41:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript's phrasing ("as a young person in
-      India") is likely a translation artifact given Hasan is Indian-American
-      rather than India-based; verifier should confirm the exact wording
-      against the recording.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05612
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: evidence
+  text: 'Raj says he was reading an interview with Hasan in which Hasan said he has the drive/tenacity needed to succeed, and asks where that comes from.
 
-  - id: raj-shamani-05635
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether he thinks he is doing very well.
-    topic: self-assessment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:44:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: hasan-drive
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:14:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript literally says Raj was "interviewing" Hasan at this point, which is likely an ASR mistranscription of "was reading" (the phrase "मैं फिर से पढ़ रहा था" — "I was reading again" — recurs elsewhere in the transcript in the same context).
 
-  - id: raj-shamani-05636
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether he thinks he is doing what he was supposed to
-      do.
-    topic: self-assessment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:44:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05637
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj asks Hasan whether he has ever felt, at the present time, that he
-      is not living up to his full potential.
-    topic: self-assessment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:45:31]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05613
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: evidence
+  text: 'Raj says he was reading a study/research finding that sons of immigrant parents work extraordinarily hard to prove to their fathers that they are worth something, and that someone described this as such sons building monuments to show they deserve it.
 
-  - id: raj-shamani-05638
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: belief
-    text: >
-      Raj remarks that he has also been thinking about the idea that, in
-      their shared culture, every good thing in your life happens because of
-      your parents, and every bad thing in your life also happens because of
-      your parents.
-    topic: culture-parents-paradox
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:46:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: immigrant-sons-research
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:16:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05639
-    person: raj-shamani
-    source: raj-shamani-fo530-hasan-minhaj
-    type: assertion
-    text: >
-      Raj notes that Hasan keeps bringing up his family, and asks, as a final
-      question, what Hasan wants his daughter to feel about his success.
-    topic: daughter-legacy
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:46:25]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05614
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether he seeks his father''s approval.
+
+    '
+  topic: father-approval
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:16:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05615
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether he still seeks his father''s approval today.
+
+    '
+  topic: father-approval
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:17:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05616
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: observation
+  text: 'Raj notes that Hasan has said he felt insecure about money at some point because he grew up seeing his parents argue about money, and asks whether that insecurity ever goes away.
+
+    '
+  topic: money-insecurity
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:19:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05617
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan to elaborate on what he learned from the personal finance book he mentioned (J.L. Collins''s "The Simple Path to Wealth") that changed his relationship with money.
+
+    '
+  topic: money-book
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:21:16]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript says "my relationship" rather than "your relationship," which is likely a translation/ASR pronoun artifact; interpreted here as Raj asking about Hasan''s own relationship with money, consistent with the surrounding conversation.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05618
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: observation
+  text: 'Raj notes that Hasan''s parents were worried because he was choosing a career they had no knowledge about.
+
+    '
+  topic: parents-career-worry
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:22:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05619
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether, now that he has chosen his uncertain career path and understands its certainties and uncertainties, he would want his own children to choose the same path.
+
+    '
+  topic: children-career-path
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:22:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05620
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: evidence
+  text: 'Raj says he read that small rejections affect Hasan very deeply, and asks him to confirm this.
+
+    '
+  topic: rejection-sensitivity
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:28:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05621
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: observation
+  text: 'Raj observes that in a 60-minute stand-up special, a comedian might prepare around 20 punchlines, of which about 10 do not work, meaning the comedian faces rejection roughly every 5 to 10 minutes.
+
+    '
+  topic: standup-rejection-mechanics
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:28:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05622
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan why he chose a career involving so much rejection, given that rejection has affected him so deeply.
+
+    '
+  topic: rejection-sensitivity
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:28:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05623
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: experience
+  text: 'Raj says he was very happy to meet Hasan on The Daily Show, and remarks that he wishes Hasan had his own show.
+
+    '
+  topic: daily-show-meeting
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:30:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Hasan corrects Raj immediately after, noting he did have his own show (Patriot Act).
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05624
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan what comes next for him.
+
+    '
+  topic: hasan-future-plans
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:30:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05625
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan what his biggest dream is.
+
+    '
+  topic: hasan-biggest-dream
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:31:05]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05626
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan what his worldview is now.
+
+    '
+  topic: hasan-worldview
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:32:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05627
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj tells Hasan not to talk about his upcoming projects, and instead asks what Hasan currently finds exciting or sees as a problem in the world, from any perspective — Indian, Western, or otherwise.
+
+    '
+  topic: world-perspective
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:32:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05628
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether he thinks he will adopt that same rebellious attitude to make his point going forward.
+
+    '
+  topic: rebellious-attitude
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:36:16]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05629
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: observation
+  text: 'Raj notes that this conversation is taking place in New York, and states that New York City elected Zohran Mamdani as its mayor.
+
+    '
+  topic: zohran-mamdani
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=7C8vFzRv8dg&t=2206s
+    start_timestamp: 00:36:46
+    end_timestamp: 00:36:58
+  evidence:
+    excerpt: null
+  notes: '~[00:36:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=7C8vFzRv8dg&t=2206s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-05630
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj says he is curious, in Hasan''s opinion, why Mamdani won, and what people liked most about him.
+
+    '
+  topic: zohran-mamdani
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:38:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05631
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: belief
+  text: 'Raj comments that it is genuinely inspiring to see this, and says he loves talking about this topic.
+
+    '
+  topic: zohran-mamdani
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05632
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether he thinks America is still viewed as the ideal place the way everyone used to see it before.
+
+    '
+  topic: america-ideal-place
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05633
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks whether the sentiment of America being the place to be is dying, while more opportunities emerge around the world instead.
+
+    '
+  topic: america-ideal-place
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05634
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan, with India entering the global stage, what he thinks India''s outlook and perspective on the world stage is, and what he thinks Hasan''s generation feels about the world.
+
+    '
+  topic: india-global-perspective
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:41:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript''s phrasing ("as a young person in India") is likely a translation artifact given Hasan is Indian-American rather than India-based; verifier should confirm the exact wording against the recording.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05635
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether he thinks he is doing very well.
+
+    '
+  topic: self-assessment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:44:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05636
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether he thinks he is doing what he was supposed to do.
+
+    '
+  topic: self-assessment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:44:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05637
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj asks Hasan whether he has ever felt, at the present time, that he is not living up to his full potential.
+
+    '
+  topic: self-assessment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:45:31]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05638
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: belief
+  text: 'Raj remarks that he has also been thinking about the idea that, in their shared culture, every good thing in your life happens because of your parents, and every bad thing in your life also happens because of your parents.
+
+    '
+  topic: culture-parents-paradox
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:46:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05639
+  person: raj-shamani
+  source: raj-shamani-fo530-hasan-minhaj
+  type: assertion
+  text: 'Raj notes that Hasan keeps bringing up his family, and asks, as a final question, what Hasan wants his daughter to feel about his success.
+
+    '
+  topic: daughter-legacy
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:46:25]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or attributable to the guest in this pass. Left as draft pending closer re-check.'
