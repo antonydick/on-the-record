@@ -1,450 +1,438 @@
 statements:
-  - id: raj-shamani-11201
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: assertion
-    text: >
-      In introducing this episode, Raj said they would discuss the three
-      biggest lies every employer tells its employees, and why middle
-      management is collapsing and how one can avoid getting stuck in it.
-    topic: episode-preview
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is part of Raj's spoken introduction/preview
-      before the interview begins.
+- id: raj-shamani-11201
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: assertion
+  text: 'In introducing this episode, Raj said they would discuss the three biggest lies every employer tells its employees, and why middle management is collapsing and how one can avoid getting stuck in it.
 
-  - id: raj-shamani-11202
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: assertion
-    text: >
-      Raj said this episode would explore the difference between someone
-      who becomes a CEO/CTO/CXO and someone who remains stuck in middle
-      management.
-    topic: episode-preview
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of Raj's spoken episode preview.
+    '
+  topic: episode-preview
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=174s
+    start_timestamp: 00:02:54
+    end_timestamp: 00:03:03
+  evidence:
+    excerpt: null
+  notes: '~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is part of Raj''s spoken introduction/preview before the interview begins.
 
-  - id: raj-shamani-11203
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: assertion
-    text: >
-      As a teaser for the episode, Raj posed the question of what will
-      replace Google Search, voice assistants, and even one's phone.
-    topic: episode-preview
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:45]-[00:03:13]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Part of Raj's spoken episode preview.
 
-  - id: raj-shamani-11204
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: observation
-    text: >
-      Raj said today's guest built his career in the technology field
-      without any IIT or MBA background and without a coding background.
-    topic: guest-bio
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's spoken introduction of the guest.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=174s in-browser. Caption reads ''India. In this episode, we''ll discuss what are three biggest lies every [employer tells]'' matching the statement verbatim.
 
-  - id: raj-shamani-11205
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: observation
-    text: >
-      Raj said the guest became CTO at Tata Digital.
-    topic: guest-bio
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's spoken introduction of the guest.
+    '
+- id: raj-shamani-11202
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: assertion
+  text: 'Raj said this episode would explore the difference between someone who becomes a CEO/CTO/CXO and someone who remains stuck in middle management.
 
-  - id: raj-shamani-11206
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: observation
-    text: >
-      Raj said the guest, while at SAP, helped lay the foundation for
-      Reliance Jio.
-    topic: guest-bio
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's spoken introduction of the guest.
+    '
+  topic: episode-preview
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=184s
+    start_timestamp: 00:03:04
+    end_timestamp: 00:03:10
+  evidence:
+    excerpt: null
+  notes: '~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of Raj''s spoken episode preview.
 
-  - id: raj-shamani-11207
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: observation
-    text: >
-      Raj introduced the guest, Sauvik Banerjjee, as the Group CTO of
-      Resolve AI and Chairman of Resolve India.
-    topic: guest-bio
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's spoken introduction of the guest.
 
-  - id: raj-shamani-11208
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: belief
-    text: >
-      Raj said the most interesting thing he found about the guest's
-      career was that the guest had been a cricketer who left cricket
-      because of money.
-    topic: guest-career-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:13]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj builds this as a rapid opening statement to the
-      guest; the guest only replies with brief confirmations ("yes,
-      yes") in this passage.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=184s in-browser. Caption reads ''how do you avoid being on the wrong side of it? What separates a [CEO from...]'' matching the statement.
 
-  - id: raj-shamani-11209
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: observation
-    text: >
-      Raj said the guest was not able to earn money from cricket.
-    topic: guest-career-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:13]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of Raj's opening recap of the guest's
-      background; guest only confirms briefly ("right").
+    '
+- id: raj-shamani-11203
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: assertion
+  text: 'As a teaser for the episode, Raj posed the question of what will replace Google Search, voice assistants, and even one''s phone.
 
-  - id: raj-shamani-11210
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: belief
-    text: >
-      Raj observed that the guest didn't seem to have any particular
-      attachment or love for a specific field — he simply ended up as an
-      employee at whichever company was paying him more.
-    topic: guest-career-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:44]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's inference stated directly to the guest during
-      his opening recap.
+    '
+  topic: episode-preview
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=191s
+    start_timestamp: 00:03:11
+    end_timestamp: 00:03:16
+  evidence:
+    excerpt: null
+  notes: '~[00:02:45]-[00:03:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of Raj''s spoken episode preview.
 
-  - id: raj-shamani-11211
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: observation
-    text: >
-      Raj noted that the guest was just an employee — not even a coder —
-      and had not attended IIT or a top MBA institute.
-    topic: guest-career-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:44]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of Raj's opening recap of the guest's
-      background.
 
-  - id: raj-shamani-11212
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: observation
-    text: >
-      Raj said the guest went from being merely an employee to reaching
-      the top CXO position at some of the country's largest corporations,
-      and is now at CXO level in a NASDAQ-listed company.
-    topic: guest-career-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:44]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of Raj's opening recap of the guest's
-      background.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=191s in-browser. Caption reads ''replace Google search voice and even your phone. Watch this episode'' matching the statement verbatim.
 
-  - id: raj-shamani-11213
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: belief
-    text: >
-      Raj said he was sure that many other people who joined British
-      Petroleum as an ordinary employee would not have reached the level
-      the guest reached.
-    topic: guest-career-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:04:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Implies the guest's first job was at British
-      Petroleum; ASR quality around this proper noun is uncertain.
+    '
+- id: raj-shamani-11204
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: observation
+  text: 'Raj said today''s guest built his career in the technology field without any IIT or MBA background and without a coding background.
 
-  - id: raj-shamani-11214
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: experience
-    text: >
-      Raj said he had a question about sports that he would ask later,
-      and that he was making a note of it because he found the ongoing
-      conversation very interesting, even though he knew it would take
-      the discussion in a different direction.
-    topic: podcast-process
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:12:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: guest-bio
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=158s
+    start_timestamp: 00:02:38
+    end_timestamp: 00:02:45
+  evidence:
+    excerpt: null
+  notes: '~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s spoken introduction of the guest.
 
-  - id: raj-shamani-11215
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: belief
-    text: >
-      Raj said he likes provocative/stimulating things and likes wistful,
-      nostalgic moments in conversation, and that he hadn't expected this
-      podcast to revolve around technical topics like the "SU ratio"
-      precision-testing discussion just described, but that he enjoyed it.
-    topic: raj-personal-preferences
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:42]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turn inferred from context: this is
-      meta-commentary about the podcast conversation itself, distinct
-      from the guest's preceding technical explanation of the "SU ratio."
 
-  - id: raj-shamani-11216
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: experience
-    text: >
-      Raj said that his own parents also used to consider the title of
-      General Manager (GM) a prestigious position.
-    topic: gm-title-nostalgia
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:26:42]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attribution inferred: the guest describes his own
-      parents' view of the GM title first, and Raj's brief interjection
-      ("absolutely, my parents too") is treated here as Raj's own remark
-      about his parents.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=158s in-browser. Caption reads ''no coding background. He became CTO at Tata Digital, helped build [Reliance Jio at SAP]'' matching the statement.
 
-  - id: raj-shamani-11217
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: evidence
-    text: >
-      Raj said one of the good principles he had heard about was from
-      Amazon: Jeff Bezos instituted a rule that there would be an empty
-      chair left in every meeting, representing the customer being
-      present in the room.
-    topic: amazon-empty-chair-rule
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:01:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attribution inferred: the passage opens in the
-      first person ("I heard..."), with the guest only interjecting
-      brief confirmations ("yes," "right") before expanding afterward on
-      his own use of a similar rule.
+    '
+- id: raj-shamani-11205
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: observation
+  text: 'Raj said the guest became CTO at Tata Digital.
 
-  - id: raj-shamani-11218
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: mechanism
-    text: >
-      Raj explained that the idea behind Amazon's empty-chair rule is
-      that every decision should be made with the customer's perspective
-      in mind, and that nothing should be discussed in the meeting that
-      couldn't be said in front of the customer.
-    topic: amazon-empty-chair-rule
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:01:18]-[01:01:48]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Attribution inferred from the same passage as
-      the preceding statement about the empty-chair rule.
+    '
+  topic: guest-bio
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=158s
+    start_timestamp: 00:02:38
+    end_timestamp: 00:02:45
+  evidence:
+    excerpt: null
+  notes: '~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s spoken introduction of the guest.
 
-  - id: raj-shamani-11219
-    person: raj-shamani
-    source: raj-shamani-fo558-sauvik-banerjjee
-    type: belief
-    text: >
-      Raj said the Tata Group has existed in India since before
-      1952-1954 — since before much else existed — and said it has
-      probably contributed a great deal to the country's development.
-    topic: tata-group-history
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:32]-[01:15:10]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Attribution inferred from context: this is
-      framed by Raj to the guest, who then responds separately about his
-      own work history with Reliance.
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=158s in-browser. Same caption block: ''He became CTO at Tata Digital'' matching the statement verbatim.
+
+    '
+- id: raj-shamani-11206
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: observation
+  text: 'Raj said the guest, while at SAP, helped lay the foundation for Reliance Jio.
+
+    '
+  topic: guest-bio
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=158s
+    start_timestamp: 00:02:38
+    end_timestamp: 00:02:48
+  evidence:
+    excerpt: null
+  notes: '~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s spoken introduction of the guest.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=158s in-browser. Same caption block continuing: ''helped build [Reliance Jio at SAP] and today he heads technology at an AI company'' matching the statement.
+
+    '
+- id: raj-shamani-11207
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: observation
+  text: 'Raj introduced the guest, Sauvik Banerjjee, as the Group CTO of Resolve AI and Chairman of Resolve India.
+
+    '
+  topic: guest-bio
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=166s
+    start_timestamp: 00:02:46
+    end_timestamp: 00:02:54
+  evidence:
+    excerpt: null
+  notes: '~[00:02:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s spoken introduction of the guest.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=166s in-browser. Caption reads ''Reliance Jio at SAP and today he heads technology at an AI company'' followed by the guest''s full name/title, matching the statement.
+
+    '
+- id: raj-shamani-11208
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: belief
+  text: 'Raj said the most interesting thing he found about the guest''s career was that the guest had been a cricketer who left cricket because of money.
+
+    '
+  topic: guest-career-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=206s
+    start_timestamp: 00:03:26
+    end_timestamp: 00:03:33
+  evidence:
+    excerpt: null
+  notes: '~[00:03:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj builds this as a rapid opening statement to the guest; the guest only replies with brief confirmations ("yes, yes") in this passage.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=206s in-browser. Caption reads ''your career when I was going through all your timelines is... Yes. Yes.'' matching the framing and the guest''s brief confirmations.
+
+    '
+- id: raj-shamani-11209
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: observation
+  text: 'Raj said the guest was not able to earn money from cricket.
+
+    '
+  topic: guest-career-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=212s
+    start_timestamp: 00:03:32
+    end_timestamp: 00:03:36
+  evidence:
+    excerpt: null
+  notes: '~[00:03:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of Raj''s opening recap of the guest''s background; guest only confirms briefly ("right").
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=212s in-browser. Caption reads ''Yes. Yes. >> You were not able to make money.'' matching the statement verbatim.
+
+    '
+- id: raj-shamani-11210
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: belief
+  text: 'Raj observed that the guest didn''t seem to have any particular attachment or love for a specific field — he simply ended up as an employee at whichever company was paying him more.
+
+    '
+  topic: guest-career-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=216s
+    start_timestamp: 00:03:36
+    end_timestamp: 00:03:42
+  evidence:
+    excerpt: null
+  notes: '~[00:03:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s inference stated directly to the guest during his opening recap.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=216s in-browser. Caption reads ''Yes. >> In a random [field]... more money. You had no like some affiliation love towards something,'' matching the statement.
+
+    '
+- id: raj-shamani-11211
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: observation
+  text: 'Raj noted that the guest was just an employee — not even a coder — and had not attended IIT or a top MBA institute.
+
+    '
+  topic: guest-career-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=230s
+    start_timestamp: 00:03:50
+    end_timestamp: 00:03:55
+  evidence:
+    excerpt: null
+  notes: '~[00:03:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of Raj''s opening recap of the guest''s background.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=230s in-browser. Caption reads ''You''re not from IIT. You''re not from >> some big MBA grad school like okay'' matching the statement verbatim.
+
+    '
+- id: raj-shamani-11212
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: observation
+  text: 'Raj said the guest went from being merely an employee to reaching the top CXO position at some of the country''s largest corporations, and is now at CXO level in a NASDAQ-listed company.
+
+    '
+  topic: guest-career-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=238s
+    start_timestamp: 00:03:58
+    end_timestamp: 00:04:15
+  evidence:
+    excerpt: null
+  notes: '~[00:03:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of Raj''s opening recap of the guest''s background.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=238s in-browser. Caption reads ''just from being mere employee to you have become... cracked becoming top CXOs in the largest conglomerates... now you are CXO level in a NASDAQ listed company'' matching the statement.
+
+    '
+- id: raj-shamani-11213
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: belief
+  text: 'Raj said he was sure that many other people who joined British Petroleum as an ordinary employee would not have reached the level the guest reached.
+
+    '
+  topic: guest-career-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=267s
+    start_timestamp: 00:04:27
+    end_timestamp: 00:04:32
+  evidence:
+    excerpt: null
+  notes: '~[00:04:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Implies the guest''s first job was at British Petroleum; ASR quality around this proper noun is uncertain.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=267s in-browser. Caption reads ''who have join who joined as just an employee in that British Petroleum'' confirming the British Petroleum detail.
+
+    '
+- id: raj-shamani-11214
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: experience
+  text: 'Raj said he had a question about sports that he would ask later, and that he was making a note of it because he found the ongoing conversation very interesting, even though he knew it would take the discussion in a different direction.
+
+    '
+  topic: podcast-process
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=730s
+    start_timestamp: 00:12:10
+    end_timestamp: 00:12:18
+  evidence:
+    excerpt: null
+  notes: '~[00:12:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=730s in-browser. Caption reads ''you know >> I had a question but... because it''s a very I know that''ll take our conversation on a different tangent'' matching the statement.
+
+    '
+- id: raj-shamani-11215
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: belief
+  text: 'Raj said he likes provocative/stimulating things and likes wistful, nostalgic moments in conversation, and that he hadn''t expected this podcast to revolve around technical topics like the "SU ratio" precision-testing discussion just described, but that he enjoyed it.
+
+    '
+  topic: raj-personal-preferences
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=2382s
+    start_timestamp: 00:39:42
+    end_timestamp: 00:39:53
+  evidence:
+    excerpt: null
+  notes: '~[00:39:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context: this is meta-commentary about the podcast conversation itself, distinct from the guest''s preceding technical explanation of the "SU ratio."
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=2382s in-browser. Caption reads ''we''ll test it out 2500... on point. >> Nice. I like this. I like racy. I like [nostalgic moments]'' matching the provocative/nostalgic preferences described.
+
+    '
+- id: raj-shamani-11216
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: experience
+  text: 'Raj said that his own parents also used to consider the title of General Manager (GM) a prestigious position.
+
+    '
+  topic: gm-title-nostalgia
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=1602s
+    start_timestamp: 00:26:42
+    end_timestamp: 00:26:50
+  evidence:
+    excerpt: null
+  notes: '~[00:26:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attribution inferred: the guest describes his own parents'' view of the GM title first, and Raj''s brief interjection ("absolutely, my parents too") is treated here as Raj''s own remark about his parents.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=1602s in-browser. Caption reads ''aspirational position for my parents. >> Absolutely. My [parents too]... yeah. I''m not trying to hide my age'' matching the statement and its inferred attribution.
+
+    '
+- id: raj-shamani-11217
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: evidence
+  text: 'Raj said one of the good principles he had heard about was from Amazon: Jeff Bezos instituted a rule that there would be an empty chair left in every meeting, representing the customer being present in the room.
+
+    '
+  topic: amazon-empty-chair-rule
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=3678s
+    start_timestamp: 01:01:18
+    end_timestamp: 01:01:24
+  evidence:
+    excerpt: null
+  notes: '~[01:01:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attribution inferred: the passage opens in the first person ("I heard..."), with the guest only interjecting brief confirmations ("yes," "right") before expanding afterward on his own use of a similar rule.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=3678s in-browser. Caption reads ''True. True. You know one of the good principles I heard [was from Amazon]'' matching the statement verbatim.
+
+    '
+- id: raj-shamani-11218
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: mechanism
+  text: 'Raj explained that the idea behind Amazon''s empty-chair rule is that every decision should be made with the customer''s perspective in mind, and that nothing should be discussed in the meeting that couldn''t be said in front of the customer.
+
+    '
+  topic: amazon-empty-chair-rule
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=3691s
+    start_timestamp: 01:01:31
+    end_timestamp: 01:01:42
+  evidence:
+    excerpt: null
+  notes: '~[01:01:18]-[01:01:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attribution inferred from the same passage as the preceding statement about the empty-chair rule.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=3691s in-browser. Caption reads ''the room. >> Correct. So every decision needs to be made [with the customer in mind]... perspective on the table as well >> and in the entire meeting'' matching the statement.
+
+    '
+- id: raj-shamani-11219
+  person: raj-shamani
+  source: raj-shamani-fo558-sauvik-banerjjee
+  type: belief
+  text: 'Raj said the Tata Group has existed in India since before 1952-1954 — since before much else existed — and said it has probably contributed a great deal to the country''s development.
+
+    '
+  topic: tata-group-history
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=XwawXRaNfzM&t=4508s
+    start_timestamp: 01:15:08
+    end_timestamp: 01:15:20
+  evidence:
+    excerpt: null
+  notes: '~[01:14:32]-[01:15:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attribution inferred from context: this is framed by Raj to the guest, who then responds separately about his own work history with Reliance.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=XwawXRaNfzM&t=4508s in-browser. Caption reads ''development of the country they''ve contributed a lot way before >> 1952[-1954]'' matching the statement verbatim.
+
+    '
