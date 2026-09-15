@@ -1,1 +1,89 @@
-statements: []
+statements:
+  - id: nikhil-kamath-191
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-content-ep8
+    type: experience
+    text: >
+      Says he bought about 2% of PVR as a stock market investment, calling
+      it "a reasonable chunk of money," and that he still holds the
+      position (at whatever percentage it has been diluted to following
+      the PVR-INOX merger), citing Ajay Bijli's resilience during the
+      pandemic -- specifically not taking on significant additional debt
+      -- as something that required "God level" negotiation skill.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: three-person panel (Nikhil hosting PVR
+      chairman Ajay Bijli, Collective Artists Network's Vijay
+      Subramaniam, and Disney+ Hotstar CEO Sajith Sivanandan), no
+      diarization in the auto-transcript. Stated in first person during
+      the closing investment-recommendations segment. Cross-reference:
+      corroborates and extends nikhil-kamath-167 (WTF is E-commerce
+      episode), which describes his PVR short-then-long trading history
+      without mentioning a specific ~2% equity stake.
+
+  - id: nikhil-kamath-192
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-content-ep8
+    type: experience
+    text: >
+      Describes how he met each of the episode's three guests: he met
+      Ajay Bijli many years ago at a mutual friend's (Neeraj's) Diwali
+      party in Delhi; he knows Sajith Sivanandan from Bangalore, from when
+      Sajith was CEO of Google Pay; and he first encountered Vijay
+      Subramaniam by chance one rainy night walking in Bandra, Mumbai,
+      noticing him on the other side of the street with several Bollywood
+      actresses, before later being formally introduced through a mutual
+      friend. Says he and Vijay subsequently started a fund together
+      focused on the intersection of Bangalore's tech world and Bombay's
+      entertainment world.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-191. Told in
+      first person near the start of the episode while introducing the
+      three guests to each other and to the audience.
+
+  - id: nikhil-kamath-193
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-content-ep8
+    type: belief
+    text: >
+      Explains the show's recurring charity segment -- guests commit an
+      amount that goes to a charity chosen by audience poll rather than
+      to him, since he says he is "part of too many charities" already to
+      administer another -- and reflects that helping a cause is not
+      "100% altruistic," describing it as, in a "very twisted way,"
+      partly selfish self-appeasement of one's own morality, while still
+      maintaining the segment's goal is to make giving and community
+      participation "cool."
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-191. This is the
+      host's own framing of the show's closing charity format, stated in
+      first person near the end of the episode.
