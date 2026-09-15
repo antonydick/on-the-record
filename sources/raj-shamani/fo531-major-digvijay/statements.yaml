@@ -1,679 +1,610 @@
 statements:
-  - id: raj-shamani-05801
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj introduces the guest as Major Digvijay Singh Rawat, a former 21
-      Para SF Special Forces officer, recognized with the Kirti Chakra
-      award for exceptional courage and distinguished service.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:49]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's spoken guest introduction/voiceover near
-      the top of the episode.
+- id: raj-shamani-05801
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj introduces the guest as Major Digvijay Singh Rawat, a former 21 Para SF Special Forces officer, recognized with the Kirti Chakra award for exceptional courage and distinguished service.
 
-  - id: raj-shamani-05802
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj opens by confirming with Digvijay that his Para SF postings
-      were in Manipur, then asks what is happening across Manipur,
-      Myanmar, and the whole Northeast belt.
-    topic: episode-opening-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is from the cold-open teaser montage at the
-      very start of the episode.
+    '
+  topic: guest-introduction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s spoken guest introduction/voiceover near the top of the episode.
 
-  - id: raj-shamani-05803
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks what the root cause of the Manipur conflict was.
-    topic: manipur-conflict-root-cause-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:18:09]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The same question is foreshadowed in the cold-open
-      teaser at the very start of the episode; this timestamp is where it
-      is asked in the actual interview flow.
 
-  - id: raj-shamani-05804
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj poses a hypothetical: in a one-on-one combat situation between
-      a Para SF soldier and a Navy SEAL, who would win?
-    topic: para-sf-vs-navy-seal-hypothetical
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:06:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This exact question is also foreshadowed in the
-      cold-open teaser at the very start of the episode.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05802
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj opens by confirming with Digvijay that his Para SF postings were in Manipur, then asks what is happening across Manipur, Myanmar, and the whole Northeast belt.
 
-  - id: raj-shamani-05805
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks Digvijay to tell him about his training days, including
-      whether he ever trained blindfolded.
-    topic: blindfolded-training-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:12:58]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This exact question is also foreshadowed in the
-      cold-open teaser at the very start of the episode.
+    '
+  topic: episode-opening-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=1S73MBFacFE&t=213s
+    start_timestamp: 00:03:33
+    end_timestamp: 00:03:45
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is from the cold-open teaser montage at the very start of the episode.
 
-  - id: raj-shamani-05806
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: recommendation
-    text: >
-      Before starting the podcast, Raj asks viewers who have found
-      anything valuable on the channel to subscribe, noting that it is
-      free and takes less than a minute but means a lot to the team, and
-      also asks listeners to follow the show on Spotify to listen to the
-      audio version of the episode.
-    topic: subscribe-ask
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05807
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj states that when buying a laptop most people check speed,
-      design, and storage but forget something important -- security --
-      and says that because his own data is stored on his laptop he
-      needs a highly secure one, which is why he uses the Asus
-      ExpertBook. He highlights its enterprise-grade multi-layered
-      security system that protects against malware and ransomware at
-      the hardware, BIOS, and operating-system level, including an
-      onboard TPM 2.0 chip and BitLocker encryption to keep sensitive
-      files and documents safe from unauthorized access, and tells
-      viewers the Asus ExpertBook is available on Flipkart with a link
-      in the description.
-    topic: episode-sponsorship
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:31]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is the sponsor read.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=1S73MBFacFE&t=213s in-browser (Hindi caption text check, close/exact match).'
+- id: raj-shamani-05803
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks what the root cause of the Manipur conflict was.
 
-  - id: raj-shamani-05808
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks Digvijay to describe day one of arriving in Manipur, near
-      the Myanmar border, at the start of his posting there.
-    topic: day-one-manipur-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:35]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: manipur-conflict-root-cause-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:18:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The same question is foreshadowed in the cold-open teaser at the very start of the episode; this timestamp is where it is asked in the actual interview flow.
 
-  - id: raj-shamani-05809
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks Digvijay to explain the situation in Manipur, Myanmar, and
-      the whole Northeast belt to him "like he's five years old," saying
-      he knows nothing about it -- why Para SF is deployed there, what
-      the problem is, and why Myanmar is problematic -- starting from
-      zero.
-    topic: explain-like-five-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:06:56]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05810
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      After Digvijay mentions that a special law was removed from an area
-      of Manipur, Raj asks what that Act is (the Armed Forces Special
-      Powers Act) and what he means by it.
-    topic: afspa-clarification-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:07:42]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The Act itself is not named in Raj's question; it
-      is Digvijay who identifies it as AFSPA-like special powers
-      immediately afterward.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05804
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj poses a hypothetical: in a one-on-one combat situation between a Para SF soldier and a Navy SEAL, who would win?
 
-  - id: raj-shamani-05811
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj reminds Digvijay that he had said earlier they would discuss
-      the China angle later, and asks where China is involved in the
-      Manipur conflict.
-    topic: china-angle-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:09:52]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: para-sf-vs-navy-seal-hypothetical
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:06:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This exact question is also foreshadowed in the cold-open teaser at the very start of the episode.
 
-  - id: raj-shamani-05812
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks who the foreigners arrested from the Northeast region are,
-      and whether Digvijay thinks they are CIA agents sent by someone.
-    topic: cia-agents-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:20:46]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05813
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks whether the six Ukrainians and one American mercenary
-      arrested in the Northeast region are funded by the US, by Russia,
-      or independently by Myanmar's National Unity Government (NUG).
-    topic: mercenary-funding-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:25:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05805
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks Digvijay to tell him about his training days, including whether he ever trained blindfolded.
 
-  - id: raj-shamani-05814
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj states that his channel made an entire podcast series on the
-      Punjab drug problem.
-    topic: punjab-drug-series
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:37:01]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: blindfolded-training-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:12:58]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This exact question is also foreshadowed in the cold-open teaser at the very start of the episode.
 
-  - id: raj-shamani-05815
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: experience
-    text: >
-      Raj recounts that he was doing a podcast with a journalist who went
-      on camera in Punjab, around 2-3pm in broad daylight, and openly
-      asked someone to sell drugs -- and the person sold it on camera and
-      walked away laughing, unconcerned about being caught.
-    topic: punjab-drug-investigation-story
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:39:11]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The journalist and location are not further
-      identified in the transcript.
 
-  - id: raj-shamani-05816
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks about the state of the Punjab border and whether it is
-      safe.
-    topic: punjab-border-safety-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:36:08]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05806
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: recommendation
+  text: 'Before starting the podcast, Raj asks viewers who have found anything valuable on the channel to subscribe, noting that it is free and takes less than a minute but means a lot to the team, and also asks listeners to follow the show on Spotify to listen to the audio version of the episode.
 
-  - id: raj-shamani-05817
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Reacting to Digvijay's account of gun violence in Chicago, Raj says
-      "so you're telling me people literally die every day purely
-      because of [gun] violence."
-    topic: chicago-gun-violence-reaction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:44:24]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: subscribe-ask
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=1S73MBFacFE&t=136s
+    start_timestamp: 00:02:16
+    end_timestamp: 00:02:28
+  evidence:
+    excerpt: null
+  notes: '~[00:02:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05818
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks why school shootings happen in the US and what Digvijay
-      thinks the underlying issue is.
-    topic: us-school-shootings-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:46:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05819
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks Digvijay for a proper, direct comparison of what the US
-      Army has that the Indian Army lacks.
-    topic: india-us-military-comparison-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:50:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=1S73MBFacFE&t=136s in-browser (Hindi caption text check, close/exact match).'
+- id: raj-shamani-05807
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj states that when buying a laptop most people check speed, design, and storage but forget something important -- security -- and says that because his own data is stored on his laptop he needs a highly secure one, which is why he uses the Asus ExpertBook. He highlights its enterprise-grade multi-layered security system that protects against malware and ransomware at the hardware, BIOS, and operating-system level, including an onboard TPM 2.0 chip and BitLocker encryption to keep sensitive files and documents safe from unauthorized access, and tells viewers the Asus ExpertBook is available on Flipkart with a link in the description.
 
-  - id: raj-shamani-05820
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks what is special about the US Army's Green Berets and why
-      they are called that.
-    topic: green-berets-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:01:49]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: episode-sponsorship
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=1S73MBFacFE&t=150s
+    start_timestamp: 00:02:30
+    end_timestamp: 00:02:45
+  evidence:
+    excerpt: null
+  notes: '~[00:02:31]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is the sponsor read.
 
-  - id: raj-shamani-05821
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks Digvijay to tell him about his training days, specifically
-      whether there was bullying ("ragda") in the army.
-    topic: army-bullying-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:15:07]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-05822
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks Digvijay about the most fascinating instance of "ragda"
-      (rough hazing/training) that happened to him.
-    topic: fascinating-ragda-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:16:46]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=1S73MBFacFE&t=150s in-browser (Hindi caption text check, close/exact match).'
+- id: raj-shamani-05808
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks Digvijay to describe day one of arriving in Manipur, near the Myanmar border, at the start of his posting there.
 
-  - id: raj-shamani-05823
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj brings the conversation back to why people call Digvijay
-      "Tank," addressing him as "Mister Tank."
-    topic: nickname-tank-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:20:22]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: day-one-manipur-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:03:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05824
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj notes that Digvijay had mentioned, on a pre-interview briefing
-      call, a hostage situation where he neutralized two terrorists but
-      was not able to save a child, and asks him to describe what
-      happened in that situation.
-    topic: hostage-situation-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:21:39]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This reflects Raj referencing a prior briefing call
-      with the guest ahead of recording.
 
-  - id: raj-shamani-05825
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks whether Digvijay's team tried to negotiate with the
-      terrorist holding the hostages, such as offering to let him go.
-    topic: hostage-negotiation-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:30:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05809
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks Digvijay to explain the situation in Manipur, Myanmar, and the whole Northeast belt to him "like he''s five years old," saying he knows nothing about it -- why Para SF is deployed there, what the problem is, and why Myanmar is problematic -- starting from zero.
 
-  - id: raj-shamani-05826
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj asks whether Digvijay feels sad about these things, and whether
-      -- now that he's retired -- it still hurts sometimes when he comes
-      home.
-    topic: emotional-impact-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:32:13]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: explain-like-five-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=1S73MBFacFE&t=414s
+    start_timestamp: 00:06:54
+    end_timestamp: 00:07:05
+  evidence:
+    excerpt: null
+  notes: '~[00:06:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-05827
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: assertion
-    text: >
-      Raj poses his recurring closing "fill in the blank" question to the
-      guest: "India will only grow when ___."
-    topic: closing-fill-in-blank-segment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:38:23]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj describes this as a question he asks guests
-      "these days," suggesting it is a recurring show segment.
 
-  - id: raj-shamani-05828
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: observation
-    text: >
-      Raj thanks Digvijay for explaining the problems the country is
-      facing and the reality of that region, remarking that probably many
-      people don't know about it, and for giving them so many details.
-    topic: episode-closing-remark
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:38:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=1S73MBFacFE&t=414s in-browser (Hindi caption text check, close/exact match).'
+- id: raj-shamani-05810
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'After Digvijay mentions that a special law was removed from an area of Manipur, Raj asks what that Act is (the Armed Forces Special Powers Act) and what he means by it.
 
-  - id: raj-shamani-05829
-    person: raj-shamani
-    source: raj-shamani-fo531-major-digvijay
-    type: recommendation
-    text: >
-      At the end of the episode, Raj asks viewers to do three things:
-      subscribe to the channel so he can bring more valuable guests;
-      comment which guests they want to see next so he can ask them the
-      questions viewers want answered; and share the episode with one
-      person whose life could be positively changed by it, saying one
-      conversation is enough to change someone's life.
-    topic: episode-outro-ask
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:39:34]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: afspa-clarification-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:07:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The Act itself is not named in Raj''s question; it is Digvijay who identifies it as AFSPA-like special powers immediately afterward.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05811
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj reminds Digvijay that he had said earlier they would discuss the China angle later, and asks where China is involved in the Manipur conflict.
+
+    '
+  topic: china-angle-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:09:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05812
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks who the foreigners arrested from the Northeast region are, and whether Digvijay thinks they are CIA agents sent by someone.
+
+    '
+  topic: cia-agents-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:20:46]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05813
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks whether the six Ukrainians and one American mercenary arrested in the Northeast region are funded by the US, by Russia, or independently by Myanmar''s National Unity Government (NUG).
+
+    '
+  topic: mercenary-funding-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:25:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05814
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj states that his channel made an entire podcast series on the Punjab drug problem.
+
+    '
+  topic: punjab-drug-series
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:37:01]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05815
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: experience
+  text: 'Raj recounts that he was doing a podcast with a journalist who went on camera in Punjab, around 2-3pm in broad daylight, and openly asked someone to sell drugs -- and the person sold it on camera and walked away laughing, unconcerned about being caught.
+
+    '
+  topic: punjab-drug-investigation-story
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:39:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The journalist and location are not further identified in the transcript.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05816
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks about the state of the Punjab border and whether it is safe.
+
+    '
+  topic: punjab-border-safety-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:36:08]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05817
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Reacting to Digvijay''s account of gun violence in Chicago, Raj says "so you''re telling me people literally die every day purely because of [gun] violence."
+
+    '
+  topic: chicago-gun-violence-reaction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:44:24]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05818
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks why school shootings happen in the US and what Digvijay thinks the underlying issue is.
+
+    '
+  topic: us-school-shootings-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:46:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05819
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks Digvijay for a proper, direct comparison of what the US Army has that the Indian Army lacks.
+
+    '
+  topic: india-us-military-comparison-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:50:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05820
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks what is special about the US Army''s Green Berets and why they are called that.
+
+    '
+  topic: green-berets-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:01:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05821
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks Digvijay to tell him about his training days, specifically whether there was bullying ("ragda") in the army.
+
+    '
+  topic: army-bullying-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:15:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05822
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks Digvijay about the most fascinating instance of "ragda" (rough hazing/training) that happened to him.
+
+    '
+  topic: fascinating-ragda-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:16:46]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05823
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj brings the conversation back to why people call Digvijay "Tank," addressing him as "Mister Tank."
+
+    '
+  topic: nickname-tank-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:20:22]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05824
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj notes that Digvijay had mentioned, on a pre-interview briefing call, a hostage situation where he neutralized two terrorists but was not able to save a child, and asks him to describe what happened in that situation.
+
+    '
+  topic: hostage-situation-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:21:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This reflects Raj referencing a prior briefing call with the guest ahead of recording.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05825
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks whether Digvijay''s team tried to negotiate with the terrorist holding the hostages, such as offering to let him go.
+
+    '
+  topic: hostage-negotiation-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:30:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05826
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj asks whether Digvijay feels sad about these things, and whether -- now that he''s retired -- it still hurts sometimes when he comes home.
+
+    '
+  topic: emotional-impact-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:32:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05827
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: assertion
+  text: 'Raj poses his recurring closing "fill in the blank" question to the guest: "India will only grow when ___."
+
+    '
+  topic: closing-fill-in-blank-segment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:38:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj describes this as a question he asks guests "these days," suggesting it is a recurring show segment.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05828
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: observation
+  text: 'Raj thanks Digvijay for explaining the problems the country is facing and the reality of that region, remarking that probably many people don''t know about it, and for giving them so many details.
+
+    '
+  topic: episode-closing-remark
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:38:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-05829
+  person: raj-shamani
+  source: raj-shamani-fo531-major-digvijay
+  type: recommendation
+  text: 'At the end of the episode, Raj asks viewers to do three things: subscribe to the channel so he can bring more valuable guests; comment which guests they want to see next so he can ask them the questions viewers want answered; and share the episode with one person whose life could be positively changed by it, saying one conversation is enough to change someone''s life.
+
+    '
+  topic: episode-outro-ask
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:39:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, part of the cold-open teaser, or attributable to the guest''s answer in this pass. Left as draft pending closer re-check.'
