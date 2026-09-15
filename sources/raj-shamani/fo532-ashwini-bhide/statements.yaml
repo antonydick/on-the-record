@@ -1,709 +1,610 @@
 statements:
-  - id: raj-shamani-06001
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj opens the interview by telling the guest he wants to understand
-      everything about Mumbai starting from very basic things, like a
-      student, and asks what a municipal corporation actually does and
-      what its main job is.
-    topic: episode-opening-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:25]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+- id: raj-shamani-06001
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj opens the interview by telling the guest he wants to understand everything about Mumbai starting from very basic things, like a student, and asks what a municipal corporation actually does and what its main job is.
 
-  - id: raj-shamani-06002
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj asks for confirmation that Mumbai's local train (suburban rail)
-      network runs under Indian Railways and does not come under any
-      state government.
-    topic: local-trains-jurisdiction-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:09:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: episode-opening-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=N_eeQVXZOeo&t=216s
+    start_timestamp: 00:03:36
+    end_timestamp: 00:03:48
+  evidence:
+    excerpt: null
+  notes: '~[00:03:25]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06003
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj asks why public transport is run only by governments, and
-      whether a government could instead give it to a private body to
-      run.
-    topic: privatizing-public-transport-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:16:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-06004
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj asks what the terms and conditions are if a metro corporation
-      is unable to repay a loan, for example one taken from a Japanese
-      lender.
-    topic: metro-loan-default-terms-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:26:32]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=N_eeQVXZOeo&t=216s in-browser (Hindi caption text check, close/exact match). Note: this episode has a cold-open teaser that replays some quotes (e.g. the 80,000-crore BMC-budget line) out of order in the first ~2 minutes; verified against the real sequential occurrence later in the interview, not the teaser replay.'
+- id: raj-shamani-06002
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj asks for confirmation that Mumbai''s local train (suburban rail) network runs under Indian Railways and does not come under any state government.
 
-  - id: raj-shamani-06005
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj asks whether the metro project itself is kept as collateral
-      against such loans, for example loans from Japan.
-    topic: metro-project-collateral-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:27:31]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: local-trains-jurisdiction-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:09:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06006
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: observation
-    text: >
-      Raj notes that Air India was running in losses and was eventually
-      handed over by the government to a private player, and asks
-      whether something similar should happen with the railway system.
-    topic: air-india-privatization-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:28:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-06007
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj asks who decides, for the first time, that a particular city
-      needs a metro, and where that thought or decision-making process
-      originates from.
-    topic: metro-decision-initiation-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:30:48]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06003
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj asks why public transport is run only by governments, and whether a government could instead give it to a private body to run.
 
-  - id: raj-shamani-06008
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj asks when the first approval came, after Mumbai's first master
-      plan in 2004, allowing actual construction to go ahead.
-    topic: mumbai-metro-first-approval-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:35:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: privatizing-public-transport-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:16:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06009
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: evidence
-    text: >
-      Raj recounts that he was reading that in 1960, an engineer named
-      P.G. Patankar was the first to propose that Mumbai should be given
-      an underground metro, at an estimated cost of around 4 crore
-      rupees per kilometer at the time, and that the proposal was
-      rejected (India/Mumbai said it should not be built). He then asks
-      whether it should have been approved at that time.
-    topic: mumbai-metro-history-patankar
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj is citing something he says he read, not
-      first-hand knowledge.
 
-  - id: raj-shamani-06010
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj poses a hypothetical question, asking the guest — drawing on
-      her data and knowledge about Mumbai — to imagine a "Patankar
-      moment" from a climate-change and energy-conservation perspective:
-      something that looks too expensive to invest in today but that the
-      city will badly need in the next 50 to 100 years.
-    topic: climate-patankar-moment-hypothetical
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:41:49]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06004
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj asks what the terms and conditions are if a metro corporation is unable to repay a loan, for example one taken from a Japanese lender.
 
-  - id: raj-shamani-06011
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: belief
-    text: >
-      Raj states his own view that building something like the Aqua Line
-      metro in an already-existing, living city like Mumbai is
-      commendable, because building in a brand-new, well-planned city is
-      comparatively easy, whereas in a congested city where blocking
-      even a single road adds an hour to traffic, such construction is
-      extremely complex.
-    topic: urban-infrastructure-complexity
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:49:35]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The ASR text also includes a tunnel-length figure
-      here that is very likely a mis-hearing (compare the guest's own
-      later figures), so no specific length is included in this
-      statement.
+    '
+  topic: metro-loan-default-terms-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:26:32]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06012
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj asks what the biggest challenge is in building an underground
-      metro like the Aqua Line, and separately what the biggest
-      challenge is for an elevated ("flyover") metro.
-    topic: underground-vs-elevated-metro-challenge-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:05:14]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-06013
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: belief
-    text: >
-      Raj states his belief that India is so complex and diverse that a
-      given area's votes can matter a great deal to one political party
-      while a different area matters more to another, calling this "a
-      hard truth" that holds no matter how much people try to deny it.
-    topic: politics-and-infrastructure-projects
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:10:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Made in the context of discussing why metro
-      station locations sometimes face pressure to be changed.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06005
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj asks whether the metro project itself is kept as collateral against such loans, for example loans from Japan.
 
-  - id: raj-shamani-06014
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: observation
-    text: >
-      Raj notes that despite Mumbai being one of the richest cities in
-      the country, its total metro network is only about 101 kilometers,
-      while Delhi's metro network is already over 400 kilometers, and
-      asks why Mumbai fell behind Delhi in metro development.
-    topic: mumbai-delhi-metro-comparison
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:13:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: metro-project-collateral-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:27:31]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06015
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: observation
-    text: >
-      Raj remarks that he finds it "sort of funny," and doesn't know why
-      it makes sense, that Mumbai Metro is operated by the Delhi Metro
-      Rail Corporation, and asks why that is the case.
-    topic: mumbai-metro-operated-by-dmrc
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:18:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-06016
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj states that the cost of building Mumbai Metro Line 3, on a
-      per-kilometer basis, is the highest in Asia for building a metro.
-    topic: mumbai-metro-line3-cost-highest-in-asia
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:19:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This same framing also appears in the episode's
-      cold-open highlight montage.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06006
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: observation
+  text: 'Raj notes that Air India was running in losses and was eventually handed over by the government to a private player, and asks whether something similar should happen with the railway system.
 
-  - id: raj-shamani-06017
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj asks roughly how much it costs to build a single metro
-      station.
-    topic: metro-station-cost-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:27:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: air-india-privatization-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:28:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06018
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: observation
-    text: >
-      Raj recounts an incident in which a metro station opened in 2025,
-      and within 16 days of it opening, a flood occurred at that
-      station.
-    topic: mumbai-metro-flooding-incident-2025
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:28:40]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The guest immediately reframed this in her
-      response, clarifying that the water entered an entry/exit shaft
-      rather than the station itself, that it happened due to
-      unexpected, extreme pre-monsoon showers around 25-26 May of the
-      prior year, and that the entry's construction was not yet complete
-      at the time — a verifier should confirm the exact year and
-      details against the source.
 
-  - id: raj-shamani-06019
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: belief
-    text: >
-      Raj states his belief that Mumbai is unfit to handle the monsoon,
-      that everybody knows this and almost everyone talks about a flood
-      definitely coming somehow and disturbing many lives, and asks the
-      BMC Commissioner how she prepares for this.
-    topic: mumbai-monsoon-preparedness
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:32:39]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This same framing also appears in the episode's
-      cold-open highlight montage.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06007
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj asks who decides, for the first time, that a particular city needs a metro, and where that thought or decision-making process originates from.
 
-  - id: raj-shamani-06020
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: belief
-    text: >
-      Raj remarks that floods caused by rain complicate things and cause
-      trouble, but states that the one problem that exists in Mumbai
-      24/7, 365 days a year, is traffic — adding that he had pulled up a
-      map showing the five biggest traffic "heat zones" in the city.
-    topic: mumbai-traffic-247365
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:49:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This same framing also appears in the episode's
-      cold-open highlight montage. The specific five zones named
-      afterward are attributed to the guest's answer, not included here.
+    '
+  topic: metro-decision-initiation-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:30:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06021
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: experience
-    text: >
-      Raj tells a story about once speaking with a friend of his who, he
-      says, works in the "TNC department" and has advised many
-      governments around the world, including India's government, and
-      recounts asking that friend — like an ordinary citizen would — why
-      traffic doesn't seem to reduce after a metro is built.
-    topic: metro-planning-friend-story
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:54:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. "TNC department" is exactly as heard in the ASR
-      transcript; the real department name/abbreviation is uncertain due
-      to possible mis-transcription and should be confirmed against the
-      source audio.
 
-  - id: raj-shamani-06022
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: evidence
-    text: >
-      Raj recounts that his friend explained that most cities build a
-      metro not because it reduces the traffic that already exists, but
-      so that the extra traffic expected to arrive over the next decade
-      gets diverted onto the metro instead, while existing traffic
-      levels tend to stay much the same.
-    topic: metro-planning-insight-future-traffic
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:55:23]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj recounting what his friend (referenced
-      in the preceding statement) told him, not first-hand technical
-      knowledge of his own.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06008
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj asks when the first approval came, after Mumbai''s first master plan in 2004, allowing actual construction to go ahead.
 
-  - id: raj-shamani-06023
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj asks, roughly, how much it costs per year to run the metro's
-      electricity, following up on the guest's earlier point that
-      electricity is the largest expense in operating a metro.
-    topic: metro-electricity-cost-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:02:17]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: mumbai-metro-first-approval-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:35:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06024
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: evidence
-    text: >
-      Raj states that potholes are a subject with a lot of sentiment
-      attached to it for the people of Mumbai, and notes that the Bombay
-      High Court has repeatedly said that civic bodies should provide
-      data on potholes.
-    topic: mumbai-potholes-high-court
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:07:56]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This same framing also appears in the episode's
-      cold-open highlight montage.
 
-  - id: raj-shamani-06025
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj states that the Brihanmumbai Municipal Corporation is Asia's
-      richest municipal corporation body, with a budget of around 80,000
-      crore rupees, and asks why, despite that, it still isn't able to
-      fill the potholes of a normal city.
-    topic: mumbai-bmc-budget-potholes
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:07:56]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This same framing also appears in the episode's
-      cold-open highlight montage.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06009
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: evidence
+  text: 'Raj recounts that he was reading that in 1960, an engineer named P.G. Patankar was the first to propose that Mumbai should be given an underground metro, at an estimated cost of around 4 crore rupees per kilometer at the time, and that the proposal was rejected (India/Mumbai said it should not be built). He then asks whether it should have been approved at that time.
 
-  - id: raj-shamani-06026
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: observation
-    text: >
-      Raj, showing a photo of an area he identifies as Garib Nagar where
-      a slum demolition had just taken place, asks what the underlying
-      problem was there.
-    topic: mumbai-garib-nagar-slum
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:30:21]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: mumbai-metro-history-patankar
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj is citing something he says he read, not first-hand knowledge.
 
-  - id: raj-shamani-06027
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj asks how water and electricity had been supplied to the slum
-      for so many years, given that the land itself was occupied
-      illegally.
-    topic: illegal-slum-utilities-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:31:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-06028
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: observation
-    text: >
-      Raj states that there are 174 buildings in Mumbai classified in
-      the "C1" category (buildings that could collapse at any time), and
-      that people are living in them without realizing the danger.
-    topic: mumbai-dangerous-buildings-c1
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:35:23]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The guest immediately corrected this figure in her
-      response, saying it is 171 (not 174), that around 100 of those
-      have already been demolished or vacated, and that occupancy of
-      some remaining ones is tied up in ongoing court cases — a verifier
-      should confirm the accurate figure.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06010
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj poses a hypothetical question, asking the guest — drawing on her data and knowledge about Mumbai — to imagine a "Patankar moment" from a climate-change and energy-conservation perspective: something that looks too expensive to invest in today but that the city will badly need in the next 50 to 100 years.
 
-  - id: raj-shamani-06029
-    person: raj-shamani
-    source: raj-shamani-fo532-ashwini-bhide
-    type: assertion
-    text: >
-      Raj closes with a two-part question, asking the BMC Commissioner
-      what the most "brutal" or heartless task is that she has had to
-      carry out in her role, and separately, what one goal she wants to
-      achieve before her term ends.
-    topic: closing-question-hardest-task-and-goal
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:40:46]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: climate-patankar-moment-hypothetical
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:41:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06011
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: belief
+  text: 'Raj states his own view that building something like the Aqua Line metro in an already-existing, living city like Mumbai is commendable, because building in a brand-new, well-planned city is comparatively easy, whereas in a congested city where blocking even a single road adds an hour to traffic, such construction is extremely complex.
+
+    '
+  topic: urban-infrastructure-complexity
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:49:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The ASR text also includes a tunnel-length figure here that is very likely a mis-hearing (compare the guest''s own later figures), so no specific length is included in this statement.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06012
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj asks what the biggest challenge is in building an underground metro like the Aqua Line, and separately what the biggest challenge is for an elevated ("flyover") metro.
+
+    '
+  topic: underground-vs-elevated-metro-challenge-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:05:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06013
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: belief
+  text: 'Raj states his belief that India is so complex and diverse that a given area''s votes can matter a great deal to one political party while a different area matters more to another, calling this "a hard truth" that holds no matter how much people try to deny it.
+
+    '
+  topic: politics-and-infrastructure-projects
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:10:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Made in the context of discussing why metro station locations sometimes face pressure to be changed.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06014
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: observation
+  text: 'Raj notes that despite Mumbai being one of the richest cities in the country, its total metro network is only about 101 kilometers, while Delhi''s metro network is already over 400 kilometers, and asks why Mumbai fell behind Delhi in metro development.
+
+    '
+  topic: mumbai-delhi-metro-comparison
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:13:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06015
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: observation
+  text: 'Raj remarks that he finds it "sort of funny," and doesn''t know why it makes sense, that Mumbai Metro is operated by the Delhi Metro Rail Corporation, and asks why that is the case.
+
+    '
+  topic: mumbai-metro-operated-by-dmrc
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:18:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06016
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj states that the cost of building Mumbai Metro Line 3, on a per-kilometer basis, is the highest in Asia for building a metro.
+
+    '
+  topic: mumbai-metro-line3-cost-highest-in-asia
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:19:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same framing also appears in the episode''s cold-open highlight montage.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06017
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj asks roughly how much it costs to build a single metro station.
+
+    '
+  topic: metro-station-cost-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:27:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06018
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: observation
+  text: 'Raj recounts an incident in which a metro station opened in 2025, and within 16 days of it opening, a flood occurred at that station.
+
+    '
+  topic: mumbai-metro-flooding-incident-2025
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:28:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The guest immediately reframed this in her response, clarifying that the water entered an entry/exit shaft rather than the station itself, that it happened due to unexpected, extreme pre-monsoon showers around 25-26 May of the prior year, and that the entry''s construction was not yet complete at the time — a verifier should confirm the exact year and details against the source.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06019
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: belief
+  text: 'Raj states his belief that Mumbai is unfit to handle the monsoon, that everybody knows this and almost everyone talks about a flood definitely coming somehow and disturbing many lives, and asks the BMC Commissioner how she prepares for this.
+
+    '
+  topic: mumbai-monsoon-preparedness
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:32:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same framing also appears in the episode''s cold-open highlight montage.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06020
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: belief
+  text: 'Raj remarks that floods caused by rain complicate things and cause trouble, but states that the one problem that exists in Mumbai 24/7, 365 days a year, is traffic — adding that he had pulled up a map showing the five biggest traffic "heat zones" in the city.
+
+    '
+  topic: mumbai-traffic-247365
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:49:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same framing also appears in the episode''s cold-open highlight montage. The specific five zones named afterward are attributed to the guest''s answer, not included here.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06021
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: experience
+  text: 'Raj tells a story about once speaking with a friend of his who, he says, works in the "TNC department" and has advised many governments around the world, including India''s government, and recounts asking that friend — like an ordinary citizen would — why traffic doesn''t seem to reduce after a metro is built.
+
+    '
+  topic: metro-planning-friend-story
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:54:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. "TNC department" is exactly as heard in the ASR transcript; the real department name/abbreviation is uncertain due to possible mis-transcription and should be confirmed against the source audio.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06022
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: evidence
+  text: 'Raj recounts that his friend explained that most cities build a metro not because it reduces the traffic that already exists, but so that the extra traffic expected to arrive over the next decade gets diverted onto the metro instead, while existing traffic levels tend to stay much the same.
+
+    '
+  topic: metro-planning-insight-future-traffic
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:55:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj recounting what his friend (referenced in the preceding statement) told him, not first-hand technical knowledge of his own.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06023
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj asks, roughly, how much it costs per year to run the metro''s electricity, following up on the guest''s earlier point that electricity is the largest expense in operating a metro.
+
+    '
+  topic: metro-electricity-cost-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:02:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06024
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: evidence
+  text: 'Raj states that potholes are a subject with a lot of sentiment attached to it for the people of Mumbai, and notes that the Bombay High Court has repeatedly said that civic bodies should provide data on potholes.
+
+    '
+  topic: mumbai-potholes-high-court
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=N_eeQVXZOeo&t=7690s
+    start_timestamp: 02:08:10
+    end_timestamp: 02:08:20
+  evidence:
+    excerpt: null
+  notes: '~[02:07:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same framing also appears in the episode''s cold-open highlight montage.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=N_eeQVXZOeo&t=7690s in-browser (Hindi caption text check, close/exact match). Note: this episode has a cold-open teaser that replays some quotes (e.g. the 80,000-crore BMC-budget line) out of order in the first ~2 minutes; verified against the real sequential occurrence later in the interview, not the teaser replay.'
+- id: raj-shamani-06025
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj states that the Brihanmumbai Municipal Corporation is Asia''s richest municipal corporation body, with a budget of around 80,000 crore rupees, and asks why, despite that, it still isn''t able to fill the potholes of a normal city.
+
+    '
+  topic: mumbai-bmc-budget-potholes
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=N_eeQVXZOeo&t=7700s
+    start_timestamp: 02:08:20
+    end_timestamp: 02:08:35
+  evidence:
+    excerpt: null
+  notes: '~[02:07:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same framing also appears in the episode''s cold-open highlight montage.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=N_eeQVXZOeo&t=7700s in-browser (Hindi caption text check, close/exact match). Note: this episode has a cold-open teaser that replays some quotes (e.g. the 80,000-crore BMC-budget line) out of order in the first ~2 minutes; verified against the real sequential occurrence later in the interview, not the teaser replay.'
+- id: raj-shamani-06026
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: observation
+  text: 'Raj, showing a photo of an area he identifies as Garib Nagar where a slum demolition had just taken place, asks what the underlying problem was there.
+
+    '
+  topic: mumbai-garib-nagar-slum
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:30:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06027
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj asks how water and electricity had been supplied to the slum for so many years, given that the land itself was occupied illegally.
+
+    '
+  topic: illegal-slum-utilities-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:31:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06028
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: observation
+  text: 'Raj states that there are 174 buildings in Mumbai classified in the "C1" category (buildings that could collapse at any time), and that people are living in them without realizing the danger.
+
+    '
+  topic: mumbai-dangerous-buildings-c1
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:35:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The guest immediately corrected this figure in her response, saying it is 171 (not 174), that around 100 of those have already been demolished or vacated, and that occupancy of some remaining ones is tied up in ongoing court cases — a verifier should confirm the accurate figure.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06029
+  person: raj-shamani
+  source: raj-shamani-fo532-ashwini-bhide
+  type: assertion
+  text: 'Raj closes with a two-part question, asking the BMC Commissioner what the most "brutal" or heartless task is that she has had to carry out in her role, and separately, what one goal she wants to achieve before her term ends.
+
+    '
+  topic: closing-question-hardest-task-and-goal
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:40:46]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
