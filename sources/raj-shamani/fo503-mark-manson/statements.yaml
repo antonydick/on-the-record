@@ -1,618 +1,526 @@
 statements:
-  - id: raj-shamani-00201
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: assertion
-    text: >
-      Introduces Mark Manson to the audience as a three-time #1 New York
-      Times bestselling author whose ideas have changed how millions of
-      people think about success, happiness, relationships, and meaning.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj's spoken introduction of the guest at
-      the very start of the episode.
+- id: raj-shamani-00201
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: assertion
+  text: 'Introduces Mark Manson to the audience as a three-time #1 New York Times bestselling author whose ideas have changed how millions of people think about success, happiness, relationships, and meaning.
 
-  - id: raj-shamani-00202
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: belief
-    text: >
-      Says this episode isn't made just to entertain viewers -- it's
-      meant to make them pause, think, and perhaps question some beliefs
-      they have been carrying for years.
-    topic: episode-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:58]-[00:01:20]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Part of Raj's cold-open narration.
+    '
+  topic: guest-introduction
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=0s
+    start_timestamp: 00:00:00
+    end_timestamp: 00:00:12
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj''s spoken introduction of the guest at the very start of the episode.
 
-  - id: raj-shamani-00203
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: recommendation
-    text: >
-      Asks viewers, before starting the episode, to take a little time,
-      remove distractions, and listen carefully.
-    topic: episode-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:01:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-00204
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: assertion
-    text: >
-      States that the episode is sponsored by a travel companion app
-      called Gobo, and tells viewers to check the link in the description
-      to download the app and get a special discount as a first-time
-      user.
-    topic: sponsorship
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. App name "Gobo" as transcribed by ASR; spelling not
-      independently confirmed.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=0s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00202
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: belief
+  text: 'Says this episode isn''t made just to entertain viewers -- it''s meant to make them pause, think, and perhaps question some beliefs they have been carrying for years.
 
-  - id: raj-shamani-00205
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: recommendation
-    text: >
-      Before starting the episode, asks viewers who find these
-      conversations useful to subscribe to the channel, saying it helps
-      him bring more impactful guests and more valuable information to
-      the audience.
-    topic: channel-growth
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: episode-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=78s
+    start_timestamp: 00:01:18
+    end_timestamp: 00:01:30
+  evidence:
+    excerpt: null
+  notes: '~[00:00:58]-[00:01:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of Raj''s cold-open narration.
 
-  - id: raj-shamani-00206
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: observation
-    text: >
-      Asks Mark whether anything from the viral article about India that
-      Mark wrote in 2009 was still true when Mark visited India again
-      this time.
-    topic: mark-manson-2009-article
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:05:44]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. References a specific, independently checkable
-      detail (a 2009 article by Mark Manson about India).
 
-  - id: raj-shamani-00207
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: belief
-    text: >
-      Jokingly suggests that going out, writing things that upset people,
-      and getting away with it -- while generating lots of emails and
-      attention -- could actually be a good brand-building strategy,
-      especially at age 25.
-    topic: controversial-writing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:09:32]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The ASR text in this passage was notably garbled;
-      translation reflects a best-effort reconstruction of the gist.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=78s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00203
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: recommendation
+  text: 'Asks viewers, before starting the episode, to take a little time, remove distractions, and listen carefully.
 
-  - id: raj-shamani-00208
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: belief
-    text: >
-      Says he believes India is currently going through the same phase --
-      regarding things like pickup artists and dating culture -- that
-      America went through years ago, and notes that Mark has been quite
-      interested in this whole area.
-    topic: india-dating-culture
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:22:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: episode-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=80s
+    start_timestamp: 00:01:20
+    end_timestamp: 00:01:32
+  evidence:
+    excerpt: null
+  notes: '~[00:01:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-00209
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: evidence
-    text: >
-      Brings up "the theory propounded by Rene Girard" that female desire
-      is triangular -- that a woman's desire for a man needs another
-      woman to validate him as a target -- and says that per this theory,
-      women like men more when other women want them; asks Mark whether
-      he thinks this is true.
-    topic: mimetic-desire
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:40:51] (a version of this same line is also used earlier as
-      part of the episode's cold-open teaser). Transcribed via YouTube
-      Hindi auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-00210
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: belief
-    text: >
-      Suggests, building on something Mark said about insecure people
-      being drawn to toxic partners, that another reason some people
-      (women or men) stay attracted to toxic people is a kind of victim
-      mentality -- that they like identifying as a victim, on some
-      subconscious level, and become used to staying in that state.
-    topic: victim-mentality
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:56:02]-[00:56:32]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Speaker turn inferred from context, since the
-      transcript has no diarization; moderate confidence.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=80s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00204
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: assertion
+  text: 'States that the episode is sponsored by a travel companion app called Gobo, and tells viewers to check the link in the description to download the app and get a special discount as a first-time user.
 
-  - id: raj-shamani-00211
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: belief
-    text: >
-      Asks whether he thinks humans are "designed" this way -- wired to
-      love chaos -- and suggests that's why most relationships nowadays
-      are breaking down.
-    topic: relationships-and-chaos
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:56:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turn inferred from context, since the
-      transcript has no diarization; moderate confidence.
+    '
+  topic: sponsorship
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=155s
+    start_timestamp: 00:02:35
+    end_timestamp: 00:02:50
+  evidence:
+    excerpt: null
+  notes: '~[00:02:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. App name "Gobo" as transcribed by ASR; spelling not independently confirmed.
 
-  - id: raj-shamani-00212
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: observation
-    text: >
-      Brings up the well-known saying that "nice guys finish last," and
-      asks Mark what harsh truth "nice guys" need to hear -- framing it
-      as the idea that just behaving nicely isn't enough.
-    topic: nice-guys-finish-last
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:06:56]-[01:07:26]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-00213
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: experience
-    text: >
-      Says that despite Andrew Tate and Dan Bilzerian having millions of
-      followers, he has never personally met a single person in real
-      life who actually likes or follows people like them, and wonders
-      where all their followers come from.
-    topic: online-influencers
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:22:55]-[01:23:21]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=155s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00205
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: recommendation
+  text: 'Before starting the episode, asks viewers who find these conversations useful to subscribe to the channel, saying it helps him bring more impactful guests and more valuable information to the audience.
 
-  - id: raj-shamani-00214
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: observation
-    text: >
-      Observes that his own audience and Mark's audience are, right now,
-      a "minority" compared to figures like Andrew Tate and Dan
-      Bilzerian, whose followings are far bigger, and asks why people
-      follow those figures.
-    topic: online-influencers
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:25:08]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: channel-growth
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=160s
+    start_timestamp: 00:02:40
+    end_timestamp: 00:02:55
+  evidence:
+    excerpt: null
+  notes: '~[00:02:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-00215
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: belief
-    text: >
-      Suggests that society would rather watch men die than see them
-      appear weak, pointing to rising numbers of suicides and deaths even
-      as people still expect men to just quietly "manage" and cope, and
-      asks why this is the case.
-    topic: male-suicide
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:36:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-00216
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: experience
-    text: >
-      Says he feels the same way -- a combination of both superiority and
-      inferiority -- whenever he walks into a room for any reason,
-      whether it's for a podcast, a pitch, or a sales meeting.
-    topic: superiority-inferiority
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:00:30]-[02:01:03]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Speaker turn inferred from context (no
-      diarization in transcript) -- follows directly after Mark describes
-      feeling the same mix of emotions; moderate confidence.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=160s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00206
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: observation
+  text: 'Asks Mark whether anything from the viral article about India that Mark wrote in 2009 was still true when Mark visited India again this time.
 
-  - id: raj-shamani-00217
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: evidence
-    text: >
-      Says he was reading a research article in which researchers found
-      that people who experience serious trauma and then dedicate their
-      lives to teaching others about resilience show different brain
-      patterns than people who simply heal and move on -- with the
-      "teachers" getting stuck in a repeating cycle of explaining their
-      trauma, a phenomenon the researchers reportedly termed "performative
-      healing" -- and asks Mark whether he thinks he relates to this.
-    topic: trauma-and-teaching
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:12:18]-[02:12:52]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. The Hindi term used was "प्रदर्शनात्मक
-      उपचार," translated here as "performative healing"; the underlying
-      study/citation is not independently confirmed.
+    '
+  topic: mark-manson-2009-article
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:05:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. References a specific, independently checkable detail (a 2009 article by Mark Manson about India).
 
-  - id: raj-shamani-00218
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: observation
-    text: >
-      Notes that he had read that Mark, especially early in his career,
-      was chasing recognition, fame, and social proof, and asks whether
-      Mark's current fame now fills that emptiness.
-    topic: mark-manson-fame
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:15:40]-[02:16:10]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-00219
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: observation
-    text: >
-      Observes, in the middle of the interview, that Mark tends to laugh
-      off questions like this every time Raj asks them, and directly asks
-      him when he last cried.
-    topic: interview-observation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:42:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): at ~[00:05:44] the caption shows Mark Manson finishing a sentence (''do you think? >>''), not Raj asking about the viral India article. Raj''s actual question is likely a few seconds earlier or later in this exchange; not confidently pinpointed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-00207
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: belief
+  text: 'Jokingly suggests that going out, writing things that upset people, and getting away with it -- while generating lots of emails and attention -- could actually be a good brand-building strategy, especially at age 25.
 
-  - id: raj-shamani-00220
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: mechanism
-    text: >
-      Proposes, drawing on something he says he's read about
-      neuroscience, that children who are bullied develop a heightened
-      perception of threat and cope by emotionally numbing themselves and
-      no longer caring -- and suggests this mechanism is what gives the
-      title of Mark's (best-known) book its meaning to him.
-    topic: childhood-bullying
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:44:17]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj does not name the book title explicitly in this
-      passage; context elsewhere in the episode indicates he means Mark's
-      bestselling book (commonly known in English as "The Subtle Art of
-      Not Giving a F*ck").
+    '
+  topic: controversial-writing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:09:32]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The ASR text in this passage was notably garbled; translation reflects a best-effort reconstruction of the gist.
 
-  - id: raj-shamani-00221
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: evidence
-    text: >
-      Says he read somewhere online -- he thinks on Reddit -- that Mark
-      had dated around 80 people, and that it took him that many
-      relationships to realize that he himself was the common problem.
-    topic: mark-manson-dating-history
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:53:03]-[02:53:30]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. The "80" figure and Reddit sourcing are as
-      stated by Raj in the transcript and have not been independently
-      confirmed.
 
-  - id: raj-shamani-00222
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: experience
-    text: >
-      Tells listeners that his own introduction to Mark's work wasn't
-      through Mark's most popular book, but through Mark's newsletters,
-      which he used to enjoy reading -- where Mark would write things
-      like recommendations, trash-talk certain models/approaches, or
-      share bitter truths and lessons learned over the year, often as
-      lists.
-    topic: mark-manson-newsletters
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:54:01]-[02:54:28]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): at ~[00:09:32] Mark Manson is shown speaking (''I was more disagreeable back then...''), not Raj making the joking suggestion described. Left as draft pending closer re-check of the surrounding exchange.'
+- id: raj-shamani-00208
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: belief
+  text: 'Says he believes India is currently going through the same phase -- regarding things like pickup artists and dating culture -- that America went through years ago, and notes that Mark has been quite interested in this whole area.
 
-  - id: raj-shamani-00223
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: experience
-    text: >
-      Says that after enjoying Mark's newsletters, he then also followed
-      Mark's YouTube channel, and names a specific video/title he liked
-      best -- about how to stop wasting one's life -- asking Mark to
-      expand on it.
-    topic: mark-manson-youtube
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:54:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Exact video title as transcribed was garbled;
-      rendered here by its likely gist ("stop wasting your life" /
-      "how to stop your life from going to waste").
+    '
+  topic: india-dating-culture
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=1339s
+    start_timestamp: 00:22:19
+    end_timestamp: 00:22:30
+  evidence:
+    excerpt: null
+  notes: '~[00:22:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-00224
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: experience
-    text: >
-      Asks Mark -- who Raj notes has appeared on other well-known
-      podcasts, naming hosts he refers to as "Steven" and "Chris," whom
-      Raj says he considers role models -- for feedback on how Raj could
-      make his own podcast better.
-    topic: podcast-feedback
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:58:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. "Steven" and "Chris" are given only by first name in
-      the transcript; they plausibly refer to podcasters Steven Bartlett
-      and Chris Williamson, but full names/identities are not confirmed
-      here.
 
-  - id: raj-shamani-00225
-    person: raj-shamani
-    source: raj-shamani-fo503-mark-manson
-    type: recommendation
-    text: >
-      Closes the episode by asking viewers to do three things: subscribe
-      to the channel, comment with feedback on what the show got right or
-      wrong, and share the episode with a set number of people.
-    topic: outro-cta
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:59:07]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj's standard end-of-episode call to
-      action.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=1339s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00209
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: evidence
+  text: 'Brings up "the theory propounded by Rene Girard" that female desire is triangular -- that a woman''s desire for a man needs another woman to validate him as a target -- and says that per this theory, women like men more when other women want them; asks Mark whether he thinks this is true.
+
+    '
+  topic: mimetic-desire
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=2451s
+    start_timestamp: 00:40:51
+    end_timestamp: 00:41:02
+  evidence:
+    excerpt: null
+  notes: '~[00:40:51] (a version of this same line is also used earlier as part of the episode''s cold-open teaser). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=2451s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00210
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: belief
+  text: 'Suggests, building on something Mark said about insecure people being drawn to toxic partners, that another reason some people (women or men) stay attracted to toxic people is a kind of victim mentality -- that they like identifying as a victim, on some subconscious level, and become used to staying in that state.
+
+    '
+  topic: victim-mentality
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=3362s
+    start_timestamp: 00:56:02
+    end_timestamp: 00:56:13
+  evidence:
+    excerpt: null
+  notes: '~[00:56:02]-[00:56:32]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context, since the transcript has no diarization; moderate confidence.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=3362s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00211
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: belief
+  text: 'Asks whether he thinks humans are "designed" this way -- wired to love chaos -- and suggests that''s why most relationships nowadays are breaking down.
+
+    '
+  topic: relationships-and-chaos
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:56:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context, since the transcript has no diarization; moderate confidence.
+
+
+    Not individually re-confirmed in this pass (adjacent to statement 00210''s timestamp, ~[00:56:02]); left as draft pending a dedicated check.'
+- id: raj-shamani-00212
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: observation
+  text: 'Brings up the well-known saying that "nice guys finish last," and asks Mark what harsh truth "nice guys" need to hear -- framing it as the idea that just behaving nicely isn''t enough.
+
+    '
+  topic: nice-guys-finish-last
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:06:56]-[01:07:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): at ~[01:06:56] Mark Manson is shown speaking (''...I would agree with you too that the...''), not Raj bringing up ''nice guys finish last''. Left as draft pending closer re-check.'
+- id: raj-shamani-00213
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: experience
+  text: 'Says that despite Andrew Tate and Dan Bilzerian having millions of followers, he has never personally met a single person in real life who actually likes or follows people like them, and wonders where all their followers come from.
+
+    '
+  topic: online-influencers
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=4975s
+    start_timestamp: 01:22:55
+    end_timestamp: 01:23:06
+  evidence:
+    excerpt: null
+  notes: '~[01:22:55]-[01:23:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=4975s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00214
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: observation
+  text: 'Observes that his own audience and Mark''s audience are, right now, a "minority" compared to figures like Andrew Tate and Dan Bilzerian, whose followings are far bigger, and asks why people follow those figures.
+
+    '
+  topic: online-influencers
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=5108s
+    start_timestamp: 01:25:08
+    end_timestamp: 01:25:19
+  evidence:
+    excerpt: null
+  notes: '~[01:25:08]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=5108s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00215
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: belief
+  text: 'Suggests that society would rather watch men die than see them appear weak, pointing to rising numbers of suicides and deaths even as people still expect men to just quietly "manage" and cope, and asks why this is the case.
+
+    '
+  topic: male-suicide
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=5807s
+    start_timestamp: 01:36:47
+    end_timestamp: 01:36:58
+  evidence:
+    excerpt: null
+  notes: '~[01:36:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=5807s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00216
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: experience
+  text: 'Says he feels the same way -- a combination of both superiority and inferiority -- whenever he walks into a room for any reason, whether it''s for a podcast, a pitch, or a sales meeting.
+
+    '
+  topic: superiority-inferiority
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=7230s
+    start_timestamp: 02:00:30
+    end_timestamp: 02:00:41
+  evidence:
+    excerpt: null
+  notes: '~[02:00:30]-[02:01:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context (no diarization in transcript) -- follows directly after Mark describes feeling the same mix of emotions; moderate confidence.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=7230s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00217
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: evidence
+  text: 'Says he was reading a research article in which researchers found that people who experience serious trauma and then dedicate their lives to teaching others about resilience show different brain patterns than people who simply heal and move on -- with the "teachers" getting stuck in a repeating cycle of explaining their trauma, a phenomenon the researchers reportedly termed "performative healing" -- and asks Mark whether he thinks he relates to this.
+
+    '
+  topic: trauma-and-teaching
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=7938s
+    start_timestamp: 02:12:18
+    end_timestamp: 02:12:29
+  evidence:
+    excerpt: null
+  notes: '~[02:12:18]-[02:12:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The Hindi term used was "प्रदर्शनात्मक उपचार," translated here as "performative healing"; the underlying study/citation is not independently confirmed.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=7938s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00218
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: observation
+  text: 'Notes that he had read that Mark, especially early in his career, was chasing recognition, fame, and social proof, and asks whether Mark''s current fame now fills that emptiness.
+
+    '
+  topic: mark-manson-fame
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:15:40]-[02:16:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): at ~[02:15:40] Mark Manson is shown speaking (''contribute and help millions of other people...''), not Raj''s observation about Mark''s early career. Left as draft pending closer re-check.'
+- id: raj-shamani-00219
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: observation
+  text: 'Observes, in the middle of the interview, that Mark tends to laugh off questions like this every time Raj asks them, and directly asks him when he last cried.
+
+    '
+  topic: interview-observation
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:42:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): at ~[02:42:45] Mark Manson is shown speaking (''some theoretical level, I see why it fell apart...''), not Raj''s observation about Mark laughing off questions. Left as draft pending closer re-check.'
+- id: raj-shamani-00220
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: mechanism
+  text: 'Proposes, drawing on something he says he''s read about neuroscience, that children who are bullied develop a heightened perception of threat and cope by emotionally numbing themselves and no longer caring -- and suggests this mechanism is what gives the title of Mark''s (best-known) book its meaning to him.
+
+    '
+  topic: childhood-bullying
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=9857s
+    start_timestamp: 02:44:17
+    end_timestamp: 02:44:28
+  evidence:
+    excerpt: null
+  notes: '~[02:44:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj does not name the book title explicitly in this passage; context elsewhere in the episode indicates he means Mark''s bestselling book (commonly known in English as "The Subtle Art of Not Giving a F*ck").
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=9857s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00221
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: evidence
+  text: 'Says he read somewhere online -- he thinks on Reddit -- that Mark had dated around 80 people, and that it took him that many relationships to realize that he himself was the common problem.
+
+    '
+  topic: mark-manson-dating-history
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:53:03]-[02:53:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The "80" figure and Reddit sourcing are as stated by Raj in the transcript and have not been independently confirmed.
+
+
+    Visual verification check (2026-09-15): at ~[02:53:03] Mark Manson is shown speaking (''happened two or three times in a row...''), not Raj recounting something read on Reddit. Left as draft pending closer re-check.'
+- id: raj-shamani-00222
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: experience
+  text: 'Tells listeners that his own introduction to Mark''s work wasn''t through Mark''s most popular book, but through Mark''s newsletters, which he used to enjoy reading -- where Mark would write things like recommendations, trash-talk certain models/approaches, or share bitter truths and lessons learned over the year, often as lists.
+
+    '
+  topic: mark-manson-newsletters
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=10441s
+    start_timestamp: 02:54:01
+    end_timestamp: 02:54:12
+  evidence:
+    excerpt: null
+  notes: '~[02:54:01]-[02:54:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=10441s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00223
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: experience
+  text: 'Says that after enjoying Mark''s newsletters, he then also followed Mark''s YouTube channel, and names a specific video/title he liked best -- about how to stop wasting one''s life -- asking Mark to expand on it.
+
+    '
+  topic: mark-manson-youtube
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=10468s
+    start_timestamp: 02:54:28
+    end_timestamp: 02:54:39
+  evidence:
+    excerpt: null
+  notes: '~[02:54:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Exact video title as transcribed was garbled; rendered here by its likely gist ("stop wasting your life" / "how to stop your life from going to waste").
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=10468s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00224
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: experience
+  text: 'Asks Mark -- who Raj notes has appeared on other well-known podcasts, naming hosts he refers to as "Steven" and "Chris," whom Raj says he considers role models -- for feedback on how Raj could make his own podcast better.
+
+    '
+  topic: podcast-feedback
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=10680s
+    start_timestamp: 02:58:00
+    end_timestamp: 02:58:11
+  evidence:
+    excerpt: null
+  notes: '~[02:58:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. "Steven" and "Chris" are given only by first name in the transcript; they plausibly refer to podcasters Steven Bartlett and Chris Williamson, but full names/identities are not confirmed here.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=10680s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
+- id: raj-shamani-00225
+  person: raj-shamani
+  source: raj-shamani-fo503-mark-manson
+  type: recommendation
+  text: 'Closes the episode by asking viewers to do three things: subscribe to the channel, comment with feedback on what the show got right or wrong, and share the episode with a set number of people.
+
+    '
+  topic: outro-cta
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=ig1VtIEFkcI&t=10747s
+    start_timestamp: 02:59:07
+    end_timestamp: 02:59:30
+  evidence:
+    excerpt: null
+  notes: '~[02:59:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj''s standard end-of-episode call to action.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=ig1VtIEFkcI&t=10747s in-browser (visual + caption check) — confirmed Raj Shamani on camera (matches channel photo / solo-cam or split-screen framing, English captions with ''>>'' speaker-change markers) saying words matching this statement''s text at this point in the recording.'
