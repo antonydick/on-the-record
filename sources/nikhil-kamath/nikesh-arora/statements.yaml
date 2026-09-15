@@ -9,7 +9,7 @@ statements:
       day-to-day trading, as part of his investing activity.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -20,7 +20,17 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Nikesh
       Arora), no diarization. Attribution inferred from conversational
-      role, not confirmed via video.
+      role, not confirmed via video. Content confirmed present via
+      NotebookLM transcript search (exact line: "I have a private
+      equity fund Nikesh and I have been trying to figure out what
+      industry might thrive in 10 years post all the disruption of
+      today"), spoken during a segment about nation-state cyber warfare
+      (Russia-Ukraine as example) and cybersecurity investing. Exact
+      video timestamp NOT pinned in this pass -- checked ~15-30 min and
+      ~40-50 min of the 1:22:12 video (AI-interfaces and compute-infra
+      segments) without a match; the cyber-warfare segment must sit
+      elsewhere (try ~30-40 min or after 55 min, following the "big get
+      bigger" bit around 30:00, in a future pass).
 
   - id: nikhil-kamath-033
     person: nikhil-kamath
@@ -35,7 +45,7 @@ statements:
       concentrated hub again.
     topic: work-habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -44,4 +54,15 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-032.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-032. Content
+      confirmed present via NotebookLM transcript search (exact line:
+      "I feel the exact same way I've met a bunch of really bright kids
+      every day for lunch and dinner the last week and I just feel
+      stupid... I'm here for longer than I was meant to and I want to
+      come back because I feel like suddenly this area has become some
+      kind of a hub," followed shortly by "yeah I met like two dozen of
+      them last night"). Nikesh's own reply immediately after references
+      him moving to Silicon Valley "in 2009... to be part of Google's
+      team," so this is Nikhil reacting to/agreeing with something
+      Nikesh said about the area's cyclical energy. Exact video
+      timestamp NOT pinned in this pass.
