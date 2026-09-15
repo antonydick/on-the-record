@@ -1,289 +1,253 @@
 statements:
-  - id: raj-shamani-06401
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: observation
-    text: >
-      Stanford has placed Dr. V Mohan among the top 2% of scientists in
-      the world.
-    topic: dr-mohan-credentials
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:11:31] (this credential is also referenced in the show's cold
-      open at ~[00:00:00]). Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Raj states this as background/credential
-      information about the guest while leading into a question.
+- id: raj-shamani-06401
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: observation
+  text: 'Stanford has placed Dr. V Mohan among the top 2% of scientists in the world.
 
-  - id: raj-shamani-06402
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: observation
-    text: >
-      Dr. V Mohan is one of India's leading diabetes specialists and has
-      studied diabetes for more than 50 years.
-    topic: dr-mohan-background
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:19], from the host's introductory narration about the
-      guest. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: dr-mohan-credentials
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=6jBaJkwfL1s&t=691s
+    start_timestamp: 00:11:31
+    end_timestamp: 00:11:45
+  evidence:
+    excerpt: null
+  notes: '~[00:11:31] (this credential is also referenced in the show''s cold open at ~[00:00:00]). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj states this as background/credential information about the guest while leading into a question.
 
-  - id: raj-shamani-06403
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: belief
-    text: >
-      I think people should be grateful to you for many things, because
-      this might be one of the rare occasions when India is setting a
-      global standard in the field of medicine.
-    topic: india-medical-leadership
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:05:53]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-06404
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: evidence
-    text: >
-      Out of 100 people with diabetes or pre-diabetes, only 7.7% are
-      able to manage it properly; more than 92% are failing either to
-      reverse it or even to control their sugar, blood pressure, and
-      cholesterol.
-    topic: diabetes-self-management-rate
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:05:53]-[00:06:27]. Raj cites this statistic as part of a
-      question to Dr. Mohan about why people struggle to manage
-      diabetes; the source of the figure is not stated in the
-      transcript. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=6jBaJkwfL1s&t=691s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-06402
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: observation
+  text: 'Dr. V Mohan is one of India''s leading diabetes specialists and has studied diabetes for more than 50 years.
 
-  - id: raj-shamani-06405
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: evidence
-    text: >
-      If an Indian is diagnosed with pre-diabetes, there is a 40%
-      chance they will develop full-blown diabetes within 8 years.
-    topic: prediabetes-progression-risk
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:11:31]. Raj presents this figure while reminding Dr. Mohan
-      of something "shocking" he has previously said about Indians and
-      diabetes; it is presented as Dr. Mohan's own finding being cited
-      back to him rather than as Raj's independent claim. Transcribed
-      via YouTube Hindi auto-captions; text is a close English
-      translation of the original Hindi/Hinglish, not a verbatim quote.
+    '
+  topic: dr-mohan-background
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:19], from the host''s introductory narration about the guest. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06406
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: observation
-    text: >
-      These days, every health-conscious Indian has removed white sugar
-      from their home and started using jaggery (gur) powder instead,
-      which is a very good thing.
-    topic: jaggery-sugar-trend
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:20:39]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-06407
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: evidence
-    text: >
-      I was reading the GI index — jaggery (gur) powder has a glycemic
-      index of about 74 to 80, while white sugar has a glycemic index
-      of about 65.
-    topic: glycemic-index-jaggery-vs-sugar
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:20:39], immediately following Raj's remark about the jaggery
-      trend. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06403
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: belief
+  text: 'I think people should be grateful to you for many things, because this might be one of the rare occasions when India is setting a global standard in the field of medicine.
 
-  - id: raj-shamani-06408
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: evidence
-    text: >
-      I read that every 1% increase in HbA1c corresponds to about a
-      two-year increase in brain age.
-    topic: hba1c-brain-age
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:36:17]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj offers this figure somewhat tentatively while
-      asking Dr. Mohan about the Alzheimer's / "type 3 diabetes"
-      connection.
+    '
+  topic: india-medical-leadership
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=6jBaJkwfL1s&t=350s
+    start_timestamp: 00:05:50
+    end_timestamp: 00:06:02
+  evidence:
+    excerpt: null
+  notes: '~[00:05:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06409
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: belief
-    text: >
-      I'm not interested in oats — oats aren't good for health.
-    topic: oats-health-belief
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:33:49], said while asking Dr. Mohan to name the three best
-      Indian breakfast options. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06410
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: assertion
-    text: >
-      The world's biggest doctors and scientists — whether at Stanford,
-      other top institutions in the US, Europe, or anywhere else in the
-      world — cite this as "Mohan's criteria."
-    topic: mohans-criteria-recognition
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:38:24], said while asking Dr. Mohan about the diagnostic
-      criteria he developed for fibrocalculous pancreatic diabetes
-      (FCPD). Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=6jBaJkwfL1s&t=350s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-06404
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: evidence
+  text: 'Out of 100 people with diabetes or pre-diabetes, only 7.7% are able to manage it properly; more than 92% are failing either to reverse it or even to control their sugar, blood pressure, and cholesterol.
 
-  - id: raj-shamani-06411
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: observation
-    text: >
-      The most interesting thing to me is that you said India is now
-      [doing this] for the world.
-    topic: india-for-the-world
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:05:26], Raj's reaction after Dr. Mohan described his career's
-      significance as being not just for himself but for India and the
-      world. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote — the bracketed phrase reflects some ambiguity in
-      the ASR text about the exact referent of "this."
+    '
+  topic: diabetes-self-management-rate
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:05:53]-[00:06:27]. Raj cites this statistic as part of a question to Dr. Mohan about why people struggle to manage diabetes; the source of the figure is not stated in the transcript. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-06412
-    person: raj-shamani
-    source: raj-shamani-fo534-v-mohan
-    type: belief
-    text: >
-      Even if just one person comes forward because of this, it will be
-      worthwhile.
-    topic: patient-outreach-worth
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:52:34], Raj's response after Dr. Mohan expressed hope that
-      more children with neonatal diabetes would be identified as a
-      result of this episode. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06405
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: evidence
+  text: 'If an Indian is diagnosed with pre-diabetes, there is a 40% chance they will develop full-blown diabetes within 8 years.
+
+    '
+  topic: prediabetes-progression-risk
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=6jBaJkwfL1s&t=698s
+    start_timestamp: 00:11:38
+    end_timestamp: 00:11:52
+  evidence:
+    excerpt: null
+  notes: '~[00:11:31]. Raj presents this figure while reminding Dr. Mohan of something "shocking" he has previously said about Indians and diabetes; it is presented as Dr. Mohan''s own finding being cited back to him rather than as Raj''s independent claim. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=6jBaJkwfL1s&t=698s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-06406
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: observation
+  text: 'These days, every health-conscious Indian has removed white sugar from their home and started using jaggery (gur) powder instead, which is a very good thing.
+
+    '
+  topic: jaggery-sugar-trend
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:20:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06407
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: evidence
+  text: 'I was reading the GI index — jaggery (gur) powder has a glycemic index of about 74 to 80, while white sugar has a glycemic index of about 65.
+
+    '
+  topic: glycemic-index-jaggery-vs-sugar
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:20:39], immediately following Raj''s remark about the jaggery trend. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06408
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: evidence
+  text: 'I read that every 1% increase in HbA1c corresponds to about a two-year increase in brain age.
+
+    '
+  topic: hba1c-brain-age
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:36:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj offers this figure somewhat tentatively while asking Dr. Mohan about the Alzheimer''s / "type 3 diabetes" connection.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06409
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: belief
+  text: 'I''m not interested in oats — oats aren''t good for health.
+
+    '
+  topic: oats-health-belief
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:33:49], said while asking Dr. Mohan to name the three best Indian breakfast options. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06410
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: assertion
+  text: 'The world''s biggest doctors and scientists — whether at Stanford, other top institutions in the US, Europe, or anywhere else in the world — cite this as "Mohan''s criteria."
+
+    '
+  topic: mohans-criteria-recognition
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:38:24], said while asking Dr. Mohan about the diagnostic criteria he developed for fibrocalculous pancreatic diabetes (FCPD). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06411
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: observation
+  text: 'The most interesting thing to me is that you said India is now [doing this] for the world.
+
+    '
+  topic: india-for-the-world
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:05:26], Raj''s reaction after Dr. Mohan described his career''s significance as being not just for himself but for India and the world. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote — the bracketed phrase reflects some ambiguity in the ASR text about the exact referent of "this."
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06412
+  person: raj-shamani
+  source: raj-shamani-fo534-v-mohan
+  type: belief
+  text: 'Even if just one person comes forward because of this, it will be worthwhile.
+
+    '
+  topic: patient-outreach-worth
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:52:34], Raj''s response after Dr. Mohan expressed hope that more children with neonatal diabetes would be identified as a result of this episode. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
