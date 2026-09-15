@@ -11,18 +11,23 @@ statements:
       this interview.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=RSB58m7Xwhg&t=4048s"
+      start_timestamp: "1:07:28"
+      end_timestamp: "1:07:47"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Cypriot
-      President Nikos Christodoulides), no diarization. Attribution
-      inferred from conversational role, not confirmed via video. This
-      episode is a formal geopolitical/diplomatic conversation with very
-      little personal disclosure from Nikhil -- extraction here is
-      correspondingly sparse rather than padded to match other episodes.
+      President Nikos Christodoulides), no diarization, but confirmed
+      via video captions at 1:07:28-1:07:47: Nikhil says "When I read
+      'historian', it piqued my interest... I'm a big fan of history
+      and philosophy, I wish more people in the world were," to which
+      Nikos replies "Yeah, and if I may say, there's something very
+      [genuine and curious about how you approach life]..." confirming
+      Nikhil as the speaker. This episode is a formal
+      geopolitical/diplomatic conversation with very little personal
+      disclosure from Nikhil -- extraction here is correspondingly
+      sparse rather than padded to match other episodes.
