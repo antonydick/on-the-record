@@ -13,22 +13,28 @@ statements:
       the same duty to apply when buying that country's goods.
     topic: economics
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=lRjprPQHuXw&t=1088s"
+      start_timestamp: "18:08"
+      end_timestamp: "18:32"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: three-person panel (Nikhil hosting Nothing
       co-founder Carl Pei, Micromax co-founder Rahul Sharma, and Noise
-      co-founder Amit Khatri), no diarization in the auto-transcript.
-      This is a first-person self-description ("I have no affinity to
-      America. And I'm the biggest proponent...") offered by the host
-      while posing the tariff-fairness question to the panel, distinct
-      from the guests' own business narratives.
+      co-founder Amit Khatri), no diarization in the auto-transcript, but
+      confirmed via clear video (Nikhil visibly on camera). Confirmed at
+      18:08-18:32 ("US tariff's impact on China, India & the industry"
+      chapter -- note per the video description, this segment predates
+      later changes to global trade/tariff policy, so Nikhil's views here
+      may not reflect current regulations): "Like, I'm just... I have no
+      affinity to America. And I'm the biggest proponent of India built
+      for India, supporting Indian product. At some level, doesn't it
+      sound fair? ... And I was selling them something and they were
+      charging me 30% duty on it, I would assume the same duty should
+      apply."
 
   - id: nikhil-kamath-189
     person: nikhil-kamath
@@ -45,7 +51,7 @@ statements:
       makes him worry, since "we are all inherently flawed as people."
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -58,7 +64,13 @@ statements:
       first person as a general reflection following a question about
       whether he'd back a repeat-failure entrepreneur over a first-timer,
       generalizing the point ("this prophecy is true for all life") to
-      friendship rather than describing his own business record.
+      friendship rather than describing his own business record. Not yet
+      pinned to a real-video timestamp in this pass -- a search around
+      the "Roadmap for 20-somethings entering the electronics industry"
+      chapter (~1:23:34 of the 2:46:40 video) did not surface it within
+      the time available; likely located earlier, near Rahul Sharma's
+      "Learnings from risk-taking & resilience" segment (~1:05:00) given
+      the repeat-entrepreneur framing.
 
   - id: nikhil-kamath-190
     person: nikhil-kamath
@@ -76,7 +88,7 @@ statements:
       others can learn from and replicate the model.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -88,4 +100,12 @@ statements:
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-188. Framed and
       proposed in first person by the host near the end of the episode
       ("My fleeting thought, I am quite excited about this component
-      incubator... I think we should find four kids...").
+      incubator... I think we should find four kids..."). Located to the
+      "An electronics launchpad for young entrepreneurs" chapter
+      (~2:07:21-2:12:00 of the 2:46:40 video) via the real video -- the
+      surrounding conversation clearly matches (component-company
+      margins vs. EMS factories, custom duty enabling domestic
+      production, "how do we inspire the young generation," Carl
+      discussing a "moonshot") -- but the exact "fleeting thought"/"four
+      kids" line was not pinned to a specific timestamp within the time
+      available in this pass.
