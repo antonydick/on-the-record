@@ -5,12 +5,12 @@ by hand — changes will be overwritten on the next push to main._
 
 ## People
 
-- Total: 87
+- Total: 86
 
 ## Sources (appearances)
 
-- Total: 213
-  - pending: 150
+- Total: 212
+  - pending: 149
   - extracted: 63
   - in_review: 0
   - complete: 0
