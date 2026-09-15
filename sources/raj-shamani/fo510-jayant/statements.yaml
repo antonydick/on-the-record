@@ -1,339 +1,274 @@
 statements:
-  - id: raj-shamani-01601
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: belief
-    text: >
-      Introduces his guest, Jayant Mundhra, as one of the sharpest
-      voices today on economics, geopolitics, and India's long-term
-      growth story.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:21]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This line is from the episode's cold-open/trailer
-      montage that plays before the interview itself begins (some of
-      this montage content is repeated verbatim later in the actual
-      interview; this particular framing line is not).
+- id: raj-shamani-01601
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: belief
+  text: 'Introduces his guest, Jayant Mundhra, as one of the sharpest voices today on economics, geopolitics, and India''s long-term growth story.
 
-  - id: raj-shamani-01602
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: assertion
-    text: >
-      Frames this episode as covering gold imports, dollar dependency,
-      India's manufacturing reality, and whether India can really
-      become the next superpower.
-    topic: episode-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:21]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Same cold-open/trailer segment as
-      raj-shamani-01601, immediately following it.
+    '
+  topic: guest-introduction
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NuBo8fvnYw0&t=24s
+    start_timestamp: 00:00:24
+    end_timestamp: 00:00:40
+  evidence:
+    excerpt: null
+  notes: '~[00:00:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This line is from the episode''s cold-open/trailer montage that plays before the interview itself begins (some of this montage content is repeated verbatim later in the actual interview; this particular framing line is not).
 
-  - id: raj-shamani-01603
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: assertion
-    text: >
-      Opens the interview by asking Jayant: if someone is watching him
-      for the first time and has no idea who he is or what he does, how
-      would he explain who he is, what he does, and why someone should
-      spend the next hour listening to him.
-    topic: interview-opener
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:13]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is the first question of the actual
-      interview, right after the cold-open montage ends.
 
-  - id: raj-shamani-01604
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: belief
-    text: >
-      States his belief that people should learn to use their own
-      brain rather than becoming people who just say "yes sir, yes
-      sir" to whatever they're told, noting that parents invest
-      heavily in their children's education hoping to make them better
-      than themselves, not to raise agreeable yes-men.
-    topic: critical-thinking
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:48]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NuBo8fvnYw0&t=24s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01602
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: assertion
+  text: 'Frames this episode as covering gold imports, dollar dependency, India''s manufacturing reality, and whether India can really become the next superpower.
 
-  - id: raj-shamani-01605
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: assertion
-    text: >
-      Says that everything he puts out as content is aimed at pushing
-      people to use their own brains, and that he will keep trying to
-      push that same message throughout this podcast.
-    topic: content-philosophy
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:10]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Follows directly from raj-shamani-01604.
+    '
+  topic: episode-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NuBo8fvnYw0&t=24s
+    start_timestamp: 00:00:24
+    end_timestamp: 00:00:50
+  evidence:
+    excerpt: null
+  notes: '~[00:00:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Same cold-open/trailer segment as raj-shamani-01601, immediately following it.
 
-  - id: raj-shamani-01606
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: belief
-    text: >
-      Asks why, even though India is repeatedly described -- with
-      plenty of data behind it -- as one of the fastest-growing
-      economies in the world, people at an individual level, including
-      salaried employees like himself, feel poorer rather than richer,
-      as if inflation is eroding their money faster than the economy is
-      growing.
-    topic: economic-growth-vs-inflation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:40:36]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. No speaker diarization is available in this
-      transcript; attribution to Raj here is based on it being framed
-      as a topic-switching question ("tell me one thing, I'm switching
-      here on this") immediately preceding Jayant's detailed data-led
-      answer.
 
-  - id: raj-shamani-01607
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: observation
-    text: >
-      Mentions that in Jayant's prep notes for the episode, he noticed
-      a recurring pattern: people tend to blame their own salary, their
-      degrees, or their skills for not earning more (e.g. saying "the
-      world has changed too fast and I don't have the skills for it"),
-      rather than looking at systemic causes.
-    topic: notes-prep-salary-blame
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:13:35]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attribution based on the speaker explicitly
-      referencing having read this in "their notes" (i.e. the guest's
-      prep notes), which fits the host's role, followed by a recap of
-      what "you said" -- addressed to Jayant.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NuBo8fvnYw0&t=24s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01603
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: assertion
+  text: 'Opens the interview by asking Jayant: if someone is watching him for the first time and has no idea who he is or what he does, how would he explain who he is, what he does, and why someone should spend the next hour listening to him.
 
-  - id: raj-shamani-01608
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: qualification
-    text: >
-      Admits he could be completely wrong here since he doesn't fully
-      understand it, and asks -- from a place of genuine curiosity --
-      whether real estate prices in a city or country aren't supposed
-      to be tied to people's salaries, income, or business income, i.e.
-      measured by an individual's buying capacity and income-earning
-      capacity.
-    topic: real-estate-pricing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:03:26]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attributed to Raj based on the explicit
-      self-deprecating framing ("I could be purely wrong here"), which
-      is immediately followed by Jayant giving a textbook-style answer
-      about supply and demand.
+    '
+  topic: interview-opener
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NuBo8fvnYw0&t=168s
+    start_timestamp: 00:02:48
+    end_timestamp: 00:03:00
+  evidence:
+    excerpt: null
+  notes: '~[00:02:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is the first question of the actual interview, right after the cold-open montage ends.
 
-  - id: raj-shamani-01609
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: belief
-    text: >
-      Pushes back by asking whether NRI money coming into the country
-      to buy real estate assets isn't actually a good thing, since
-      people earning abroad are investing that money back home.
-    topic: nri-remittances-real-estate
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:05:54]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-01610
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: observation
-    text: >
-      Mentions that another "crisis" he read about in Jayant's prep
-      notes for the episode was about microfinance, and asks what this
-      microfinance crisis actually is.
-    topic: notes-prep-microfinance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:35:40]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attribution based on the same "in [your/their]
-      notes" framing used in raj-shamani-01607.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NuBo8fvnYw0&t=168s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01604
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: belief
+  text: 'States his belief that people should learn to use their own brain rather than becoming people who just say "yes sir, yes sir" to whatever they''re told, noting that parents invest heavily in their children''s education hoping to make them better than themselves, not to raise agreeable yes-men.
 
-  - id: raj-shamani-01611
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: belief
-    text: >
-      Asks Jayant whether the steady, incremental rise in fuel duties
-      and similar costs in India is a "boiling frog" phenomenon, where
-      the increase happens so gradually that people don't notice it
-      building up until it becomes too late, and mentions that he and
-      his show have covered many similar sectors on the podcast before
-      where this kind of gradual dependency has hurt India's
-      manufacturing and its currency.
-    topic: fuel-tax-boiling-frog
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:21:03]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attributed to Raj based on it being phrased as a
-      question introducing the "boiling frog" metaphor, immediately
-      followed by Jayant confirming ("you are right") and elaborating
-      on the metaphor.
+    '
+  topic: critical-thinking
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-01612
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: observation
-    text: >
-      Closes the interview with his signature closing question: giving
-      Jayant 60 seconds to think, pen and paper in hand if needed, and
-      asking him to name the top three insights from the episode that
-      people should pick up and either implement, understand, or
-      observe.
-    topic: closing-format
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:54:04]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-01613
-    person: raj-shamani
-    source: raj-shamani-fo510-jayant
-    type: belief
-    text: >
-      Reflects, in closing, that he and Jayant are both doing something
-      they should both be doing, just in different ways: Jayant talks
-      about the loopholes and gaps India has on the global stage, while
-      Raj talks about the positives that are actually being built in
-      the country, and that both perspectives are important at the same
-      time, which is why he wanted to do this podcast.
-    topic: podcast-purpose
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:59:14]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Spoken during the post-interview thank-you
-      exchange with Jayant.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text. Left as draft pending closer re-check.'
+- id: raj-shamani-01605
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: assertion
+  text: 'Says that everything he puts out as content is aimed at pushing people to use their own brains, and that he will keep trying to push that same message throughout this podcast.
+
+    '
+  topic: content-philosophy
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:03:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Follows directly from raj-shamani-01604.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text. Left as draft pending closer re-check.'
+- id: raj-shamani-01606
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: belief
+  text: 'Asks why, even though India is repeatedly described -- with plenty of data behind it -- as one of the fastest-growing economies in the world, people at an individual level, including salaried employees like himself, feel poorer rather than richer, as if inflation is eroding their money faster than the economy is growing.
+
+    '
+  topic: economic-growth-vs-inflation
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=NuBo8fvnYw0&t=2436s
+    start_timestamp: 00:40:36
+    end_timestamp: 00:40:50
+  evidence:
+    excerpt: null
+  notes: '~[00:40:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. No speaker diarization is available in this transcript; attribution to Raj here is based on it being framed as a topic-switching question ("tell me one thing, I''m switching here on this") immediately preceding Jayant''s detailed data-led answer.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=NuBo8fvnYw0&t=2436s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01607
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: observation
+  text: 'Mentions that in Jayant''s prep notes for the episode, he noticed a recurring pattern: people tend to blame their own salary, their degrees, or their skills for not earning more (e.g. saying "the world has changed too fast and I don''t have the skills for it"), rather than looking at systemic causes.
+
+    '
+  topic: notes-prep-salary-blame
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:13:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attribution based on the speaker explicitly referencing having read this in "their notes" (i.e. the guest''s prep notes), which fits the host''s role, followed by a recap of what "you said" -- addressed to Jayant.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text. Left as draft pending closer re-check.'
+- id: raj-shamani-01608
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: qualification
+  text: 'Admits he could be completely wrong here since he doesn''t fully understand it, and asks -- from a place of genuine curiosity -- whether real estate prices in a city or country aren''t supposed to be tied to people''s salaries, income, or business income, i.e. measured by an individual''s buying capacity and income-earning capacity.
+
+    '
+  topic: real-estate-pricing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:03:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attributed to Raj based on the explicit self-deprecating framing ("I could be purely wrong here"), which is immediately followed by Jayant giving a textbook-style answer about supply and demand.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text. Left as draft pending closer re-check.'
+- id: raj-shamani-01609
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: belief
+  text: 'Pushes back by asking whether NRI money coming into the country to buy real estate assets isn''t actually a good thing, since people earning abroad are investing that money back home.
+
+    '
+  topic: nri-remittances-real-estate
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:05:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text. Left as draft pending closer re-check.'
+- id: raj-shamani-01610
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: observation
+  text: 'Mentions that another "crisis" he read about in Jayant''s prep notes for the episode was about microfinance, and asks what this microfinance crisis actually is.
+
+    '
+  topic: notes-prep-microfinance
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:35:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attribution based on the same "in [your/their] notes" framing used in raj-shamani-01607.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text. Left as draft pending closer re-check.'
+- id: raj-shamani-01611
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: belief
+  text: 'Asks Jayant whether the steady, incremental rise in fuel duties and similar costs in India is a "boiling frog" phenomenon, where the increase happens so gradually that people don''t notice it building up until it becomes too late, and mentions that he and his show have covered many similar sectors on the podcast before where this kind of gradual dependency has hurt India''s manufacturing and its currency.
+
+    '
+  topic: fuel-tax-boiling-frog
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:21:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attributed to Raj based on it being phrased as a question introducing the "boiling frog" metaphor, immediately followed by Jayant confirming ("you are right") and elaborating on the metaphor.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text. Left as draft pending closer re-check.'
+- id: raj-shamani-01612
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: observation
+  text: 'Closes the interview with his signature closing question: giving Jayant 60 seconds to think, pen and paper in hand if needed, and asking him to name the top three insights from the episode that people should pick up and either implement, understand, or observe.
+
+    '
+  topic: closing-format
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:54:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text. Left as draft pending closer re-check.'
+- id: raj-shamani-01613
+  person: raj-shamani
+  source: raj-shamani-fo510-jayant
+  type: belief
+  text: 'Reflects, in closing, that he and Jayant are both doing something they should both be doing, just in different ways: Jayant talks about the loopholes and gaps India has on the global stage, while Raj talks about the positives that are actually being built in the country, and that both perspectives are important at the same time, which is why he wanted to do this podcast.
+
+    '
+  topic: podcast-purpose
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:59:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Spoken during the post-interview thank-you exchange with Jayant.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text. Left as draft pending closer re-check.'
