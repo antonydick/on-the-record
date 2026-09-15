@@ -1,772 +1,673 @@
 statements:
-  - id: raj-shamani-09601
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj introduces the guest, Aimen Dean, in the cold open, describing him
-      as someone who was simultaneously a double agent and a spy inside one
-      of the world's most vicious terrorist groups -- who was part of
-      Al-Qaeda and personally swore an oath of allegiance to Osama bin
-      Laden.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is from the cold-open teaser montage at the very
-      start of the episode, which splices host narration with guest audio
-      clips; attribution of this framing line to Raj follows the pattern of
-      similar cold-open guest introductions in other episodes of this show.
+- id: raj-shamani-09601
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj introduces the guest, Aimen Dean, in the cold open, describing him as someone who was simultaneously a double agent and a spy inside one of the world''s most vicious terrorist groups -- who was part of Al-Qaeda and personally swore an oath of allegiance to Osama bin Laden.
 
-  - id: raj-shamani-09602
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: recommendation
-    text: >
-      Before the interview proper, Raj asks viewers to subscribe to the
-      channel, saying the more subscribers there are, the better -- it lets
-      them bring on bigger guests and provide better facilities for them --
-      and mentions that the full audio version of the show is available to
-      follow and stream on Spotify.
-    topic: subscribe-ask
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:35]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: guest-introduction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is from the cold-open teaser montage at the very start of the episode, which splices host narration with guest audio clips; attribution of this framing line to Raj follows the pattern of similar cold-open guest introductions in other episodes of this show.
 
-  - id: raj-shamani-09603
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      In a sponsor read, Raj says that when he needs to send a small item
-      for his business, like product samples or documents, finding a
-      transport partner is a hassle because they won't carry small items or
-      charge more than expected -- which is why he uses Porter. He says
-      Porter's two-wheeled vehicles carry up to 20kg of goods, making
-      logistics easier and more accessible, and that the rate shown in the
-      app is exactly what you pay, with goods reaching smoothly everywhere.
-    topic: episode-sponsorship
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is the sponsor read for Porter.
 
-  - id: raj-shamani-09604
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      As the recorded interview begins, Raj recaps that Aimen personally
-      swore an oath of allegiance to Osama bin Laden, and asks him to
-      confirm whether bin Laden was physically present in person for that
-      oath.
-    topic: bin-laden-present-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript is garbled around an additional short
-      phrase here (rendered as something like "loaded, at the same time")
-      that could not be confidently parsed and has been left out.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09602
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: recommendation
+  text: 'Before the interview proper, Raj asks viewers to subscribe to the channel, saying the more subscribers there are, the better -- it lets them bring on bigger guests and provide better facilities for them -- and mentions that the full audio version of the show is available to follow and stream on Spotify.
 
-  - id: raj-shamani-09605
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks Aimen what the most shocking thing he saw was, in the context
-      of his time in the Bosnian war.
-    topic: bosnia-shocking-incident-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:23:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: subscribe-ask
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=zN_lhtJFsgg&t=150s
+    start_timestamp: 00:02:30
+    end_timestamp: 00:02:42
+  evidence:
+    excerpt: null
+  notes: '~[00:02:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09606
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks Aimen how he knew where he was being taken once he crossed
-      into Afghanistan.
-    topic: afghanistan-route-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:32:13]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09607
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks Aimen whether he looked like he does now (with a beard) when
-      he met and was recruited by Osama bin Laden, prompting Aimen to say
-      he barely had a beard at the time and was 17 years old when he met
-      him.
-    topic: appearance-at-recruitment-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:48:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=zN_lhtJFsgg&t=150s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09603
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'In a sponsor read, Raj says that when he needs to send a small item for his business, like product samples or documents, finding a transport partner is a hassle because they won''t carry small items or charge more than expected -- which is why he uses Porter. He says Porter''s two-wheeled vehicles carry up to 20kg of goods, making logistics easier and more accessible, and that the rate shown in the app is exactly what you pay, with goods reaching smoothly everywhere.
 
-  - id: raj-shamani-09608
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks Aimen directly whether he personally believed in the things
-      Osama bin Laden believed, noting that the man sitting right next to
-      Aimen at the time clearly did believe everything and eventually
-      became a suicide bomber.
-    topic: personal-belief-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:48:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: episode-sponsorship
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=zN_lhtJFsgg&t=176s
+    start_timestamp: 00:02:56
+    end_timestamp: 00:03:15
+  evidence:
+    excerpt: null
+  notes: '~[00:03:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is the sponsor read for Porter.
 
-  - id: raj-shamani-09609
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks a detailed series of questions about the bay'ah (pledge of
-      allegiance) ceremony itself -- whether Aimen was sitting, standing, or
-      kneeling, what he had to say, and whether bin Laden touched him during
-      the handshake in which the oath was recited.
-    topic: pledge-ceremony-details-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:58:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This part of the transcript is notably garbled; the
-      translation captures the gist of a rapid string of clarifying
-      questions rather than an exact rendering.
 
-  - id: raj-shamani-09610
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks whether the pledge of allegiance was essentially like a
-      handshake -- a kind of transaction or contract -- and whether the
-      moment of sitting in front of bin Laden functioned somewhat like a
-      press conference in front of others present.
-    topic: pledge-nature-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:00:08]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=zN_lhtJFsgg&t=176s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09604
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'As the recorded interview begins, Raj recaps that Aimen personally swore an oath of allegiance to Osama bin Laden, and asks him to confirm whether bin Laden was physically present in person for that oath.
 
-  - id: raj-shamani-09611
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Looking at a document or photo shown during the interview, Raj asks
-      where it is from, and separately asks what "Tarnak Farm" is.
-    topic: tarnak-farm-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:00:33]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Aimen's answer (identifying it as a February 1998
-      declaration of jihad, photographed at Tarnak Farm) is guest content
-      and out of scope for this pass.
+    '
+  topic: bin-laden-present-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:03:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript is garbled around an additional short phrase here (rendered as something like "loaded, at the same time") that could not be confidently parsed and has been left out.
 
-  - id: raj-shamani-09612
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Recapping that Aimen swore the oath of allegiance and was then sent to
-      a camp where he learned to make bombs, Raj asks him to show/describe
-      what that camp looked like.
-    topic: camp-visual-description-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:01:08]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. A near-identical version of this question is
-      foreshadowed in the cold-open teaser at the very start of the
-      episode; this timestamp is where it is asked in the actual interview
-      flow.
 
-  - id: raj-shamani-09613
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks Aimen to describe what a typical training day at the
-      bomb-making camp looked like -- what time he woke up and what time he
-      went to sleep.
-    topic: training-day-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:05:36]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09605
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks Aimen what the most shocking thing he saw was, in the context of his time in the Bosnian war.
 
-  - id: raj-shamani-09614
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks how training was structured for the other trainees at the
-      camp, including whether they woke up an hour before dawn prayers and
-      whether they prayed five times a day.
-    topic: other-trainees-routine-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:06:21]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: bosnia-shocking-incident-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:23:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09615
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Looking at a map, Raj asks Aimen to point out exactly where the
-      bomb-making camp he trained at was located, and how far away the
-      nearest house was.
-    topic: camp-location-map-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:52]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09616
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks Aimen where he was brought from to reach the camp.
-    topic: transport-to-camp-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:15:34]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09606
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks Aimen how he knew where he was being taken once he crossed into Afghanistan.
 
-  - id: raj-shamani-09617
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj recaps that after these British officials met Aimen, he then went
-      on to easily continue operating within Al-Qaeda's operations in
-      London, seeking Aimen's confirmation.
-    topic: london-infiltration-recap
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:44:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: afghanistan-route-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:32:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09618
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks what Aimen was doing in London -- specifically what he was
-      doing for Al-Qaeda's leaders while there.
-    topic: london-activities-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:46:13]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09619
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks whether Al-Qaeda used a formal recruitment form that people
-      could simply fill out to join.
-    topic: recruitment-form-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:46:40]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09607
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks Aimen whether he looked like he does now (with a beard) when he met and was recruited by Osama bin Laden, prompting Aimen to say he barely had a beard at the time and was 17 years old when he met him.
 
-  - id: raj-shamani-09620
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks about the funding of these terrorist camps -- who was behind
-      the financing, and who is really funding them even today.
-    topic: terrorist-funding-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:47:46]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. A near-identical version of this question is
-      foreshadowed earlier in the episode as well; this timestamp is where
-      it is asked in the main interview flow.
+    '
+  topic: appearance-at-recruitment-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:48:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09621
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks Aimen directly whether he himself was involved in raising
-      money/funding for the organization.
-    topic: fundraising-involvement-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:48:37]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09622
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      After Aimen recounts that a British intelligence officer and MI6 chief
-      once told him that nearly every terrorist group today gets some
-      financing from every gram of cocaine sold in the world's top cities,
-      Raj asks whether it's true that a young person buying cocaine,
-      without realizing it, is effectively funding terrorist activity
-      rather than just buying recreational drugs.
-    topic: cocaine-funds-terrorism-claim
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:51:02]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The underlying claim originates from Aimen's own
-      account of what an MI6 official told him; only Raj's question about
-      it is in scope for this pass.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09608
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks Aimen directly whether he personally believed in the things Osama bin Laden believed, noting that the man sitting right next to Aimen at the time clearly did believe everything and eventually became a suicide bomber.
 
-  - id: raj-shamani-09623
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj remarks that Aimen's intelligence work was remarkable, saying he
-      had read that it helped prevent a major planned attack on the New
-      York City subway/metro system.
-    topic: ny-subway-plot-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:59:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Aimen's confirmation that this refers to a 2003 plot
-      is guest content and out of scope for this pass.
+    '
+  topic: personal-belief-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:48:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09624
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: observation
-    text: >
-      Raj remarks to Aimen that he saved thousands of lives through this
-      intelligence work.
-    topic: lives-saved-comment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:00:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Aimen immediately qualifies this, saying he isn't
-      sure it was thousands but believes it was at least hundreds; that
-      qualification is guest content and out of scope for this pass.
 
-  - id: raj-shamani-09625
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks whether being caught as a double agent could have been
-      life-threatening once an operation was shut down, since there would
-      be no easy way out at that point.
-    topic: exposure-danger-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:02:52]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Surrounding context in the transcript here is fairly
-      garbled.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09609
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks a detailed series of questions about the bay''ah (pledge of allegiance) ceremony itself -- whether Aimen was sitting, standing, or kneeling, what he had to say, and whether bin Laden touched him during the handshake in which the oath was recited.
 
-  - id: raj-shamani-09626
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: observation
-    text: >
-      Raj reacts with disbelief that Aimen maintained this double life for
-      about nine years, asking him "can you believe that happened?"
-    topic: nine-years-disbelief-reaction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:11:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This section of the transcript is notably garbled, so
-      confidence in the exact wording is lower than usual, though the gist
-      (a reaction to the nine-year length of Aimen's double life) seems
-      clear from context.
+    '
+  topic: pledge-ceremony-details-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:58:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This part of the transcript is notably garbled; the translation captures the gist of a rapid string of clarifying questions rather than an exact rendering.
 
-  - id: raj-shamani-09627
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks Aimen to name the top five cities, or the countries, that
-      are being most affected by, or are being hit hardest by,
-      radicalization today.
-    topic: most-affected-cities-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:11:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09628
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks why England specifically appears to be hit hardest by
-      radicalization compared to the rest of the Western world (naming the
-      US, Europe, and the UK) and even parts of the East like Indonesia and
-      Japan, and asks whether he thinks the US is also being affected by
-      it.
-    topic: england-vs-us-radicalization-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:16:44]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09610
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks whether the pledge of allegiance was essentially like a handshake -- a kind of transaction or contract -- and whether the moment of sitting in front of bin Laden functioned somewhat like a press conference in front of others present.
 
-  - id: raj-shamani-09629
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Summing up Aimen's journey back to him -- that he was once an
-      extremist involved with terrorist groups, then became an intelligence
-      officer, and then became a writer -- Raj asks whether, today, that is
-      really what he signed up for in the beginning.
-    topic: journey-reflection-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:31:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: pledge-nature-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:00:08]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09630
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: assertion
-    text: >
-      Raj asks Aimen whether, despite the wisdom he gained along the way, he
-      had to sacrifice his personal life and his peace of mind/living in
-      peace.
-    topic: personal-sacrifice-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:32:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This passage of the transcript is heavily garbled
-      (including apparent ASR mistranscriptions like "high blood pressure"
-      and "empathy" that don't fit the context); the translation reflects
-      the clearest reading of Raj's closing question rather than a precise
-      rendering.
 
-  - id: raj-shamani-09631
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: observation
-    text: >
-      At the end of the interview, Raj thanks Aimen for spending time with
-      the show.
-    topic: guest-thanks
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:32:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09611
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Looking at a document or photo shown during the interview, Raj asks where it is from, and separately asks what "Tarnak Farm" is.
 
-  - id: raj-shamani-09632
-    person: raj-shamani
-    source: raj-shamani-fo550-aimen-dean
-    type: recommendation
-    text: >
-      In the closing outro, Raj thanks viewers for watching to the end,
-      says the team would love to know what viewers liked and didn't like
-      about the episode and which guest they'd like to see on the show (or
-      see again) via the comments, and says that audience feedback helps
-      them improve and make everything better.
-    topic: episode-outro-ask
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:35:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: tarnak-farm-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:00:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Aimen''s answer (identifying it as a February 1998 declaration of jihad, photographed at Tarnak Farm) is guest content and out of scope for this pass.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09612
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Recapping that Aimen swore the oath of allegiance and was then sent to a camp where he learned to make bombs, Raj asks him to show/describe what that camp looked like.
+
+    '
+  topic: camp-visual-description-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:01:08]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. A near-identical version of this question is foreshadowed in the cold-open teaser at the very start of the episode; this timestamp is where it is asked in the actual interview flow.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09613
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks Aimen to describe what a typical training day at the bomb-making camp looked like -- what time he woke up and what time he went to sleep.
+
+    '
+  topic: training-day-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:05:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09614
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks how training was structured for the other trainees at the camp, including whether they woke up an hour before dawn prayers and whether they prayed five times a day.
+
+    '
+  topic: other-trainees-routine-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:06:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09615
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Looking at a map, Raj asks Aimen to point out exactly where the bomb-making camp he trained at was located, and how far away the nearest house was.
+
+    '
+  topic: camp-location-map-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:14:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09616
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks Aimen where he was brought from to reach the camp.
+
+    '
+  topic: transport-to-camp-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:15:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09617
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj recaps that after these British officials met Aimen, he then went on to easily continue operating within Al-Qaeda''s operations in London, seeking Aimen''s confirmation.
+
+    '
+  topic: london-infiltration-recap
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:44:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09618
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks what Aimen was doing in London -- specifically what he was doing for Al-Qaeda''s leaders while there.
+
+    '
+  topic: london-activities-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:46:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09619
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks whether Al-Qaeda used a formal recruitment form that people could simply fill out to join.
+
+    '
+  topic: recruitment-form-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:46:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09620
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks about the funding of these terrorist camps -- who was behind the financing, and who is really funding them even today.
+
+    '
+  topic: terrorist-funding-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:47:46]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. A near-identical version of this question is foreshadowed earlier in the episode as well; this timestamp is where it is asked in the main interview flow.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09621
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks Aimen directly whether he himself was involved in raising money/funding for the organization.
+
+    '
+  topic: fundraising-involvement-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:48:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09622
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'After Aimen recounts that a British intelligence officer and MI6 chief once told him that nearly every terrorist group today gets some financing from every gram of cocaine sold in the world''s top cities, Raj asks whether it''s true that a young person buying cocaine, without realizing it, is effectively funding terrorist activity rather than just buying recreational drugs.
+
+    '
+  topic: cocaine-funds-terrorism-claim
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:51:02]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The underlying claim originates from Aimen''s own account of what an MI6 official told him; only Raj''s question about it is in scope for this pass.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09623
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj remarks that Aimen''s intelligence work was remarkable, saying he had read that it helped prevent a major planned attack on the New York City subway/metro system.
+
+    '
+  topic: ny-subway-plot-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=zN_lhtJFsgg&t=7190s
+    start_timestamp: 01:59:50
+    end_timestamp: 02:00:02
+  evidence:
+    excerpt: null
+  notes: '~[01:59:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Aimen''s confirmation that this refers to a 2003 plot is guest content and out of scope for this pass.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=zN_lhtJFsgg&t=7190s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09624
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: observation
+  text: 'Raj remarks to Aimen that he saved thousands of lives through this intelligence work.
+
+    '
+  topic: lives-saved-comment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:00:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Aimen immediately qualifies this, saying he isn''t sure it was thousands but believes it was at least hundreds; that qualification is guest content and out of scope for this pass.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09625
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks whether being caught as a double agent could have been life-threatening once an operation was shut down, since there would be no easy way out at that point.
+
+    '
+  topic: exposure-danger-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:02:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Surrounding context in the transcript here is fairly garbled.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09626
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: observation
+  text: 'Raj reacts with disbelief that Aimen maintained this double life for about nine years, asking him "can you believe that happened?"
+
+    '
+  topic: nine-years-disbelief-reaction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:11:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This section of the transcript is notably garbled, so confidence in the exact wording is lower than usual, though the gist (a reaction to the nine-year length of Aimen''s double life) seems clear from context.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09627
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks Aimen to name the top five cities, or the countries, that are being most affected by, or are being hit hardest by, radicalization today.
+
+    '
+  topic: most-affected-cities-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:11:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09628
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks why England specifically appears to be hit hardest by radicalization compared to the rest of the Western world (naming the US, Europe, and the UK) and even parts of the East like Indonesia and Japan, and asks whether he thinks the US is also being affected by it.
+
+    '
+  topic: england-vs-us-radicalization-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:16:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09629
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Summing up Aimen''s journey back to him -- that he was once an extremist involved with terrorist groups, then became an intelligence officer, and then became a writer -- Raj asks whether, today, that is really what he signed up for in the beginning.
+
+    '
+  topic: journey-reflection-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:31:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09630
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: assertion
+  text: 'Raj asks Aimen whether, despite the wisdom he gained along the way, he had to sacrifice his personal life and his peace of mind/living in peace.
+
+    '
+  topic: personal-sacrifice-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:32:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This passage of the transcript is heavily garbled (including apparent ASR mistranscriptions like "high blood pressure" and "empathy" that don''t fit the context); the translation reflects the clearest reading of Raj''s closing question rather than a precise rendering.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09631
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: observation
+  text: 'At the end of the interview, Raj thanks Aimen for spending time with the show.
+
+    '
+  topic: guest-thanks
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:32:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09632
+  person: raj-shamani
+  source: raj-shamani-fo550-aimen-dean
+  type: recommendation
+  text: 'In the closing outro, Raj thanks viewers for watching to the end, says the team would love to know what viewers liked and didn''t like about the episode and which guest they''d like to see on the show (or see again) via the comments, and says that audience feedback helps them improve and make everything better.
+
+    '
+  topic: episode-outro-ask
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:35:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
