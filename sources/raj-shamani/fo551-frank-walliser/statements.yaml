@@ -1,1406 +1,1261 @@
 statements:
-  - id: raj-shamani-09801
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj introduces the guest as Dr. Frank Stephan Walliser, CEO of Bentley
-      Motors, describing him as the engineer behind some of the world's most
-      incredible performance cars.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From the cold-open/voiceover introduction of the
-      guest.
+- id: raj-shamani-09801
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj introduces the guest as Dr. Frank Stephan Walliser, CEO of Bentley Motors, describing him as the engineer behind some of the world''s most incredible performance cars.
 
-  - id: raj-shamani-09802
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj frames the episode by saying that if you love cars, engineering,
-      or luxury, or just want to know what it really takes to build a
-      Bentley, this episode is for you.
-    topic: episode-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From the cold-open/voiceover.
+    '
+  topic: guest-introduction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From the cold-open/voiceover introduction of the guest.
 
-  - id: raj-shamani-09803
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: recommendation
-    text: >
-      Raj asks viewers to subscribe to the channel, saying the more
-      subscribers there are, the better and bigger guests he'll be able to
-      bring, and the more value he can provide through these conversations.
-    topic: channel-growth
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Standard channel-growth ask before the interview
-      proper begins.
 
-  - id: raj-shamani-09804
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: recommendation
-    text: >
-      Raj says the full audio experience of the show is available on
-      Spotify, where viewers can follow the show and stream all the
-      episodes.
-    topic: audio-availability
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09802
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj frames the episode by saying that if you love cars, engineering, or luxury, or just want to know what it really takes to build a Bentley, this episode is for you.
 
-  - id: raj-shamani-09805
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj says he was reading about how cars are made and was very
-      surprised that even today many car manufacturers still use pencil
-      sketches as the very first step -- the initial idea or concept for a
-      car.
-    topic: car-design-process
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:28]-[00:03:03]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: episode-framing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From the cold-open/voiceover.
 
-  - id: raj-shamani-09806
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks what it is about pencil sketching, in a world of artificial
-      intelligence and supercomputers, that is still needed -- something
-      that no AI can do.
-    topic: ai-vs-design
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09807
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks why clay is used to build the first physical model of every
-      car, wondering what is special about clay for this purpose.
-    topic: clay-model-design
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:04:30]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript merges speakers around this point
-      without clear turn markers, so only the clearly-question part of the
-      passage is captured here.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09803
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: recommendation
+  text: 'Raj asks viewers to subscribe to the channel, saying the more subscribers there are, the better and bigger guests he''ll be able to bring, and the more value he can provide through these conversations.
 
-  - id: raj-shamani-09808
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks the guest to confirm that the clay-model method of building
-      the first car model was created almost 100 years ago.
-    topic: clay-model-history
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:05:36]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: channel-growth
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Standard channel-growth ask before the interview proper begins.
 
-  - id: raj-shamani-09809
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: belief
-    text: >
-      Raj says that in cars, the "invisible enemy" is often the air/wind,
-      and that even a difference of a few millimeters can completely change
-      wind-tunnel results and the car's speed.
-    topic: aerodynamics
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:05]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09810
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks Frank to explain, for anyone who doesn't know, what a wind
-      tunnel is.
-    topic: wind-tunnel-explainer
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:40]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09804
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: recommendation
+  text: 'Raj says the full audio experience of the show is available on Spotify, where viewers can follow the show and stream all the episodes.
 
-  - id: raj-shamani-09811
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks what makes a car fast.
-    topic: car-speed-factors
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:09:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This same question also appears in the episode's
-      cold-open montage.
+    '
+  topic: audio-availability
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09812
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: observation
-    text: >
-      Raj notes that sometimes cars can have the same type of engine, or
-      engines with the same horsepower, yet some cars are still faster than
-      others, and asks for an example of this.
-    topic: car-speed-factors
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:09:41]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09813
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks Frank to confirm that he broke a lap record while he was at
-      Porsche, having built one of the fastest cars, and asks what changes
-      he made that helped him break that record and maintain top speed
-      throughout.
-    topic: porsche-lap-record
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:11:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09805
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj says he was reading about how cars are made and was very surprised that even today many car manufacturers still use pencil sketches as the very first step -- the initial idea or concept for a car.
 
-  - id: raj-shamani-09814
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks Frank to confirm the car being discussed was the Porsche
-      918, then asks -- out of the thousands of factors that contribute to
-      a car's speed -- which single factor made it the fastest.
-    topic: porsche-918
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:14:59]-[00:15:37]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: car-design-process
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:28]-[00:03:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09815
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: belief
-    text: >
-      Raj offers his own interpretation that the driver's confidence that
-      the car is safe and behaves exactly as intended -- i.e. its
-      control -- is the real differentiating factor for speed, reasoning
-      that other manufacturers likely try the same things but lose a
-      second or two elsewhere, and asks Frank if this comes down to
-      confidence.
-    topic: driver-confidence
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:16:42]-[00:17:10]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Raj explicitly frames this as his own guess
-      ("मेरा अनुमान है").
 
-  - id: raj-shamani-09816
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: observation
-    text: >
-      Raj notes that Frank previously worked at Porsche and now works at
-      Bentley, and states that Bentley and Porsche -- while completely
-      different cars -- share the same underlying platform, then asks
-      Frank to explain how Bentley and at least one specific Porsche model
-      differ from each other on the inside.
-    topic: platform-sharing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:18:37]-[00:19:14]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09806
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks what it is about pencil sketching, in a world of artificial intelligence and supercomputers, that is still needed -- something that no AI can do.
 
-  - id: raj-shamani-09817
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: observation
-    text: >
-      Raj notes that these days there is a lot of discussion among car
-      fans and enthusiasts about parts and platform sharing between
-      brands.
-    topic: platform-sharing-discourse
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:19:14]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: ai-vs-design
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:03:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09818
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks Frank to explain, as if explaining it to the engineer inside
-      him, what actually happens once the engine has started and he
-      presses the accelerator -- how the accelerator produces motion, and
-      whether fuel combustion is involved.
-    topic: engine-mechanism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:21:35]-[00:22:09]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-09819
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: belief
-    text: >
-      Raj states, as the premise for his question, that electric cars
-      aren't fun to drive, and asks -- given Bentley's shift toward fully
-      electric vehicles -- what would change about his experience if he
-      bought an electric Bentley.
-    topic: electric-vs-combustion
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:25:33]-[00:25:52]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09807
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks why clay is used to build the first physical model of every car, wondering what is special about clay for this purpose.
 
-  - id: raj-shamani-09820
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks whether, when designing a car, Frank's team thinks not just
-      about the overall experience but specifically about how they are
-      affecting all five senses, and whether this is a constant, conscious
-      question during the design of the driving experience.
-    topic: five-senses-design
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:31:35]-[00:32:11]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: clay-model-design
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:04:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript merges speakers around this point without clear turn markers, so only the clearly-question part of the passage is captured here.
 
-  - id: raj-shamani-09821
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: observation
-    text: >
-      Raj states that every car probably has more than 1,500 wires, and
-      asks whether an electric car has more wires or fewer wires than a
-      combustion car.
-    topic: car-wiring
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:33:42]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09822
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj says he toured the Bentley factory that day and saw that fuel is
-      stored right beneath the seats, and asks whether that isn't
-      dangerous.
-    topic: factory-tour-fuel-storage
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:34:53]-[00:35:21]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09808
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks the guest to confirm that the clay-model method of building the first car model was created almost 100 years ago.
 
-  - id: raj-shamani-09823
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks how many times a car crashes, in testing, before it reaches
-      customers like him.
-    topic: crash-testing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:35:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This same question also appears in the episode's
-      cold-open montage.
+    '
+  topic: clay-model-history
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:05:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09824
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj says that when he was at the factory, he saw/learned that Bentley
-      makes about 10,000 cars a year.
-    topic: factory-tour-production-volume
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:36:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09825
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: observation
-    text: >
-      Raj notes that there are 5,000 people working at the Bentley site,
-      and asks why so many people are needed in today's world, and what is
-      special about human hands that a robot cannot replicate.
-    topic: factory-headcount
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:36:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Note that later in the same conversation the guest
-      gives a different figure (about 4,500 people on site) -- worth
-      checking which number Raj actually says on the recording.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09809
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: belief
+  text: 'Raj says that in cars, the "invisible enemy" is often the air/wind, and that even a difference of a few millimeters can completely change wind-tunnel results and the car''s speed.
 
-  - id: raj-shamani-09826
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks why manual polishing is needed, since polishing work could
-      also be done by machine.
-    topic: manual-polishing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:38:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: aerodynamics
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:07:05]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09827
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks whether Bentley's customers value handmade/hand-crafted
-      items more, and why an end customer would care about something being
-      handmade rather than made by a robot.
-    topic: handmade-value
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:38:55]-[00:39:26]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-09828
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj says he was surprised by three things during his factory visit
-      and wants to go through them one at a time, starting with the fact
-      that Frank had already told him the car's paint is one-of-a-kind.
-    topic: factory-tour-three-surprises
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:57]-[00:40:23]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09810
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks Frank to explain, for anyone who doesn''t know, what a wind tunnel is.
 
-  - id: raj-shamani-09829
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks what makes luxury car paint so special that it becomes
-      extremely expensive.
-    topic: luxury-car-paint
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:40:23]-[00:40:50]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. This same question also appears in the
-      episode's cold-open montage.
+    '
+  topic: wind-tunnel-explainer
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:07:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09830
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj says the second of the three things that surprised him was the
-      sound of the car door closing, which reveals whether a car is cheap
-      or expensive, and asks how engineers engineer that door sound.
-    topic: door-sound-engineering
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:43:22]-[00:43:54]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. This same remark about door sound and price
-      also appears in the episode's cold-open montage, there attributed to
-      the guest -- worth checking on the recording whether it originates
-      with Raj or is Raj echoing something Frank said.
 
-  - id: raj-shamani-09831
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks what the difference is between a "cheap" sound and an
-      "expensive" sound, in the context of a car door closing.
-    topic: door-sound-engineering
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:44:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09811
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks what makes a car fast.
 
-  - id: raj-shamani-09832
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks whether Bentley has a distinctive/signature sound, such as
-      how the door-slam sound should specifically sound.
-    topic: bentley-signature-sound
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:45:24]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: car-speed-factors
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:09:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same question also appears in the episode''s cold-open montage.
 
-  - id: raj-shamani-09833
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj poses a hypothetical: if there were several different cars and
-      you only listened to their sound without seeing them, could you pick
-      out the Bentley.
-    topic: bentley-signature-sound
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:45:49]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09834
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj says the third thing that surprised him was wood -- he was told
-      there was a small room at the factory containing wood worth millions
-      of dollars, shown to him sliced as a thin sheet.
-    topic: factory-tour-wood
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:46:17]-[00:46:50]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09812
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: observation
+  text: 'Raj notes that sometimes cars can have the same type of engine, or engines with the same horsepower, yet some cars are still faster than others, and asks for an example of this.
 
-  - id: raj-shamani-09835
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj says he wants to shift from talking about art, passion, and
-      craftsmanship to a more "rational" angle, and asks whether the end
-      consumer actually pays more, or cares, that Bentley sources wood from
-      Japan, sends it to Wiltshire, and then matches it precisely.
-    topic: wood-sourcing-value
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:49:45]-[00:50:17]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: car-speed-factors
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:09:41]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09836
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj follows up by asking whether it would make any difference to the
-      customer if Bentley used similar-looking wood achieved through
-      cheaper means, without telling the sourcing story.
-    topic: wood-sourcing-value
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:50:17]-[00:50:42]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-09837
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj poses a hypothetical: if the Bentley badge were removed from the
-      car, what would be something about Bentley -- without the logo --
-      that would be difficult for a competitor to replicate.
-    topic: bentley-differentiation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:51:50]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This same question also appears in the episode's
-      cold-open montage.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09813
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks Frank to confirm that he broke a lap record while he was at Porsche, having built one of the fastest cars, and asks what changes he made that helped him break that record and maintain top speed throughout.
 
-  - id: raj-shamani-09838
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks who would be considered Bentley's competitor.
-    topic: bentley-competitors
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:52:58]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This same question also appears in the episode's
-      cold-open montage.
+    '
+  topic: porsche-lap-record
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:11:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09839
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: observation
-    text: >
-      Raj observes that customers buying their first car typically compare
-      one SUV to another SUV, or one sports car to another sports car,
-      rather than considering whether a single brand can offer all three
-      segments.
-    topic: luxury-car-buying-behavior
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:54:24]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09840
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: observation
-    text: >
-      Raj observes that over the past 80 years there have been many luxury
-      car companies that have likely disappeared, or have become part of a
-      larger group and are now sold alongside other brands.
-    topic: luxury-car-industry-consolidation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:54:24]-[00:54:55]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09814
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks Frank to confirm the car being discussed was the Porsche 918, then asks -- out of the thousands of factors that contribute to a car''s speed -- which single factor made it the fastest.
 
-  - id: raj-shamani-09841
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks what quality Bentley has that other luxury car brands have
-      never had, and what Frank understands about the mindset of the
-      ultra-wealthy.
-    topic: bentley-uniqueness
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:54:55]-[00:55:20]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. This same question also appears in the
-      episode's cold-open montage.
+    '
+  topic: porsche-918
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:14:59]-[00:15:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09842
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: observation
-    text: >
-      Raj notes that Bentley's biggest market is America, and asks whether
-      Bentley markets the same brand story differently across different
-      regions.
-    topic: regional-marketing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:56:21]-[00:56:47]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-09843
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: belief
-    text: >
-      Raj describes his understanding that in Europe, Bentley buyers are
-      typically people with inherited family wealth, while in America most
-      buyers are tech, finance, or crypto billionaires and millionaires,
-      and asks whether Bentley markets differently to these two very
-      different buyer profiles.
-    topic: regional-customer-profile
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:56:47]-[00:57:16]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09815
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: belief
+  text: 'Raj offers his own interpretation that the driver''s confidence that the car is safe and behaves exactly as intended -- i.e. its control -- is the real differentiating factor for speed, reasoning that other manufacturers likely try the same things but lose a second or two elsewhere, and asks Frank if this comes down to confidence.
 
-  - id: raj-shamani-09844
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks whether an American first-generation founder who has become
-      a millionaire, and a European person with inherited family wealth,
-      talk about different things and think differently when it comes to
-      buying a Bentley.
-    topic: buyer-psychology
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:58:46]-[00:59:20]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: driver-confidence
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:16:42]-[00:17:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj explicitly frames this as his own guess ("मेरा अनुमान है").
 
-  - id: raj-shamani-09845
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: belief
-    text: >
-      Raj states his own view that traditional advertising is completely
-      useless for Bentley's target audience, and asks how Bentley
-      approaches marketing and where most of the marketing budget is
-      spent.
-    topic: traditional-advertising
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:59:20]-[00:59:49]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-09846
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks what kinds of events Bentley holds, and for an example of
-      the most expensive event Bentley has spent money on.
-    topic: bentley-events
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:00:20]-[01:00:49]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09816
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: observation
+  text: 'Raj notes that Frank previously worked at Porsche and now works at Bentley, and states that Bentley and Porsche -- while completely different cars -- share the same underlying platform, then asks Frank to explain how Bentley and at least one specific Porsche model differ from each other on the inside.
 
-  - id: raj-shamani-09847
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj says he has two final questions, then asks whether Bentley does
-      anything different for cars built for the King and Queen, and
-      whether there is a specific feature exclusive to the King.
-    topic: royal-bentley
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:02:22]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. "The King and Queen" appears to refer to the British
-      monarchy, given Bentley's UK base -- not explicitly named in the
-      transcript.
+    '
+  topic: platform-sharing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:18:37]-[00:19:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09848
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj says that during his factory tour, despite having toured
-      factories of many incredible companies worldwide (which he holds in
-      high respect), he had never before seen the level of pride present
-      in every single person at the Bentley factory.
-    topic: factory-tour-employee-pride
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:03:29]-[01:03:57]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-09849
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj recounts that this pride was visible across every role at the
-      factory, from the person doing the stitching to the person using
-      sandpaper to the person conducting the tour, and that he told the
-      tour guide (whom he refers to as Williams) that they should come
-      teach this kind of pride at his own company.
-    topic: factory-tour-employee-pride
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:03:57]-[01:04:21]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. The name "Williams" is uncertain -- Hindi ASR
-      frequently mis-transliterates English/proper names, so this should be
-      checked carefully against the recording.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09817
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: observation
+  text: 'Raj notes that these days there is a lot of discussion among car fans and enthusiasts about parts and platform sharing between brands.
 
-  - id: raj-shamani-09850
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj recounts meeting a young employee at the factory -- an intern of
-      two to three years who was about to be given a permanent job -- who
-      was very excited and proud to be working there.
-    topic: factory-tour-employee-stories
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:04:21]-[01:04:47]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: platform-sharing-discourse
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:19:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09851
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj recounts meeting an employee who had worked at the company for
-      15 years and showed a great deal of pride in that work.
-    topic: factory-tour-employee-stories
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:04:47]-[01:05:11]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Speaker attribution across this stretch of the
-      transcript is somewhat uncertain (it briefly shifts between "you
-      met" and "I met" phrasing), so treat with some caution.
 
-  - id: raj-shamani-09852
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: belief
-    text: >
-      Raj remarks that, in his experience, most middle-aged people are
-      generally anxious and unhappy wherever they are.
-    topic: middle-age-outlook
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:04:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. A passing generalization made in contrast to the
-      pride shown by the 15-year Bentley employee he had just described.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09818
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks Frank to explain, as if explaining it to the engineer inside him, what actually happens once the engine has started and he presses the accelerator -- how the accelerator produces motion, and whether fuel combustion is involved.
 
-  - id: raj-shamani-09853
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj recounts meeting another employee who had worked at the company
-      for more than 40 years and showed equal pride, and also meeting that
-      employee's wife, who felt immense pride even for stitching a
-      steering wheel.
-    topic: factory-tour-employee-stories
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:05:11]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: engine-mechanism
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:21:35]-[00:22:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09854
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: experience
-    text: >
-      Raj says he was impressed by people of all ages at the factory, and
-      that these were not people staged for him to meet -- he encountered
-      them randomly.
-    topic: factory-tour-employee-pride
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:05:11]-[01:05:36]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-09855
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks Frank what he thinks is the reason, or the secret, behind
-      this culture of pride among Bentley's employees.
-    topic: bentley-culture-secret
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:05:36]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09819
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: belief
+  text: 'Raj states, as the premise for his question, that electric cars aren''t fun to drive, and asks -- given Bentley''s shift toward fully electric vehicles -- what would change about his experience if he bought an electric Bentley.
 
-  - id: raj-shamani-09856
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks from what point Bentley starts teaching its values to young
-      employees who join the company, and whether they are explicitly told
-      about it.
-    topic: bentley-values-onboarding
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:07:15]-[01:07:42]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: electric-vs-combustion
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:25:33]-[00:25:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09857
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj notes that Bentley has just announced a global brand ambassador,
-      Priyanka Chopra Jonas, and asks why her specifically.
-    topic: brand-ambassador
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:08:41]-[01:08:52]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. This same question also appears in the
-      episode's cold-open montage.
 
-  - id: raj-shamani-09858
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj asks whether Bentley approached Priyanka Chopra Jonas directly,
-      or whether her agency approached Bentley.
-    topic: brand-ambassador
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:09:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09820
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks whether, when designing a car, Frank''s team thinks not just about the overall experience but specifically about how they are affecting all five senses, and whether this is a constant, conscious question during the design of the driving experience.
 
-  - id: raj-shamani-09859
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: belief
-    text: >
-      As a closing question he says he asks every guest, Raj states his
-      belief that taking control of your own life, making your own
-      decisions, and reaching the top requires sacrificing a lot of
-      things, and asks Frank what price he had to pay to become the CEO of
-      Bentley.
-    topic: closing-question-sacrifice
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:10:35]-[01:11:10]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: five-senses-design
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:31:35]-[00:32:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09860
-    person: raj-shamani
-    source: raj-shamani-fo551-frank-walliser
-    type: assertion
-    text: >
-      Raj follows up by asking what Frank did not get to experience, as a
-      result of the sacrifices involved in reaching the top.
-    topic: closing-question-sacrifice
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:11:10]-[01:11:39]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09821
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: observation
+  text: 'Raj states that every car probably has more than 1,500 wires, and asks whether an electric car has more wires or fewer wires than a combustion car.
+
+    '
+  topic: car-wiring
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:33:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09822
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj says he toured the Bentley factory that day and saw that fuel is stored right beneath the seats, and asks whether that isn''t dangerous.
+
+    '
+  topic: factory-tour-fuel-storage
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:34:53]-[00:35:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09823
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks how many times a car crashes, in testing, before it reaches customers like him.
+
+    '
+  topic: crash-testing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:35:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same question also appears in the episode''s cold-open montage.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09824
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj says that when he was at the factory, he saw/learned that Bentley makes about 10,000 cars a year.
+
+    '
+  topic: factory-tour-production-volume
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:36:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09825
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: observation
+  text: 'Raj notes that there are 5,000 people working at the Bentley site, and asks why so many people are needed in today''s world, and what is special about human hands that a robot cannot replicate.
+
+    '
+  topic: factory-headcount
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:36:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Note that later in the same conversation the guest gives a different figure (about 4,500 people on site) -- worth checking which number Raj actually says on the recording.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09826
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks why manual polishing is needed, since polishing work could also be done by machine.
+
+    '
+  topic: manual-polishing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:38:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09827
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks whether Bentley''s customers value handmade/hand-crafted items more, and why an end customer would care about something being handmade rather than made by a robot.
+
+    '
+  topic: handmade-value
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:38:55]-[00:39:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09828
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj says he was surprised by three things during his factory visit and wants to go through them one at a time, starting with the fact that Frank had already told him the car''s paint is one-of-a-kind.
+
+    '
+  topic: factory-tour-three-surprises
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:57]-[00:40:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09829
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks what makes luxury car paint so special that it becomes extremely expensive.
+
+    '
+  topic: luxury-car-paint
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:40:23]-[00:40:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same question also appears in the episode''s cold-open montage.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09830
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj says the second of the three things that surprised him was the sound of the car door closing, which reveals whether a car is cheap or expensive, and asks how engineers engineer that door sound.
+
+    '
+  topic: door-sound-engineering
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:43:22]-[00:43:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same remark about door sound and price also appears in the episode''s cold-open montage, there attributed to the guest -- worth checking on the recording whether it originates with Raj or is Raj echoing something Frank said.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09831
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks what the difference is between a "cheap" sound and an "expensive" sound, in the context of a car door closing.
+
+    '
+  topic: door-sound-engineering
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:44:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09832
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks whether Bentley has a distinctive/signature sound, such as how the door-slam sound should specifically sound.
+
+    '
+  topic: bentley-signature-sound
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:45:24]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09833
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj poses a hypothetical: if there were several different cars and you only listened to their sound without seeing them, could you pick out the Bentley.
+
+    '
+  topic: bentley-signature-sound
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:45:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09834
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj says the third thing that surprised him was wood -- he was told there was a small room at the factory containing wood worth millions of dollars, shown to him sliced as a thin sheet.
+
+    '
+  topic: factory-tour-wood
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:46:17]-[00:46:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09835
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj says he wants to shift from talking about art, passion, and craftsmanship to a more "rational" angle, and asks whether the end consumer actually pays more, or cares, that Bentley sources wood from Japan, sends it to Wiltshire, and then matches it precisely.
+
+    '
+  topic: wood-sourcing-value
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:49:45]-[00:50:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09836
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj follows up by asking whether it would make any difference to the customer if Bentley used similar-looking wood achieved through cheaper means, without telling the sourcing story.
+
+    '
+  topic: wood-sourcing-value
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:50:17]-[00:50:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09837
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj poses a hypothetical: if the Bentley badge were removed from the car, what would be something about Bentley -- without the logo -- that would be difficult for a competitor to replicate.
+
+    '
+  topic: bentley-differentiation
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:51:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same question also appears in the episode''s cold-open montage.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09838
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks who would be considered Bentley''s competitor.
+
+    '
+  topic: bentley-competitors
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:52:58]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same question also appears in the episode''s cold-open montage.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09839
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: observation
+  text: 'Raj observes that customers buying their first car typically compare one SUV to another SUV, or one sports car to another sports car, rather than considering whether a single brand can offer all three segments.
+
+    '
+  topic: luxury-car-buying-behavior
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:54:24]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09840
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: observation
+  text: 'Raj observes that over the past 80 years there have been many luxury car companies that have likely disappeared, or have become part of a larger group and are now sold alongside other brands.
+
+    '
+  topic: luxury-car-industry-consolidation
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:54:24]-[00:54:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09841
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks what quality Bentley has that other luxury car brands have never had, and what Frank understands about the mindset of the ultra-wealthy.
+
+    '
+  topic: bentley-uniqueness
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:54:55]-[00:55:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same question also appears in the episode''s cold-open montage.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09842
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: observation
+  text: 'Raj notes that Bentley''s biggest market is America, and asks whether Bentley markets the same brand story differently across different regions.
+
+    '
+  topic: regional-marketing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:56:21]-[00:56:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09843
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: belief
+  text: 'Raj describes his understanding that in Europe, Bentley buyers are typically people with inherited family wealth, while in America most buyers are tech, finance, or crypto billionaires and millionaires, and asks whether Bentley markets differently to these two very different buyer profiles.
+
+    '
+  topic: regional-customer-profile
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:56:47]-[00:57:16]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09844
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks whether an American first-generation founder who has become a millionaire, and a European person with inherited family wealth, talk about different things and think differently when it comes to buying a Bentley.
+
+    '
+  topic: buyer-psychology
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:58:46]-[00:59:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09845
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: belief
+  text: 'Raj states his own view that traditional advertising is completely useless for Bentley''s target audience, and asks how Bentley approaches marketing and where most of the marketing budget is spent.
+
+    '
+  topic: traditional-advertising
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:59:20]-[00:59:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09846
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks what kinds of events Bentley holds, and for an example of the most expensive event Bentley has spent money on.
+
+    '
+  topic: bentley-events
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:00:20]-[01:00:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09847
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj says he has two final questions, then asks whether Bentley does anything different for cars built for the King and Queen, and whether there is a specific feature exclusive to the King.
+
+    '
+  topic: royal-bentley
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:02:22]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. "The King and Queen" appears to refer to the British monarchy, given Bentley''s UK base -- not explicitly named in the transcript.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09848
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj says that during his factory tour, despite having toured factories of many incredible companies worldwide (which he holds in high respect), he had never before seen the level of pride present in every single person at the Bentley factory.
+
+    '
+  topic: factory-tour-employee-pride
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:03:29]-[01:03:57]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09849
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj recounts that this pride was visible across every role at the factory, from the person doing the stitching to the person using sandpaper to the person conducting the tour, and that he told the tour guide (whom he refers to as Williams) that they should come teach this kind of pride at his own company.
+
+    '
+  topic: factory-tour-employee-pride
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:03:57]-[01:04:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The name "Williams" is uncertain -- Hindi ASR frequently mis-transliterates English/proper names, so this should be checked carefully against the recording.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09850
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj recounts meeting a young employee at the factory -- an intern of two to three years who was about to be given a permanent job -- who was very excited and proud to be working there.
+
+    '
+  topic: factory-tour-employee-stories
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:04:21]-[01:04:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09851
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj recounts meeting an employee who had worked at the company for 15 years and showed a great deal of pride in that work.
+
+    '
+  topic: factory-tour-employee-stories
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:04:47]-[01:05:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker attribution across this stretch of the transcript is somewhat uncertain (it briefly shifts between "you met" and "I met" phrasing), so treat with some caution.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09852
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: belief
+  text: 'Raj remarks that, in his experience, most middle-aged people are generally anxious and unhappy wherever they are.
+
+    '
+  topic: middle-age-outlook
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:04:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. A passing generalization made in contrast to the pride shown by the 15-year Bentley employee he had just described.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09853
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj recounts meeting another employee who had worked at the company for more than 40 years and showed equal pride, and also meeting that employee''s wife, who felt immense pride even for stitching a steering wheel.
+
+    '
+  topic: factory-tour-employee-stories
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:05:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09854
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: experience
+  text: 'Raj says he was impressed by people of all ages at the factory, and that these were not people staged for him to meet -- he encountered them randomly.
+
+    '
+  topic: factory-tour-employee-pride
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:05:11]-[01:05:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09855
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks Frank what he thinks is the reason, or the secret, behind this culture of pride among Bentley''s employees.
+
+    '
+  topic: bentley-culture-secret
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:05:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09856
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks from what point Bentley starts teaching its values to young employees who join the company, and whether they are explicitly told about it.
+
+    '
+  topic: bentley-values-onboarding
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:07:15]-[01:07:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09857
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj notes that Bentley has just announced a global brand ambassador, Priyanka Chopra Jonas, and asks why her specifically.
+
+    '
+  topic: brand-ambassador
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=9CADz6sP40I&t=4118s
+    start_timestamp: 01:08:38
+    end_timestamp: 01:08:50
+  evidence:
+    excerpt: null
+  notes: '~[01:08:41]-[01:08:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same question also appears in the episode''s cold-open montage.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=9CADz6sP40I&t=4118s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09858
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj asks whether Bentley approached Priyanka Chopra Jonas directly, or whether her agency approached Bentley.
+
+    '
+  topic: brand-ambassador
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:09:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09859
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: belief
+  text: 'As a closing question he says he asks every guest, Raj states his belief that taking control of your own life, making your own decisions, and reaching the top requires sacrificing a lot of things, and asks Frank what price he had to pay to become the CEO of Bentley.
+
+    '
+  topic: closing-question-sacrifice
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=9CADz6sP40I&t=4232s
+    start_timestamp: 01:10:32
+    end_timestamp: 01:10:45
+  evidence:
+    excerpt: null
+  notes: '~[01:10:35]-[01:11:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=9CADz6sP40I&t=4232s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09860
+  person: raj-shamani
+  source: raj-shamani-fo551-frank-walliser
+  type: assertion
+  text: 'Raj follows up by asking what Frank did not get to experience, as a result of the sacrifices involved in reaching the top.
+
+    '
+  topic: closing-question-sacrifice
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:11:10]-[01:11:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
