@@ -1,573 +1,505 @@
 statements:
-  - id: raj-shamani-02001
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: belief
-    text: >
-      Raj Shamani introduces Chris Williamson as the host of the podcast
-      Modern Wisdom, describing it as one of the biggest efforts in
-      self-improvement and one of the best podcasts in the world.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:21]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This appears in the rapid-fire clip montage at the
-      top of the episode, before the main interview begins.
+- id: raj-shamani-02001
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: belief
+  text: 'Raj Shamani introduces Chris Williamson as the host of the podcast Modern Wisdom, describing it as one of the biggest efforts in self-improvement and one of the best podcasts in the world.
 
-  - id: raj-shamani-02002
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: recommendation
-    text: >
-      Raj Shamani asks viewers who find these conversations useful to
-      subscribe to his channel, saying it helps him bring more impactful
-      guests and more valuable information to the audience.
-    topic: subscribe-ask
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:00]-[00:02:22]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: guest-introduction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This appears in the rapid-fire clip montage at the top of the episode, before the main interview begins.
 
-  - id: raj-shamani-02003
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: experience
-    text: >
-      When he started his own podcast, Raj Shamani used to listen to a
-      lot of other podcasts, and he specifically watched Chris Williamson
-      and Steven (apparently Steven Bartlett) very closely.
-    topic: raj-podcast-origins
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:31]-[00:04:00]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Raj addresses both "you" (Chris) and "Steven"
-      here even though only Chris is present as guest; identity of
-      "Steven" is inferred from context (likely Steven Bartlett) but not
-      certain from the ASR text alone.
 
-  - id: raj-shamani-02004
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: experience
-    text: >
-      Raj Shamani says that from watching Chris Williamson's and Steven's
-      work, he learned to introspect, to love himself, and to question
-      people.
-    topic: raj-personal-growth
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:04:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02002
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: recommendation
+  text: 'Raj Shamani asks viewers who find these conversations useful to subscribe to his channel, saying it helps him bring more impactful guests and more valuable information to the audience.
 
-  - id: raj-shamani-02005
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: experience
-    text: >
-      Raj Shamani says it reached a point where he realized he wasn't
-      being himself anymore — he had essentially become either Chris
-      Williamson or Steven — and that this began to harm him.
-    topic: raj-imitation-harm
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:04:25]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: subscribe-ask
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=120s
+    start_timestamp: 00:02:00
+    end_timestamp: 00:02:12
+  evidence:
+    excerpt: null
+  notes: '~[00:02:00]-[00:02:22]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02006
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: experience
-    text: >
-      Raj Shamani says his own way of asking questions, doing research,
-      and looking at things had simply become Chris Williamson's and
-      Steven's way of doing those things.
-    topic: raj-imitation-style
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:04:25]-[00:04:49]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-02007
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: experience
-    text: >
-      Raj Shamani says he was influenced by Joe Rogan, Jordan Peterson,
-      Sam Harris, Ben Shapiro, and Alain de Botton's "School of Life."
-    topic: raj-influences
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:04:49]-[00:05:13]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Names are transliterated from ASR and may be
-      slightly garbled.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=120s in-browser (English caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02003
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: experience
+  text: 'When he started his own podcast, Raj Shamani used to listen to a lot of other podcasts, and he specifically watched Chris Williamson and Steven (apparently Steven Bartlett) very closely.
 
-  - id: raj-shamani-02008
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: experience
-    text: >
-      Raj Shamani says he learned a great deal from Chris Williamson and
-      Steven, and then, at a certain point, deliberately stopped learning
-      from them.
-    topic: raj-stopped-learning
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:05:31]-[00:06:12]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: raj-podcast-origins
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=211s
+    start_timestamp: 00:03:31
+    end_timestamp: 00:03:45
+  evidence:
+    excerpt: null
+  notes: '~[00:03:31]-[00:04:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj addresses both "you" (Chris) and "Steven" here even though only Chris is present as guest; identity of "Steven" is inferred from context (likely Steven Bartlett) but not certain from the ASR text alone.
 
-  - id: raj-shamani-02009
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: experience
-    text: >
-      Raj Shamani says that for around the last year and a half (about
-      18 months as of this recording), he has deliberately avoided
-      watching Chris Williamson's content, in order to be less
-      influenced by others — joking that this might cost him some of his
-      own audience.
-    topic: raj-media-diet
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:06:12]-[00:06:33]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-02010
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: belief
-    text: >
-      Raj Shamani says that, in his view, in the current generation an
-      average 16-year-old today learns to "perform" — for Instagram, for
-      the world, for an audience that is constantly online — before they
-      even realize who they are, and he questions how a person can find
-      themselves in a world like that.
-    topic: teen-online-performance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:01:16]-[01:01:41]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=211s in-browser (English caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02004
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: experience
+  text: 'Raj Shamani says that from watching Chris Williamson''s and Steven''s work, he learned to introspect, to love himself, and to question people.
 
-  - id: raj-shamani-02011
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: observation
-    text: >
-      Raj Shamani says he has heard Chris Williamson and Alex (apparently
-      Alex Hormozi) discuss, at length and on multiple occasions, the
-      idea of building a "stack of evidence" about one's own identity,
-      and says he likes that concept.
-    topic: identity-evidence-stack
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:01:16]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. ASR gives only "Alex" — likely Alex Hormozi given
-      Chris Williamson's known association with him, but not certain from
-      the transcript text alone.
+    '
+  topic: raj-personal-growth
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:04:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02012
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: experience
-    text: >
-      Raj Shamani says he grew up in India shaped by the influence of the
-      colonial era — with a lot of what is in Indians' minds, history,
-      and school books built around the idea that the British came and
-      ruled over them for hundreds of years.
-    topic: india-colonial-upbringing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:28:57]-[01:29:29]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-02013
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: belief
-    text: >
-      Raj Shamani says that growing up in a formerly colonized country,
-      a person's thinking and society end up being shaped either by
-      hatred and resentment toward the British or by a desire to please
-      them.
-    topic: colonial-mindset-duality
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:29:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02005
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: experience
+  text: 'Raj Shamani says it reached a point where he realized he wasn''t being himself anymore — he had essentially become either Chris Williamson or Steven — and that this began to harm him.
 
-  - id: raj-shamani-02014
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: belief
-    text: >
-      Raj Shamani says that many of the rules the British set were
-      ultimately followed by Indians because they came to believe that
-      was the best/supreme option, and that doing the exact opposite of
-      what the British did would itself just be another form of
-      resentment or revenge.
-    topic: colonial-rule-following
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:29:29]-[01:30:00]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: raj-imitation-harm
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=265s
+    start_timestamp: 00:04:25
+    end_timestamp: 00:04:40
+  evidence:
+    excerpt: null
+  notes: '~[00:04:25]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02015
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: observation
-    text: >
-      Raj Shamani explains that in youth cricket in India there is a
-      term, "TFC" ("Thanks For Coming"), used for a player who doesn't
-      get to bat or bowl in a match — at the end of the game the captain
-      shakes that player's hand and says "TFC."
-    topic: cricket-tfc-term
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:50:53]-[01:51:15]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. This appears to be asked of Raj by Chris
-      ("do you use this word in India"), with Raj answering.
 
-  - id: raj-shamani-02016
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: experience
-    text: >
-      Raj Shamani recalls that as a child playing cricket (around age
-      11-12), he sometimes felt a strange sense of satisfaction in
-      getting "TFC," because it meant he knew he wouldn't get the chance
-      to fail, since he hadn't batted or bowled.
-    topic: cricket-tfc-relief
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:50:53]-[01:51:37]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=265s in-browser (English caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02006
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: experience
+  text: 'Raj Shamani says his own way of asking questions, doing research, and looking at things had simply become Chris Williamson''s and Steven''s way of doing those things.
 
-  - id: raj-shamani-02017
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: experience
-    text: >
-      Raj Shamani recalls being taken out of bowling as a child after
-      conceding 18 runs in two overs, with his captain telling him,
-      "Sorry mate, take a bit of a rest."
-    topic: cricket-captain-benched
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:51:37]-[01:51:57]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: raj-imitation-style
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=265s
+    start_timestamp: 00:04:25
+    end_timestamp: 00:04:45
+  evidence:
+    excerpt: null
+  notes: '~[00:04:25]-[00:04:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02018
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: belief
-    text: >
-      Raj Shamani says that India, too, is heavily preoccupied with
-      class distinctions.
-    topic: india-class-obsession
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:38:14]-[01:38:36]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-02019
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: observation
-    text: >
-      Raj Shamani describes Dubai as almost a hub or extension of India
-      for Indians, joking that there's a saying that Dubai is India's
-      most expensive city.
-    topic: dubai-india-hub
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:48:50]-[01:49:15]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=265s in-browser (English caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02007
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: experience
+  text: 'Raj Shamani says he was influenced by Joe Rogan, Jordan Peterson, Sam Harris, Ben Shapiro, and Alain de Botton''s "School of Life."
 
-  - id: raj-shamani-02020
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: observation
-    text: >
-      Raj Shamani says that in his part of the world (India), arranged
-      marriage is the most popular form of marriage.
-    topic: arranged-marriage-india
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:04:43]-[02:05:03]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: raj-influences
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=289s
+    start_timestamp: 00:04:49
+    end_timestamp: 00:05:00
+  evidence:
+    excerpt: null
+  notes: '~[00:04:49]-[00:05:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Names are transliterated from ASR and may be slightly garbled.
 
-  - id: raj-shamani-02021
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: observation
-    text: >
-      Raj Shamani jokes that Indian weddings can go on for around five
-      weeks, contrasting this with how weddings are approached in the
-      West.
-    topic: indian-wedding-length
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:05:03]-[02:05:27]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. This particular line is somewhat garbled in
-      the ASR/translation, so the precise point of comparison being made
-      is uncertain.
 
-  - id: raj-shamani-02022
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: observation
-    text: >
-      Raj Shamani observes that Chris Williamson's newsletter content is
-      largely about men, women, dating, and similar topics.
-    topic: chris-newsletter-topics
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:04:43]-[02:05:03]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=289s in-browser (English caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02008
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: experience
+  text: 'Raj Shamani says he learned a great deal from Chris Williamson and Steven, and then, at a certain point, deliberately stopped learning from them.
 
-  - id: raj-shamani-02023
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: evidence
-    text: >
-      Raj Shamani references a claim he read in Chris Williamson's
-      newsletter — that men tend to choose partners based on who will
-      elevate their status in terms of looks, while women tend to choose
-      partners based on who offers the highest status, protection, or
-      power — and restates it to ask Chris whether he thinks it's true.
-    topic: mate-selection-status-looks
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:10:52]-[02:11:19]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: raj-stopped-learning
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=289s
+    start_timestamp: 00:04:49
+    end_timestamp: 00:05:10
+  evidence:
+    excerpt: null
+  notes: '~[00:05:31]-[00:06:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02024
-    person: raj-shamani
-    source: raj-shamani-fo512-chris
-    type: recommendation
-    text: >
-      At the end of the episode, Raj Shamani asks viewers to do three
-      things: subscribe to the channel, leave a comment with feedback on
-      what the show got right or wrong, and share the episode with a
-      number of people.
-    topic: episode-outro-ask
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:23:01]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript cuts off mid-sentence on the exact
-      share target ("share this episode with at least ___ people").
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=289s in-browser (English caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02009
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: experience
+  text: 'Raj Shamani says that for around the last year and a half (about 18 months as of this recording), he has deliberately avoided watching Chris Williamson''s content, in order to be less influenced by others — joking that this might cost him some of his own audience.
+
+    '
+  topic: raj-media-diet
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:06:12]-[00:06:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02010
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: belief
+  text: 'Raj Shamani says that, in his view, in the current generation an average 16-year-old today learns to "perform" — for Instagram, for the world, for an audience that is constantly online — before they even realize who they are, and he questions how a person can find themselves in a world like that.
+
+    '
+  topic: teen-online-performance
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=3676s
+    start_timestamp: 01:01:16
+    end_timestamp: 01:01:30
+  evidence:
+    excerpt: null
+  notes: '~[01:01:16]-[01:01:41]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=3676s in-browser (English caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02011
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: observation
+  text: 'Raj Shamani says he has heard Chris Williamson and Alex (apparently Alex Hormozi) discuss, at length and on multiple occasions, the idea of building a "stack of evidence" about one''s own identity, and says he likes that concept.
+
+    '
+  topic: identity-evidence-stack
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=3676s
+    start_timestamp: 01:01:16
+    end_timestamp: 01:01:35
+  evidence:
+    excerpt: null
+  notes: '~[01:01:16]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. ASR gives only "Alex" — likely Alex Hormozi given Chris Williamson''s known association with him, but not certain from the transcript text alone.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=3676s in-browser (English caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02012
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: experience
+  text: 'Raj Shamani says he grew up in India shaped by the influence of the colonial era — with a lot of what is in Indians'' minds, history, and school books built around the idea that the British came and ruled over them for hundreds of years.
+
+    '
+  topic: india-colonial-upbringing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=5337s
+    start_timestamp: 01:28:57
+    end_timestamp: 01:29:10
+  evidence:
+    excerpt: null
+  notes: '~[01:28:57]-[01:29:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=5337s in-browser (English caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02013
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: belief
+  text: 'Raj Shamani says that growing up in a formerly colonized country, a person''s thinking and society end up being shaped either by hatred and resentment toward the British or by a desire to please them.
+
+    '
+  topic: colonial-mindset-duality
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=5337s
+    start_timestamp: 01:28:57
+    end_timestamp: 01:29:15
+  evidence:
+    excerpt: null
+  notes: '~[01:29:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=5337s in-browser (English caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02014
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: belief
+  text: 'Raj Shamani says that many of the rules the British set were ultimately followed by Indians because they came to believe that was the best/supreme option, and that doing the exact opposite of what the British did would itself just be another form of resentment or revenge.
+
+    '
+  topic: colonial-rule-following
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:29:29]-[01:30:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02015
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: observation
+  text: 'Raj Shamani explains that in youth cricket in India there is a term, "TFC" ("Thanks For Coming"), used for a player who doesn''t get to bat or bowl in a match — at the end of the game the captain shakes that player''s hand and says "TFC."
+
+    '
+  topic: cricket-tfc-term
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:50:53]-[01:51:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This appears to be asked of Raj by Chris ("do you use this word in India"), with Raj answering.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02016
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: experience
+  text: 'Raj Shamani recalls that as a child playing cricket (around age 11-12), he sometimes felt a strange sense of satisfaction in getting "TFC," because it meant he knew he wouldn''t get the chance to fail, since he hadn''t batted or bowled.
+
+    '
+  topic: cricket-tfc-relief
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:50:53]-[01:51:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02017
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: experience
+  text: 'Raj Shamani recalls being taken out of bowling as a child after conceding 18 runs in two overs, with his captain telling him, "Sorry mate, take a bit of a rest."
+
+    '
+  topic: cricket-captain-benched
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:51:37]-[01:51:57]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02018
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: belief
+  text: 'Raj Shamani says that India, too, is heavily preoccupied with class distinctions.
+
+    '
+  topic: india-class-obsession
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:38:14]-[01:38:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02019
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: observation
+  text: 'Raj Shamani describes Dubai as almost a hub or extension of India for Indians, joking that there''s a saying that Dubai is India''s most expensive city.
+
+    '
+  topic: dubai-india-hub
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:48:50]-[01:49:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02020
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: observation
+  text: 'Raj Shamani says that in his part of the world (India), arranged marriage is the most popular form of marriage.
+
+    '
+  topic: arranged-marriage-india
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:04:43]-[02:05:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02021
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: observation
+  text: 'Raj Shamani jokes that Indian weddings can go on for around five weeks, contrasting this with how weddings are approached in the West.
+
+    '
+  topic: indian-wedding-length
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:05:03]-[02:05:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This particular line is somewhat garbled in the ASR/translation, so the precise point of comparison being made is uncertain.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02022
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: observation
+  text: 'Raj Shamani observes that Chris Williamson''s newsletter content is largely about men, women, dating, and similar topics.
+
+    '
+  topic: chris-newsletter-topics
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:04:43]-[02:05:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02023
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: evidence
+  text: 'Raj Shamani references a claim he read in Chris Williamson''s newsletter — that men tend to choose partners based on who will elevate their status in terms of looks, while women tend to choose partners based on who offers the highest status, protection, or power — and restates it to ask Chris whether he thinks it''s true.
+
+    '
+  topic: mate-selection-status-looks
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:10:52]-[02:11:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-02024
+  person: raj-shamani
+  source: raj-shamani-fo512-chris
+  type: recommendation
+  text: 'At the end of the episode, Raj Shamani asks viewers to do three things: subscribe to the channel, leave a comment with feedback on what the show got right or wrong, and share the episode with a number of people.
+
+    '
+  topic: episode-outro-ask
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=JCOb1w_LTOg&t=8581s
+    start_timestamp: 02:23:01
+    end_timestamp: 02:23:15
+  evidence:
+    excerpt: null
+  notes: '~[02:23:01]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript cuts off mid-sentence on the exact share target ("share this episode with at least ___ people").
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=JCOb1w_LTOg&t=8581s in-browser (English caption text check, close match) at this point in the recording.'
