@@ -1,399 +1,358 @@
 statements:
-  - id: raj-shamani-07001
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: observation
-    text: >
-      Based on comparing three years of thumbnail-click data across Indian
-      and international podcasters, Raj says thumbnails featuring female
-      entrepreneurs get noticeably fewer clicks from the general public than
-      thumbnails featuring male entrepreneurs, showing a clear gender bias
-      among viewers — even though this doesn't mean the female entrepreneurs
-      are actually less successful or doing worse.
-    topic: podcast-thumbnail-gender-bias
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:12:31] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript's wording here is garbled/internally
-      contradictory about which direction the click gap runs (one clause
-      literally reads as if female-entrepreneur thumbnails get more clicks),
-      but the surrounding argument (about bias against women entrepreneurs)
-      makes clear the intended point is that they get fewer clicks. A
-      verifier should re-check the original clip for the exact wording.
+- id: raj-shamani-07001
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: observation
+  text: 'Based on comparing three years of thumbnail-click data across Indian and international podcasters, Raj says thumbnails featuring female entrepreneurs get noticeably fewer clicks from the general public than thumbnails featuring male entrepreneurs, showing a clear gender bias among viewers — even though this doesn''t mean the female entrepreneurs are actually less successful or doing worse.
 
-  - id: raj-shamani-07002
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: experience
-    text: >
-      Raj recounts that the day before this conversation, he spoke with a
-      young entrepreneur in Pune who told him he had a great idea but had
-      not yet found an investor for it.
-    topic: pune-entrepreneur-no-investor
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:27:04] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: podcast-thumbnail-gender-bias
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:12:31] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript''s wording here is garbled/internally contradictory about which direction the click gap runs (one clause literally reads as if female-entrepreneur thumbnails get more clicks), but the surrounding argument (about bias against women entrepreneurs) makes clear the intended point is that they get fewer clicks. A verifier should re-check the original clip for the exact wording.
 
-  - id: raj-shamani-07003
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: belief
-    text: >
-      Raj told that Pune entrepreneur that what really matters is how you
-      express your idea, and that telling the story the right way is the
-      single most important thing for any entrepreneur.
-    topic: storytelling-key-for-entrepreneurs
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:27:04] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-07004
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: recommendation
-    text: >
-      Raj told the entrepreneur that if he couldn't tell his own story well,
-      he needed to find someone else who could tell it for him.
-    topic: find-someone-to-tell-your-story
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:27:36] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07002
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: experience
+  text: 'Raj recounts that the day before this conversation, he spoke with a young entrepreneur in Pune who told him he had a great idea but had not yet found an investor for it.
 
-  - id: raj-shamani-07005
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: assertion
-    text: >
-      Raj states that recombinant human insulin used to sell for around Rs
-      1,000 before Biocon brought the price down.
-    topic: insulin-price-before-biocon
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:33:14] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: pune-entrepreneur-no-investor
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:27:04] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-07006
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: belief
-    text: >
-      Raj tells Kiran Mazumdar-Shaw that she was the first person in the
-      world to cut insulin prices this way, and that insulin is cheaper
-      worldwide today because of her.
-    topic: biocon-insulin-price-impact
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:33:43] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-07007
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: observation
-    text: >
-      Raj observes that, seen from the outside, an ordinary person tends to
-      assume all pharma companies are alike, because India has become the
-      world's manufacturing factory for generic drugs.
-    topic: outsider-view-of-indian-pharma
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:38] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07003
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: belief
+  text: 'Raj told that Pune entrepreneur that what really matters is how you express your idea, and that telling the story the right way is the single most important thing for any entrepreneur.
 
-  - id: raj-shamani-07008
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: evidence
-    text: >
-      Raj says he read in the news that around 42 different companies were
-      launching a GLP-1 generic drug on the very first day it became
-      available.
-    topic: glp1-market-competition
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:51:21] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript does not name the specific drug; from
-      context this is about a semaglutide/GLP-1 generic launch in India.
+    '
+  topic: storytelling-key-for-entrepreneurs
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:27:04] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-07009
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: belief
-    text: >
-      Raj says that the more he reads about Kiran Mazumdar-Shaw and the more
-      he talks to her, the more he likes her attitude of being so optimistic
-      and confident about her work.
-    topic: raj-on-kiran-attitude
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:03:53] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-07010
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: experience
-    text: >
-      Raj says he had been reading Kiran Mazumdar-Shaw's tweets about roads
-      and poor infrastructure, which made him think that if a world-class
-      science company could be built out of their own city, its roads
-      should be fixable too.
-    topic: bengaluru-roads-vs-science-company
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:26:36] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07004
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: recommendation
+  text: 'Raj told the entrepreneur that if he couldn''t tell his own story well, he needed to find someone else who could tell it for him.
 
-  - id: raj-shamani-07011
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: experience
-    text: >
-      Raj says he is from Indore, and that the Swachh Bharat (Clean India)
-      campaign was successful in his city.
-    topic: raj-from-indore
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:28:35] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attribution to Raj is inferred from context (Kiran has
-      already stated earlier in the transcript that she was born and raised
-      in Bangalore, so the first-person "I'm from Indore" cannot be her).
+    '
+  topic: find-someone-to-tell-your-story
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:27:36] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-07012
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: belief
-    text: >
-      Raj says that, looking at her journey, Kiran Mazumdar-Shaw could
-      easily have left India and settled anywhere in the world, but instead
-      she is one of the country's most patriotic builders, still living in
-      and building from India.
-    topic: kiran-as-patriotic-builder
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:31:50] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-07013
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: observation
-    text: >
-      Raj mentions he has three more questions left for Kiran Mazumdar-Shaw,
-      one of which is a closing question he asks almost every guest on his
-      show.
-    topic: raj-podcast-closing-questions
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:55:30] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07005
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: assertion
+  text: 'Raj states that recombinant human insulin used to sell for around Rs 1,000 before Biocon brought the price down.
 
-  - id: raj-shamani-07014
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: observation
-    text: >
-      Raj's standard closing question, which he says he asks almost every
-      guest, is: "What advice should nobody follow?"
-    topic: raj-standard-closing-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:04:40] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: insulin-price-before-biocon
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=PXMyK7JxGOk&t=1994s
+    start_timestamp: 00:33:14
+    end_timestamp: 00:33:28
+  evidence:
+    excerpt: null
+  notes: '~[00:33:14] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-07015
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: experience
-    text: >
-      Raj told Kiran Mazumdar-Shaw's team that he read a lot about her in
-      Forbes magazine as a child.
-    topic: raj-read-about-kiran-in-forbes
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:05:18] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-07016
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: experience
-    text: >
-      Raj recalls that whenever there was talk of someone's contribution to
-      science, Kiran Mazumdar-Shaw's name would always come up.
-    topic: kiran-name-in-science-discussions
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:05:18] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=PXMyK7JxGOk&t=1994s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-07006
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: belief
+  text: 'Raj tells Kiran Mazumdar-Shaw that she was the first person in the world to cut insulin prices this way, and that insulin is cheaper worldwide today because of her.
 
-  - id: raj-shamani-07017
-    person: raj-shamani
-    source: raj-shamani-fo537-kiran-mazumdar-shaw
-    type: experience
-    text: >
-      Raj says he did not always understand what Kiran Mazumdar-Shaw did
-      when he read about her in Forbes as a child, but he came to understand
-      the importance of her work once his own father was diagnosed with
-      diabetes.
-    topic: raj-father-diabetes-context
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:05:18] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: biocon-insulin-price-impact
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:33:43] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07007
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: observation
+  text: 'Raj observes that, seen from the outside, an ordinary person tends to assume all pharma companies are alike, because India has become the world''s manufacturing factory for generic drugs.
+
+    '
+  topic: outsider-view-of-indian-pharma
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:38] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07008
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: evidence
+  text: 'Raj says he read in the news that around 42 different companies were launching a GLP-1 generic drug on the very first day it became available.
+
+    '
+  topic: glp1-market-competition
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:51:21] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript does not name the specific drug; from context this is about a semaglutide/GLP-1 generic launch in India.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07009
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: belief
+  text: 'Raj says that the more he reads about Kiran Mazumdar-Shaw and the more he talks to her, the more he likes her attitude of being so optimistic and confident about her work.
+
+    '
+  topic: raj-on-kiran-attitude
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:03:53] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07010
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: experience
+  text: 'Raj says he had been reading Kiran Mazumdar-Shaw''s tweets about roads and poor infrastructure, which made him think that if a world-class science company could be built out of their own city, its roads should be fixable too.
+
+    '
+  topic: bengaluru-roads-vs-science-company
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:26:36] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07011
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: experience
+  text: 'Raj says he is from Indore, and that the Swachh Bharat (Clean India) campaign was successful in his city.
+
+    '
+  topic: raj-from-indore
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:28:35] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attribution to Raj is inferred from context (Kiran has already stated earlier in the transcript that she was born and raised in Bangalore, so the first-person "I''m from Indore" cannot be her).
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07012
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: belief
+  text: 'Raj says that, looking at her journey, Kiran Mazumdar-Shaw could easily have left India and settled anywhere in the world, but instead she is one of the country''s most patriotic builders, still living in and building from India.
+
+    '
+  topic: kiran-as-patriotic-builder
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:31:50] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07013
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: observation
+  text: 'Raj mentions he has three more questions left for Kiran Mazumdar-Shaw, one of which is a closing question he asks almost every guest on his show.
+
+    '
+  topic: raj-podcast-closing-questions
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:55:30] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07014
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: observation
+  text: 'Raj''s standard closing question, which he says he asks almost every guest, is: "What advice should nobody follow?"
+
+    '
+  topic: raj-standard-closing-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:04:40] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07015
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: experience
+  text: 'Raj told Kiran Mazumdar-Shaw''s team that he read a lot about her in Forbes magazine as a child.
+
+    '
+  topic: raj-read-about-kiran-in-forbes
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=PXMyK7JxGOk&t=7522s
+    start_timestamp: 02:05:22
+    end_timestamp: 02:05:34
+  evidence:
+    excerpt: null
+  notes: '~[02:05:18] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=PXMyK7JxGOk&t=7522s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-07016
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: experience
+  text: 'Raj recalls that whenever there was talk of someone''s contribution to science, Kiran Mazumdar-Shaw''s name would always come up.
+
+    '
+  topic: kiran-name-in-science-discussions
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=PXMyK7JxGOk&t=7532s
+    start_timestamp: 02:05:32
+    end_timestamp: 02:05:42
+  evidence:
+    excerpt: null
+  notes: '~[02:05:18] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=PXMyK7JxGOk&t=7532s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-07017
+  person: raj-shamani
+  source: raj-shamani-fo537-kiran-mazumdar-shaw
+  type: experience
+  text: 'Raj says he did not always understand what Kiran Mazumdar-Shaw did when he read about her in Forbes as a child, but he came to understand the importance of her work once his own father was diagnosed with diabetes.
+
+    '
+  topic: raj-father-diabetes-context
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=PXMyK7JxGOk&t=7542s
+    start_timestamp: 02:05:42
+    end_timestamp: 02:05:55
+  evidence:
+    excerpt: null
+  notes: '~[02:05:18] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=PXMyK7JxGOk&t=7542s in-browser (English caption text check, close/exact match).'
