@@ -1,494 +1,400 @@
 statements:
-  - id: raj-shamani-00601
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: observation
-    text: >
-      Introduces his guest at the start of the episode as Shekhar Dutt,
-      co-founder of an IAS coaching platform he refers to (per the
-      auto-caption transcript) as "Sleepy Classes IAS."
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:24]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The guest's surname and the coaching platform's
-      name are uncertain ASR transliterations and should be verified
-      against the actual video/description.
+- id: raj-shamani-00601
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: observation
+  text: 'Introduces his guest at the start of the episode as Shekhar Dutt, co-founder of an IAS coaching platform he refers to (per the auto-caption transcript) as "Sleepy Classes IAS."
 
-  - id: raj-shamani-00602
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: assertion
-    text: >
-      Asks Shekhar whether he thinks all politicians travel with
-      security protocol/escorts because they genuinely face a security
-      threat, or whether it is really a form of entitlement built up
-      over the years -- an attitude of "we've made it now, so this is a
-      leader's privilege."
-    topic: political-security-protocol
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:35:44]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The source transcript has no speaker diarization;
-      this line is explicitly flagged in the transcript as "क्वेश्चन"
-      (question), supporting attribution to the host.
+    '
+  topic: guest-introduction
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5w0-kcPdbNU&t=26s
+    start_timestamp: 00:00:26
+    end_timestamp: 00:00:40
+  evidence:
+    excerpt: null
+  notes: '~[00:00:24]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The guest''s surname and the coaching platform''s name are uncertain ASR transliterations and should be verified against the actual video/description.
 
-  - id: raj-shamani-00603
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: assertion
-    text: >
-      Asks Shekhar to explain how the culture of an office/workplace
-      gets decided, framing this as something important for anyone in a
-      leadership position to understand.
-    topic: office-culture-leadership
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:33]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. No speaker diarization in the source; attribution
-      inferred from this being a direct prompt for the guest to elaborate,
-      framed for the audience/leadership angle, following the guest's
-      point about office tea culture.
 
-  - id: raj-shamani-00604
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: assertion
-    text: >
-      Challenges Shekhar -- noting that he teaches large numbers of
-      students and has direct personal experience of the system -- by
-      asking whether he genuinely feels that no real work/progress has
-      happened in the country over the last 10-12 years.
-    topic: governance-progress
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:38:05]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. No speaker diarization in source; attribution
-      inferred from direct second-person address ("you teach so many
-      people...") consistent with the host questioning the guest.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5w0-kcPdbNU&t=26s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00602
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: assertion
+  text: 'Asks Shekhar whether he thinks all politicians travel with security protocol/escorts because they genuinely face a security threat, or whether it is really a form of entitlement built up over the years -- an attitude of "we''ve made it now, so this is a leader''s privilege."
 
-  - id: raj-shamani-00605
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: assertion
-    text: >
-      Notes that they had been discussing sociology and that Shekhar had
-      brought up a point about Russia in between, then directly asks him
-      whether he thinks what Russia is doing (in its war) is right.
-    topic: russia-ukraine-war
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:22:07]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: political-security-protocol
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5w0-kcPdbNU&t=2144s
+    start_timestamp: 00:35:44
+    end_timestamp: 00:35:55
+  evidence:
+    excerpt: null
+  notes: '~[00:35:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The source transcript has no speaker diarization; this line is explicitly flagged in the transcript as "क्वेश्चन" (question), supporting attribution to the host.
 
-  - id: raj-shamani-00606
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: assertion
-    text: >
-      Asks Shekhar to explain what he means by "directionless" -- for
-      viewers who may be educated but feel they lack direction, or who
-      aren't especially educated and still lack direction -- specifically
-      what he means by India having a "direction problem."
-    topic: career-direction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:54:41]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Immediately preceded (same speaker turn, per
-      transcript) by a remark wondering whether "this video" would reach
-      the female student in the anecdote Shekhar had just told.
 
-  - id: raj-shamani-00607
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: assertion
-    text: >
-      Recalls that Shekhar had previously made a video about Donald
-      Trump in which he explained Trump's tariff policies as being
-      driven by three sociological reasons, and asks him to summarize
-      what those three reasons are.
-    topic: trump-tariffs
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:36:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attribution inferred from the reference to "a video
-      you made," addressing the guest about his own prior content.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5w0-kcPdbNU&t=2144s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00603
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: assertion
+  text: 'Asks Shekhar to explain how the culture of an office/workplace gets decided, framing this as something important for anyone in a leadership position to understand.
 
-  - id: raj-shamani-00608
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: assertion
-    text: >
-      Asks Shekhar what he thinks India's national character will be.
-    topic: national-identity
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:33:52]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The same question also appears in the episode's
-      cold-open highlight montage at the very start of the video.
+    '
+  topic: office-culture-leadership
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5w0-kcPdbNU&t=213s
+    start_timestamp: 00:03:33
+    end_timestamp: 00:03:45
+  evidence:
+    excerpt: null
+  notes: '~[00:03:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. No speaker diarization in the source; attribution inferred from this being a direct prompt for the guest to elaborate, framed for the audience/leadership angle, following the guest''s point about office tea culture.
 
-  - id: raj-shamani-00609
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: experience
-    text: >
-      Says that he has recently started asking guests a fill-in-the-blank
-      question: "India will become a prosperous nation when ___" --
-      i.e. asking them to name the specific condition under which India
-      becomes a prosperous nation.
-    topic: recurring-question-format
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:59:22]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. He explicitly frames this as something "I recently
-      started asking people," i.e. a recurring format across his
-      episodes, not specific to this one.
 
-  - id: raj-shamani-00610
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: experience
-    text: >
-      As a closing device for the episode, asks viewers to comment below
-      with a politically incorrect question they are afraid to ask,
-      saying he will pick some of those comments to put to a future
-      guest.
-    topic: audience-engagement-format
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:58:49]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5w0-kcPdbNU&t=213s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00604
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: assertion
+  text: 'Challenges Shekhar -- noting that he teaches large numbers of students and has direct personal experience of the system -- by asking whether he genuinely feels that no real work/progress has happened in the country over the last 10-12 years.
 
-  - id: raj-shamani-00611
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: observation
-    text: >
-      Closes the episode by asking viewers to do three things: subscribe
-      to the channel, comment with feedback on what the show did well or
-      badly, and share the episode with at least one other person.
-    topic: show-outro
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:02:43]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript cuts off mid-sentence on the third
-      point (about sharing the episode).
+    '
+  topic: governance-progress
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:38:05]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. No speaker diarization in source; attribution inferred from direct second-person address ("you teach so many people...") consistent with the host questioning the guest.
 
-  - id: raj-shamani-00612
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: observation
-    text: >
-      Mentions that the full audio experience of the show is available
-      on Spotify, where listeners can follow the podcast, and asks
-      viewers to subscribe to the YouTube channel for more such
-      podcasts.
-    topic: show-distribution
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the standard intro bumper before the
-      interview proper begins ("enjoy the show").
 
-  - id: raj-shamani-00613
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: belief
-    text: >
-      Responds to Shekhar's closing wish that the show becomes "world's
-      number one" by saying that his singular ambition for "world's
-      number one" is for the world to come to India, or to follow
-      conversations happening in India, rather than the other way
-      around.
-    topic: show-ambition
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:02:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. No speaker diarization in source; attribution
-      inferred from this being a direct response to the guest's preceding
-      well-wish for the show.
+    Visual verification check (2026-09-15): at ~[00:38:05] the caption (''brother, he was going to run away or work or not...'') does not clearly match the challenge about teaching large numbers of students. Left as draft pending closer re-check.'
+- id: raj-shamani-00605
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: assertion
+  text: 'Notes that they had been discussing sociology and that Shekhar had brought up a point about Russia in between, then directly asks him whether he thinks what Russia is doing (in its war) is right.
 
-  - id: raj-shamani-00614
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: assertion
-    text: >
-      Tells Shekhar, addressing him respectfully as "sir," that he and
-      his team will keep working hard so that they make him proud one
-      day.
-    topic: show-ambition
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:02:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. No speaker diarization in source; attribution
-      inferred from context immediately following statement
-      raj-shamani-00613 in the same exchange.
+    '
+  topic: russia-ukraine-war
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:22:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-00615
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: experience
-    text: >
-      Recounts a personal story of traveling to Turkey, where he and
-      friends were being served rotating/spinning naan bread by a
-      waiter while talking amongst themselves in Hindi; the waiter
-      replied in Hindi too, and turned out to be from Afghanistan, and
-      said he watches all of India's cricket matches.
-    topic: travel-anecdote
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:18:32]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. No speaker diarization in source; attribution to
-      the host is inferred (a first-person personal anecdote interjected
-      into the guest's broader discussion of displaced Afghan/Central
-      Asian migrant workers), and speaker_confidence should be treated as
-      no higher than medium.
 
-  - id: raj-shamani-00616
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: evidence
-    text: >
-      Says he saw a video clip of a UAE minister making a similar point
-      about prioritizing network over money and knowledge -- arguing
-      that if forced to choose among the three, one should choose a good
-      network first, because the right network will tell you where to
-      get both knowledge and money.
-    topic: money-knowledge-network
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:56:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. No speaker diarization in source; the "I saw a
-      clip" framing is first-person and introduces this point, but the
-      surrounding elaboration may blend with the guest's voice, so
-      speaker_confidence should be treated as no higher than medium.
+    Visual verification check (2026-09-15): at ~[00:22:07] the caption discusses morality being ''very defined here'', not clearly the sociology/directionless discussion described. Left as draft.'
+- id: raj-shamani-00606
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: assertion
+  text: 'Asks Shekhar to explain what he means by "directionless" -- for viewers who may be educated but feel they lack direction, or who aren''t especially educated and still lack direction -- specifically what he means by India having a "direction problem."
 
-  - id: raj-shamani-00617
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: evidence
-    text: >
-      Recounts a tweet's argument that once a country's per-capita GDP
-      reaches around $8,000, people start demanding better government
-      services (such as clean roads and clean air) because by that point
-      the government also has enough resources to deliver them -- and
-      says India's per-capita GDP is currently only around $2,000-3,000,
-      meaning that stage is still a long way off (a post-2030 story).
-    topic: gdp-per-capita-threshold
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:42:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This same claim also appears verbatim in the
-      episode's cold-open highlight montage at the very start of the
-      video, directly following the tweet-reading remark in
-      raj-shamani-00618, supporting that both are part of one continuous
-      statement by the host.
+    '
+  topic: career-direction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:54:41]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Immediately preceded (same speaker turn, per transcript) by a remark wondering whether "this video" would reach the female student in the anecdote Shekhar had just told.
 
-  - id: raj-shamani-00618
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: evidence
-    text: >
-      Says he was reading a tweet, written by an American, arguing that
-      Western issues and opinions (such as work-life-balance debates,
-      shorter work weeks, and carbon credits) should only matter once a
-      country has Western-level salaries and tax rates; says the tweet
-      was defending N.R. Narayana Murthy against people mocking his call
-      for a 70-hour work week, on the grounds that India's per-capita
-      income, infrastructure, and social conditioning are not at Western
-      levels.
-    topic: work-life-balance-debate
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:47:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. First-person "I was reading a tweet" framing
-      supports host attribution.
 
-  - id: raj-shamani-00619
-    person: raj-shamani
-    source: raj-shamani-fo505-shekhar
-    type: recommendation
-    text: >
-      Suggests to listeners that, now that "vibe coding" makes building
-      software easy, anyone inspired by the idea of the Chinese "I Am
-      Alive" loneliness-check app should go build a similar app
-      themselves.
-    topic: loneliness-app-idea
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:11:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. No speaker diarization in source; attribution
-      inferred from the direct address to listeners ("if someone
-      listening to this..."), consistent with host-style audience
-      address.
+    Visual verification check (2026-09-15): at ~[00:54:41] the caption is about someone''s interview calls/attempts, not the ''directionless'' explanation. Left as draft pending closer re-check -- the timestamp may be off due to a mid-block speaker/topic change.'
+- id: raj-shamani-00607
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: assertion
+  text: 'Recalls that Shekhar had previously made a video about Donald Trump in which he explained Trump''s tariff policies as being driven by three sociological reasons, and asks him to summarize what those three reasons are.
+
+    '
+  topic: trump-tariffs
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:36:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attribution inferred from the reference to "a video you made," addressing the guest about his own prior content.
+
+
+    Visual verification check (2026-09-15): at ~[01:36:29] the caption matches the episode''s opening nationalism/class discussion (a repeated/earlier segment), not the Trump-video recollection described. Left as draft pending closer re-check.'
+- id: raj-shamani-00608
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: assertion
+  text: 'Asks Shekhar what he thinks India''s national character will be.
+
+    '
+  topic: national-identity
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:33:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The same question also appears in the episode''s cold-open highlight montage at the very start of the video.
+
+
+    Not individually re-confirmed in this pass (adjacent to 00607''s timestamp, ~[01:33:52]); left as draft pending a dedicated check.'
+- id: raj-shamani-00609
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: experience
+  text: 'Says that he has recently started asking guests a fill-in-the-blank question: "India will become a prosperous nation when ___" -- i.e. asking them to name the specific condition under which India becomes a prosperous nation.
+
+    '
+  topic: recurring-question-format
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5w0-kcPdbNU&t=7160s
+    start_timestamp: 01:59:20
+    end_timestamp: 01:59:35
+  evidence:
+    excerpt: null
+  notes: '~[01:59:22]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. He explicitly frames this as something "I recently started asking people," i.e. a recurring format across his episodes, not specific to this one.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5w0-kcPdbNU&t=7160s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00610
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: experience
+  text: 'As a closing device for the episode, asks viewers to comment below with a politically incorrect question they are afraid to ask, saying he will pick some of those comments to put to a future guest.
+
+    '
+  topic: audience-engagement-format
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:58:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (adjacent to the closing cluster near [01:58:49]); left as draft pending a dedicated check.'
+- id: raj-shamani-00611
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: observation
+  text: 'Closes the episode by asking viewers to do three things: subscribe to the channel, comment with feedback on what the show did well or badly, and share the episode with at least one other person.
+
+    '
+  topic: show-outro
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5w0-kcPdbNU&t=7360s
+    start_timestamp: 02:02:40
+    end_timestamp: 02:03:05
+  evidence:
+    excerpt: null
+  notes: '~[02:02:43]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript cuts off mid-sentence on the third point (about sharing the episode).
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5w0-kcPdbNU&t=7360s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00612
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: observation
+  text: 'Mentions that the full audio experience of the show is available on Spotify, where listeners can follow the podcast, and asks viewers to subscribe to the YouTube channel for more such podcasts.
+
+    '
+  topic: show-distribution
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5w0-kcPdbNU&t=153s
+    start_timestamp: 00:02:33
+    end_timestamp: 00:02:42
+  evidence:
+    excerpt: null
+  notes: '~[00:02:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the standard intro bumper before the interview proper begins ("enjoy the show").
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5w0-kcPdbNU&t=153s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00613
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: belief
+  text: 'Responds to Shekhar''s closing wish that the show becomes "world''s number one" by saying that his singular ambition for "world''s number one" is for the world to come to India, or to follow conversations happening in India, rather than the other way around.
+
+    '
+  topic: show-ambition
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5w0-kcPdbNU&t=7335s
+    start_timestamp: 02:02:15
+    end_timestamp: 02:02:40
+  evidence:
+    excerpt: null
+  notes: '~[02:02:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. No speaker diarization in source; attribution inferred from this being a direct response to the guest''s preceding well-wish for the show.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5w0-kcPdbNU&t=7335s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00614
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: assertion
+  text: 'Tells Shekhar, addressing him respectfully as "sir," that he and his team will keep working hard so that they make him proud one day.
+
+    '
+  topic: show-ambition
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5w0-kcPdbNU&t=7335s
+    start_timestamp: 02:02:15
+    end_timestamp: 02:02:40
+  evidence:
+    excerpt: null
+  notes: '~[02:02:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. No speaker diarization in source; attribution inferred from context immediately following statement raj-shamani-00613 in the same exchange.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5w0-kcPdbNU&t=7335s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00615
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: experience
+  text: 'Recounts a personal story of traveling to Turkey, where he and friends were being served rotating/spinning naan bread by a waiter while talking amongst themselves in Hindi; the waiter replied in Hindi too, and turned out to be from Afghanistan, and said he watches all of India''s cricket matches.
+
+    '
+  topic: travel-anecdote
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:18:32]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. No speaker diarization in source; attribution to the host is inferred (a first-person personal anecdote interjected into the guest''s broader discussion of displaced Afghan/Central Asian migrant workers), and speaker_confidence should be treated as no higher than medium.
+
+
+    Not checked in this pass due to time; left as draft.'
+- id: raj-shamani-00616
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: evidence
+  text: 'Says he saw a video clip of a UAE minister making a similar point about prioritizing network over money and knowledge -- arguing that if forced to choose among the three, one should choose a good network first, because the right network will tell you where to get both knowledge and money.
+
+    '
+  topic: money-knowledge-network
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:56:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. No speaker diarization in source; the "I saw a clip" framing is first-person and introduces this point, but the surrounding elaboration may blend with the guest''s voice, so speaker_confidence should be treated as no higher than medium.
+
+
+    Not checked in this pass due to time; left as draft.'
+- id: raj-shamani-00617
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: evidence
+  text: 'Recounts a tweet''s argument that once a country''s per-capita GDP reaches around $8,000, people start demanding better government services (such as clean roads and clean air) because by that point the government also has enough resources to deliver them -- and says India''s per-capita GDP is currently only around $2,000-3,000, meaning that stage is still a long way off (a post-2030 story).
+
+    '
+  topic: gdp-per-capita-threshold
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:42:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This same claim also appears verbatim in the episode''s cold-open highlight montage at the very start of the video, directly following the tweet-reading remark in raj-shamani-00618, supporting that both are part of one continuous statement by the host.
+
+
+    Not checked in this pass due to time; left as draft.'
+- id: raj-shamani-00618
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: evidence
+  text: 'Says he was reading a tweet, written by an American, arguing that Western issues and opinions (such as work-life-balance debates, shorter work weeks, and carbon credits) should only matter once a country has Western-level salaries and tax rates; says the tweet was defending N.R. Narayana Murthy against people mocking his call for a 70-hour work week, on the grounds that India''s per-capita income, infrastructure, and social conditioning are not at Western levels.
+
+    '
+  topic: work-life-balance-debate
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:47:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. First-person "I was reading a tweet" framing supports host attribution.
+
+
+    Not checked in this pass due to time; left as draft.'
+- id: raj-shamani-00619
+  person: raj-shamani
+  source: raj-shamani-fo505-shekhar
+  type: recommendation
+  text: 'Suggests to listeners that, now that "vibe coding" makes building software easy, anyone inspired by the idea of the Chinese "I Am Alive" loneliness-check app should go build a similar app themselves.
+
+    '
+  topic: loneliness-app-idea
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:11:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. No speaker diarization in source; attribution inferred from the direct address to listeners ("if someone listening to this..."), consistent with host-style audience address.
+
+
+    Not checked in this pass due to time; left as draft.'
