@@ -1,914 +1,799 @@
 statements:
-  - id: raj-shamani-03201
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: assertion
-    text: >
-      In his opening voiceover introducing the guest, Raj describes Vidita
-      Vaidya as being with one of India's leading institutions, and as a
-      neuroscientist who has spent decades studying the brain, the most
-      complex organ of the human body.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's spoken guest introduction/voiceover at the
-      top of the episode.
+- id: raj-shamani-03201
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: assertion
+  text: 'In his opening voiceover introducing the guest, Raj describes Vidita Vaidya as being with one of India''s leading institutions, and as a neuroscientist who has spent decades studying the brain, the most complex organ of the human body.
 
-  - id: raj-shamani-03202
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: belief
-    text: >
-      As a hypothetical premise for a question, Raj asks whether the brain
-      of a billionaire such as Elon Musk would look the same as, or
-      different from, the brain of a 25-year-old, if you could open both up.
-    topic: brain-differences-high-achievers
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: guest-introduction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s spoken guest introduction/voiceover at the top of the episode.
 
-  - id: raj-shamani-03203
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: assertion
-    text: >
-      As the premise of a question, Raj states that he has heard Einstein's
-      brain weighed more than a normal person's brain.
-    topic: einstein-brain-weight-claim
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:19:05]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote ("मैंने सुना है कि आइंस्टीन के मस्तिष्क का वजन इससे
-      अधिक है एक सामान्य इंसान की तरह").
 
-  - id: raj-shamani-03204
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: belief
-    text: >
-      As the premise of a question, Raj asks whether women have a larger
-      hippocampus than men, framing this as a possible explanation for why
-      women seem to remember things better.
-    topic: sex-differences-memory
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:30:30]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The guest's answer (out of scope for this host-only
-      pass) says this is not the case at a gross-structure level.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03202
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: belief
+  text: 'As a hypothetical premise for a question, Raj asks whether the brain of a billionaire such as Elon Musk would look the same as, or different from, the brain of a 25-year-old, if you could open both up.
 
-  - id: raj-shamani-03205
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj recounts a personal family story: one of his family members went
-      through an episode lasting six or seven days — which Raj refers to as
-      a stroke, or what some people call a stroke — during which they did
-      not recognize who their family members were. The next morning, that
-      person woke up as usual and cooked and served food correctly to the
-      five family members they did remember.
-    topic: family-memory-loss-episode
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:55:14]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. ASR is somewhat uncertain on exact wording/duration
-      details ("6 दिनों तक... 7 दिन"), so a verifier should double check the
-      exact number of days and relationship of the family member against the
-      source audio.
+    '
+  topic: brain-differences-high-achievers
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03206
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      In answer to a question from the guest, Raj states that he went to
-      school in Indore.
-    topic: raj-personal-background
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:57:42]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03207
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj says he remembers his favorite school teacher and the teacher he
-      disliked, but that he doesn't remember even half the names of his
-      other, neutral teachers — he can recall only around five names total.
-    topic: raj-personal-background
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:57:42]-[00:58:00]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Said in answer to the guest's questions about
-      which school memories stick, illustrating her point about emotionally
-      charged memories.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03203
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: assertion
+  text: 'As the premise of a question, Raj states that he has heard Einstein''s brain weighed more than a normal person''s brain.
 
-  - id: raj-shamani-03208
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj recounts personally watching an Olympic sprinter, waiting to run
-      (in a race Raj estimates was around 400m, after an earlier ~100m
-      race), whose body visibly shook/twitched while resting at the start
-      line just before the starting gun.
-    topic: athlete-pre-race-preparation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:01:51]-[01:02:42]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. ASR is uncertain on the exact race distances
-      mentioned.
+    '
+  topic: einstein-brain-weight-claim
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:19:05]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote ("मैंने सुना है कि आइंस्टीन के मस्तिष्क का वजन इससे अधिक है एक सामान्य इंसान की तरह").
 
-  - id: raj-shamani-03209
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: assertion
-    text: >
-      Raj names three specific high achievers he wants to discuss the
-      mental processes of: Michael Jordan, Michael Phelps, and Napoleon,
-      noting that all three won repeatedly in their respective domains.
-    topic: high-achiever-case-studies
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:05:34]-[01:05:54]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-03210
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: example
-    text: >
-      As a self-deprecating joke, Raj says he could sit here and say he
-      also wants to win an Olympic gold medal, but if he actually got to
-      the pool he wouldn't even be able to cross it.
-    topic: raj-self-deprecating-joke
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:09:32]-[01:09:51]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03204
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: belief
+  text: 'As the premise of a question, Raj asks whether women have a larger hippocampus than men, framing this as a possible explanation for why women seem to remember things better.
 
-  - id: raj-shamani-03211
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj shares that when he started his first podcast, he did not know
-      whether it would succeed. He says he asked himself whether he would
-      still be happy doing the process for ten years even if he never got
-      the result he wanted, and that the answer was yes — which is why he
-      is happy he spent those ten years on it, result aside.
-    topic: raj-podcast-origin-story
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:25:53]-[01:26:36]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. ASR is somewhat garbled in this passage, so a
-      verifier should double check exact phrasing against the source audio.
+    '
+  topic: sex-differences-memory
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:30:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The guest''s answer (out of scope for this host-only pass) says this is not the case at a gross-structure level.
 
-  - id: raj-shamani-03212
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: belief
-    text: >
-      As a hypothetical premise, Raj asks whether the brain of a billionaire
-      like Elon Musk would look the same as, or different from, the brain
-      of an ordinary 25- or 35-year-old who feels stuck at home, incapable
-      of doing anything, and unhappy with their life.
-    topic: brain-differences-high-achievers
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:27:45]-[01:28:12]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-03213
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: observation
-    text: >
-      Raj states that of roughly 100 friends he has made in the past year,
-      about 95 of them feel a sense of something missing/being stuck, and
-      that this feeling has nothing to do with their level of achievement.
-    topic: achievement-vs-fulfillment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:34:37]-[01:35:08]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03205
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj recounts a personal family story: one of his family members went through an episode lasting six or seven days — which Raj refers to as a stroke, or what some people call a stroke — during which they did not recognize who their family members were. The next morning, that person woke up as usual and cooked and served food correctly to the five family members they did remember.
 
-  - id: raj-shamani-03214
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: belief
-    text: >
-      Raj states that Viktor Frankl's book "Man's Search for Meaning" is one
-      of his all-time favorite books.
-    topic: raj-favorite-book
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:36:23]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote ("मेरी अब तक की सबसे पसंदीदा रचनाओं में से एक है...
-      सर्वकालिक पसंदीदा").
+    '
+  topic: family-memory-loss-episode
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:55:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. ASR is somewhat uncertain on exact wording/duration details ("6 दिनों तक... 7 दिन"), so a verifier should double check the exact number of days and relationship of the family member against the source audio.
 
-  - id: raj-shamani-03215
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj describes a personal habit: most days he tries to spend at least
-      30 minutes to an hour reading or learning something new, and on days
-      he feels too exhausted to do that, he makes sure to at least learn one
-      new word — he keeps a dictionary next to his bed and randomly opens it
-      to read a word.
-    topic: raj-daily-learning-habit
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:47:16]-[01:48:03]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-03216
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj says he came across the concept of "neurobics" a few years ago and
-      found it very interesting — the idea of doing small things that are
-      not your usual way of doing them, to exercise your brain.
-    topic: raj-neurobics
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:49:56]-[01:50:20]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03206
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'In answer to a question from the guest, Raj states that he went to school in Indore.
 
-  - id: raj-shamani-03217
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      As an example of a "neurobics" habit, Raj describes brushing his
-      teeth with his right (dominant) hand in the morning and switching to
-      his left hand in the evening, and says he later added another layer:
-      during part of his 45-minute daily walk (around 10 minutes), he walks
-      backwards.
-    topic: raj-neurobics
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:50:20]-[01:50:43]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: raj-personal-background
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:57:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03218
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj admits he used to have a serious problem with phone addiction —
-      specifically checking notifications — saying he would check his phone
-      roughly 50 times just to see whether there was a notification or not,
-      regardless of whether one had actually come in.
-    topic: raj-phone-addiction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:52:16]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03219
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj describes a rule he has set up to manage his phone habit: when he
-      enters the gym, he now hands his phone to his trainer, who does not
-      give it back to him until the session is over — whereas previously he
-      used to stay on his phone throughout his gym time.
-    topic: raj-phone-addiction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:52:38]-[01:53:01]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03207
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj says he remembers his favorite school teacher and the teacher he disliked, but that he doesn''t remember even half the names of his other, neutral teachers — he can recall only around five names total.
 
-  - id: raj-shamani-03220
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj states that in almost all of his blood tests, everything comes
-      back great except that his cortisol level is high — but that he does
-      not personally feel stressed; he feels like a normal person.
-    topic: raj-cortisol-levels
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:14:28]-[02:14:57]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: raj-personal-background
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:57:42]-[00:58:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said in answer to the guest''s questions about which school memories stick, illustrating her point about emotionally charged memories.
 
-  - id: raj-shamani-03221
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj says he personally struggles with an overactive/hypersensitive
-      sympathetic nervous system, driven by high adrenaline, which he
-      describes as good for functioning at a high level but as coming with
-      its own costs.
-    topic: raj-cortisol-levels
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:17:20]-[02:17:48]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-03222
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj recounts that his own performance coach told him that his cortisol
-      is high but only borderline, and that this might actually be a good
-      thing helping him perform, noting that this coach works with many
-      other athletes as well.
-    topic: raj-performance-coach-cortisol
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:18:11]-[02:18:36]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. ASR is somewhat garbled in this passage.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03208
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj recounts personally watching an Olympic sprinter, waiting to run (in a race Raj estimates was around 400m, after an earlier ~100m race), whose body visibly shook/twitched while resting at the start line just before the starting gun.
 
-  - id: raj-shamani-03223
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj recounts his coach's explanation that a high cortisol baseline by
-      itself doesn't tell the full story — what matters more is how quickly
-      a person's cortisol returns to a normal baseline afterward.
-    topic: raj-performance-coach-cortisol
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:18:36]-[02:18:57]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: athlete-pre-race-preparation
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:01:51]-[01:02:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. ASR is uncertain on the exact race distances mentioned.
 
-  - id: raj-shamani-03224
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj recounts that his coach also worked with another athlete — a
-      European football player and, Raj believes, a World Cup-winning
-      captain — whose cortisol was found to be consistently high, and
-      notably not only on match days but on practice days as well.
-    topic: raj-performance-coach-cortisol
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:19:19]-[02:19:46]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. ASR does not give a clear name for the player;
-      "European football captain, World Cup winner" is Raj's own uncertain
-      characterization ("मुझे लगा कि वह था विश्व कप विजेता कप्तान").
 
-  - id: raj-shamani-03225
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj recounts that after that footballer won the World Cup, his
-      motivation completely disappeared and he was unable to perform,
-      almost as if something had suddenly gone wrong with him — even though
-      his cortisol and other measures had returned to normal.
-    topic: raj-performance-coach-cortisol
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:19:46]-[02:20:11]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03209
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: assertion
+  text: 'Raj names three specific high achievers he wants to discuss the mental processes of: Michael Jordan, Michael Phelps, and Napoleon, noting that all three won repeatedly in their respective domains.
 
-  - id: raj-shamani-03226
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj says he showed this footballer's pattern to a neuroscientist for
-      an explanation, and got the same answer the guest was giving him on
-      the podcast: that a person needs to learn to be calmer, or else there
-      will eventually be a collapse in which nothing motivates them anymore.
-    topic: raj-performance-coach-cortisol
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:20:11]-[02:20:39]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: high-achiever-case-studies
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:05:34]-[01:05:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03227
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj admits he is a very reflective/introspective person, and that
-      whenever he meets someone remarkable and impressive on his podcast —
-      such as someone who has built billions in wealth or someone who has
-      won gold medals repeatedly — and goes deep with them for 20-30
-      minutes, he comes home afterward and exhibits unusual behavior of his
-      own.
-    topic: raj-post-podcast-behavior
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:23:51]-[02:24:39]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Raj does not specify exactly what the unusual
-      behavior consists of in this passage.
 
-  - id: raj-shamani-03228
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj states plainly that he has never tried psychedelics such as
-      ayahuasca, and that he has no interest in doing so.
-    topic: raj-psychedelics-stance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:39:53]-[02:40:12]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03210
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: example
+  text: 'As a self-deprecating joke, Raj says he could sit here and say he also wants to win an Olympic gold medal, but if he actually got to the pool he wouldn''t even be able to cross it.
 
-  - id: raj-shamani-03229
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: belief
-    text: >
-      Raj says he has chosen meditation, rather than psychedelics, as his
-      way of training his brain, because he feels there is too much risk in
-      handing that kind of control over to an external, molecular factor.
-    topic: raj-psychedelics-stance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:40:12]-[02:40:37]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: raj-self-deprecating-joke
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:09:32]-[01:09:51]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03230
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: belief
-    text: >
-      Raj says that doing podcasts and conversations is his own version of
-      an "altered state," and that he gets a different kind of joy from it
-      every single time.
-    topic: raj-podcasting-as-altered-state
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:41:04]-[02:41:22]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote ("मेरे लिए, यह है मेरी बदली हुई अवस्था").
 
-  - id: raj-shamani-03231
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj recounts attending a retreat/conference in Cartagena, Colombia,
-      where on the third day there was a half-day "beach day" featuring
-      gratitude practices in groups of about 12-14 people, led by a
-      charismatic person Raj describes as a retreat coach, therapist, or
-      healer-type figure, who handed out mushrooms and chocolate with
-      something mixed into it to the group.
-    topic: raj-cartagena-retreat-story
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:41:44]-[02:42:07]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03211
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj shares that when he started his first podcast, he did not know whether it would succeed. He says he asked himself whether he would still be happy doing the process for ten years even if he never got the result he wanted, and that the answer was yes — which is why he is happy he spent those ten years on it, result aside.
 
-  - id: raj-shamani-03232
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: experience
-    text: >
-      Raj recounts that at this retreat he chose not to participate, and
-      that the person he had been randomly paired with for the group
-      exercise — who had taken the substance — made him feel embarrassed
-      and questioned him for not taking part, while everyone else went
-      along with it.
-    topic: raj-cartagena-retreat-story
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:42:40]-[02:43:07]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: raj-podcast-origin-story
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:25:53]-[01:26:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. ASR is somewhat garbled in this passage, so a verifier should double check exact phrasing against the source audio.
 
-  - id: raj-shamani-03233
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: belief
-    text: >
-      Reflecting on the Cartagena retreat, Raj says it felt like they were
-      starting a cult, and that this cult-like aspect of such retreats is
-      something that concerns him.
-    topic: raj-cartagena-retreat-story
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:43:07]-[02:43:51]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-03234
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: observation
-    text: >
-      Raj says that over the roughly three days he spent with the group at
-      that retreat, he observed very different personalities emerge —
-      some people seemed fine, while others seemed to be "on a different
-      trip" entirely.
-    topic: raj-cartagena-retreat-story
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:43:51]-[02:44:14]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03212
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: belief
+  text: 'As a hypothetical premise, Raj asks whether the brain of a billionaire like Elon Musk would look the same as, or different from, the brain of an ordinary 25- or 35-year-old who feels stuck at home, incapable of doing anything, and unhappy with their life.
 
-  - id: raj-shamani-03235
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: belief
-    text: >
-      Raj says his standard answer to people who ask why he doesn't try
-      such substances is that he has no desire to unnecessarily interfere
-      with his own nervous system, which he calls a fairly complex organ,
-      or to add further strain to it.
-    topic: raj-psychedelics-stance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:44:14]-[02:44:35]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: brain-differences-high-achievers
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:27:45]-[01:28:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03236
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: assertion
-    text: >
-      Raj states that he does not drink alcohol, because he does not want
-      to become an addict.
-    topic: raj-alcohol-stance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:44:35]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03237
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: belief
-    text: >
-      Raj says he has no desire to unnecessarily speed up the process of his
-      own neurons dying, since some neurons will die naturally over the
-      course of life anyway.
-    topic: raj-psychedelics-stance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:44:35]-[02:44:56]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03213
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: observation
+  text: 'Raj states that of roughly 100 friends he has made in the past year, about 95 of them feel a sense of something missing/being stuck, and that this feeling has nothing to do with their level of achievement.
 
-  - id: raj-shamani-03238
-    person: raj-shamani
-    source: raj-shamani-fo518-vidita-vaidya
-    type: observation
-    text: >
-      Near the end of the episode, Raj asks whether it is more because of
-      Freud's influence that negative emotions have been studied more than
-      positive ones in neuroscience.
-    topic: negative-vs-positive-emotion-research
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:49:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The guest's answer (out of scope for this host-only
-      pass) says no, it's simply because negative emotions are easier to
-      study.
+    '
+  topic: achievement-vs-fulfillment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:34:37]-[01:35:08]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03214
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: belief
+  text: 'Raj states that Viktor Frankl''s book "Man''s Search for Meaning" is one of his all-time favorite books.
+
+    '
+  topic: raj-favorite-book
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:36:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote ("मेरी अब तक की सबसे पसंदीदा रचनाओं में से एक है... सर्वकालिक पसंदीदा").
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03215
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj describes a personal habit: most days he tries to spend at least 30 minutes to an hour reading or learning something new, and on days he feels too exhausted to do that, he makes sure to at least learn one new word — he keeps a dictionary next to his bed and randomly opens it to read a word.
+
+    '
+  topic: raj-daily-learning-habit
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:47:16]-[01:48:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03216
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj says he came across the concept of "neurobics" a few years ago and found it very interesting — the idea of doing small things that are not your usual way of doing them, to exercise your brain.
+
+    '
+  topic: raj-neurobics
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:49:56]-[01:50:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03217
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'As an example of a "neurobics" habit, Raj describes brushing his teeth with his right (dominant) hand in the morning and switching to his left hand in the evening, and says he later added another layer: during part of his 45-minute daily walk (around 10 minutes), he walks backwards.
+
+    '
+  topic: raj-neurobics
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:50:20]-[01:50:43]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03218
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj admits he used to have a serious problem with phone addiction — specifically checking notifications — saying he would check his phone roughly 50 times just to see whether there was a notification or not, regardless of whether one had actually come in.
+
+    '
+  topic: raj-phone-addiction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:52:16]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03219
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj describes a rule he has set up to manage his phone habit: when he enters the gym, he now hands his phone to his trainer, who does not give it back to him until the session is over — whereas previously he used to stay on his phone throughout his gym time.
+
+    '
+  topic: raj-phone-addiction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:52:38]-[01:53:01]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03220
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj states that in almost all of his blood tests, everything comes back great except that his cortisol level is high — but that he does not personally feel stressed; he feels like a normal person.
+
+    '
+  topic: raj-cortisol-levels
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:14:28]-[02:14:57]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03221
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj says he personally struggles with an overactive/hypersensitive sympathetic nervous system, driven by high adrenaline, which he describes as good for functioning at a high level but as coming with its own costs.
+
+    '
+  topic: raj-cortisol-levels
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:17:20]-[02:17:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03222
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj recounts that his own performance coach told him that his cortisol is high but only borderline, and that this might actually be a good thing helping him perform, noting that this coach works with many other athletes as well.
+
+    '
+  topic: raj-performance-coach-cortisol
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:18:11]-[02:18:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. ASR is somewhat garbled in this passage.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03223
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj recounts his coach''s explanation that a high cortisol baseline by itself doesn''t tell the full story — what matters more is how quickly a person''s cortisol returns to a normal baseline afterward.
+
+    '
+  topic: raj-performance-coach-cortisol
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:18:36]-[02:18:57]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03224
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj recounts that his coach also worked with another athlete — a European football player and, Raj believes, a World Cup-winning captain — whose cortisol was found to be consistently high, and notably not only on match days but on practice days as well.
+
+    '
+  topic: raj-performance-coach-cortisol
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:19:19]-[02:19:46]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. ASR does not give a clear name for the player; "European football captain, World Cup winner" is Raj''s own uncertain characterization ("मुझे लगा कि वह था विश्व कप विजेता कप्तान").
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03225
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj recounts that after that footballer won the World Cup, his motivation completely disappeared and he was unable to perform, almost as if something had suddenly gone wrong with him — even though his cortisol and other measures had returned to normal.
+
+    '
+  topic: raj-performance-coach-cortisol
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:19:46]-[02:20:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03226
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj says he showed this footballer''s pattern to a neuroscientist for an explanation, and got the same answer the guest was giving him on the podcast: that a person needs to learn to be calmer, or else there will eventually be a collapse in which nothing motivates them anymore.
+
+    '
+  topic: raj-performance-coach-cortisol
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:20:11]-[02:20:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03227
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj admits he is a very reflective/introspective person, and that whenever he meets someone remarkable and impressive on his podcast — such as someone who has built billions in wealth or someone who has won gold medals repeatedly — and goes deep with them for 20-30 minutes, he comes home afterward and exhibits unusual behavior of his own.
+
+    '
+  topic: raj-post-podcast-behavior
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:23:51]-[02:24:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj does not specify exactly what the unusual behavior consists of in this passage.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03228
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj states plainly that he has never tried psychedelics such as ayahuasca, and that he has no interest in doing so.
+
+    '
+  topic: raj-psychedelics-stance
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:39:53]-[02:40:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03229
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: belief
+  text: 'Raj says he has chosen meditation, rather than psychedelics, as his way of training his brain, because he feels there is too much risk in handing that kind of control over to an external, molecular factor.
+
+    '
+  topic: raj-psychedelics-stance
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:40:12]-[02:40:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03230
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: belief
+  text: 'Raj says that doing podcasts and conversations is his own version of an "altered state," and that he gets a different kind of joy from it every single time.
+
+    '
+  topic: raj-podcasting-as-altered-state
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:41:04]-[02:41:22]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote ("मेरे लिए, यह है मेरी बदली हुई अवस्था").
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03231
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj recounts attending a retreat/conference in Cartagena, Colombia, where on the third day there was a half-day "beach day" featuring gratitude practices in groups of about 12-14 people, led by a charismatic person Raj describes as a retreat coach, therapist, or healer-type figure, who handed out mushrooms and chocolate with something mixed into it to the group.
+
+    '
+  topic: raj-cartagena-retreat-story
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:41:44]-[02:42:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03232
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: experience
+  text: 'Raj recounts that at this retreat he chose not to participate, and that the person he had been randomly paired with for the group exercise — who had taken the substance — made him feel embarrassed and questioned him for not taking part, while everyone else went along with it.
+
+    '
+  topic: raj-cartagena-retreat-story
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:42:40]-[02:43:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03233
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: belief
+  text: 'Reflecting on the Cartagena retreat, Raj says it felt like they were starting a cult, and that this cult-like aspect of such retreats is something that concerns him.
+
+    '
+  topic: raj-cartagena-retreat-story
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:43:07]-[02:43:51]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03234
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: observation
+  text: 'Raj says that over the roughly three days he spent with the group at that retreat, he observed very different personalities emerge — some people seemed fine, while others seemed to be "on a different trip" entirely.
+
+    '
+  topic: raj-cartagena-retreat-story
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:43:51]-[02:44:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03235
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: belief
+  text: 'Raj says his standard answer to people who ask why he doesn''t try such substances is that he has no desire to unnecessarily interfere with his own nervous system, which he calls a fairly complex organ, or to add further strain to it.
+
+    '
+  topic: raj-psychedelics-stance
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:44:14]-[02:44:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03236
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: assertion
+  text: 'Raj states that he does not drink alcohol, because he does not want to become an addict.
+
+    '
+  topic: raj-alcohol-stance
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:44:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03237
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: belief
+  text: 'Raj says he has no desire to unnecessarily speed up the process of his own neurons dying, since some neurons will die naturally over the course of life anyway.
+
+    '
+  topic: raj-psychedelics-stance
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:44:35]-[02:44:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (38-statement) episode with heavy guest monologue; a spread spot-check sample mostly landed on ambiguous or guest content. Left as draft pending closer re-check.'
+- id: raj-shamani-03238
+  person: raj-shamani
+  source: raj-shamani-fo518-vidita-vaidya
+  type: observation
+  text: 'Near the end of the episode, Raj asks whether it is more because of Freud''s influence that negative emotions have been studied more than positive ones in neuroscience.
+
+    '
+  topic: negative-vs-positive-emotion-research
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=lacFcgcHx6I&t=10168s
+    start_timestamp: 02:49:28
+    end_timestamp: 02:49:40
+  evidence:
+    excerpt: null
+  notes: '~[02:49:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The guest''s answer (out of scope for this host-only pass) says no, it''s simply because negative emotions are easier to study.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=lacFcgcHx6I&t=10168s in-browser (English caption text check, close match).'
