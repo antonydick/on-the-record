@@ -1,1 +1,137 @@
-statements: []
+statements:
+  - id: nikhil-kamath-183
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-beauty-skincare-ep25
+    type: experience
+    text: >
+      Describes the podcast's format as deliberately non-monetary: they
+      run no advertising or sponsorships on the show, and instead he takes
+      a contribution of money from each guest which funds a charity
+      project at the end of the episode, calling it "the opposite of a
+      capitalistic venture." Says the outcome he hopes the show produces
+      is that a young viewer goes and starts a business in whatever
+      industry that episode covered.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting Inde Wild
+      founder Deepa, Bombay Shaving Company's Shaveen Bali, and a beauty
+      content creator/entrepreneur referred to as "Bhakti" tied to Tira),
+      no diarization in the auto-transcript. This statement is the host's
+      own framing of the show near the start of the episode.
+
+  - id: nikhil-kamath-184
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-beauty-skincare-ep25
+    type: experience
+    text: >
+      Mentions that he was recently ideating a lab-grown-diamond jewelry
+      brand, consulting with two people referred to in the transcript as
+      "Kishor" and "Santo Bani" (names likely garbled in the
+      auto-transcript -- confirm during verification), who told him that
+      young consumers are increasingly buying not wholly new products but
+      "re-imagined old" ones.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-183. Attributed to
+      the host because it is framed as the lead-in to a question posed to
+      guest Deepa about whether the "re-imagined old" pattern matches Inde
+      Wild's own strategy (e.g. reviving the traditional "champi"/hair-oil
+      ritual), which she then answers.
+
+  - id: nikhil-kamath-185
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-beauty-skincare-ep25
+    type: experience
+    text: >
+      Recounts renting a property where, over time, he went through
+      several house managers/caretakers because of a persistent bad
+      smell: one smelled "like dead fish" for three months of the year,
+      and another quit before ever meeting Nikhil in person, saying the
+      area smelled so bad he could not survive there.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-183. Told in first
+      person ("I rented this place... I was not in town... he said this
+      area smells so bad") during a discussion of scent/fragrance as a
+      strong emotional trigger.
+
+  - id: nikhil-kamath-186
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-beauty-skincare-ep25
+    type: belief
+    text: >
+      States that the funds he invests through are structured as
+      "perpetual funds" with no fixed life cycle, unlike the typical
+      8-10-year (or in India, closer to 13-14-year) venture fund
+      structure, and argues India as a market requires 15-20 years of
+      patience to see something meaningful emerge -- contrasting this with
+      a cohort of companies his fund invested in during 2021-2022 whose
+      founders, he says, became impatient and questioned whether to
+      continue at the first signs of difficulty.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-183. Stated in
+      first person in response to a guest's comment about typical VC fund
+      life cycles ("so we run all perpetual funds").
+
+  - id: nikhil-kamath-187
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-beauty-skincare-ep25
+    type: belief
+    text: >
+      Says that, from an investor's perspective, there are "strangely...
+      not enough listed Indian players" that allow public-market
+      allocation into the beauty and personal care category, despite
+      large private companies like Foxtail, Sugar, Deconstruct, Plum, and
+      Minimalist existing in the space, and concludes there is significant
+      room and potential for someone to build a large business here.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-183. Offered as
+      his own closing takeaway from the episode ("as a investor strangely
+      enough...").
