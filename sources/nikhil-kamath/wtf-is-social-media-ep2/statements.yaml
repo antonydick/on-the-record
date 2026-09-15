@@ -1,1 +1,132 @@
-statements: []
+statements:
+  - id: nikhil-kamath-154
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-social-media-ep2
+    type: experience
+    text: >
+      Explains a "Be Here Now" tattoo he has, referencing a book by an
+      author transcribed as "AK Ramdas" (likely Ram Dass, whose famous
+      book is titled "Be Here Now") that he read roughly 8-9 years
+      before this recording. Says he went through a long period of
+      chronic anxiety about the future and procrastination, and
+      describes coming to terms with actuarial life-expectancy math --
+      framing himself, at 36, as statistically having about 34 years
+      left -- as what reoriented him toward living in the present.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: multi-guest panel (Nikhil hosting Tanmay
+      Bhat, Umang Bedi, and Aprameya Radhakrishna), no diarization, very
+      fast cross-talk throughout. This specific exchange is
+      high-confidence for Nikhil: a direct question about a tattoo the
+      host has, followed by a first-person answer including his stated
+      age (36), which is internally consistent with nikhil-kamath-101
+      (Kiran Mazumdar-Shaw episode, also age 36, published within three
+      months of this episode). Not confirmed via video. The author name
+      is garbled in the auto-transcript -- confirm during verification.
+
+  - id: nikhil-kamath-155
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-social-media-ep2
+    type: experience
+    text: >
+      Says his reading focus has shifted in recent years from books on
+      finance, economics, and the stock market to books on psychology,
+      specifically citing an interest in theories linking difficult
+      childhoods to outsized adult ambition/success.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154. Follows
+      directly on from the tattoo exchange, in the same speaking turn.
+
+  - id: nikhil-kamath-156
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-social-media-ep2
+    type: experience
+    text: >
+      Recounts a recent trip to Saudi Arabia where he was shown major
+      investment projects, including a large-scale villa development
+      (referred to as "Rosan," on the order of 45,000 villas), as part
+      of scouting investment opportunities in the country.
+    topic: travel
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154. The
+      project name is garbled in the auto-transcript ("Rosan," possibly
+      referring to Saudi Arabia's ROSHN development) -- confirm during
+      verification.
+
+  - id: nikhil-kamath-157
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-social-media-ep2
+    type: experience
+    text: >
+      Describes difficulty trying to set up a company and a fund in
+      Dubai's DIFC -- a roughly three-month wait for a corporate bank
+      account, a one-month DIFC licensing process that required medical
+      tests, and a requirement to maintain physical office real estate
+      -- and contrasts this with his fund being one of the first to set
+      up in India's GIFT City roughly three years earlier, when the
+      zone had only a handful of tenants and has since grown rapidly.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154.
+      Cross-reference: corroborates his early presence in GIFT City,
+      consistent with nikhil-kamath-059 (Ruchir Sharma episode).
+
+  - id: nikhil-kamath-158
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-social-media-ep2
+    type: experience
+    text: >
+      Says he has read that visualizing a mnemonic image helps with
+      remembering things, but admits he has never personally been able
+      to make the technique work despite trying, after a guest
+      described watching someone flawlessly recall a thousand people's
+      names using a similar method.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154.
