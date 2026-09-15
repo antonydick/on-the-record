@@ -1,1 +1,91 @@
-statements: []
+statements:
+  - id: nikhil-kamath-166
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-ecommerce-ep3
+    type: experience
+    text: >
+      Says he is a small investor, alongside Udaan co-founder Sujeet
+      Kumar, in coffee chains including Third Wave Coffee and a chain
+      referred to as "Hatti Kaapi," and describes his own research
+      concluding that Indian coffee-shop unit economics fundamentally
+      differ from the US: in the US customers buy coffee to walk away
+      with, whereas in India customers expect to sit for hours after
+      paying 200-300 rupees, changing the real-estate and revenue math.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: multi-guest panel (Nikhil hosting Kishore
+      Biyani of Future Group, Vidit Aatrey of Meesho, and Sujeet Kumar
+      of Udaan), no diarization. Attribution inferred from
+      conversational role, not confirmed via video. The second coffee
+      chain's name is garbled in the auto-transcript ("hotti copy,"
+      likely "Hatti Kaapi") -- confirm during verification.
+
+  - id: nikhil-kamath-167
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-ecommerce-ep3
+    type: experience
+    text: >
+      Details his PVR trading history: shorted the stock around
+      1300-1400 rupees several years before this recording, prompted by
+      an Indian court ruling that allowed moviegoers to bring outside
+      food and drink (threatening PVR's high-margin F&B revenue, which
+      he cites as around 40-45% of income), then reversed to a long
+      position pre-pandemic on a bullish thesis that rising Indian
+      disposable income would increase multiplex relevance. Says he
+      remains genuinely conflicted on the space, citing an
+      OTT-will-win view from a neighbor who is CEO of Hotstar against
+      a bullish per-screen-density argument from his separate
+      investment in UFO Moviez (a digital cinema projection technology
+      company).
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-166.
+      Cross-reference: extends nikhil-kamath-160 (Next Gen Thinking
+      episode), which mentions the PVR investment and his own
+      tier-2/3 multiplex venture more briefly.
+
+  - id: nikhil-kamath-168
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-ecommerce-ep3
+    type: experience
+    text: >
+      Describes a close, long-standing friendship with Udaan
+      co-founder Sujeet Kumar -- they travel together roughly every
+      two to three months and were together the day before this
+      recording -- and recounts a week-long trip to Riyadh with him the
+      previous February, during which they were shown major Saudi
+      investment projects including a large-scale villa development and
+      the "Line" linear-city megaproject.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-166.
+      Cross-reference: the same Riyadh trip (villa project, described
+      elsewhere as "Rosan") is referenced in nikhil-kamath-156 (Social
+      Media panel episode), corroborating both the timing and details.
