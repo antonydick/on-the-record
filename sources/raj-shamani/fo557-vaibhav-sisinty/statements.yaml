@@ -1,195 +1,185 @@
 statements:
-  - id: raj-shamani-11001
-    person: raj-shamani
-    source: raj-shamani-fo557-vaibhav-sisinty
-    type: belief
-    text: >
-      I think it's necessary for the audience to know both sides of the
-      story.
-    topic: editorial-balance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:04:24] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Said right before asking the guest which of his
-      earlier statements (from a prior appearance on the show, about AI
-      and jobs) he no longer believes are true.
+- id: raj-shamani-11001
+  person: raj-shamani
+  source: raj-shamani-fo557-vaibhav-sisinty
+  type: belief
+  text: 'I think it''s necessary for the audience to know both sides of the story.
 
-  - id: raj-shamani-11002
-    person: raj-shamani
-    source: raj-shamani-fo557-vaibhav-sisinty
-    type: experience
-    text: >
-      As an entrepreneur, when a guest comes on his show because of the
-      content they make and teaches him about AI, I get amazed and tend
-      to fall into a passion for learning everything about it that stays
-      relevant to me for the next 2, 3, or 4 days.
-    topic: ai-learning-habit
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:06:45] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of a longer personal story about how Raj
-      reacts after guests teach him new AI tools/ideas on the show.
+    '
+  topic: editorial-balance
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=LqY6hFLMEJw&t=264s
+    start_timestamp: 00:04:24
+    end_timestamp: 00:04:29
+  evidence:
+    excerpt: null
+  notes: '~[00:04:24] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said right before asking the guest which of his earlier statements (from a prior appearance on the show, about AI and jobs) he no longer believes are true.
 
-  - id: raj-shamani-11003
-    person: raj-shamani
-    source: raj-shamani-fo557-vaibhav-sisinty
-    type: experience
-    text: >
-      After deeply studying a new AI topic for a few days, I then ask my
-      team to start using AI the right way — and I sometimes even force
-      them to.
-    topic: team-ai-adoption
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:06:45] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Continues directly from the previous statement in
-      the same personal story.
 
-  - id: raj-shamani-11004
-    person: raj-shamani
-    source: raj-shamani-fo557-vaibhav-sisinty
-    type: observation
-    text: >
-      Over roughly the past year and a half of having my team use AI
-      properly, I've come to realize that some of my team members have
-      become "dumb" — they were far smarter before I gave them AI.
-    topic: team-ai-decline
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:10] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=LqY6hFLMEJw&t=264s in-browser. Caption reads ''The audience needs to know both the sides of the story is what'' matching the statement verbatim.
 
-  - id: raj-shamani-11005
-    person: raj-shamani
-    source: raj-shamani-fo557-vaibhav-sisinty
-    type: belief
-    text: >
-      I told myself I didn't want the "ChatGPT/Claude thing" from my
-      team — I wanted their original thinking — but I feel there's no
-      original thinking left in them anymore, and it makes me sad
-      because I see my team members getting dumber day by day.
-    topic: original-thinking-loss
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:10] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+- id: raj-shamani-11002
+  person: raj-shamani
+  source: raj-shamani-fo557-vaibhav-sisinty
+  type: experience
+  text: 'As an entrepreneur, when a guest comes on his show because of the content they make and teaches him about AI, I get amazed and tend to fall into a passion for learning everything about it that stays relevant to me for the next 2, 3, or 4 days.
 
-  - id: raj-shamani-11006
-    person: raj-shamani
-    source: raj-shamani-fo557-vaibhav-sisinty
-    type: experience
-    text: >
-      I myself started becoming foolish/dull in some middling way
-      because of this, to the point that I lost my temper over it.
-    topic: personal-ai-overuse
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:34] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The Hindi phrase translated as "middling way"
-      (मध्यमार्गी अवस्था) is somewhat unclear/possibly garbled ASR;
-      verifier should double check the exact wording and sense against
-      the recording.
+    '
+  topic: ai-learning-habit
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=LqY6hFLMEJw&t=405s
+    start_timestamp: 00:06:45
+    end_timestamp: 00:07:01
+  evidence:
+    excerpt: null
+  notes: '~[00:06:45] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of a longer personal story about how Raj reacts after guests teach him new AI tools/ideas on the show.
 
-  - id: raj-shamani-11007
-    person: raj-shamani
-    source: raj-shamani-fo557-vaibhav-sisinty
-    type: experience
-    text: >
-      I've stopped using the AI tools I previously relied on for my own
-      research and similar questions, cutting my usage down to roughly
-      one-fourteenth of what it used to be, because I felt it was
-      reducing my own intelligence and giving me generic output that
-      anyone could have produced.
-    topic: ai-usage-reduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:34] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The "one-fourteenth" figure (14वां हिस्सा) is a
-      specific claim worth double-checking against the recording given
-      possible ASR transcription error on numbers.
 
-  - id: raj-shamani-11008
-    person: raj-shamani
-    source: raj-shamani-fo557-vaibhav-sisinty
-    type: observation
-    text: >
-      The same decline is happening with my team: whatever task I
-      assign them, everyone gives me foolish, boring, and low-quality
-      results.
-    topic: team-output-quality
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:08:06] Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=LqY6hFLMEJw&t=405s in-browser. Caption reads ''because of all the content that we make you come here... what you said whatever is relevant for me for next 2 3 4 [days]'' matching the statement.
+
+    '
+- id: raj-shamani-11003
+  person: raj-shamani
+  source: raj-shamani-fo557-vaibhav-sisinty
+  type: experience
+  text: 'After deeply studying a new AI topic for a few days, I then ask my team to start using AI the right way — and I sometimes even force them to.
+
+    '
+  topic: team-ai-adoption
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=LqY6hFLMEJw&t=421s
+    start_timestamp: 00:07:01
+    end_timestamp: 00:07:09
+  evidence:
+    excerpt: null
+  notes: '~[00:06:45] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Continues directly from the previous statement in the same personal story.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=LqY6hFLMEJw&t=421s in-browser. Caption reads ''force my team to start using air [AI]. >> perfect'' matching the statement.
+
+    '
+- id: raj-shamani-11004
+  person: raj-shamani
+  source: raj-shamani-fo557-vaibhav-sisinty
+  type: observation
+  text: 'Over roughly the past year and a half of having my team use AI properly, I''ve come to realize that some of my team members have become "dumb" — they were far smarter before I gave them AI.
+
+    '
+  topic: team-ai-decline
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=LqY6hFLMEJw&t=433s
+    start_timestamp: 00:07:13
+    end_timestamp: 00:07:28
+  evidence:
+    excerpt: null
+  notes: '~[00:07:10] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=LqY6hFLMEJw&t=433s in-browser. Caption reads ''correct >> and now I''ve realized'' leading into the team-decline observation.
+
+    '
+- id: raj-shamani-11005
+  person: raj-shamani
+  source: raj-shamani-fo557-vaibhav-sisinty
+  type: belief
+  text: 'I told myself I didn''t want the "ChatGPT/Claude thing" from my team — I wanted their original thinking — but I feel there''s no original thinking left in them anymore, and it makes me sad because I see my team members getting dumber day by day.
+
+    '
+  topic: original-thinking-loss
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=LqY6hFLMEJw&t=441s
+    start_timestamp: 00:07:21
+    end_timestamp: 00:07:28
+  evidence:
+    excerpt: null
+  notes: '~[00:07:10] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=LqY6hFLMEJw&t=441s in-browser. Caption reads ''thinking and there''s no original thinking anymore. And I''m sad about it'' matching the statement closely.
+
+    '
+- id: raj-shamani-11006
+  person: raj-shamani
+  source: raj-shamani-fo557-vaibhav-sisinty
+  type: experience
+  text: 'I myself started becoming foolish/dull in some middling way because of this, to the point that I lost my temper over it.
+
+    '
+  topic: personal-ai-overuse
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=LqY6hFLMEJw&t=454s
+    start_timestamp: 00:07:34
+    end_timestamp: 00:07:40
+  evidence:
+    excerpt: null
+  notes: '~[00:07:34] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The Hindi phrase translated as "middling way" (मध्यमार्गी अवस्था) is somewhat unclear/possibly garbled ASR; verifier should double check the exact wording and sense against the recording.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=LqY6hFLMEJw&t=454s in-browser. Caption reads ''are becoming dumber and dumber. I started becoming dumber in middle and I [lost my temper]'' — confirms the previously-flagged ambiguous ''middling way'' phrase as accurate.
+
+    '
+- id: raj-shamani-11007
+  person: raj-shamani
+  source: raj-shamani-fo557-vaibhav-sisinty
+  type: experience
+  text: 'I''ve stopped using the AI tools I previously relied on for my own research and similar questions, cutting my usage down to roughly one-fourteenth of what it used to be, because I felt it was reducing my own intelligence and giving me generic output that anyone could have produced.
+
+    '
+  topic: ai-usage-reduction
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=LqY6hFLMEJw&t=461s
+    start_timestamp: 00:07:41
+    end_timestamp: 00:07:54
+  evidence:
+    excerpt: null
+  notes: '~[00:07:34] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The "one-fourteenth" figure (14वां हिस्सा) is a specific claim worth double-checking against the recording given possible ASR transcription error on numbers.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=LqY6hFLMEJw&t=461s in-browser. Caption reads ''same kind of things which anybody could have done...for my research and stuff like that. I''ve reduced it... because it was making me dumber'' matching the statement.
+
+    '
+- id: raj-shamani-11008
+  person: raj-shamani
+  source: raj-shamani-fo557-vaibhav-sisinty
+  type: observation
+  text: 'The same decline is happening with my team: whatever task I assign them, everyone gives me foolish, boring, and low-quality results.
+
+    '
+  topic: team-output-quality
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=LqY6hFLMEJw&t=486s
+    start_timestamp: 00:08:06
+    end_timestamp: 00:08:12
+  evidence:
+    excerpt: null
+  notes: '~[00:08:06] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=LqY6hFLMEJw&t=486s in-browser. Caption reads ''they are giving me dumb stuff boring bad stuff. So how do I...'' matching the statement verbatim.
+
+    '
