@@ -1,1 +1,124 @@
-statements: []
+statements:
+  - id: nikhil-kamath-227
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-c2-24-founders
+    type: belief
+    text: >
+      Explains the WTFund's investment thesis to the assembled cohort of
+      founders: the 20-lakh-rupee grant is meant to get startups to
+      market readiness, WTFund retains the right to invest further as
+      each startup raises down the line, and each cohort is chosen for
+      sector traction/stickiness and "exponentiality" (many possible use
+      cases). Says the fund's job as an investor isn't just to put in
+      money but to see the future alongside the founders, and that its
+      broader purpose is to accelerate the Indian entrepreneurial
+      journey — adding that people complain about why young people in
+      India aren't building important things (giving DeepSeek as an
+      example) without recognizing there's little support, and that
+      WTFund is meant to be "the first arm of support."
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: this source is a WTFund cohort demo-day style
+      session with ~10 founder teams presenting in turn; no diarization
+      in the auto-transcript. This statement is confidently attributed to
+      Nikhil because it is delivered in first-person-plural framing
+      specific to the fund itself ("we give a 20 lakh grant," "we have
+      rights... to invest further," "our job... as investors"), matching
+      his established role as WTFund's founder/host across this episode
+      and the main WTF interview series.
+
+  - id: nikhil-kamath-228
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-c2-24-founders
+    type: experience
+    text: >
+      While questioning the beverage-brand ("drink") founders, discloses
+      that he is personally an investor in "some of these coffee
+      brands," and says it always helps a brand to have a clearer
+      demarcation of what sets it apart. Goes on to give his own market
+      analysis of India's drinks category: that the business model doesn't
+      translate from the West because the Indian real-estate-to-cup-sold
+      economics are worse (Indians don't buy a coffee and walk the
+      streets with it the way people do abroad), calling the space "very
+      complicated and nuanced" and saying nobody in it is really making
+      money despite the number of players that have scaled.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same multi-founder demo-day format and
+      no-diarization caveat as nikhil-kamath-227. Attributed to Nikhil
+      because it is framed as personal investing experience ("the little
+      bit of experience that I have as an investor in some of these
+      coffee brands") from the panel's questioner, addressed directly to
+      the beverage-brand founders being interviewed, consistent with his
+      host/investor role throughout.
+
+  - id: nikhil-kamath-229
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-c2-24-founders
+    type: experience
+    text: >
+      Tells the "drink" beverage-brand founders that he was recently
+      looking at a non-alcoholic beer brand in the US that is growing
+      faster than beer this year, and remarks it's incredible that it is
+      outperforming large established beer brands, attributing this to
+      the brand having a strong "novelty element" that he suggests the
+      founders' own brand could similarly benefit from.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same format/caveat as nikhil-kamath-227-228.
+      Attributed to Nikhil as a continuation of the same questioner's
+      turn giving the beverage founders market feedback, stated in first
+      person ("I was looking at this non-alcoholic beer brand").
+
+  - id: nikhil-kamath-230
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-c2-24-founders
+    type: experience
+    text: >
+      In his closing remarks to the cohort, says this has been a great
+      group of founders, that he wishes he had been friends with people
+      like them when he was their age, and reflects that he didn't end up
+      making friends with the kind of people he later wished he had.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same format/caveat as prior statements in this
+      episode. Attributed to Nikhil as the session's closing remarks
+      immediately following the final founder's pitch and directly
+      addressed to "the WTF fund team" and "this cohort," matching his
+      role as host throughout.
