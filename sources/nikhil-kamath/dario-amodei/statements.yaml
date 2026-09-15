@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-dario-amodei
     type: experience
+    speaker_confidence: high
     text: >
       Describes recently hiring a developer to spend a couple of hours
       a day teaching him the basics of coding, motivated by a fear of
@@ -34,6 +35,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-dario-amodei
     type: experience
+    speaker_confidence: high
     text: >
       Mentions investing in an Indian data center business.
     topic: investing
@@ -53,6 +55,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-dario-amodei
     type: experience
+    speaker_confidence: high
     text: >
       Says that in the week before this recording, he spent three
       hours a day at a hospital receiving nebulizer treatment and

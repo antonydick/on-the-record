@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: assertion
+    speaker_confidence: high
     text: >
       Mentions, in passing near the end of the conversation, that he is
       nearing 40 years old.
@@ -27,6 +28,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: experience
+    speaker_confidence: high
     text: >
       Says that when he was growing up, his grandfather's aspiration for
       him was to join the IAS (Indian Administrative Service), reflecting
@@ -51,6 +53,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: belief
+    speaker_confidence: high
     text: >
       Expresses concern that Indian brands, teenagers, and young adults
       spend hours a day on American-owned platforms (WhatsApp, YouTube,
@@ -74,6 +77,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: belief
+    speaker_confidence: high
     text: >
       Says he personally favors buying Indian brands over foreign ones
       as a matter of practice -- citing buying shirts and footwear from
@@ -99,6 +103,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: experience
+    speaker_confidence: high
     text: >
       States that he personally holds gold as an investment, and makes a
       habit of keeping roughly 8-10% of his holdings in gold, a practice
@@ -120,6 +125,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: experience
+    speaker_confidence: high
     text: >
       States that despite having academic/curiosity-driven interest in
       crypto, he has never personally purchased Bitcoin.
@@ -140,6 +146,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: experience
+    speaker_confidence: high
     text: >
       Says he was involved with GIFT City (Gujarat International
       Finance Tec-City) from when it started, and that he remains on
@@ -163,6 +170,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: assertion
+    speaker_confidence: high
     text: >
       Says that as a broker (i.e. Zerodha), the company ends up earning
       less revenue on a typical trade than the combined total a user
@@ -187,6 +195,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: belief
+    speaker_confidence: high
     text: >
       Identifies the informal/illegal "dabba" trading market (bets
       settled directly between participants or against a local
@@ -210,6 +219,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: experience
+    speaker_confidence: high
     text: >
       Mentions that during a recent trip to the US, he met the founders
       of the prediction-market platforms Kalshi and Polymarket.
@@ -230,6 +240,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: experience
+    speaker_confidence: high
     text: >
       Describes a chance meeting with financier Michael Milken (whom he
       estimates to be around 80 years old) at a place where they were
@@ -253,6 +264,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: mechanism
+    speaker_confidence: high
     text: >
       Says he has been researching whether India could build a
       stablecoin backed by a mix of gold and Indian rupees (rather than
@@ -277,6 +289,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: belief
+    speaker_confidence: high
     text: >
       Questions why he personally continues to use WhatsApp to
       communicate given discomfort with putting his data on an American
@@ -300,6 +313,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ruchir-sharma
     type: experience
+    speaker_confidence: high
     text: >
       Says he has watched Ruchir Sharma's annual "top 10 trends" segment
       with Prannoy Roy for many years, and describes Prannoy Roy as a

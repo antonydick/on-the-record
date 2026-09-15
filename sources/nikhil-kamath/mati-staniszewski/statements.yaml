@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mati-staniszewski
     type: experience
+    speaker_confidence: high
     text: >
       Says his fintech company (unnamed in this exchange) has about 14
       people, mostly based in Bengaluru with a few near Mumbai; confirms
@@ -27,6 +28,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mati-staniszewski
     type: experience
+    speaker_confidence: high
     text: >
       Confirms he is a small ("tiny") investor in Nothing, Carl Pei's
       consumer electronics company, and mentions that after this
@@ -49,6 +51,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mati-staniszewski
     type: belief
+    speaker_confidence: high
     text: >
       Elaborates on his motivation for wanting to build a new social
       media platform for India: believes current social media is
@@ -79,6 +82,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mati-staniszewski
     type: experience
+    speaker_confidence: high
     text: >
       Describes his podcast as entrepreneur-heavy, aiming to help
       people start companies, including a grant that gives some guests/
@@ -103,6 +107,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mati-staniszewski
     type: experience
+    speaker_confidence: high
     text: >
       States he owns a house (not an office) in Goa, where he keeps
       dogs, and describes it as "a lot of fun" -- offering to take the

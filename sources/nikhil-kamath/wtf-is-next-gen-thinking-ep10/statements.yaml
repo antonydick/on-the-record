@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
     type: assertion
+    speaker_confidence: high
     text: >
       States he is 36 years old and has been a full-time trader for 19
       years, i.e. since around age 17.
@@ -33,6 +34,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
     type: experience
+    speaker_confidence: high
     text: >
       Says he has been an investor in PVR (the cinema chain) for a long
       time, and separately started his own company building small,
@@ -58,6 +60,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
     type: experience
+    speaker_confidence: high
     text: >
       Mentions having a much younger brother, around 15 years old at
       the time, who lives in Dubai and got on Instagram around age
@@ -85,6 +88,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
     type: experience
+    speaker_confidence: high
     text: >
       Describes his working relationship with his brother Nithin
       Kamath: he started trading full-time at 17, and the two of them
@@ -114,6 +118,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
     type: experience
+    speaker_confidence: high
     text: >
       Describes a personal habit, sustained for about a year, of
       writing down his dreams within the first five minutes of waking
@@ -138,6 +143,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
     type: experience
+    speaker_confidence: high
     text: >
       Describes a personal planning ritual: going alone into the office
       on Sundays surrounded by whiteboards, sometimes for up to 12
@@ -160,6 +166,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
     type: experience
+    speaker_confidence: high
     text: >
       Discloses having been to therapy ("I've been to a few [therapists],
       nine out of ten are horrible"), and shares that he has never had

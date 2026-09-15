@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-kiran-mazumdar-shaw
     type: experience
+    speaker_confidence: high
     text: >
       Describes himself and Kiran Mazumdar-Shaw as close personal
       friends who are part of the same Bangalore social circle -- they
@@ -27,6 +28,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-kiran-mazumdar-shaw
     type: assertion
+    speaker_confidence: high
     text: >
       States he is 36 years old at the time of this conversation, and
       confirms he does not have kids and does not intend to have
@@ -56,6 +58,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-kiran-mazumdar-shaw
     type: experience
+    speaker_confidence: high
     text: >
       Confirms (in response to Kiran referencing "you signed the giving
       pledge like I did") that he has signed the Giving Pledge, and
@@ -82,6 +85,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-kiran-mazumdar-shaw
     type: mechanism
+    speaker_confidence: high
     text: >
       Describes the podcast's original charity model: the show was
       never intended to make money, so at the end of each episode he
@@ -114,6 +118,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-kiran-mazumdar-shaw
     type: experience
+    speaker_confidence: high
     text: >
       Mentions that his brother, a professor who teaches in Canada, had
       visited a couple of weeks before this recording, and that they
@@ -136,6 +141,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-kiran-mazumdar-shaw
     type: experience
+    speaker_confidence: high
     text: >
       Reflects that he felt inauthentic for a large part of his life,
       says he is now recognizing and making peace with his own flaws,
@@ -158,6 +164,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-kiran-mazumdar-shaw
     type: experience
+    speaker_confidence: high
     text: >
       Recounts that his sister-in-law fell seriously ill roughly two
       years before this recording, and that he called Kiran Mazumdar-

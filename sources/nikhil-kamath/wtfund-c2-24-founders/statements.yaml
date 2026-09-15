@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-c2-24-founders
     type: belief
+    speaker_confidence: high
     text: >
       Explains the WTFund's investment thesis to the assembled cohort of
       founders: the 20-lakh-rupee grant is meant to get startups to
@@ -40,6 +41,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-c2-24-founders
     type: experience
+    speaker_confidence: high
     text: >
       While questioning the beverage-brand ("drink") founders, discloses
       that he is personally an investor in "some of these coffee
@@ -74,6 +76,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-c2-24-founders
     type: experience
+    speaker_confidence: high
     text: >
       Tells the "drink" beverage-brand founders that he was recently
       looking at a non-alcoholic beer brand in the US that is growing
@@ -101,6 +104,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-c2-24-founders
     type: experience
+    speaker_confidence: high
     text: >
       In his closing remarks to the cohort, says this has been a great
       group of founders, that he wishes he had been friends with people

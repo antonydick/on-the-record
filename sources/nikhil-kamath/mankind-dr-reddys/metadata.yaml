@@ -1,10 +1,5 @@
 id: nikhil-kamath-mankind-dr-reddys
 person: nikhil-kamath
-interviewer_slug: mankind-dr-reddys
-title: "Two Pharma Giants Who'd Never Met | Mankind & Dr. Reddy's | WTF is Pharma?"
-url: "https://www.youtube.com/watch?v=WMRO9dvD5T0"
-platform: youtube
-published_date: "2026-06-17"
-duration: "02:51:07"
-format: video
+episode: mankind-dr-reddys
+role: host
 processing_status: extracted

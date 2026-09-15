@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-kumar-birla
     type: assertion
+    speaker_confidence: high
     text: >
       States that he started trading/investing at age 17, has been
       doing it for 21 years as of this recording, and gives his current
@@ -36,6 +37,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-kumar-birla
     type: experience
+    speaker_confidence: high
     text: >
       Says he rarely cries -- estimates around five times in the last
       decade -- and lists the occasions he can recall: his brother's
@@ -64,6 +66,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-kumar-birla
     type: experience
+    speaker_confidence: high
     text: >
       Admits that he estimates he does no more than about 90 minutes
       of genuinely productive work on a typical day, describing the

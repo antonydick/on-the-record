@@ -1,10 +1,5 @@
 id: nikhil-kamath-wtf-is-content-ep8
 person: nikhil-kamath
-interviewer_slug: wtf-is-content-ep8
-title: "Ep #8 | WTF is Going on in the World of Content | w/ Nikhil, Ajay Bijli, Vijay S. & Sajith S."
-url: "https://www.youtube.com/watch?v=hNV6urpwrk8"
-platform: youtube
-published_date: "2023-08-14"
-duration: "02:13:56"
-format: video
+episode: wtf-is-content-ep8
+role: host
 processing_status: extracted

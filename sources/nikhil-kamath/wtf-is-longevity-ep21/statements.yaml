@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-longevity-ep21
     type: experience
+    speaker_confidence: high
     text: >
       Discloses that his brother and Zerodha co-founder Nithin Kamath
       suffered a stroke in January (shortly before this recording),
@@ -37,6 +38,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-longevity-ep21
     type: experience
+    speaker_confidence: high
     text: >
       Says he tried an NAD+ IV infusion once in Dubai and felt so
       physically uncomfortable during it -- describing a heavy sensation

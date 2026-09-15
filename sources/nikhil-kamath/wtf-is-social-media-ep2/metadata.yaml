@@ -1,10 +1,5 @@
 id: nikhil-kamath-wtf-is-social-media-ep2
 person: nikhil-kamath
-interviewer_slug: wtf-is-social-media-ep2
-title: "Ep. #2: Secrets of Social Media Success, Mental Health & Distribution Hacks - 3 OGs Reveal All"
-url: "https://www.youtube.com/watch?v=SkU3J2vWUK8"
-platform: youtube
-published_date: "2023-04-19"
-duration: "02:42:41"
-format: video
+episode: wtf-is-social-media-ep2
+role: host
 processing_status: extracted

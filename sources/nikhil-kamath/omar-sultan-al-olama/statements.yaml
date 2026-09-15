@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-omar-sultan-al-olama
     type: assertion
+    speaker_confidence: high
     text: >
       States he is 39 years old, a few years older than Omar Sultan
       Al Olama (35), while discussing generational differences.
@@ -32,6 +33,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-omar-sultan-al-olama
     type: experience
+    speaker_confidence: high
     text: >
       The event moderator notes, and Nikhil does not contest, that his
       interview lineup that month included Elon Musk, Sam Altman, and
@@ -58,6 +60,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-omar-sultan-al-olama
     type: experience
+    speaker_confidence: high
     text: >
       Indicates he has read Machiavelli's "The Prince," drawing on
       specific passages from it (the advice that a prince must "appear"
@@ -79,6 +82,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-omar-sultan-al-olama
     type: experience
+    speaker_confidence: high
     text: >
       Says he plays paddle back home in India with an 18-year-old
       teammate named Dion, whom he describes as significantly better

@@ -1,10 +1,5 @@
 id: nikhil-kamath-wtf-is-policing-special
 person: nikhil-kamath
-interviewer_slug: wtf-is-policing-special
-title: "Nikhil Kamath ft. Police Comm'r & Traffic Police Comm'r of Bengaluru | WTF is Policing? | Special Ep"
-url: "https://www.youtube.com/watch?v=LcWoP6KtZKw"
-platform: youtube
-published_date: "2025-05-11"
-duration: "01:28:24"
-format: video
+episode: wtf-is-policing-special
+role: host
 processing_status: extracted

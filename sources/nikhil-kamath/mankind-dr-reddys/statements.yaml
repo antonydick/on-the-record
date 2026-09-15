@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mankind-dr-reddys
     type: experience
+    speaker_confidence: high
     text: >
       Mentions he works in private equity, and that a number of his
       friends in the US are bullish on aggregating small Indian
@@ -31,6 +32,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mankind-dr-reddys
     type: experience
+    speaker_confidence: high
     text: >
       States he personally takes a range of supplements daily, including
       magnesium, a sleep aid, and omega-3.
@@ -51,6 +53,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mankind-dr-reddys
     type: experience
+    speaker_confidence: high
     text: >
       Recounts that around 20-22 years before this recording (i.e.
       around age 17), he started a pharmacy store with two shops, and
@@ -78,6 +81,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mankind-dr-reddys
     type: experience
+    speaker_confidence: high
     text: >
       Mentions having traveled to China the previous January and being
       amazed by the innovation ecosystem he saw there.
@@ -100,6 +104,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mankind-dr-reddys
     type: experience
+    speaker_confidence: high
     text: >
       Says he is currently reading a book about the political
       transition from Mao Zedong to Deng Xiaoping in China.
@@ -125,6 +130,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mankind-dr-reddys
     type: experience
+    speaker_confidence: high
     text: >
       Discusses his own health/biohacking routine in some detail: says
       he recently received stem cell treatments (sourced from umbilical
@@ -155,6 +161,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-mankind-dr-reddys
     type: experience
+    speaker_confidence: high
     text: >
       Mentions that roughly ten of his friends have expressed interest
       in starting a business around GLP-1 weight-loss drugs.

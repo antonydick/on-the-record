@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-yann-lecun
     type: belief
+    speaker_confidence: high
     text: >
       Mentions his own background working in finance and hedge funds,
       where fund managers have long tried to feed large amounts of data
@@ -33,6 +34,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-yann-lecun
     type: experience
+    speaker_confidence: high
     text: >
       Mentions he was reviewing a data-center business as a potential
       investment, which prompted his question to Yann LeCun about

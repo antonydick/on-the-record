@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ajay-banga
     type: experience
+    speaker_confidence: high
     text: >
       Says he has spent a large part of the last two years investing in
       green energy, energy transition, and storage, including the
@@ -26,6 +27,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ajay-banga
     type: experience
+    speaker_confidence: high
     text: >
       Mentions, in the context of a question about whether the world
       would have fewer problems if fewer people had children, that he
@@ -50,6 +52,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ajay-banga
     type: experience
+    speaker_confidence: high
     text: >
       Recounts going for a walk in Central Park (New York) and talking
       with a couple of American men in their mid-to-late twenties, who
@@ -72,6 +75,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ajay-banga
     type: belief
+    speaker_confidence: high
     text: >
       Argues, by analogy to the slowdown in transistor density gains
       (Moore's Law), that the cost of AI compute will eventually stop
@@ -99,6 +103,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ajay-banga
     type: experience
+    speaker_confidence: high
     text: >
       Mentions having spoken with a World Bank colleague of Ajay Banga's
       about the bank's jobs-related research and data.

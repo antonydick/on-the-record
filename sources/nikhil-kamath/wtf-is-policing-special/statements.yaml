@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-policing-special
     type: experience
+    speaker_confidence: high
     text: >
       Says he (along with Accel) recently invested in an electric flying-
       taxi (eVTOL) company that is planning to take off from locations
@@ -34,6 +35,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-policing-special
     type: experience
+    speaker_confidence: high
     text: >
       Says that about 20 years before this recording he worked at a call
       center called "24/7" in the Embassy Icon building in Bangalore,

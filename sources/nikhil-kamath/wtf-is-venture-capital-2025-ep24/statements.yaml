@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-venture-capital-2025-ep24
     type: experience
+    speaker_confidence: high
     text: >
       Says he had spent a large part of the two months before this
       recording in the US trying to secure investment allocation into
@@ -32,6 +33,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-venture-capital-2025-ep24
     type: experience
+    speaker_confidence: high
     text: >
       Says he has personally been meeting with the prediction-market
       companies Kalshi and Polymarket, and separately with the legal-AI

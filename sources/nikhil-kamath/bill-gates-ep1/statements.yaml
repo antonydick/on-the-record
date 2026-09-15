@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-bill-gates-ep1
     type: assertion
+    speaker_confidence: high
     text: >
       Says he records this podcast once a month.
     topic: work-habits
@@ -27,6 +28,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-bill-gates-ep1
     type: experience
+    speaker_confidence: high
     text: >
       Says he joined the Giving Pledge the year before this recording,
       and that he is one of four Indian signatories, all based in
@@ -51,6 +53,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-bill-gates-ep1
     type: assertion
+    speaker_confidence: high
     text: >
       States his age as 37 at the time of this recording.
     topic: biography
@@ -72,6 +75,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-bill-gates-ep1
     type: experience
+    speaker_confidence: high
     text: >
       Describes co-running a foundation called "Rainmatter" that works
       on climate issues, and separately mentions a school project and

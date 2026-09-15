@@ -1,10 +1,5 @@
 id: nikhil-kamath-wtf-is-finance-ep4
 person: nikhil-kamath
-interviewer_slug: wtf-is-finance-ep4
-title: "They Called The Trade Wars & China's Housing Crash | Nikhil Kamath | WTF is Finance Ep 4"
-url: "https://www.youtube.com/watch?v=QigAo0NKUIM"
-platform: youtube
-published_date: "2026-07-28"
-duration: "00:59:46"
-format: video
+episode: wtf-is-finance-ep4
+role: host
 processing_status: extracted

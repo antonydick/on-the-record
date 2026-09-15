@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-neal-mohan
     type: assertion
+    speaker_confidence: high
     text: >
       States he is 38 years old, and describes his personal media
       journey growing up largely in Bangalore: watching Hindi TV
@@ -34,6 +35,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-neal-mohan
     type: experience
+    speaker_confidence: high
     text: >
       Quantifies his current media habits: roughly 30% of his free time
       on YouTube, 30% on social media, and the remainder split between
@@ -55,6 +57,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-neal-mohan
     type: experience
+    speaker_confidence: high
     text: >
       Admits a personal quirk: watching Netflix on his TV makes him
       subconsciously feel like he is "doing something wrong," while
@@ -78,6 +81,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-neal-mohan
     type: experience
+    speaker_confidence: high
     text: >
       Describes how his app usage has shifted over the past six or
       seven years: he did not use Spotify then, but now turns to
@@ -101,6 +105,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-neal-mohan
     type: experience
+    speaker_confidence: high
     text: >
       Mentions that after this recording (at the WAVES summit) he is
       participating in a roundtable discussion with the Indian Prime

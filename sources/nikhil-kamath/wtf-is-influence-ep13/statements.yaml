@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-influence-ep13
     type: experience
+    speaker_confidence: high
     text: >
       Is confirmed by guest Nuseir Yassin (Nas Daily) to be an investor in
       Yassin's company, which is building the creator-monetization
@@ -34,6 +35,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-influence-ep13
     type: experience
+    speaker_confidence: high
     text: >
       In the show's recurring end-of-episode community-support segment,
       after other panelists pledge 5 lakh rupees each toward free training

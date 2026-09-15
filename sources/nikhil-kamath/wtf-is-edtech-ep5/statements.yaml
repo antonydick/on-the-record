@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-edtech-ep5
     type: experience
+    speaker_confidence: high
     text: >
       Recounts a night out in Bombay with Jay Kotak that began with dinner
       at Mekong at Land's End, then moved through a couple of other spots
@@ -34,6 +35,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-edtech-ep5
     type: belief
+    speaker_confidence: high
     text: >
       Says that if he had to name something to change about education, it
       would be moving away from the modern nuclear-family construct

@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-content-ep8
     type: experience
+    speaker_confidence: high
     text: >
       Says he bought about 2% of PVR as a stock market investment, calling
       it "a reasonable chunk of money," and that he still holds the
@@ -34,6 +35,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-content-ep8
     type: experience
+    speaker_confidence: high
     text: >
       Describes how he met each of the episode's three guests: he met
       Ajay Bijli many years ago at a mutual friend's (Neeraj's) Diwali
@@ -64,6 +66,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-content-ep8
     type: belief
+    speaker_confidence: high
     text: >
       Explains the show's recurring charity segment -- guests commit an
       amount that goes to a charity chosen by audience poll rather than

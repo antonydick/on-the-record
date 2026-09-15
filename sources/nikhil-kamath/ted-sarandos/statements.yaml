@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ted-sarandos
     type: experience
+    speaker_confidence: high
     text: >
       Says he holds a small partnership stake in a talent management
       agency called Collective, which he describes as the largest such
@@ -26,6 +27,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ted-sarandos
     type: experience
+    speaker_confidence: high
     text: >
       Says he was previously an investor in the multiplex cinema chain
       that is now PVR Inox (India's largest, formed from a merger),
@@ -50,6 +52,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ted-sarandos
     type: assertion
+    speaker_confidence: high
     text: >
       Describes this podcast (WTF) as unmonetized -- no ads, no
       sponsors -- characterizing it as close to a charity project

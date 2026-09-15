@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-venture-capital-ep9
     type: experience
+    speaker_confidence: high
     text: >
       In the episode's closing charity segment, says that since the group
       spoke so much about climate on this episode, he wants to pick ACT
@@ -38,6 +39,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-venture-capital-ep9
     type: experience
+    speaker_confidence: high
     text: >
       Later in the same closing segment, after Prashanth, Rajan, and
       Karthik each name their own charities and match the 25-lakh amount,

@@ -1,10 +1,5 @@
 id: nikhil-kamath-dara-khosrowshahi
 person: nikhil-kamath
-interviewer_slug: dara-khosrowshahi
-title: "From Iran to Uber CEO | Nikhil Kamath x Dara Khosrowshahi | People by WTF | Ep. 14"
-url: "https://www.youtube.com/watch?v=2B8gABDfh7I"
-platform: youtube
-published_date: "2025-08-23"
-duration: "01:32:28"
-format: video
+episode: dara-khosrowshahi
+role: host
 processing_status: extracted

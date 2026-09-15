@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-ev-ep14
     type: experience
+    speaker_confidence: high
     text: >
       Says he is personally looking to invest in EVs and has been
       researching a number of companies not just in EV but in the energy
@@ -32,6 +33,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-ev-ep14
     type: experience
+    speaker_confidence: high
     text: >
       In the show's recurring end-of-episode segment where guests commit
       money toward funding a young entrepreneur's venture, commits 25

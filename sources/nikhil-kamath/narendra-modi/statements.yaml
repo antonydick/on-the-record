@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-narendra-modi
     type: assertion
+    speaker_confidence: high
     text: >
       Describes himself as South Indian, having grown up mostly in
       Bangalore; says his mother's family is from Mysore (a
@@ -34,6 +35,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-narendra-modi
     type: belief
+    speaker_confidence: high
     text: >
       States his age as 38, and says that around age 20 he came to
       believe capitalism was the right way to organize the world, a

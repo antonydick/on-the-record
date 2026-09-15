@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ar-rahman
     type: assertion
+    speaker_confidence: high
     text: >
       Describes himself as half Konkani, half Kannada; says his father
       is from a town called Udyavar near Udupi, and his mother is from
@@ -30,6 +31,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ar-rahman
     type: experience
+    speaker_confidence: high
     text: >
       Mentions his father passed away the year before this recording.
     topic: family

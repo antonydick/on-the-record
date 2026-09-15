@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-rishi-sunak-akshata-murty
     type: experience
+    speaker_confidence: high
     text: >
       Gives a detailed account of his "Foundry" accelerator's first
       cohort: run out of a house in Alibag (a 30-minute boat ride from
@@ -45,6 +46,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-rishi-sunak-akshata-murty
     type: experience
+    speaker_confidence: high
     text: >
       Mentions he interviewed Akshata Murty's father, N.R. Narayana
       Murthy (referred to as "Rishi's [father-in-law]"), a few years
@@ -67,6 +69,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-rishi-sunak-akshata-murty
     type: experience
+    speaker_confidence: high
     text: >
       Recounts attending the cremation of Kiran Mazumdar-Shaw's husband
       John (in 2022) alongside Sudha Murthy (Akshata Murty's mother),
@@ -92,6 +95,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-rishi-sunak-akshata-murty
     type: belief
+    speaker_confidence: high
     text: >
       Offers his own theory that South Indians, having historically
       experienced less war and conflict than North Indians, are
@@ -115,6 +119,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-rishi-sunak-akshata-murty
     type: experience
+    speaker_confidence: high
     text: >
       Mentions he met financier Michael Milken and discussed Milken's
       idea of giving every child born a financial endowment.
@@ -139,6 +144,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-rishi-sunak-akshata-murty
     type: experience
+    speaker_confidence: high
     text: >
       Says he recently hired someone who spends an hour or two with him
       every day teaching him to code, starting with an open-source
@@ -165,6 +171,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-rishi-sunak-akshata-murty
     type: experience
+    speaker_confidence: high
     text: >
       Describes an ongoing close friendship with Rishi Sunak and
       Akshata Murty, including socializing together in India over the

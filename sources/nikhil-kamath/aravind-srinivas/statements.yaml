@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-aravind-srinivas
     type: experience
+    speaker_confidence: high
     text: >
       Confirms he was in Dubai for the India vs. New Zealand cricket
       final, recording part of this conversation from his hotel room
@@ -29,6 +30,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-aravind-srinivas
     type: experience
+    speaker_confidence: high
     text: >
       Describes working in "the stock investor world" and says that
       over much of the last decade, he/his team experimented with

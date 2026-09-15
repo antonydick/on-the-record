@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-chamath-palihapitiya
     type: experience
+    speaker_confidence: high
     text: >
       Describes a grant program tied to his podcast: he has guests give
       money to a charity he chooses, matches their donation himself
@@ -39,6 +40,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-chamath-palihapitiya
     type: belief
+    speaker_confidence: high
     text: >
       Says he has long been fascinated with the idea of building a
       social media company out of India that could appeal to young
@@ -63,6 +65,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-chamath-palihapitiya
     type: experience
+    speaker_confidence: high
     text: >
       Mentions having recently attended the World Economic Forum at
       Davos, and observing how European attendees reacted to the
@@ -84,6 +87,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-chamath-palihapitiya
     type: observation
+    speaker_confidence: high
     text: >
       Says that, based on what he has seen through his own private
       equity fund's review of Indian companies, many legacy Indian

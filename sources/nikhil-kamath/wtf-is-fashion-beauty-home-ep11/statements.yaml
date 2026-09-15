@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-fashion-beauty-home-ep11
     type: experience
+    speaker_confidence: high
     text: >
       Says he has been researching consumption as a sector and that he
       (through his fund) created a fund specifically to invest in
@@ -32,6 +33,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-fashion-beauty-home-ep11
     type: experience
+    speaker_confidence: high
     text: >
       In the show's recurring end-of-episode charity segment, proposes
       doing it differently this time: funding one or two entrepreneurs

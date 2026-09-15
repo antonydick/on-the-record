@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-nikesh-arora
     type: assertion
+    speaker_confidence: high
     text: >
       Refers to running a private equity fund, distinct from his
       day-to-day trading, as part of his investing activity.
@@ -25,6 +26,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-nikesh-arora
     type: experience
+    speaker_confidence: high
     text: >
       Says he extended a trip to Silicon Valley longer than originally
       planned, describing meeting a dozen or so young founders over

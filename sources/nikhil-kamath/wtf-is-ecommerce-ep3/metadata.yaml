@@ -1,10 +1,5 @@
 id: nikhil-kamath-wtf-is-ecommerce-ep3
 person: nikhil-kamath
-interviewer_slug: wtf-is-ecommerce-ep3
-title: "Ep #3| WTF is E-commerce: Kishore Biyani, Udaan & Meesho Founders Reveal What Sells and What Doesn't"
-url: "https://www.youtube.com/watch?v=UKag4LVAEdU"
-platform: youtube
-published_date: "2023-05-07"
-duration: "02:08:13"
-format: video
+episode: wtf-is-ecommerce-ep3
+role: host
 processing_status: extracted

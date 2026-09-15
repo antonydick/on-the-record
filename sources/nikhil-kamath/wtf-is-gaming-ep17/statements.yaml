@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-gaming-ep17
     type: experience
+    speaker_confidence: high
     text: >
       Discloses that he is an investor in Nazara Technologies (India's
       only listed gaming company, founded by guest Nitish Mittersain),
@@ -30,6 +31,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-gaming-ep17
     type: experience
+    speaker_confidence: high
     text: >
       In the show's recurring end-of-episode community-support segment,
       proposes identifying 20 promising young people in Indian gaming

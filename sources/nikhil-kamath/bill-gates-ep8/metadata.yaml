@@ -1,10 +1,5 @@
 id: nikhil-kamath-bill-gates-ep8
 person: nikhil-kamath
-interviewer_slug: bill-gates-ep8
-title: "Bill Gates x Nikhil Kamath Part 2 | People by WTF | Ep.8"
-url: "https://www.youtube.com/watch?v=YY7J1pHfSyY"
-platform: youtube
-published_date: "2025-04-10"
-duration: "00:40:23"
-format: video
+episode: bill-gates-ep8
+role: host
 processing_status: extracted

@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-finance-ep4
     type: belief
+    speaker_confidence: high
     text: >
       States that India, like China, has capital controls, and says he
       personally believes that over the long term, removing those
@@ -33,6 +34,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-finance-ep4
     type: experience
+    speaker_confidence: high
     text: >
       Says he personally knows Ray Dalio, and that Dalio has told him
       repeatedly that when short-term interest rates rise above long-term

@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-consumer-electronics-ep23
     type: belief
+    speaker_confidence: high
     text: >
       Argues, during a discussion of reciprocal US tariffs on phones,
       that while he has "no affinity to America" and is "the biggest
@@ -33,6 +34,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-consumer-electronics-ep23
     type: belief
+    speaker_confidence: high
     text: >
       Says he prefers befriending people who are open about their flaws
       ("I like people who are a little bit screwed up in all domains")
@@ -62,6 +64,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-consumer-electronics-ep23
     type: experience
+    speaker_confidence: high
     text: >
       Proposes, as the episode's closing pay-it-forward gesture in place
       of the show's usual single-founder charity pledge, a joint

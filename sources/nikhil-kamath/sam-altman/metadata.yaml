@@ -1,10 +1,5 @@
 id: nikhil-kamath-sam-altman
 person: nikhil-kamath
-interviewer_slug: sam-altman
-title: "Sam Altman x Nikhil Kamath: How to Win When AI Changes Everything | People by WTF | Episode 13"
-url: "https://www.youtube.com/watch?v=SfOaZIGJ_gs"
-platform: youtube
-published_date: "2025-08-14"
-duration: "00:45:11"
-format: video
+episode: sam-altman
+role: host
 processing_status: extracted

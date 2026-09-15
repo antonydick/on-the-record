@@ -1,10 +1,5 @@
 id: nikhil-kamath-omar-sultan-al-olama
 person: nikhil-kamath
-interviewer_slug: omar-sultan-al-olama
-title: "The Case for Youth in Politics | HE Omar Sultan Al Olama (One of the World's Youngest Ministers)"
-url: "https://www.youtube.com/watch?v=9gX2-RvNhf8"
-platform: youtube
-published_date: "2026-01-10"
-duration: "01:42:56"
-format: video
+episode: omar-sultan-al-olama
+role: host
 processing_status: extracted

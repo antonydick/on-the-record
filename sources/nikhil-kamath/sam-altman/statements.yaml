@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-sam-altman
     type: experience
+    speaker_confidence: high
     text: >
       Describes an active practice of researching investment sectors
       and themes with input from people like Sam Altman, referencing a
@@ -31,6 +32,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-sam-altman
     type: assertion
+    speaker_confidence: high
     text: >
       Describes creating content -- in context, this podcast/his media
       work -- roughly once a month.
@@ -53,6 +55,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-sam-altman
     type: experience
+    speaker_confidence: high
     text: >
       Mentions recently traveling between San Francisco and New York
       over a couple of months, meeting numerous AI founders, including

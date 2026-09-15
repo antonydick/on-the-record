@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-dara-khosrowshahi
     type: assertion
+    speaker_confidence: high
     text: >
       Says he lives split between Bangalore, Mumbai, and Goa in India.
     topic: biography
@@ -26,6 +27,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-dara-khosrowshahi
     type: experience
+    speaker_confidence: high
     text: >
       Confirms running a private equity fund and says he spent much of
       the past couple of years investing in the transition to electric

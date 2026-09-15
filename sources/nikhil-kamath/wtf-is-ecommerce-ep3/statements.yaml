@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-ecommerce-ep3
     type: experience
+    speaker_confidence: high
     text: >
       Says he is a small investor, alongside Udaan co-founder Sujeet
       Kumar, in coffee chains including Third Wave Coffee and a chain
@@ -33,6 +34,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-ecommerce-ep3
     type: experience
+    speaker_confidence: high
     text: >
       Details his PVR trading history: shorted the stock around
       1300-1400 rupees several years before this recording, prompted by
@@ -66,6 +68,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-ecommerce-ep3
     type: experience
+    speaker_confidence: high
     text: >
       Describes a close, long-standing friendship with Udaan
       co-founder Sujeet Kumar -- they travel together roughly every

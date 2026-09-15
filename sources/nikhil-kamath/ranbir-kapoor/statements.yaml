@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ranbir-kapoor
     type: experience
+    speaker_confidence: high
     text: >
       Describes his childhood geography: born in Shimoga, Karnataka;
       his father worked at Canara Bank and was transferred roughly
@@ -34,6 +35,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ranbir-kapoor
     type: experience
+    speaker_confidence: high
     text: >
       Describes his early trading days roughly 19-20 years before this
       recording: starting with small capital and trading aggressively
@@ -58,6 +60,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ranbir-kapoor
     type: experience
+    speaker_confidence: high
     text: >
       Describes his father passing away roughly three months before
       this recording, while Nikhil was traveling (in Dubai en route to
@@ -92,6 +95,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ranbir-kapoor
     type: belief
+    speaker_confidence: high
     text: >
       Says he rents rather than owns his home in Bangalore, and is
       skeptical of residential real estate as an investment in India,
@@ -116,6 +120,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ranbir-kapoor
     type: experience
+    speaker_confidence: high
     text: >
       Describes a childhood dog, a boxer named Hobbes (after the comic
       strip Calvin and Hobbes), who was with the family for 11 years;
@@ -137,6 +142,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ranbir-kapoor
     type: experience
+    speaker_confidence: high
     text: >
       Describes recently investing in the coffee brand Subko, and
       says he is considering (but had not yet invested in, as of this

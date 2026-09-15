@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ray-dalio
     type: experience
+    speaker_confidence: high
     text: >
       Says he has been trading for about 21 years. Separately describes
       his first stock purchase at age 17: a company called Marsoft, by
@@ -33,6 +34,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-ray-dalio
     type: assertion
+    speaker_confidence: high
     text: >
       Says he has for a long time kept about 10% of his asset base in
       gold.

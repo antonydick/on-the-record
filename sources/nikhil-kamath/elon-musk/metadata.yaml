@@ -1,10 +1,5 @@
 id: nikhil-kamath-elon-musk
 person: nikhil-kamath
-interviewer_slug: elon-musk
-title: "Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep. 16"
-url: "https://www.youtube.com/watch?v=Rni7Fz7208c"
-platform: youtube
-published_date: "2025-11-30"
-duration: "01:54:14"
-format: video
+episode: elon-musk
+role: host
 processing_status: extracted

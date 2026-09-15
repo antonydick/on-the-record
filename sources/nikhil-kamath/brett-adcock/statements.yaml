@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brett-adcock
     type: experience
+    speaker_confidence: high
     text: >
       Mentions an investment in an Indian electric-air-taxi (eVTOL)
       company.
@@ -29,6 +30,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brett-adcock
     type: experience
+    speaker_confidence: high
     text: >
       Mentions a recent investment in the hardware/consumer electronics
       company Nothing (the phone company).

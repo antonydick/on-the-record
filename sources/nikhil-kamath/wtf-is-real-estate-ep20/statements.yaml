@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-real-estate-ep20
     type: experience
+    speaker_confidence: high
     text: >
       Reveals he recently bought a house, breaking from his previously
       stated position that he would not buy property; explains that
@@ -31,6 +32,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-real-estate-ep20
     type: belief
+    speaker_confidence: high
     text: >
       Says he dislikes real estate's illiquidity as an asset class and
       would rather hold something like gold for that reason, while
@@ -59,6 +61,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-real-estate-ep20
     type: experience
+    speaker_confidence: high
     text: >
       Describes a friend, a real estate investor in his 70s referred to
       in the transcript as "Marcel Areno" (likely a garbled transcription

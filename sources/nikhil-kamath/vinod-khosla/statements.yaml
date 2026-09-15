@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-vinod-khosla
     type: experience
+    speaker_confidence: high
     text: >
       Is part of the Giving Pledge community, through which he had
       previously met Vinod Khosla and his family before this interview.
@@ -27,6 +28,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-vinod-khosla
     type: experience
+    speaker_confidence: high
     text: >
       Describes his team's ongoing research into an investment thesis
       built around demographic shifts -- an aging, "sicker" global
@@ -59,6 +61,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-vinod-khosla
     type: experience
+    speaker_confidence: high
     text: >
       Says that over the past couple of years he invested across the
       electric-mobility sector -- scooter companies, cars, trucks,

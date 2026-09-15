@@ -7,6 +7,7 @@ statements:
     person: example-person
     source: example-person-interviewer-two-001
     type: qualification
+    speaker_confidence: high
     text: "TEMPLATE — placeholder statement text, not a real statement by anyone."
     topic: example-topic
     verification:

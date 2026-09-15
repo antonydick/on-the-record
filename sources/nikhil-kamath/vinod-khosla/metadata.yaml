@@ -1,10 +1,5 @@
 id: nikhil-kamath-vinod-khosla
 person: nikhil-kamath
-interviewer_slug: vinod-khosla
-title: "Vinod Khosla: College Degrees Are Becoming Useless | People by WTF | Episode 12"
-url: "https://www.youtube.com/watch?v=O7O204wD82s"
-platform: youtube
-published_date: "2025-08-01"
-duration: "01:22:10"
-format: video
+episode: vinod-khosla
+role: host
 processing_status: extracted

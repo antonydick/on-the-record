@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-elon-musk
     type: assertion
+    speaker_confidence: high
     text: >
       Describes his primary job as being a stock broker and stock
       investor.
@@ -27,6 +28,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-elon-musk
     type: experience
+    speaker_confidence: high
     text: >
       Says he used to be a small shareholder of X (Twitter) and was
       paid out when Elon Musk bought the company.

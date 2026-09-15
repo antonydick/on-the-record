@@ -1,10 +1,5 @@
 id: nikhil-kamath-brian-armstrong
 person: nikhil-kamath
-interviewer_slug: brian-armstrong
-title: "Brian Armstrong: Bitcoin, Banks & The New Rules Of Money | Nikhil Kamath | People by WTF"
-url: "https://www.youtube.com/watch?v=p8O6SFwXqok"
-platform: youtube
-published_date: "2026-07-16"
-duration: "02:19:13"
-format: video
+episode: brian-armstrong
+role: host
 processing_status: extracted

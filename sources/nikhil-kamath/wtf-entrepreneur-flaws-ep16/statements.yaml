@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-entrepreneur-flaws-ep16
     type: experience
+    speaker_confidence: high
     text: >
       Says he has seen the Rare Rabbit store in the mall near his house in
       UB City, Bangalore, many times, and that he (through his fund/team)
@@ -42,6 +43,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-entrepreneur-flaws-ep16
     type: experience
+    speaker_confidence: high
     text: >
       Describes himself as having an "avoidant attachment" tendency: he
       fears being seen as vulnerable or receiving sympathy, and when
@@ -73,6 +75,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-entrepreneur-flaws-ep16
     type: experience
+    speaker_confidence: high
     text: >
       Describes the show's recurring end-of-episode practice of "paying
       forward" some of their luck by funding a young founder, and,

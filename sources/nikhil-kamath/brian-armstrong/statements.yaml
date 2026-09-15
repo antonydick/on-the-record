@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: experience
+    speaker_confidence: high
     text: >
       Opens the conversation by describing himself as a crypto critic,
       saying he has never bought any bitcoin, blockchain tokens, Solana,
@@ -31,6 +32,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: experience
+    speaker_confidence: high
     text: >
       Says that over the past year his philanthropic focus has included
       a bit of climate-related giving, and a larger push around
@@ -53,6 +55,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: experience
+    speaker_confidence: high
     text: >
       Recalls a story from a childhood book (source not specified) about
       a kingdom where the king holds a large majority -- but not
@@ -77,6 +80,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: experience
+    speaker_confidence: high
     text: >
       Says that a couple of years earlier he tried to explore building a
       business around remittances into India using stablecoins, given
@@ -105,6 +109,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: mechanism
+    speaker_confidence: high
     text: >
       Pitches his own idea for a gold-tokenization system: local
       custody/clearing-house centers where Indian households could
@@ -128,6 +133,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: assertion
+    speaker_confidence: high
     text: >
       Describes his own approach to trading equities as fundamentals-
       driven -- based on a company's earnings, industry, and sector --
@@ -150,6 +156,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: assertion
+    speaker_confidence: high
     text: >
       Mentions that he moved to the US roughly seven years before this
       conversation and set up a number of companies there.
@@ -172,6 +179,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: experience
+    speaker_confidence: high
     text: >
       Describes founding "Foundry," a Y Combinator-style startup
       accelerator in India, where roughly 20-25 young founders are given
@@ -196,6 +204,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: assertion
+    speaker_confidence: high
     text: >
       Says the brokerage business he runs in India (not named in this
       exchange, but consistent with Zerodha) has operated as a discount
@@ -218,6 +227,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: experience
+    speaker_confidence: high
     text: >
       Mentions a friend, a private-equity investor based in San
       Francisco, who was an early investor in Coinbase and once gave him
@@ -243,6 +253,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-brian-armstrong
     type: belief
+    speaker_confidence: high
     text: >
       Says that if he were to short a broad basket of private AI
       companies today, he believes he could be profitable within five

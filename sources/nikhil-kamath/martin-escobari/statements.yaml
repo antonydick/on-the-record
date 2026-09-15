@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-martin-escobari
     type: assertion
+    speaker_confidence: high
     text: >
       States he is 39 years old (noting he has "a few months left" at
       that age before turning 40), in the context of a discussion about
@@ -31,6 +32,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-martin-escobari
     type: experience
+    speaker_confidence: high
     text: >
       Martin Escobari, addressing Nikhil directly while discussing his
       own marriage, states "I know you're not married" -- Nikhil does
@@ -55,6 +57,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-martin-escobari
     type: belief
+    speaker_confidence: high
     text: >
       Describes rebalancing his own portfolio so that his largest
       allocation will soon be Indian IT-services and banking stocks,
@@ -84,6 +87,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-martin-escobari
     type: experience
+    speaker_confidence: high
     text: >
       Mentions he interviewed Anthropic's CEO the previous month,
       calling him one of his favorite people in the world -- describing
@@ -110,6 +114,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-martin-escobari
     type: experience
+    speaker_confidence: high
     text: >
       Mentions that before this recording (in New York), he spent time
       with a diverse group of Columbia University students, including
@@ -131,6 +136,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-martin-escobari
     type: experience
+    speaker_confidence: high
     text: >
       Recounts a quote from an unnamed young Indian woman he had
       recently spoken with, about how without a shared memory a person

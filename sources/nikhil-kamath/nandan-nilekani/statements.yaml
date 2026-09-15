@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-nandan-nilekani
     type: experience
+    speaker_confidence: high
     text: >
       Says he most often sees Nandan Nilekani socially, at Nilekani's
       house, rather than through professional/media contexts, framing
@@ -27,6 +28,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-nandan-nilekani
     type: assertion
+    speaker_confidence: high
     text: >
       States that Zerodha was a major beneficiary of Aadhaar-based
       eKYC for customer onboarding in the capital markets industry.
@@ -47,6 +49,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-nandan-nilekani
     type: experience
+    speaker_confidence: high
     text: >
       Says he has personally spent about a year researching the energy
       transition sector as a potential investment theme.

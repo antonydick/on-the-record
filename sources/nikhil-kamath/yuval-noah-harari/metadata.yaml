@@ -1,10 +1,5 @@
 id: nikhil-kamath-yuval-noah-harari
 person: nikhil-kamath
-interviewer_slug: yuval-noah-harari
-title: "Yuval Noah Harari: Stories, Power & Why Truth Doesn't Matter | Nikhil Kamath | People by WTF"
-url: "https://www.youtube.com/watch?v=N0S048D2tj4"
-platform: youtube
-published_date: "2026-02-11"
-duration: "01:23:51"
-format: video
+episode: yuval-noah-harari
+role: host
 processing_status: extracted

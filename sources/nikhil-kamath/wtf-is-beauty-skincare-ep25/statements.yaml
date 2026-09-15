@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-beauty-skincare-ep25
     type: experience
+    speaker_confidence: high
     text: >
       Describes the podcast's format as deliberately non-monetary: they
       run no advertising or sponsorships on the show, and instead he takes
@@ -32,6 +33,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-beauty-skincare-ep25
     type: experience
+    speaker_confidence: high
     text: >
       Mentions that he was recently ideating a lab-grown-diamond jewelry
       brand, consulting with two people referred to in the transcript as
@@ -60,6 +62,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-beauty-skincare-ep25
     type: experience
+    speaker_confidence: high
     text: >
       Recounts renting a property where, over time, he went through
       several house managers/caretakers because of a persistent bad
@@ -86,6 +89,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-beauty-skincare-ep25
     type: belief
+    speaker_confidence: high
     text: >
       States that the funds he invests through are structured as
       "perpetual funds" with no fixed life cycle, unlike the typical
@@ -114,6 +118,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-beauty-skincare-ep25
     type: belief
+    speaker_confidence: high
     text: >
       Says that, from an investor's perspective, there are "strangely...
       not enough listed Indian players" that allow public-market

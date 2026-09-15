@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-makemytrip-taj
     type: experience
+    speaker_confidence: high
     text: >
       Says he grew up visiting Goa, and that a couple of years before
       this recording he moved there and now lives there much of the
@@ -36,6 +37,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-makemytrip-taj
     type: experience
+    speaker_confidence: high
     text: >
       Mentions that he has been going to Alibag frequently "for
       Foundry" over the preceding couple of months, crossing the Atal
@@ -61,6 +63,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-makemytrip-taj
     type: experience
+    speaker_confidence: high
     text: >
       A guest, addressing Nikhil directly, states that he has a home in
       Bangalore and a home in Mumbai in addition to spending a lot of
@@ -86,6 +89,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-makemytrip-taj
     type: experience
+    speaker_confidence: high
     text: >
       Mentions having recently traveled to the US with Nandan and
       Rohini Nilekani, and describes a new project of Nandan's --
@@ -114,6 +118,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-makemytrip-taj
     type: observation
+    speaker_confidence: high
     text: >
       Observes that when he travels to New York, London, or LA, more
       and more hotels and venues (citing Soho House, Chez Margaux, and

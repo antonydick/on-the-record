@@ -1,10 +1,5 @@
 id: nikhil-kamath-narendra-modi
 person: nikhil-kamath
-interviewer_slug: narendra-modi
-title: "People with The Prime Minister Shri Narendra Modi x Nikhil Kamath | Episode 6 | By WTF"
-url: "https://www.youtube.com/watch?v=yTMYtcQLLaw"
-platform: youtube
-published_date: "2025-01-10"
-duration: "02:06:20"
-format: video
+episode: narendra-modi
+role: host
 processing_status: extracted

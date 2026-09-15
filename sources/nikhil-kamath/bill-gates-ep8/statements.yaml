@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-bill-gates-ep8
     type: assertion
+    speaker_confidence: high
     text: >
       States his age as 38 at the time of this recording, while having
       lunch with team members in their early 20s.
@@ -29,6 +30,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-bill-gates-ep8
     type: experience
+    speaker_confidence: high
     text: >
       Says he attends the Giving Pledge offsite with Bill Gates every
       year.
@@ -50,6 +52,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-bill-gates-ep8
     type: experience
+    speaker_confidence: high
     text: >
       Describes what has driven him at different points in life: early
       on, simply wanting money because he grew up without it and
@@ -74,6 +77,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-bill-gates-ep8
     type: experience
+    speaker_confidence: high
     text: >
       Says he spent about a week (roughly 14-15 hours total, during
       travel and before bed) reading Bill Gates's memoir "Source Code"
@@ -95,6 +99,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-bill-gates-ep8
     type: experience
+    speaker_confidence: high
     text: >
       Half-jokingly asks Bill Gates for career advice at the end of the
       interview, saying he feels he is "losing out" on the AI wave and

@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-chatgpt-ep4
     type: belief
+    speaker_confidence: high
     text: >
       Self-identifies as having been a full-time stock trader for 19 years,
       and uses that background to argue that AI-driven productivity gains
@@ -37,6 +38,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-chatgpt-ep4
     type: mechanism
+    speaker_confidence: high
     text: >
       Argues that Indian government securities (G-Secs) being treated as
       cash-equivalent collateral for margin trading (e.g., pledging G-Secs
@@ -68,6 +70,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-chatgpt-ep4
     type: experience
+    speaker_confidence: high
     text: >
       Recounts buying a large amount of gold during the zero-interest-rate
       period and losing money on the trade as rates rose, while explaining
@@ -95,6 +98,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-chatgpt-ep4
     type: experience
+    speaker_confidence: high
     text: >
       Says he has a hydroponic farm of roughly 400-500 square feet on the
       terrace of his house in JP Nagar, Bangalore, which he says produces
@@ -120,6 +124,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-chatgpt-ep4
     type: belief
+    speaker_confidence: high
     text: >
       Describes a personal contingency plan, only partly in jest, to make
       enough money to build a walled compound housing 30-40 houses for
@@ -153,6 +158,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-chatgpt-ep4
     type: belief
+    speaker_confidence: high
     text: >
       Says he spends a lot of time reading widely across different eras of
       history and philosophy (naming Machiavelli's "The Prince" and

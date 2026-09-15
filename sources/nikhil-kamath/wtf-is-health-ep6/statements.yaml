@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-health-ep6
     type: experience
+    speaker_confidence: high
     text: >
       In the roughly 17-18 years since he started trading, he has taken
       only one day off (a hospital stay), and describes his life as
@@ -33,6 +34,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-health-ep6
     type: experience
+    speaker_confidence: high
     text: >
       He struggles to fall asleep and typically gets only 5-5.5 hours;
       because he starts work early in the morning, he ends up working

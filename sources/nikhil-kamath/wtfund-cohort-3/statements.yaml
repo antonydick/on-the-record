@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-cohort-3
     type: experience
+    speaker_confidence: high
     text: >
       Says he used to be a trader but, having become slower with age, no
       longer really trades day-to-day; instead he now tends to take more
@@ -47,6 +48,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-cohort-3
     type: experience
+    speaker_confidence: high
     text: >
       Says he takes a bunch of longevity-related supplements and does
       cold plunges, sauna, and workouts every day, describing himself as
@@ -78,6 +80,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-cohort-3
     type: experience
+    speaker_confidence: high
     text: >
       Recommends the founders invest time in becoming better
       storytellers, admitting he himself "sucked at it." Says he hired a
@@ -106,6 +109,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-cohort-3
     type: experience
+    speaker_confidence: high
     text: >
       Describes a personal annual tradition: every year on his birthday
       he hosts a summit where he invites people he considers the
@@ -135,6 +139,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-cohort-3
     type: experience
+    speaker_confidence: high
     text: >
       States that he is 39 years old, and reflects that since an average
       Indian lives to about 73, he has roughly 34 New Year's Eves left,
@@ -166,6 +171,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-cohort-3
     type: experience
+    speaker_confidence: high
     text: >
       While questioning the pathology-diagnostics founders, says he has
       met with a few doctors recently specifically about breast cancer
@@ -191,6 +197,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-cohort-3
     type: experience
+    speaker_confidence: high
     text: >
       While discussing the AI-earbuds startup, mentions that a cell
       phone manufacturer he and his team are investors in is working on
@@ -218,6 +225,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-cohort-3
     type: experience
+    speaker_confidence: high
     text: >
       Says he has read J. Krishnamurti's speeches (noting Krishnamurti
       never wrote anything down himself) and mentions that his nephew
@@ -242,6 +250,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtfund-cohort-3
     type: experience
+    speaker_confidence: high
     text: >
       Says he lived in Haryana for three years as a child and attended
       Dal Singh Public School in Karnal, and that he is still in touch

@@ -1,13 +1,5 @@
-# EXAMPLE / TEMPLATE — placeholder source, not a real interview. Demonstrates
-# the source.schema.yaml shape. url/published_date are deliberately fake
-# placeholders, not a real (unverified) source — do not treat as real.
 id: example-person-interviewer-one-001
 person: example-person
-interviewer_slug: example-interviewer-one
-title: "TEMPLATE — replace with the real episode title"
-url: "https://example.com/PLACEHOLDER-fill-in-real-source-url"
-platform: youtube
-published_date: "1970-01-01"
-duration: "00:00:00"
-format: video
+episode: example-interviewer-one
+role: host
 processing_status: pending

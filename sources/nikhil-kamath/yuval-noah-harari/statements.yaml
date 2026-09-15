@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-yuval-noah-harari
     type: experience
+    speaker_confidence: high
     text: >
       States he has read many of Yuval Noah Harari's books and
       considers himself a fan of how Harari writes and thinks, citing
@@ -30,6 +31,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-yuval-noah-harari
     type: experience
+    speaker_confidence: high
     text: >
       Mentions having recently met young people around 20 years old who
       describe an AI chatbot as their girlfriend or boyfriend.
@@ -50,6 +52,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-yuval-noah-harari
     type: experience
+    speaker_confidence: high
     text: >
       Indicates he is attending Davos at the time of this conversation
       (referenced in the discussion of power and influence among world

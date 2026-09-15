@@ -3,6 +3,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-social-media-ep2
     type: experience
+    speaker_confidence: high
     text: >
       Explains a "Be Here Now" tattoo he has, referencing a book by an
       author transcribed as "AK Ramdas" (likely Ram Dass, whose famous
@@ -37,6 +38,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-social-media-ep2
     type: experience
+    speaker_confidence: high
     text: >
       Says his reading focus has shifted in recent years from books on
       finance, economics, and the stock market to books on psychology,
@@ -60,6 +62,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-social-media-ep2
     type: experience
+    speaker_confidence: high
     text: >
       Recounts a recent trip to Saudi Arabia where he was shown major
       investment projects, including a large-scale villa development
@@ -85,6 +88,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-social-media-ep2
     type: experience
+    speaker_confidence: high
     text: >
       Describes difficulty trying to set up a company and a fund in
       Dubai's DIFC -- a roughly three-month wait for a corporate bank
@@ -112,6 +116,7 @@ statements:
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-social-media-ep2
     type: experience
+    speaker_confidence: high
     text: >
       Says he has read that visualizing a mnemonic image helps with
       remembering things, but admits he has never personally been able
