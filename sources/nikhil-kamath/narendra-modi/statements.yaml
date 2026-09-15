@@ -11,25 +11,26 @@ statements:
       says he learned Hindi in school but is not very fluent in it.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=yTMYtcQLLaw&t=150s"
+      start_timestamp: "2:30"
+      end_timestamp: "2:51"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing PM
-      Narendra Modi), no diarization, and this transcript is in Hindi
-      (auto-transcribed, initially garbled by a clipboard encoding
-      issue that was fixed before extraction -- re-verify the source
-      text quality when checking against the recording). Attribution
-      inferred from conversational role, not confirmed via video.
-      Adds detail beyond nikhil-kamath-020 (Ranbir Kapoor episode),
-      which covered his father's Canara Bank postings but not the
-      specific family hometowns of Mysore/Mangalore -- worth
-      reconciling both during verification.
+      Narendra Modi), conducted mostly in Hindi. Confirmed via YouTube's
+      English auto-translated captions at 2:30-2:51: Nikhil says "So,
+      sir, please forgive me if my Hindi is not very good. I am a South
+      Indian... My mother is from the city of Mysore. And there, people
+      mostly speak in Kannada. My father was from Mangalore... But I'm
+      not very fluent in it," as his opening self-introduction in the
+      "Introduction" chapter (0:00-4:10). Adds detail beyond
+      nikhil-kamath-020 (Ranbir Kapoor episode), which covered his
+      father's Canara Bank postings but not the specific family
+      hometowns of Mysore/Mangalore.
 
   - id: nikhil-kamath-041
     person: nikhil-kamath
@@ -42,7 +43,7 @@ statements:
       belief he says he still holds as of this recording.
     topic: biography
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -51,9 +52,27 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-040.
-      Cross-reference: this episode's publish date (2025-01-10 per
-      metadata.yaml) falls between nikhil-kamath-026 (age 38,
-      2024-12-19) and nikhil-kamath-015 (age 38, 2025-04-10) --
-      consistent with the same age-38 window established across three
-      independently-extracted episodes.
+      SPEAKER ATTRIBUTION: 1:1 interview, mostly Hindi. Content
+      confirmed present via NotebookLM transcript search: right before
+      bringing up his age (38) and past belief in capitalism, Nikhil
+      asks Modi "whether it is a good or bad thing for a person's core
+      belief system to evolve... as one grows older and accumulates
+      more data... or whether society unfairly holds leaders and
+      individuals to things they believed 20 years earlier" (Hindi:
+      "...jo aapke belief system hai jo aap sabse andar se... yeh most
+      important hai... jo aap 20 saal pehle sochte the agar aaj woh
+      badal jaaye, is it a good thing and a bad thing"), then: "jaise
+      jaise main sochta hoon, main aaj 38 ka hoon, jab main shaayad 20
+      saal ka tha main sochta tha ki capitalism is the right way of the
+      world, aur jab main 38 ka ho gaya hoon, maybe I want to change my
+      mind upon changing my mind about it." Located a strong candidate
+      lead-in at 1:55:02-1:56:30 ("Concluding Views" chapter, ~1:55:00+)
+      -- Nikhil asks Modi what he'd tell his 20-year-old self, Modi
+      answers about meeting startup founders and his mother -- but did
+      not find the exact "38 saal ka hoon" sentence within that window
+      in this pass. The "Importance of Ideology and Idealism" chapter
+      (30:39-38:02) was also checked without success. Cross-reference:
+      this episode's publish date (2025-01-10) falls between
+      nikhil-kamath-026 (age 38, 2024-12-19) and nikhil-kamath-015 (age
+      38, 2025-04-10) -- consistent with the same age-38 window
+      established across three independently-extracted episodes.
