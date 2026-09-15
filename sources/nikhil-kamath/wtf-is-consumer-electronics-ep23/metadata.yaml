@@ -7,4 +7,4 @@ platform: youtube
 published_date: "2025-04-26"
 duration: "02:46:40"
 format: video
-processing_status: pending
+processing_status: extracted
