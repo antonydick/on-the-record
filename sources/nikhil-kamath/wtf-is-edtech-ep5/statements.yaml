@@ -14,22 +14,30 @@ statements:
       married in November (of the year this episode was recorded).
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=01qfxLY2rhQ&t=2276s"
+      start_timestamp: "37:56"
+      end_timestamp: "39:30"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: three-person panel (Nikhil hosting upGrad's
       Ronnie Screwvala, Unacademy's Gaurav Munjal, and Kotak Mahindra
-      Bank's Jay Kotak), no diarization in the auto-transcript. Told
-      jointly in first person by Nikhil and Jay as a shared story, with
-      Nikhil narrating the sequence of the evening ("one day me and Jay
-      go out for a meal in Bombay... I met you at Mekong at Land's
-      End...") and Jay confirming and adding detail.
+      Bank's Jay Kotak), no diarization in the auto-transcript, but clear
+      turn-taking on video. Told jointly in first person by Nikhil and
+      Jay as a shared story, with Nikhil narrating the sequence of the
+      evening on camera. Confirmed via video at 37:56-39:30 ("Jay's
+      serendipitous love story" chapter): "did so one day me and Jay go
+      out for a meal in Bombay ... where'd we go uh I met you at Mekong
+      at Lands End ... we went from there we met one or two other friends
+      of mine we went to some place nearby ... there happened to be a
+      girl in my friend's house yeah okay they talk for five minutes in
+      front of me they don't even exchange numbers yeah uh cut to like a
+      few months later Jay is in Bangalore and we're having dinner at
+      home and he's like bro I started dating that girl yeah and that is
+      the girl he's getting married to now in November."
 
   - id: nikhil-kamath-201
     person: nikhil-kamath
@@ -48,16 +56,32 @@ statements:
       organic.
     topic: worldview
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=01qfxLY2rhQ&t=7587s"
+      start_timestamp: "2:06:27"
+      end_timestamp: "2:07:32"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-200. Given as his
-      own closing answer, explicitly framed as "a very dystopian" view he
-      is choosing to voice, in response to being asked what one thing he
-      would change about education.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-200, resolved the
+      same way (clear on-video turn-taking, Nikhil identifiable on
+      screen). Given as his own closing answer, explicitly framed as "a
+      very dystopian" view he is choosing to voice, in response to being
+      asked what one thing he would change about education. Confirmed via
+      video at 2:06:27-2:07:32 (final minutes of the episode, just before
+      the outro): "uh I feel like the modern construct of a family
+      husband wife child or non-child or non-child is not is not the
+      best to Fester education in the manner that I would dream for it
+      to be I think if you go back in time before organized religion and
+      many other things each kid learned from the community and he
+      fixated upon what skill set he might like in the community what he
+      would like to inculcate I feel the modern notion of a family we
+      tell our kids what religion to follow we tell our kids what it is
+      okay to study maybe not consciously but subconsciously uh I don't
+      know how this will work but going back to a world where the
+      mimetic influences of the world are lesser on the child and the
+      child is allowed an environment to be more organic about the
+      learning choices he makes is something that should change about
+      education."
