@@ -18,8 +18,8 @@ by hand — changes will be overwritten on the next push to main._
 ## Statements
 
 - Total: 1600
-  - draft: 1323
+  - draft: 1324
   - unverified: 0
   - reviewed: 11
-  - verified: 265
+  - verified: 264
   - rejected: 1
