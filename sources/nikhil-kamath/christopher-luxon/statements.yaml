@@ -9,17 +9,23 @@ statements:
       final in Dubai.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=tlicx3KKzmQ&t=1179s"
+      start_timestamp: "19:39"
+      end_timestamp: "19:44"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing NZ PM
-      Christopher Luxon), no diarization. Attribution inferred from
-      conversational role, not confirmed via video. Low-yield episode
-      overall -- mostly NZ politics/business philosophy discussion with
-      little other personal-history content from Nikhil.
+      Christopher Luxon), no diarization. Confirmed via video at
+      19:39-19:44: Nikhil interjects "I went to the match recently, the
+      India-New Zealand cricket final, I know you [were] in Dubai" while
+      Luxon is discussing public expectations; Luxon's immediate reply
+      ("oh my goodness, I was hoping you weren't [going to bring that
+      up]... you had to go mention that") is addressed back to Nikhil in
+      the second person, confirming Nikhil is the speaker of the cricket
+      remark. Low-yield episode overall -- mostly NZ politics/business
+      philosophy discussion with little other personal-history content
+      from Nikhil.
