@@ -1,1 +1,67 @@
-statements: []
+statements:
+  - id: nikhil-kamath-181
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-alcohol-business-ep18
+    type: experience
+    text: >
+      Discloses, while introducing guest Abhishek (of Radico Khaitan), that
+      he holds a stock market equity position in Radico Khaitan bought on
+      the open market -- describing it as "a very small miniature"
+      shareholding relative to Abhishek's own, on the order of roughly
+      400 crore rupees -- and calls it a great investment that has done
+      very well for him, noting they had not previously spoken about it
+      publicly.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting bar
+      owner/mixologist Minakshi, Goa Brewing Company co-founder Sagar,
+      an alcohol-industry marketing/events entrepreneur, and Radico
+      Khaitan's Abhishek Khaitan), no diarization in the auto-transcript.
+      This episode's format has each guest narrate an extended personal
+      story in turn, which makes first-person passages easy to
+      misattribute. This statement is attributed to Nikhil because it
+      immediately follows the host's own framing line ("I have to preface
+      Abhishek's introduction") before the interview segment begins, and
+      names Abhishek in the third person as the counterparty holding the
+      much larger stake, consistent with an outside investor (not
+      Abhishek himself) speaking. The exact rupee figure is somewhat
+      garbled in the transcript (numbers named include both "500 crores"
+      and "400 crores" in the exchange) -- confirm the precise amount
+      during verification.
+
+  - id: nikhil-kamath-182
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-alcohol-business-ep18
+    type: experience
+    text: >
+      Recounts a conversation with a former United Breweries (UB Group)
+      executive who told him that UB had recently been trying to push
+      Heineken as a strategy instead of leading with Kingfisher, but that
+      the strategy had not worked and they were falling back on selling
+      Kingfisher again.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-181. This is
+      framed as the host's own anecdote ("I had an interesting
+      conversation with an ex executive at UB who said...") offered while
+      posing a question to the panel about brand strategy, distinguishing
+      it stylistically from the guests' own first-person life/business
+      narratives.
