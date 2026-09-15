@@ -76,24 +76,79 @@ file tracks `processing_status` for that appearance as a whole:
 - `complete` — every statement from this appearance has reached
   `verified` or `rejected`
 
-## Adding a new person / appearance
+## Episodes, appearances, and people
 
-1. Copy `people/example-person.yaml` to `people/<id>.yaml`, filling in
-   real, public identity info only (name, credentials, bio).
-2. For each appearance, create
-   `sources/<person-slug>/<interviewer-slug>/metadata.yaml` and
-   `statements.yaml`, following `sources/example-person/` as a
-   structural template — not as a source of real content. A person with
-   several appearances gets several `<interviewer-slug>` directories
-   under the same `sources/<person-slug>/`, regardless of who
-   interviewed them each time.
+Episode metadata (`title`, `url`, `platform`, `published_date`,
+`duration`, `format`, `show`) is stored once per episode at
+`sources/episodes/<episode-slug>.yaml` — never duplicated per person.
+Every person who appeared in that episode (host, co-host, or guest)
+gets their own thin appearance record at
+`sources/<person-slug>/<episode-slug>/metadata.yaml`:
+
+```yaml
+id: <person-slug>-<episode-slug>
+person: <person-slug>       # must match a people/<id>.yaml id
+episode: <episode-slug>     # must match a sources/episodes/<id>.yaml id
+role: host                  # host | co-host | guest
+processing_status: pending  # pending | extracted | in_review | complete
+```
+
+`statements.yaml` lives alongside it, unchanged in shape from before.
+
+## Adding a new episode by hand
+
+1. Create `sources/episodes/<episode-slug>.yaml` with the episode's
+   real metadata (see `schema/episode.schema.yaml`).
+2. For the host, create
+   `sources/<host-slug>/<episode-slug>/metadata.yaml` with `role: host`.
 3. Run the extraction prompt against the real transcript to populate
-   `draft` statements for that one appearance.
-4. Work statements through the statuses above as you verify them
-   against the real source.
+   `draft` statements for the host's appearance.
+4. Work statements through the verification statuses as you verify
+   them against the real source.
 5. Before committing, run:
 
    ```bash
    pip install -r requirements.txt
    python scripts/validate.py
    ```
+
+## Adding a guest
+
+Guests are registered in two separate, differently-costed phases —
+never conflate them:
+
+- **Phase A — register the person.** Run
+  `python scripts/register_guests_phase_a.py` after adding new
+  episodes. It sweeps episode titles and existing statements' `notes`
+  fields for candidate guest names (no transcript re-fetching), tries
+  to resolve each to an existing `people/*.yaml` by name/alias, and
+  for unresolved names creates a stub person record —
+  `identity_confidence: likely` or `uncertain`, `credentials`/`bio`
+  left as placeholder `"TBD — ..."` text — plus a `role: guest`,
+  `processing_status: pending` appearance record. **Never hand-write a
+  `credentials`/`bio` value for a stub person** — only replace the
+  placeholder once you've actually researched that person, the same
+  way `people/nikhil-kamath.yaml` and `people/raj-shamani.yaml` were
+  researched, and only then set `identity_confidence: confirmed`.
+- **Phase B — extract the guest's statements.** For a specific guest's
+  specific appearance (`role: guest`, `processing_status: pending`),
+  re-read the real transcript and extract statements attributable
+  *specifically to that guest* — the same conservative, per-episode
+  process already used for hosts (see `prompts/extraction-prompt.md`),
+  now additionally recording `speaker_confidence` (`high`/`medium`/
+  `low`) on every statement, since no true audio diarization is
+  available and attribution rests on textual signal only
+  (self-identification, direct address, corroboration, turn-taking
+  position). Document that reasoning in `notes`, exactly as already
+  practiced throughout this corpus. This is not a batch job — treat it
+  as an ongoing, per-guest, per-episode queue, the same way host
+  extraction has been.
+
+## Regenerating derived artifacts
+
+Two generated files are never hand-edited, only regenerated:
+
+- `STATS.md` — `python scripts/generate_stats.py`
+- `profiles/<person-id>.md` — `python scripts/generate_profiles.py`,
+  built only from `verified` statements; see SKILL.md's "Profiles are
+  an index, not a source" section for how to use (not cite) them.

@@ -57,6 +57,30 @@ construction, not something stored or attributed as a single fact.
   said the *connecting* narrative in one place, rephrase — that
   misattributes your synthesis to them.
 
+## Profiles are an index, not a source
+
+`profiles/<person-id>.md` is a generated, regeneratable index —
+`verified` statements only, grouped by category and topic, every line
+carrying a statement id. It exists to help you *find* relevant
+statements quickly across a person's whole corpus.
+
+- Never cite a line from a profile file directly. Resolve it to the
+  statement id it names, then cite that statement's own
+  `verification.source_url`/`start_timestamp`/`end_timestamp`, exactly
+  as you would if you'd found it by searching `statements.yaml`
+  directly.
+- A profile's "Recurring ideas" grouping means "the same topic appears
+  in ≥2 different appearances" — nothing more. It is not itself a
+  claim that the person's view is stable, consistent, or unchanged;
+  make that judgment (if at all) the same cautious way described
+  above, per statement, not from the grouping alone.
+- If `profiles/<person-id>.md` doesn't exist or says "No verified
+  statements yet," that's not evidence the person hasn't said
+  anything relevant — it means nothing on that person has been
+  human-verified yet. Check `draft`/`unverified`/`reviewed` statements
+  directly (and say so explicitly, per "Handling non-verified
+  statements" above) rather than concluding there's nothing to report.
+
 ## Three retrieval capabilities
 
 1. **Longitudinal reconstruction** — "What has this person said, across
