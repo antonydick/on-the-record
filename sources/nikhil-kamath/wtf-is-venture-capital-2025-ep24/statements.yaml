@@ -1,1 +1,55 @@
-statements: []
+statements:
+  - id: nikhil-kamath-223
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-venture-capital-2025-ep24
+    type: experience
+    text: >
+      Says he had spent a large part of the two months before this
+      recording in the US trying to secure investment allocation into
+      various companies, and that he would share which companies those
+      were with the panel as the conversation went on.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: three-person panel of US-based venture
+      capitalists (Nikhil hosting Menlo Ventures' "DD" [Debarghya
+      Das/similar, per the auto-transcript's spelled-out nickname
+      origin], FPV Ventures' Nikon/"Niko", and General Catalyst's Nikos),
+      no diarization in the auto-transcript, though this episode's
+      structured interview format makes turn-taking clearer than
+      multi-founder panels. Stated in first person in the host's opening
+      framing.
+
+  - id: nikhil-kamath-224
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-venture-capital-2025-ep24
+    type: experience
+    text: >
+      Says he has personally been meeting with the prediction-market
+      companies Kalshi and Polymarket, and separately with the legal-AI
+      company Harvey, in the two weeks before this recording, while
+      exploring whether to invest in them.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-223. Stated in
+      first person while asking the panel for their read on these
+      specific companies ("these are companies I've been meeting in the
+      last two weeks and I've been trying to figure out how to maybe do
+      something with them").
