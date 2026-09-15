@@ -11,7 +11,7 @@ statements:
       flowing out.
     topic: economics
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -26,9 +26,18 @@ statements:
       collaborator/China-macro academic referred to as "Ning" in the
       auto-transcript, author of "China's Guaranteed Bubble"), no
       diarization, but turn-taking is clearer than in multi-founder panel
-      episodes since this is a structured interview. Stated in first
-      person ("I personally believe...") while asking the guests about
-      China's capital controls.
+      episodes since this is a structured interview (captions
+      occasionally include speaker tags like "[Matthew]"). Stated in
+      first person ("I personally believe...") while asking the guests
+      about China's capital controls. Content confirmed present via
+      NotebookLM (exact line: "china has capital controls so does India
+      where I come from i personally believe that long-term if we
+      didn't have capital controls more money would actually flow in
+      and less would flow out"), in the "Capital flow, legal systems,
+      and the US dollar" chapter (~8:00-10:00 of the 59:46 video). Exact
+      timestamp NOT pinned in this pass -- checked 8:11-8:56 (found
+      adjacent content: capital-imbalance discussion, an "English-
+      speaking democracies" joke) without hitting this exact line.
 
   - id: nikhil-kamath-207
     person: nikhil-kamath
@@ -43,15 +52,20 @@ statements:
       change.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=QigAo0NKUIM&t=2610s"
+      start_timestamp: "43:31"
+      end_timestamp: "43:47"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-206. Stated in
-      first person ("I know Ray Dalio and he keeps saying that...") while
-      asking the guests to weigh in on the theory.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-206. Confirmed
+      via video at 43:31-43:47 ("Ray Dalio's view on long-term debt and
+      currency cycles" chapter): Nikhil, on camera, says "I know Ray
+      Dalio, and he keeps saying that when short-term rates go up
+      [and long-term rates are below short-term rates] is the first
+      real sign that the incumbency of dollar as global currency is
+      going to change," with an on-screen graphic showing a labeled
+      clip of Ray Dalio.
