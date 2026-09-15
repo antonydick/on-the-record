@@ -1,1067 +1,946 @@
 statements:
-  - id: raj-shamani-03001
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj introduces the guest as Imtiaz Ali, writer, director, and
-      filmmaker.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From the cold-open/voiceover at the very top of the
-      episode.
+- id: raj-shamani-03001
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj introduces the guest as Imtiaz Ali, writer, director, and filmmaker.
 
-  - id: raj-shamani-03002
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj frames the conversation as covering Imtiaz Ali's life, his
-      filmmaking, and the emotions that make his films so unique.
-    topic: episode-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From the same opening voiceover as the previous
-      statement.
+    '
+  topic: guest-introduction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From the cold-open/voiceover at the very top of the episode.
 
-  - id: raj-shamani-03003
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz to imagine that someone watching has never heard of
-      him before — specifically the "1%" of the audience who don't know who
-      he is — and to explain, for that person, who he is.
-    topic: self-introduction-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is where the substantive interview begins, right
-      after the sponsor read.
 
-  - id: raj-shamani-03004
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      After Imtiaz answers that he simply calls himself "a film director,"
-      Raj remarks that this is the only identity Imtiaz seems to like and
-      that it is an identity that "explains something," then asks what
-      exactly it explains.
-    topic: director-identity-explained
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript is not diarized by speaker, so this
-      turn boundary is inferred from context (Imtiaz's following answer
-      directly addresses "what it explains to people").
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03002
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj frames the conversation as covering Imtiaz Ali''s life, his filmmaking, and the emotions that make his films so unique.
 
-  - id: raj-shamani-03005
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj says he was reading something about Imtiaz's childhood in which
-      Imtiaz described himself as a very awkward, weird kid who used to
-      lie, and asks him to go back to that period.
-    topic: childhood-lying-research
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:04:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: episode-framing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From the same opening voiceover as the previous statement.
 
-  - id: raj-shamani-03006
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj observes a recurring pattern across Imtiaz's films of characters
-      lying about who they are: Ved tries to become "Don," Aditya pretends
-      to be a musician when visiting a woman's house, Janardhan (in
-      Rockstar) tries to become "Jordan," and Harry tells everyone he's
-      someone he isn't — and asks Imtiaz whether this pattern comes from
-      his own life.
-    topic: lying-characters-pattern
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:04:44]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Some character/film details (e.g. exactly which film
-      "Aditya" and the "Don" reference belong to) are uncertain due to ASR
-      garbling and should be checked against the actual recording.
 
-  - id: raj-shamani-03007
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz whether he ever realized, at some point, that he had
-      become a director who writes about boys who lie and want to present
-      a bigger identity than themselves — adding that this is a very
-      normal thing many people have done in their lives.
-    topic: writes-about-lying-boys
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:06:21]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03003
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz to imagine that someone watching has never heard of him before — specifically the "1%" of the audience who don''t know who he is — and to explain, for that person, who he is.
 
-  - id: raj-shamani-03008
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz why, in his films, he writes characters who try to
-      present a fictional version of themselves to others.
-    topic: fictional-self-characters
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:08:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: self-introduction-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=sGpc8-f2e8U&t=184s
+    start_timestamp: 00:03:04
+    end_timestamp: 00:03:18
+  evidence:
+    excerpt: null
+  notes: '~[00:03:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is where the substantive interview begins, right after the sponsor read.
 
-  - id: raj-shamani-03009
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz whether he himself has changed at some point in his
-      life.
-    topic: have-you-changed-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:10:14]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This follows Imtiaz's discussion of needing to be
-      "open" for drama/change to happen.
 
-  - id: raj-shamani-03010
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj observes a pattern that Imtiaz's films often flop on release but
-      go on to become cult classics later, and asks Imtiaz what he thinks
-      the reason for that is.
-    topic: films-flop-then-cult
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:12:35]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=sGpc8-f2e8U&t=184s in-browser (caption text check, close match).'
+- id: raj-shamani-03004
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'After Imtiaz answers that he simply calls himself "a film director," Raj remarks that this is the only identity Imtiaz seems to like and that it is an identity that "explains something," then asks what exactly it explains.
 
-  - id: raj-shamani-03011
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj comments that many people who now watch Rockstar were not even
-      interested in it before, so it must have seemed complicated to them
-      the first time, yet they loved it.
-    topic: rockstar-rerelease-reception
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:16:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Made in the context of Rockstar's theatrical
-      re-release.
+    '
+  topic: director-identity-explained
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=sGpc8-f2e8U&t=184s
+    start_timestamp: 00:03:04
+    end_timestamp: 00:03:20
+  evidence:
+    excerpt: null
+  notes: '~[00:03:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript is not diarized by speaker, so this turn boundary is inferred from context (Imtiaz''s following answer directly addresses "what it explains to people").
 
-  - id: raj-shamani-03012
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj observes that even in his own office, of the roughly 100 people
-      there, whoever is aged 24 or below tends to be a much bigger cult fan
-      of films like Rockstar and Laila Majnu than anyone older than that.
-    topic: office-cult-fans-by-age
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:17:58]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript is not diarized by speaker; this line
-      is attributed to Raj because Imtiaz's immediate reply addresses him
-      by name ("Raj") and responds to the "office" observation as coming
-      from the host.
 
-  - id: raj-shamani-03013
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj observes another recurring pattern in Imtiaz's films: the main
-      lead character is always running away — from home or from something
-      — and asks what exactly these characters are running away from.
-    topic: running-away-pattern
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:18:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=sGpc8-f2e8U&t=184s in-browser (caption text check, close match).'
+- id: raj-shamani-03005
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj says he was reading something about Imtiaz''s childhood in which Imtiaz described himself as a very awkward, weird kid who used to lie, and asks him to go back to that period.
 
-  - id: raj-shamani-03014
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj observes that the majority (though not all) of Imtiaz's films —
-      citing Laila Majnu, Tamasha, Rockstar, and Jab Harry Met Sejal — do
-      not have happy endings, and asks Imtiaz whether he simply dislikes
-      happy endings.
-    topic: unhappy-endings-pattern
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:19:36]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: childhood-lying-research
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:04:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03015
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz whether the reason he calls himself "stone-hearted"
-      is that, since a story starts from that stone-hearted place, he
-      ultimately wants to make everyone else's heart go soft by the end —
-      and asks which is truer of Imtiaz: the movies he writes, or being
-      stone-hearted himself.
-    topic: stone-hearted-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:21:32]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03016
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz whether there is anything in his own life that he
-      genuinely, deeply longs for.
-    topic: personal-longing-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:23:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Asked right after Imtiaz explains the German word
-      "Sehnsucht" (transcribed phonetically as "jeezu").
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03006
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj observes a recurring pattern across Imtiaz''s films of characters lying about who they are: Ved tries to become "Don," Aditya pretends to be a musician when visiting a woman''s house, Janardhan (in Rockstar) tries to become "Jordan," and Harry tells everyone he''s someone he isn''t — and asks Imtiaz whether this pattern comes from his own life.
 
-  - id: raj-shamani-03017
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj agrees that every character seems to need this kind of longing
-      for a thrill, and asks Imtiaz how he would describe that feeling.
-    topic: character-thrill-longing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:25:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: lying-characters-pattern
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:04:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Some character/film details (e.g. exactly which film "Aditya" and the "Don" reference belong to) are uncertain due to ASR garbling and should be checked against the actual recording.
 
-  - id: raj-shamani-03018
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: belief
-    text: >
-      Raj asks Imtiaz which of his films is his favorite, offering his own
-      theory that a person's "favorite" is usually whichever one is most
-      recent, because they are still emotionally invested in it.
-    topic: favorite-film-recency-theory
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:32:14]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03019
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks whether there was a specific moment during the shoot of
-      Rockstar where Imtiaz felt something hit him especially hard.
-    topic: rockstar-shoot-specific-moment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:34:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03007
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz whether he ever realized, at some point, that he had become a director who writes about boys who lie and want to present a bigger identity than themselves — adding that this is a very normal thing many people have done in their lives.
 
-  - id: raj-shamani-03020
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: belief
-    text: >
-      Raj says that the song "Aur Ho" is his personal favorite song from
-      Rockstar.
-    topic: favorite-rockstar-song
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:37:01]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: writes-about-lying-boys
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:06:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03021
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz to explain, by roleplaying as if Raj were Ranbir
-      Kapoor being told for the first time about a song to be shot, exactly
-      how he briefed the actor to reach the immersed state seen in the
-      "Saadi Hak" shoot.
-    topic: directing-brief-roleplay
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:38:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03022
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz, as a writer, whether he ever feels that a "perfect
-      film" or "perfect thing" has landed, and whether there is any shot he
-      is especially proud of.
-    topic: perfect-film-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:45:57]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03008
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz why, in his films, he writes characters who try to present a fictional version of themselves to others.
 
-  - id: raj-shamani-03023
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz which of his films he would call his worst.
-    topic: worst-movie-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:50:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: fictional-self-characters
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:08:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03024
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz what it actually feels like the morning after a film
-      flops.
-    topic: day-after-flop-feeling
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:57:14]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03025
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj pushes back on Imtiaz's earlier statement that he doesn't feel
-      bad for himself when a film fails but feels bad for others, asking
-      why he doesn't think a film's failure should also feel bad
-      specifically for him.
-    topic: self-vs-others-failure-empathy
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:58:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03009
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz whether he himself has changed at some point in his life.
 
-  - id: raj-shamani-03026
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj references that Imtiaz has said he failed in class nine and that
-      this failure has stayed with him forever, and asks what exactly
-      about that failure has remained with him to this day.
-    topic: class-nine-failure-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:01:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: have-you-changed-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:10:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This follows Imtiaz''s discussion of needing to be "open" for drama/change to happen.
 
-  - id: raj-shamani-03027
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj points out that Imtiaz has described a failure (his class-nine
-      failure) as having stayed with him his whole life, but has never
-      described any success as having stayed with him for that long, and
-      remarks that this is funny/notable.
-    topic: failure-vs-success-memorability
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:06:25]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03028
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: experience
-    text: >
-      Raj shares that as a child he was also a "failure type" kid, that
-      praise or success came much later in his life — he thinks the first
-      time he was praised for anything, even something small, was in his
-      first year of college — and that in almost everything he was an
-      average, almost non-existent child, the kind people assumed had no
-      real future.
-    topic: raj-childhood-failure-story
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:07:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript is not diarized by speaker; this is
-      attributed to Raj because Imtiaz's following reply says "I can
-      relate completely to you" about feeling both smallest and largest in
-      a room, implying Raj had just shared this personal comparison.
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03010
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj observes a pattern that Imtiaz''s films often flop on release but go on to become cult classics later, and asks Imtiaz what he thinks the reason for that is.
 
-  - id: raj-shamani-03029
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: belief
-    text: >
-      Raj says that when someone like that later tastes some success, they
-      develop a particular kind of complex in their head — feeling both
-      inferior and superior everywhere they go.
-    topic: inferiority-superiority-complex
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:08:17]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Follows directly from the previous statement about
-      Raj's own childhood.
+    '
+  topic: films-flop-then-cult
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:12:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03030
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz whether, since he writes so much about love, he has
-      himself actually experienced love.
-    topic: experienced-love-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:16:17]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03031
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj notes that Imtiaz has written love stories across very different
-      generations and will likely write differently again now, and asks
-      him what he thinks Gen Z gets wrong about love.
-    topic: genz-love-wrong-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:16:30]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Follows directly from the previous statement.
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03011
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj comments that many people who now watch Rockstar were not even interested in it before, so it must have seemed complicated to them the first time, yet they loved it.
 
-  - id: raj-shamani-03032
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks Imtiaz whether he thinks the constant sense that "something
-      is missing" will always remain, and whether this is a very new or
-      recent feeling.
-    topic: perpetual-missing-feeling-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:19:01]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: rockstar-rerelease-reception
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:16:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Made in the context of Rockstar''s theatrical re-release.
 
-  - id: raj-shamani-03033
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj mentions the book "Man's Search for Meaning" and asks Imtiaz
-      whether he has read it.
-    topic: mans-search-for-meaning-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:21:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript is not diarized by speaker; attributed
-      to Raj because Imtiaz's reply ("yes sir, yes sir") answers a direct
-      "have you read it" question before he goes on to describe the book's
-      content himself.
 
-  - id: raj-shamani-03034
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj observes a recurring pattern in Imtiaz's films where the leads
-      always meet at the "wrong time": Geet meets Aditya in Jab We Met
-      right after her marriage is already fixed, Ved meets Tara in Tamasha
-      when his engagement is already fixed, and Jordan meets Heer in
-      Rockstar right when her marriage is already fixed — and asks why love
-      in his stories always happens with someone who is already "taken."
-    topic: wrong-time-love-pattern
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:25:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03012
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj observes that even in his own office, of the roughly 100 people there, whoever is aged 24 or below tends to be a much bigger cult fan of films like Rockstar and Laila Majnu than anyone older than that.
 
-  - id: raj-shamani-03035
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj observes that the film "Kabhi Alvida Naa Kehna" did not succeed
-      because people called it cheating and morally wrong, generating hate
-      around it, whereas Rockstar also centers on a kind of infidelity yet
-      audiences cheered for that relationship, and asks why the same
-      underlying theme gets judged so differently in the two films.
-    topic: cheating-theme-reception-contrast
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:29:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: office-cult-fans-by-age
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:17:58]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript is not diarized by speaker; this line is attributed to Raj because Imtiaz''s immediate reply addresses him by name ("Raj") and responds to the "office" observation as coming from the host.
 
-  - id: raj-shamani-03036
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj observes that in Imtiaz's movies the hero becomes complete
-      through falling in love, which contrasts with a popular self-help
-      idea that a person should first become complete on their own before
-      entering a relationship, since two incomplete people supposedly
-      can't build a life together — and asks Imtiaz which view he thinks is
-      better.
-    topic: complete-before-love-debate
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:34:50]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03037
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks how Imtiaz writes love stories differently for today's
-      generation, given new dating terms like "situationships," "sliding
-      into DMs," "breadcrumbing," and a term he says he had just learned,
-      "sunset clause."
-    topic: genz-dating-terminology-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:37:34]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03013
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj observes another recurring pattern in Imtiaz''s films: the main lead character is always running away — from home or from something — and asks what exactly these characters are running away from.
 
-  - id: raj-shamani-03038
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: belief
-    text: >
-      Raj says he personally loves the term "breadcrumbing."
-    topic: loves-breadcrumbing-term
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:38:16]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Immediately follows the previous statement.
+    '
+  topic: running-away-pattern
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:18:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03039
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj observes that in almost every film, Imtiaz's protagonist never
-      goes back home — Geet doesn't go back, Jordan doesn't go back, Harry
-      can't go back to Punjab, and even the title "Main Waapas Aaunga" ("I
-      will come back") implies having already left home — and asks why
-      every character has this trait.
-    topic: never-returns-home-pattern
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:40:56]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03040
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks whether there is a version of Imtiaz who himself lost a
-      "home" somewhere, paralleling the theme of lost or left-behind homes
-      running through his films.
-    topic: imtiaz-lost-home-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:45:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03014
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj observes that the majority (though not all) of Imtiaz''s films — citing Laila Majnu, Tamasha, Rockstar, and Jab Harry Met Sejal — do not have happy endings, and asks Imtiaz whether he simply dislikes happy endings.
 
-  - id: raj-shamani-03041
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: observation
-    text: >
-      Raj observes that the female leads across Imtiaz's films — Geet,
-      Veera, Tara, Sejal — are all portrayed as full of life and joyful,
-      that everything in the story initially revolves around them, and
-      that while the woman ultimately gets the male lead, it is actually
-      the male lead who "finds himself" through her — she finds him, but he
-      finds himself — in almost every one of Imtiaz's movies.
-    topic: women-characters-pattern
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:47:40]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Imtiaz's immediate reply ("oh nice, that's a good
-      analysis, isn't it") confirms this was Raj's observation.
+    '
+  topic: unhappy-endings-pattern
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:19:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03042
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj says this is his last question, though it splits into two
-      complicated ones, and asks Imtiaz to walk him through his actual
-      process for writing a screenplay.
-    topic: screenwriting-process-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:49:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03043
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks whether there are one or two specific questions Imtiaz asks
-      himself before writing that tell him a screenplay is final.
-    topic: screenplay-finality-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:52:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03015
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz whether the reason he calls himself "stone-hearted" is that, since a story starts from that stone-hearted place, he ultimately wants to make everyone else''s heart go soft by the end — and asks which is truer of Imtiaz: the movies he writes, or being stone-hearted himself.
 
-  - id: raj-shamani-03044
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: assertion
-    text: >
-      Raj asks how Imtiaz chooses the right actor for a role.
-    topic: casting-process-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:54:02]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: stone-hearted-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:21:32]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-03045
-    person: raj-shamani
-    source: raj-shamani-fo517-imtiaz-ali
-    type: belief
-    text: >
-      Raj says that, to this day, there is one scene in Rockstar — where
-      Jordan lies in a pool of water staring at a burning guitar — that he
-      still doesn't fully understand, and asks Imtiaz to explain what he
-      was trying to show in it.
-    topic: rockstar-unexplained-scene
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:57:09]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is the episode's closing question.
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03016
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz whether there is anything in his own life that he genuinely, deeply longs for.
+
+    '
+  topic: personal-longing-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:23:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Asked right after Imtiaz explains the German word "Sehnsucht" (transcribed phonetically as "jeezu").
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03017
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj agrees that every character seems to need this kind of longing for a thrill, and asks Imtiaz how he would describe that feeling.
+
+    '
+  topic: character-thrill-longing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:25:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03018
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: belief
+  text: 'Raj asks Imtiaz which of his films is his favorite, offering his own theory that a person''s "favorite" is usually whichever one is most recent, because they are still emotionally invested in it.
+
+    '
+  topic: favorite-film-recency-theory
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:32:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03019
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks whether there was a specific moment during the shoot of Rockstar where Imtiaz felt something hit him especially hard.
+
+    '
+  topic: rockstar-shoot-specific-moment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:34:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03020
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: belief
+  text: 'Raj says that the song "Aur Ho" is his personal favorite song from Rockstar.
+
+    '
+  topic: favorite-rockstar-song
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:37:01]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03021
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz to explain, by roleplaying as if Raj were Ranbir Kapoor being told for the first time about a song to be shot, exactly how he briefed the actor to reach the immersed state seen in the "Saadi Hak" shoot.
+
+    '
+  topic: directing-brief-roleplay
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:38:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03022
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz, as a writer, whether he ever feels that a "perfect film" or "perfect thing" has landed, and whether there is any shot he is especially proud of.
+
+    '
+  topic: perfect-film-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:45:57]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03023
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz which of his films he would call his worst.
+
+    '
+  topic: worst-movie-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:50:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03024
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz what it actually feels like the morning after a film flops.
+
+    '
+  topic: day-after-flop-feeling
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:57:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03025
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj pushes back on Imtiaz''s earlier statement that he doesn''t feel bad for himself when a film fails but feels bad for others, asking why he doesn''t think a film''s failure should also feel bad specifically for him.
+
+    '
+  topic: self-vs-others-failure-empathy
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:58:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03026
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj references that Imtiaz has said he failed in class nine and that this failure has stayed with him forever, and asks what exactly about that failure has remained with him to this day.
+
+    '
+  topic: class-nine-failure-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:01:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03027
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj points out that Imtiaz has described a failure (his class-nine failure) as having stayed with him his whole life, but has never described any success as having stayed with him for that long, and remarks that this is funny/notable.
+
+    '
+  topic: failure-vs-success-memorability
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:06:25]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03028
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: experience
+  text: 'Raj shares that as a child he was also a "failure type" kid, that praise or success came much later in his life — he thinks the first time he was praised for anything, even something small, was in his first year of college — and that in almost everything he was an average, almost non-existent child, the kind people assumed had no real future.
+
+    '
+  topic: raj-childhood-failure-story
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:07:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript is not diarized by speaker; this is attributed to Raj because Imtiaz''s following reply says "I can relate completely to you" about feeling both smallest and largest in a room, implying Raj had just shared this personal comparison.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03029
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: belief
+  text: 'Raj says that when someone like that later tastes some success, they develop a particular kind of complex in their head — feeling both inferior and superior everywhere they go.
+
+    '
+  topic: inferiority-superiority-complex
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:08:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Follows directly from the previous statement about Raj''s own childhood.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03030
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz whether, since he writes so much about love, he has himself actually experienced love.
+
+    '
+  topic: experienced-love-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:16:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03031
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj notes that Imtiaz has written love stories across very different generations and will likely write differently again now, and asks him what he thinks Gen Z gets wrong about love.
+
+    '
+  topic: genz-love-wrong-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:16:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Follows directly from the previous statement.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03032
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks Imtiaz whether he thinks the constant sense that "something is missing" will always remain, and whether this is a very new or recent feeling.
+
+    '
+  topic: perpetual-missing-feeling-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:19:01]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03033
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj mentions the book "Man''s Search for Meaning" and asks Imtiaz whether he has read it.
+
+    '
+  topic: mans-search-for-meaning-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:21:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript is not diarized by speaker; attributed to Raj because Imtiaz''s reply ("yes sir, yes sir") answers a direct "have you read it" question before he goes on to describe the book''s content himself.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03034
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj observes a recurring pattern in Imtiaz''s films where the leads always meet at the "wrong time": Geet meets Aditya in Jab We Met right after her marriage is already fixed, Ved meets Tara in Tamasha when his engagement is already fixed, and Jordan meets Heer in Rockstar right when her marriage is already fixed — and asks why love in his stories always happens with someone who is already "taken."
+
+    '
+  topic: wrong-time-love-pattern
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:25:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03035
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj observes that the film "Kabhi Alvida Naa Kehna" did not succeed because people called it cheating and morally wrong, generating hate around it, whereas Rockstar also centers on a kind of infidelity yet audiences cheered for that relationship, and asks why the same underlying theme gets judged so differently in the two films.
+
+    '
+  topic: cheating-theme-reception-contrast
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:29:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03036
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj observes that in Imtiaz''s movies the hero becomes complete through falling in love, which contrasts with a popular self-help idea that a person should first become complete on their own before entering a relationship, since two incomplete people supposedly can''t build a life together — and asks Imtiaz which view he thinks is better.
+
+    '
+  topic: complete-before-love-debate
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:34:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03037
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks how Imtiaz writes love stories differently for today''s generation, given new dating terms like "situationships," "sliding into DMs," "breadcrumbing," and a term he says he had just learned, "sunset clause."
+
+    '
+  topic: genz-dating-terminology-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=sGpc8-f2e8U&t=5854s
+    start_timestamp: 01:37:34
+    end_timestamp: 01:37:48
+  evidence:
+    excerpt: null
+  notes: '~[01:37:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=sGpc8-f2e8U&t=5854s in-browser (caption text check, close match).'
+- id: raj-shamani-03038
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: belief
+  text: 'Raj says he personally loves the term "breadcrumbing."
+
+    '
+  topic: loves-breadcrumbing-term
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:38:16]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Immediately follows the previous statement.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03039
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj observes that in almost every film, Imtiaz''s protagonist never goes back home — Geet doesn''t go back, Jordan doesn''t go back, Harry can''t go back to Punjab, and even the title "Main Waapas Aaunga" ("I will come back") implies having already left home — and asks why every character has this trait.
+
+    '
+  topic: never-returns-home-pattern
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:40:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03040
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks whether there is a version of Imtiaz who himself lost a "home" somewhere, paralleling the theme of lost or left-behind homes running through his films.
+
+    '
+  topic: imtiaz-lost-home-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:45:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03041
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: observation
+  text: 'Raj observes that the female leads across Imtiaz''s films — Geet, Veera, Tara, Sejal — are all portrayed as full of life and joyful, that everything in the story initially revolves around them, and that while the woman ultimately gets the male lead, it is actually the male lead who "finds himself" through her — she finds him, but he finds himself — in almost every one of Imtiaz''s movies.
+
+    '
+  topic: women-characters-pattern
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:47:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Imtiaz''s immediate reply ("oh nice, that''s a good analysis, isn''t it") confirms this was Raj''s observation.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03042
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj says this is his last question, though it splits into two complicated ones, and asks Imtiaz to walk him through his actual process for writing a screenplay.
+
+    '
+  topic: screenwriting-process-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:49:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03043
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks whether there are one or two specific questions Imtiaz asks himself before writing that tell him a screenplay is final.
+
+    '
+  topic: screenplay-finality-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:52:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03044
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: assertion
+  text: 'Raj asks how Imtiaz chooses the right actor for a role.
+
+    '
+  topic: casting-process-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:54:02]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03045
+  person: raj-shamani
+  source: raj-shamani-fo517-imtiaz-ali
+  type: belief
+  text: 'Raj says that, to this day, there is one scene in Rockstar — where Jordan lies in a pool of water staring at a burning guitar — that he still doesn''t fully understand, and asks Imtiaz to explain what he was trying to show in it.
+
+    '
+  topic: rockstar-unexplained-scene
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:57:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is the episode''s closing question.
+
+
+    Visual verification check (2026-09-15): this is a large (45-statement) episode; a spread spot-check sample mostly landed on guest (Imtiaz Ali''s) own content or didn''t clearly match. Left as draft pending closer re-check.'
