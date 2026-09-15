@@ -1,473 +1,421 @@
 statements:
-  - id: raj-shamani-09401
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: belief
-    text: >
-      Raj tells his audience that the more subscribers the show gets, the
-      better it will be, because it lets the show bring in bigger guests
-      and provide them with better facilities.
-    topic: podcast-subscribers
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Standard subscribe-ask segment near the top of the
-      episode.
+- id: raj-shamani-09401
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: belief
+  text: 'Raj tells his audience that the more subscribers the show gets, the better it will be, because it lets the show bring in bigger guests and provide them with better facilities.
 
-  - id: raj-shamani-09402
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: assertion
-    text: >
-      Raj asks Mark Bowden to name the top three most important mistakes
-      that cause people to lose out on opportunities based on how they
-      carry themselves when they walk into a room.
-    topic: room-presence-mistakes
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:19:51]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: podcast-subscribers
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Standard subscribe-ask segment near the top of the episode.
 
-  - id: raj-shamani-09403
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: assertion
-    text: >
-      Raj asks Mark which world leader he considers a great leader purely
-      in terms of body language.
-    topic: body-language-leadership
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:01:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Appears in the cold-open highlight montage, which is
-      especially compressed/garbled in the ASR transcript; a fuller version
-      of the same exchange recurs later in the episode.
 
-  - id: raj-shamani-09404
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: assertion
-    text: >
-      Raj asks what emotion is impossible to hide on someone's face, even
-      for people who are very experienced liars or good at keeping a
-      poker face.
-    topic: lie-detection
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:54:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09402
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: assertion
+  text: 'Raj asks Mark Bowden to name the top three most important mistakes that cause people to lose out on opportunities based on how they carry themselves when they walk into a room.
 
-  - id: raj-shamani-09405
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: observation
-    text: >
-      Raj notes that, per Mark, people sort a person into one of four
-      mental "boxes" before that person has even spoken a word, and asks
-      Mark what those four boxes are.
-    topic: first-impressions
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:51:50]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Directly ties to the episode's "4 boxes" title.
+    '
+  topic: room-presence-mistakes
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:19:51]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09406
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: assertion
-    text: >
-      Raj says a lot of his younger viewers will be interested in this,
-      and asks Mark how to approach a girl and start a conversation with
-      her.
-    topic: dating-advice
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:23:40]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The word immediately preceding this question in the
-      ASR transcript ("टैमी") is unclear/garbled and was not confidently
-      translatable, so it was omitted.
 
-  - id: raj-shamani-09407
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: assertion
-    text: >
-      Raj asks Mark for two or three tricks for winning an argument, or
-      for disarming someone who is just arguing without real basis.
-    topic: persuasion-tactics
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:28:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09403
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: assertion
+  text: 'Raj asks Mark which world leader he considers a great leader purely in terms of body language.
 
-  - id: raj-shamani-09408
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: belief
-    text: >
-      Raj says that being "in the river" — Mark's term for flowing along
-      with someone instead of resisting them — is the single biggest
-      lesson he has taken from the conversation so far, and that he will
-      never forget it.
-    topic: influence-technique
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:27:50]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: body-language-leadership
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:01:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Appears in the cold-open highlight montage, which is especially compressed/garbled in the ASR transcript; a fuller version of the same exchange recurs later in the episode.
 
-  - id: raj-shamani-09409
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: experience
-    text: >
-      Raj recalls interviewing the French President for about 40 minutes,
-      noting this was significantly longer than a typical roughly
-      10-minute slot.
-    topic: interview-prep
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:23:52]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This passage is notably garbled (it also mentions his
-      wife messaging him about the interview beforehand, detail omitted
-      here as unclear) — treat the "40 minutes vs 10 minutes" detail as the
-      most confidently transcribed part.
 
-  - id: raj-shamani-09410
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: experience
-    text: >
-      Raj says he felt fully confident going into his interview with the
-      French President, and believes that was because he had prepared
-      very thoroughly.
-    topic: interview-prep
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:24:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09404
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: assertion
+  text: 'Raj asks what emotion is impossible to hide on someone''s face, even for people who are very experienced liars or good at keeping a poker face.
 
-  - id: raj-shamani-09411
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: observation
-    text: >
-      Raj says the French President made a point of making everyone in
-      the room feel very comfortable, and came across as someone open to
-      being asked anything rather than someone who would get angry at a
-      question.
-    topic: interview-prep
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:24:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: lie-detection
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:54:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-09412
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: experience
-    text: >
-      Raj recalls that before the French President sat down with him, he
-      personally went and greeted/shook hands with around 20 members of
-      his own (Raj's) team.
-    topic: interview-prep
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:25:40]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This passage has inconsistent pronoun gender in the
-      ASR transcript and is one of the more garbled sections — translation
-      is approximate.
 
-  - id: raj-shamani-09413
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: mechanism
-    text: >
-      Raj describes his own technique of mentally sorting almost everyone
-      he meets into a "green zone," "red zone," or "gold zone" within the
-      first five to ten minutes of small talk, based on how well they
-      respond to a deliberately slightly awkward or personal remark he
-      makes.
-    topic: interview-prep
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:26:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09405
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: observation
+  text: 'Raj notes that, per Mark, people sort a person into one of four mental "boxes" before that person has even spoken a word, and asks Mark what those four boxes are.
 
-  - id: raj-shamani-09414
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: mechanism
-    text: >
-      Raj says he used to research guests extensively beforehand to find
-      out what they hate, what topics they avoid or answer diplomatically,
-      and what they are genuinely passionate about and talk about
-      constantly, then use that to come up with an unusual, related
-      question.
-    topic: interview-prep
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:26:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: first-impressions
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:51:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Directly ties to the episode''s "4 boxes" title.
 
-  - id: raj-shamani-09415
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: qualification
-    text: >
-      Raj clarifies that he does his green-zone/red-zone mental
-      categorization of people not in order to avoid "red zone" topics,
-      but so that he knows when the right moment is to bring them up.
-    topic: interview-prep
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:27:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09416
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: experience
-    text: >
-      Raj says he thinks Mark's approach to lie-detection questioning
-      would be especially useful for someone like him, because he himself
-      is very bad at lying.
-    topic: lie-detection
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:54:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09406
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: assertion
+  text: 'Raj says a lot of his younger viewers will be interested in this, and asks Mark how to approach a girl and start a conversation with her.
 
-  - id: raj-shamani-09417
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: observation
-    text: >
-      Raj says he always closes the podcast with the same three final
-      questions for every guest, though he tells the guest they are free
-      to answer briefly or at length.
-    topic: podcast-format
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:28:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: dating-advice
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:23:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The word immediately preceding this question in the ASR transcript ("टैमी") is unclear/garbled and was not confidently translatable, so it was omitted.
 
-  - id: raj-shamani-09418
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: belief
-    text: >
-      Raj says his whole show is fundamentally about giving people
-      information and a sense of control over their own lives, and that
-      because a lot of people feel powerless, many of his questions are
-      built around that theme.
-    topic: podcast-purpose
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:29:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-09419
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: experience
-    text: >
-      Raj says that about half the time a guest compliments something his
-      production team did, he himself has no idea how they pulled it off.
-    topic: production-team
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:36:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09407
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: assertion
+  text: 'Raj asks Mark for two or three tricks for winning an argument, or for disarming someone who is just arguing without real basis.
 
-  - id: raj-shamani-09420
-    person: raj-shamani
-    source: raj-shamani-fo549-mark-bowden
-    type: belief
-    text: >
-      Raj says it is difficult to build a team that can show up and
-      perform professionally every single time.
-    topic: team-building
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:36:09]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: persuasion-tactics
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:28:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09408
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: belief
+  text: 'Raj says that being "in the river" — Mark''s term for flowing along with someone instead of resisting them — is the single biggest lesson he has taken from the conversation so far, and that he will never forget it.
+
+    '
+  topic: influence-technique
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:27:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09409
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: experience
+  text: 'Raj recalls interviewing the French President for about 40 minutes, noting this was significantly longer than a typical roughly 10-minute slot.
+
+    '
+  topic: interview-prep
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:23:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This passage is notably garbled (it also mentions his wife messaging him about the interview beforehand, detail omitted here as unclear) — treat the "40 minutes vs 10 minutes" detail as the most confidently transcribed part.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09410
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: experience
+  text: 'Raj says he felt fully confident going into his interview with the French President, and believes that was because he had prepared very thoroughly.
+
+    '
+  topic: interview-prep
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:24:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09411
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: observation
+  text: 'Raj says the French President made a point of making everyone in the room feel very comfortable, and came across as someone open to being asked anything rather than someone who would get angry at a question.
+
+    '
+  topic: interview-prep
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:24:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09412
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: experience
+  text: 'Raj recalls that before the French President sat down with him, he personally went and greeted/shook hands with around 20 members of his own (Raj''s) team.
+
+    '
+  topic: interview-prep
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=YMTJw1G3yOM&t=5155s
+    start_timestamp: 01:25:55
+    end_timestamp: 01:26:08
+  evidence:
+    excerpt: null
+  notes: '~[01:25:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This passage has inconsistent pronoun gender in the ASR transcript and is one of the more garbled sections — translation is approximate.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=YMTJw1G3yOM&t=5155s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09413
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: mechanism
+  text: 'Raj describes his own technique of mentally sorting almost everyone he meets into a "green zone," "red zone," or "gold zone" within the first five to ten minutes of small talk, based on how well they respond to a deliberately slightly awkward or personal remark he makes.
+
+    '
+  topic: interview-prep
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=YMTJw1G3yOM&t=5182s
+    start_timestamp: 01:26:22
+    end_timestamp: 01:26:32
+  evidence:
+    excerpt: null
+  notes: '~[01:26:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=YMTJw1G3yOM&t=5182s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09414
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: mechanism
+  text: 'Raj says he used to research guests extensively beforehand to find out what they hate, what topics they avoid or answer diplomatically, and what they are genuinely passionate about and talk about constantly, then use that to come up with an unusual, related question.
+
+    '
+  topic: interview-prep
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=YMTJw1G3yOM&t=5205s
+    start_timestamp: 01:26:45
+    end_timestamp: 01:26:58
+  evidence:
+    excerpt: null
+  notes: '~[01:26:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=YMTJw1G3yOM&t=5205s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09415
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: qualification
+  text: 'Raj clarifies that he does his green-zone/red-zone mental categorization of people not in order to avoid "red zone" topics, but so that he knows when the right moment is to bring them up.
+
+    '
+  topic: interview-prep
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:27:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09416
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: experience
+  text: 'Raj says he thinks Mark''s approach to lie-detection questioning would be especially useful for someone like him, because he himself is very bad at lying.
+
+    '
+  topic: lie-detection
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:54:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09417
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: observation
+  text: 'Raj says he always closes the podcast with the same three final questions for every guest, though he tells the guest they are free to answer briefly or at length.
+
+    '
+  topic: podcast-format
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:28:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09418
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: belief
+  text: 'Raj says his whole show is fundamentally about giving people information and a sense of control over their own lives, and that because a lot of people feel powerless, many of his questions are built around that theme.
+
+    '
+  topic: podcast-purpose
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:29:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09419
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: experience
+  text: 'Raj says that about half the time a guest compliments something his production team did, he himself has no idea how they pulled it off.
+
+    '
+  topic: production-team
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:36:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09420
+  person: raj-shamani
+  source: raj-shamani-fo549-mark-bowden
+  type: belief
+  text: 'Raj says it is difficult to build a team that can show up and perform professionally every single time.
+
+    '
+  topic: team-building
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:36:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
