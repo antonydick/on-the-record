@@ -60,6 +60,21 @@ properties:
     description: The statement itself, in the person's own words where possible.
   topic:
     type: string
+  speaker_confidence:
+    type: string
+    enum: [high, medium, low]
+    description: >
+      How confident the extraction was that this line belongs to
+      `person` specifically, given no true audio diarization is
+      available — only textual signal (self-identification, direct
+      address by name, host-framing, corroboration). high = explicit
+      self-identification or unambiguous framing. medium = strong
+      contextual inference (e.g. turn-taking position, recurring
+      show-segment pattern). low = plausible but weakly supported;
+      should be treated cautiously at verification time. Optional for
+      backward compatibility with statements predating this field, but
+      required in practice (enforced by CONTRIBUTING.md, not this
+      schema) for any statement attributed to a guest.
   verification:
     type: object
     description: >

@@ -17,13 +17,36 @@ properties:
   name:
     type: string
     description: Full public name.
+  aliases:
+    type: array
+    items:
+      type: string
+    description: >
+      Other names/spellings this person is known by in source material
+      (e.g. "Nikhil", "Nikhil Kamath (WTF)"), used to resolve mentions
+      to this canonical record instead of creating a duplicate person.
   credentials:
     type: string
     description: >
       One-line public description, e.g. "Co-founder, Zerodha" or
       "Neuroscientist, Stanford School of Medicine". Public factual
       info, not a claim.
+  organization:
+    type: string
+    description: Optional current primary organization/affiliation.
   bio:
     type: string
     description: One or two sentence public bio.
+  identity_confidence:
+    type: string
+    enum: [confirmed, likely, uncertain]
+    description: >
+      confirmed = a human created or reviewed this record (the default
+      assumption when this field is absent, e.g. every person record
+      predating this field). likely = auto-created from a strong
+      signal (e.g. an explicit name in an episode title or in another
+      statement's notes) but not yet human-reviewed. uncertain = weak
+      or ambiguous signal; the record exists so statements aren't
+      orphaned, but identity should be treated as provisional until a
+      human confirms it.
 additionalProperties: false

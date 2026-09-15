@@ -1,0 +1,39 @@
+$schema: "http://json-schema.org/draft-07/schema#"
+$id: episode.schema.yaml
+title: Episode
+description: >
+  Canonical, shared metadata for one podcast/interview episode,
+  independent of who appeared in it. Stored once per episode at
+  sources/episodes/<id>.yaml, regardless of how many people (host and
+  guests) have their own appearance record referencing it. This file's
+  id must match its filename.
+type: object
+required: [id, title, url, platform, published_date, format]
+properties:
+  id:
+    type: string
+    pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
+    description: Slug matching the filename (sources/episodes/<id>.yaml).
+  title:
+    type: string
+  url:
+    type: string
+    format: uri
+  platform:
+    type: string
+    enum: [youtube, podcast, article, book, other]
+  published_date:
+    type: string
+    format: date
+  duration:
+    type: string
+    description: Optional total runtime, e.g. "01:42:10".
+  format:
+    type: string
+    enum: [podcast, video, article, book]
+  show:
+    type: string
+    description: >
+      Optional free-text series/show name, e.g. "WTF is" or "Figuring
+      Out with Raj Shamani". Not a foreign key — purely descriptive.
+additionalProperties: false

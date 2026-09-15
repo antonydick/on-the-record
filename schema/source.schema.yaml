@@ -1,56 +1,33 @@
 $schema: "http://json-schema.org/draft-07/schema#"
 $id: source.schema.yaml
-title: Source
+title: Appearance
 description: >
-  Metadata for one appearance by one person — an interview, podcast
-  episode, talk, or article featuring them, with a given interviewer
-  (who need not be the same across a person's appearances). Validates
-  sources/<person-slug>/<interviewer-slug>/metadata.yaml. The
-  directory's <person-slug> and <interviewer-slug> segments must match
-  this file's person and interviewer_slug fields.
+  One person's appearance in one episode. Validates
+  sources/<person-slug>/<episode-slug>/metadata.yaml. The directory's
+  <person-slug> segment must match this file's person field, and the
+  <episode-slug> segment must match this file's episode field, which
+  in turn must resolve to a sources/episodes/<episode-slug>.yaml id.
 type: object
 required:
   - id
   - person
-  - interviewer_slug
-  - title
-  - url
-  - platform
-  - published_date
-  - format
+  - episode
+  - role
   - processing_status
 properties:
   id:
     type: string
-    description: Unique id for this source, referenced by statements[].source.
+    description: Unique id for this appearance, referenced by statements[].source.
   person:
     type: string
-    description: Must match a people/<id>.yaml id. The person who appeared.
-  interviewer_slug:
+    description: Must match a people/<id>.yaml id.
+  episode:
     type: string
-    pattern: "^[a-z0-9]+(-[a-z0-9]+)*$"
-    description: >
-      Slug identifying who interviewed/hosted this appearance; must
-      match the second path segment under sources/<person>/. Does not
-      need to correspond to a people/*.yaml entry — the interviewer is
-      just an attribute of this appearance, not a tracked person here.
-  title:
+    description: Must match a sources/episodes/<id>.yaml id.
+  role:
     type: string
-  url:
-    type: string
-    format: uri
-  platform:
-    type: string
-    enum: [youtube, podcast, article, book, other]
-  published_date:
-    type: string
-    format: date
-  duration:
-    type: string
-    description: Optional total runtime, e.g. "01:42:10".
-  format:
-    type: string
-    enum: [podcast, video, article, book]
+    enum: [host, co-host, guest]
+    description: This person's role in this specific appearance.
   processing_status:
     type: string
     enum: [pending, extracted, in_review, complete]
