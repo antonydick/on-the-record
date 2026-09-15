@@ -31,6 +31,14 @@ LEADING_NAME_RE = re.compile(r"^([A-Z][a-zA-Z\.\']+(?:\s+[A-Z][a-zA-Z\.\']+){0,3
 FT_CLAUSE_RE = re.compile(r"\bFt\.?\s+(.+?)(?:\s*\||$)")
 SPEAKER_ATTRIBUTION_RE = re.compile(r"SPEAKER ATTRIBUTION:(.+?)(?:\n\n|\Z)", re.DOTALL)
 PAREN_LIST_RE = re.compile(r"\(([^()]+)\)")
+# Matches a leading "Company's " / "Company' " prefix (a company name
+# immediately followed by a possessive apostrophe) so it can be dropped
+# from a free-text mention like "Ather's Tarun Mehta" or "Massive
+# Restaurants' Zorawar Kalra", leaving just the guest's own name. The
+# lookahead requires an uppercase letter right after the whitespace so a
+# real apostrophe-name like "O'Brien Smith" (no whitespace right after
+# the apostrophe) is never touched.
+COMPANY_POSSESSIVE_PREFIX_RE = re.compile(r"^.+?['’]s?\s+(?=[A-Z])")
 
 HEADLINE_STOPWORDS = {
     "the", "a", "an", "is", "are", "was", "were", "will", "why", "how",
@@ -40,7 +48,32 @@ HEADLINE_STOPWORDS = {
     "than", "then", "so", "if", "it", "its", "his", "her", "their",
     "our", "my", "be", "do", "does", "did", "can", "could", "should",
     "would", "make", "makes", "made", "become", "becomes", "becoming",
+    # Generic episode/headline furniture that a bare pipe-segment or
+    # leading-clause match would otherwise mistake for a candidate name
+    # (e.g. "Full Episode", "Money Trap", "WTF Online", "Special Ep").
+    "by", "inside", "next",
+    "full", "episode", "ep", "special", "online", "third", "cohort",
+    "economic", "analyst", "playbook", "gen", "startups", "money",
+    "trap", "wtf", "wtfund",
 }
+
+
+def _strip_company_possessive_prefix(name: str) -> str:
+    """Drop a leading "Company's " prefix from a free-text name mention,
+    e.g. "Ather's Tarun Mehta" -> "Tarun Mehta". Free-text attribution
+    (unlike the corpus's own "Name/Company" convention) often names the
+    company right before the guest's name, and since NAME_TOKEN_RE
+    allows apostrophes it would otherwise be swallowed into one bogus
+    candidate name.
+
+    Only attempted on short (<=6 word) strings -- a "Company's Person
+    Name" mention is always short, whereas a full headline clause like
+    "India's Superpower Strategy" or "...Become Austria's Chancellor"
+    also contains a possessive apostrophe but must be left alone."""
+    if len(name.split()) > 6:
+        return name
+    stripped = COMPANY_POSSESSIVE_PREFIX_RE.sub("", name, count=1)
+    return stripped if stripped and stripped != name else name
 
 
 def _looks_like_name(segment: str) -> bool:
@@ -80,12 +113,12 @@ def extract_name_candidates_from_title(title: str) -> list[tuple[str, str]]:
 
     leading_match = LEADING_NAME_RE.match(title.strip())
     if leading_match:
-        name = leading_match.group(1).strip()
+        name = _strip_company_possessive_prefix(leading_match.group(1).strip())
         if _looks_like_name(name):
             candidates.append((name, "likely"))
 
     for segment in title.split("|"):
-        segment = segment.strip()
+        segment = _strip_company_possessive_prefix(segment.strip())
         if not segment or BOILERPLATE_SEGMENT_RE.match(segment):
             continue
         if _looks_like_name(segment):
@@ -116,7 +149,7 @@ def extract_name_candidates_from_notes(notes: str) -> list[str]:
     candidates: list[str] = []
     for paren_group in PAREN_LIST_RE.findall(block):
         for item in paren_group.split(","):
-            name = item.split("/")[0].strip()
+            name = _strip_company_possessive_prefix(item.split("/")[0].strip())
             words = name.split()
             if 1 <= len(words) <= 4 and all(
                 NAME_TOKEN_RE.match(w) or TITLE_PREFIX_RE.match(w.rstrip("."))
