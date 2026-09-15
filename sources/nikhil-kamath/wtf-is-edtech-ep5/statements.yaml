@@ -1,1 +1,61 @@
-statements: []
+statements:
+  - id: nikhil-kamath-200
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-edtech-ep5
+    type: experience
+    text: >
+      Recounts a night out in Bombay with Jay Kotak that began with dinner
+      at Mekong at Land's End, then moved through a couple of other spots
+      near Kamala Mills, and ended at a friend's house where Jay met a
+      woman (later identified as Aditi) after only a brief conversation
+      without exchanging numbers; a few months later Jay told him in
+      Bangalore that he had started dating her, and the two are getting
+      married in November (of the year this episode was recorded).
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: three-person panel (Nikhil hosting upGrad's
+      Ronnie Screwvala, Unacademy's Gaurav Munjal, and Kotak Mahindra
+      Bank's Jay Kotak), no diarization in the auto-transcript. Told
+      jointly in first person by Nikhil and Jay as a shared story, with
+      Nikhil narrating the sequence of the evening ("one day me and Jay
+      go out for a meal in Bombay... I met you at Mekong at Land's
+      End...") and Jay confirming and adding detail.
+
+  - id: nikhil-kamath-201
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-edtech-ep5
+    type: belief
+    text: >
+      Says that if he had to name something to change about education, it
+      would be moving away from the modern nuclear-family construct
+      (husband, wife, child) as the primary vehicle for a child's
+      upbringing, arguing it subconsciously dictates to children what
+      religion to follow and what to study; he'd prefer an environment
+      with fewer such inherited ("mimetic") influences, closer to how
+      children historically learned from and fixated on skills within a
+      wider community, allowing a child's learning choices to be more
+      organic.
+    topic: worldview
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-200. Given as his
+      own closing answer, explicitly framed as "a very dystopian" view he
+      is choosing to voice, in response to being asked what one thing he
+      would change about education.
