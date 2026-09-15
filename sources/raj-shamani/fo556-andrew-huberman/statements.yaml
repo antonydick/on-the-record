@@ -1,603 +1,553 @@
 statements:
-  - id: raj-shamani-10801
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Frames the central challenge of the episode: based on everything
-      Huberman has learned, experimented with, watched fail, and gained
-      both from others' knowledge and his own experiments, if given a
-      25-year-old person right now with the sole task of making them
-      "mentally dangerous" over the next 10 years -- meaning an
-      unbreakable, unshakeable mindset like a high performer who never
-      breaks under pressure, who can handle everything in their life, and
-      who can figure out exactly what to do and then actually do it --
-      where would Huberman start?
-    topic: mentally-dangerous-challenge
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:57]-[00:07:47] (a condensed version of this same framing is
-      also used in the episode's cold-open trailer at
-      ~[00:00:40]-[00:02:04]). Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. This whole passage is heavily
-      merged with the guest's reply in the ASR text with no
-      diarization, but the near-exact match with the cold-open trailer
-      clip gives reasonably high confidence this framing/question is
-      Raj's.
+- id: raj-shamani-10801
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Frames the central challenge of the episode: based on everything Huberman has learned, experimented with, watched fail, and gained both from others'' knowledge and his own experiments, if given a 25-year-old person right now with the sole task of making them "mentally dangerous" over the next 10 years -- meaning an unbreakable, unshakeable mindset like a high performer who never breaks under pressure, who can handle everything in their life, and who can figure out exactly what to do and then actually do it -- where would Huberman start?
 
-  - id: raj-shamani-10802
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: recommendation
-    text: >
-      Before the conversation starts, asks viewers to subscribe to the
-      channel, saying more subscribers helps him bring in bigger guests
-      and give the audience more value through the conversations, and
-      mentions the full audio version of the show is also available on
-      Spotify.
-    topic: channel-growth
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:08]-[00:02:31]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote.
+    '
+  topic: mentally-dangerous-challenge
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=416s
+    start_timestamp: 00:06:56
+    end_timestamp: 00:07:10
+  evidence:
+    excerpt: null
+  notes: '~[00:02:57]-[00:07:47] (a condensed version of this same framing is also used in the episode''s cold-open trailer at ~[00:00:40]-[00:02:04]). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This whole passage is heavily merged with the guest''s reply in the ASR text with no diarization, but the near-exact match with the cold-open trailer clip gives reasonably high confidence this framing/question is Raj''s.
 
-  - id: raj-shamani-10803
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Asks Huberman to introduce himself for anyone watching who has
-      never seen or heard of him before and doesn't know who he is,
-      explaining what he does and why, and why they should watch this
-      podcast.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:57]-[00:03:23]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-10804
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: experience
-    text: >
-      Reflecting on his own generation, says the real problem is that
-      many young people like him watch people like Huberman and think
-      they'll learn everything from them, but then half the things they
-      talk about on a Monday, after getting excited watching such
-      content, have gone nowhere by Thursday -- nothing has really
-      changed, and most people don't end up making much real change in
-      their lives.
-    topic: motivation-vs-action
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:06:44]-[00:07:21]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=416s in-browser. Caption reads ''like someone who can handle everything in their life and they can choose and'' matching the mentally-dangerous framing.
 
-  - id: raj-shamani-10805
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Asks how someone who is already in a hyperactive, highly
-      competitive mode -- feeling like they've already fallen behind
-      because of the internet -- can learn to switch off, become
-      inactive for a while, and feel less restless.
-    topic: switching-off
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:23:24]-[00:24:13]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Huberman responds by calling
-      it "a very good question" immediately afterward, which supports
-      this being Raj's question rather than the guest's own remark;
-      speaker turn otherwise inferred from context since the transcript
-      has no diarization.
+    '
+- id: raj-shamani-10802
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: recommendation
+  text: 'Before the conversation starts, asks viewers to subscribe to the channel, saying more subscribers helps him bring in bigger guests and give the audience more value through the conversations, and mentions the full audio version of the show is also available on Spotify.
 
-  - id: raj-shamani-10806
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Asks Huberman how he deals with people online who try to "puncture"
-      him with unkind, cruel comments given that he is a public figure,
-      remarking that handling this must take a lot of mental strength,
-      and asks what his tool or technique is for it.
-    topic: public-criticism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:03:55]-[01:04:20]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context, since the transcript has no diarization; moderate
-      confidence.
+    '
+  topic: channel-growth
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=144s
+    start_timestamp: 00:02:24
+    end_timestamp: 00:02:39
+  evidence:
+    excerpt: null
+  notes: '~[00:02:08]-[00:02:31]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-10807
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: belief
-    text: >
-      After Huberman says online negativity doesn't affect him, remarks
-      that this must come from a healthy upbringing, and says he thanks
-      Huberman's parents for it.
-    topic: public-criticism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:04:39]-[01:04:43]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context; moderate confidence.
 
-  - id: raj-shamani-10808
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: experience
-    text: >
-      Describes growing up in a joint family in India -- parents, a
-      sibling, an uncle, an aunt, and grandparents all living together in
-      one house -- with roughly 30 people around some weekends when
-      cousins would come to visit.
-    topic: joint-family-upbringing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:07:48]-[01:08:54]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context -- Huberman reacts with surprise that this joint-family
-      structure is uncommon in the US -- giving moderate-to-high
-      confidence; the transcript itself has no diarization.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=144s in-browser. Caption reads ''I have a small favor to [ask]... And also, the full audio experience of the show is [on Spotify]'' matching the subscribe/Spotify ask.
 
-  - id: raj-shamani-10809
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: belief
-    text: >
-      Says he believes this joint-family upbringing is an incredible
-      thing that gave him a great deal of confidence, though he isn't
-      sure exactly why or how it worked so well.
-    topic: joint-family-upbringing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:08:54]-[01:09:21]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context; moderate confidence.
+    '
+- id: raj-shamani-10803
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Asks Huberman to introduce himself for anyone watching who has never seen or heard of him before and doesn''t know who he is, explaining what he does and why, and why they should watch this podcast.
 
-  - id: raj-shamani-10810
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: belief
-    text: >
-      Says that growing up constantly compared to cousins and a sibling,
-      and being scolded or teased from childhood, builds such resilience
-      that by the time you're an adult, criticism from the outside world
-      has no effect on you at all.
-    topic: joint-family-upbringing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:09:21]-[01:09:42]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context; moderate confidence.
+    '
+  topic: guest-introduction
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=178s
+    start_timestamp: 00:02:58
+    end_timestamp: 00:03:11
+  evidence:
+    excerpt: null
+  notes: '~[00:02:57]-[00:03:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-10811
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: observation
-    text: >
-      Says that even now, when he goes home, his family doesn't hold back
-      their criticism of him despite his public success and treats him
-      just as they always have, which he says keeps him grounded and
-      humble.
-    topic: joint-family-upbringing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:10:53]-[01:11:44]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context; moderate confidence.
 
-  - id: raj-shamani-10812
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: belief
-    text: >
-      Tells Huberman that his confidence comes across as very high and
-      genuinely real, not something that happened by accident.
-    topic: confidence-authenticity
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:13:58]-[01:14:23]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context; moderate confidence.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=178s in-browser. Caption reads ''So, tell me further... explain them what you do and why they should watch this podcast?'' matching the guest-introduction ask.
 
-  - id: raj-shamani-10813
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Asks Huberman what worries him the most, based on what he has
-      personally observed, about people who become extremely successful
-      at a very young age.
-    topic: early-success-risks
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:23]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Immediately follows raj-shamani-10812 in the same
-      exchange; speaker turn inferred from context, moderate confidence.
+    '
+- id: raj-shamani-10804
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: experience
+  text: 'Reflecting on his own generation, says the real problem is that many young people like him watch people like Huberman and think they''ll learn everything from them, but then half the things they talk about on a Monday, after getting excited watching such content, have gone nowhere by Thursday -- nothing has really changed, and most people don''t end up making much real change in their lives.
 
-  - id: raj-shamani-10814
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Poses the question (also used in the episode's cold-open trailer):
-      if two people both look at the same risky opportunity in their life
-      -- one hesitates but still goes ahead and does it, the other thinks
-      about it, plans, is about to jump, but then freezes and doesn't
-      take the risk -- what is happening in the brain of the person who
-      freezes and doesn't take the risk?
-    topic: risk-taking-freeze
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:24:18]-[01:25:04] (a version of this same question is used in
-      the episode's cold-open trailer at ~[00:01:43]-[00:02:04]).
-      Transcribed via YouTube Hindi auto-captions; text is a close
-      English translation of the original Hindi/Hinglish, not a verbatim
-      quote. The near-exact match with the trailer clip gives reasonably
-      high confidence this is Raj's question.
+    '
+  topic: motivation-vs-action
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=429s
+    start_timestamp: 00:07:09
+    end_timestamp: 00:07:21
+  evidence:
+    excerpt: null
+  notes: '~[00:06:44]-[00:07:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-10815
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Asks directly: can courage be built?
-    topic: courage-building
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:43:17]-[01:43:43] (also used in the episode's cold-open
-      trailer at ~[00:02:04]). Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Matches the trailer clip,
-      giving reasonably high confidence this is Raj's question.
 
-  - id: raj-shamani-10816
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Asks Huberman to name, in simple terms that people can understand
-      immediately, the three best "mental games" people can play to
-      build resilience.
-    topic: mental-resilience-games
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:50:16]-[01:50:41]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context; moderate confidence.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=429s in-browser. Caption reads ''a lot of young people like me, we watch uh people like you, we understand and...'' matching the motivation-vs-action reflection.
 
-  - id: raj-shamani-10817
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Says he wants to shift gears and cover two or three final topics
-      before wrapping up the conversation.
-    topic: episode-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:16:46]-[02:17:03]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote.
+    '
+- id: raj-shamani-10805
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Asks how someone who is already in a hyperactive, highly competitive mode -- feeling like they''ve already fallen behind because of the internet -- can learn to switch off, become inactive for a while, and feel less restless.
 
-  - id: raj-shamani-10818
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Asks Huberman whether deliberately taking on difficulty
-      (self-imposed friction) actually produces a change inside the
-      brain -- whether it is neuroscientifically "wired," or involves a
-      real chemical or neurological process.
-    topic: self-imposed-difficulty
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:20:49]-[02:21:14]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context -- Huberman answers "absolutely" and launches into a
-      neuroscience explanation right after; moderate confidence.
+    '
+  topic: switching-off
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=1451s
+    start_timestamp: 00:24:11
+    end_timestamp: 00:24:20
+  evidence:
+    excerpt: null
+  notes: '~[00:23:24]-[00:24:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Huberman responds by calling it "a very good question" immediately afterward, which supports this being Raj''s question rather than the guest''s own remark; speaker turn otherwise inferred from context since the transcript has no diarization.
 
-  - id: raj-shamani-10819
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Asks Huberman whether, in the next phase of his career, he sees
-      himself getting into entrepreneurship and building something.
-    topic: huberman-future-plans
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:29:12]-[02:29:30]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context; moderate confidence.
 
-  - id: raj-shamani-10820
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: observation
-    text: >
-      Brings up having heard or seen clips of Huberman on a podcast
-      saying that he struggled with romantic relationships, despite
-      having studied the brain so extensively and seeming to have answers
-      for almost everything.
-    topic: huberman-relationships
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:30:08]-[02:30:36]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context; moderate confidence.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=1451s in-browser. Caption reads ''how can somebody turn off and be... and feel less restless?'' matching the question verbatim.
 
-  - id: raj-shamani-10821
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Asks: when have you felt most powerless in your life?
-    topic: powerlessness-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:34:03]-[02:34:23] (also used in the episode's cold-open
-      trailer at ~[00:02:04]-[00:02:31]). Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Matches the trailer clip,
-      giving reasonably high confidence this is Raj's question.
+    '
+- id: raj-shamani-10806
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Asks Huberman how he deals with people online who try to "puncture" him with unkind, cruel comments given that he is a public figure, remarking that handling this must take a lot of mental strength, and asks what his tool or technique is for it.
 
-  - id: raj-shamani-10822
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Poses his standard closing question, which he says is one he asks
-      every guest: "What is the cost of being Andrew Huberman?"
-    topic: cost-of-being-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:41:09]-[02:41:41]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Raj explicitly frames this as
-      a recurring closing question he asks every guest, giving high
-      confidence in the attribution.
+    '
+  topic: public-criticism
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=3860s
+    start_timestamp: 01:04:20
+    end_timestamp: 01:04:31
+  evidence:
+    excerpt: null
+  notes: '~[01:03:55]-[01:04:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context, since the transcript has no diarization; moderate confidence.
 
-  - id: raj-shamani-10823
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: assertion
-    text: >
-      Tells Huberman that if he ever wants to visit India, he should just
-      say when, and Raj will personally host him and arrange everything.
-    topic: india-visit-invitation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:45:24]-[02:46:11]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from
-      context; moderate confidence.
 
-  - id: raj-shamani-10824
-    person: raj-shamani
-    source: raj-shamani-fo556-andrew-huberman
-    type: recommendation
-    text: >
-      Closes the episode by thanking viewers for watching to the end, and
-      asks them to share in the comments what they liked or didn't like
-      about the episode, and which guests (new or returning) they'd like
-      to see on the show.
-    topic: episode-outro
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:45:46]-end. Transcribed via YouTube Hindi auto-captions; text
-      is a close English translation of the original Hindi/Hinglish, not
-      a verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=3860s in-browser. Caption reads ''occasionally people try and puncture your balloon... they''re kind of semi-broken people... So how do [you deal with it]'' matching the public-criticism question.
+
+    '
+- id: raj-shamani-10807
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: belief
+  text: 'After Huberman says online negativity doesn''t affect him, remarks that this must come from a healthy upbringing, and says he thanks Huberman''s parents for it.
+
+    '
+  topic: public-criticism
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=3878s
+    start_timestamp: 01:04:38
+    end_timestamp: 01:04:43
+  evidence:
+    excerpt: null
+  notes: '~[01:04:39]-[01:04:43]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context; moderate confidence.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=3878s in-browser. Caption reads ''parents must have done something well. >> I absolutely thank them. Yes.'' matching the statement exactly.
+
+    '
+- id: raj-shamani-10808
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: experience
+  text: 'Describes growing up in a joint family in India -- parents, a sibling, an uncle, an aunt, and grandparents all living together in one house -- with roughly 30 people around some weekends when cousins would come to visit.
+
+    '
+  topic: joint-family-upbringing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=4068s
+    start_timestamp: 01:07:48
+    end_timestamp: 01:08:02
+  evidence:
+    excerpt: null
+  notes: '~[01:07:48]-[01:08:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context -- Huberman reacts with surprise that this joint-family structure is uncommon in the US -- giving moderate-to-high confidence; the transcript itself has no diarization.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=4068s in-browser. Caption reads ''Join it''s like we were 10 people in...'' followed by Huberman''s surprised ''Oh, how cool... we don''t typically have that,'' matching the joint-family description and its context.
+
+    '
+- id: raj-shamani-10809
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: belief
+  text: 'Says he believes this joint-family upbringing is an incredible thing that gave him a great deal of confidence, though he isn''t sure exactly why or how it worked so well.
+
+    '
+  topic: joint-family-upbringing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:08:54]-[01:09:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context; moderate confidence.
+
+
+    Visual verification check (2026-09-15): checked nearby [01:08:54]-[01:09:42] (real time ~4130-4165s); this passage is densely interleaved with Huberman''s own divorced-parents story with no clear diarization, and the exact caption moment for this specific statement could not be confidently isolated. Left as draft.
+
+    '
+- id: raj-shamani-10810
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: belief
+  text: 'Says that growing up constantly compared to cousins and a sibling, and being scolded or teased from childhood, builds such resilience that by the time you''re an adult, criticism from the outside world has no effect on you at all.
+
+    '
+  topic: joint-family-upbringing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:09:21]-[01:09:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context; moderate confidence.
+
+
+    Visual verification check (2026-09-15): checked nearby [01:08:54]-[01:09:42] (real time ~4130-4165s); this passage is densely interleaved with Huberman''s own divorced-parents story with no clear diarization, and the exact caption moment for this specific statement could not be confidently isolated. Left as draft.
+
+    '
+- id: raj-shamani-10811
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: observation
+  text: 'Says that even now, when he goes home, his family doesn''t hold back their criticism of him despite his public success and treats him just as they always have, which he says keeps him grounded and humble.
+
+    '
+  topic: joint-family-upbringing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:10:53]-[01:11:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context; moderate confidence.
+
+
+    Visual verification check (2026-09-15): checked [01:10:53] (real time ~4256s); caption at this moment reads ''don''t criticize me anymore but... but you''re you''re now you''re...'' which appears to say the OPPOSITE of this statement (family no longer criticizing him, rather than continuing to). Left as draft pending closer re-check / possible correction.
+
+    '
+- id: raj-shamani-10812
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: belief
+  text: 'Tells Huberman that his confidence comes across as very high and genuinely real, not something that happened by accident.
+
+    '
+  topic: confidence-authenticity
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=4441s
+    start_timestamp: 01:14:01
+    end_timestamp: 01:14:16
+  evidence:
+    excerpt: null
+  notes: '~[01:13:58]-[01:14:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context; moderate confidence.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=4441s in-browser. Caption reads ''of that your confidence is is very is very real. Um, and that doesn''t arrive [by accident]'' matching the statement.
+
+    '
+- id: raj-shamani-10813
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Asks Huberman what worries him the most, based on what he has personally observed, about people who become extremely successful at a very young age.
+
+    '
+  topic: early-success-risks
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=4463s
+    start_timestamp: 01:14:23
+    end_timestamp: 01:14:27
+  evidence:
+    excerpt: null
+  notes: '~[01:14:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Immediately follows raj-shamani-10812 in the same exchange; speaker turn inferred from context, moderate confidence.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=4463s in-browser. Caption reads ''I mean, >> what have you seen personally?'' matching the follow-up question.
+
+    '
+- id: raj-shamani-10814
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Poses the question (also used in the episode''s cold-open trailer): if two people both look at the same risky opportunity in their life -- one hesitates but still goes ahead and does it, the other thinks about it, plans, is about to jump, but then freezes and doesn''t take the risk -- what is happening in the brain of the person who freezes and doesn''t take the risk?
+
+    '
+  topic: risk-taking-freeze
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=5088s
+    start_timestamp: 01:24:48
+    end_timestamp: 01:25:00
+  evidence:
+    excerpt: null
+  notes: '~[01:24:18]-[01:25:04] (a version of this same question is used in the episode''s cold-open trailer at ~[00:01:43]-[00:02:04]). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The near-exact match with the trailer clip gives reasonably high confidence this is Raj''s question.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=5088s in-browser. Caption reads ''their life. Okay. One sees that risk and jumps and then goes'' matching the risk-freeze question framing.
+
+    '
+- id: raj-shamani-10815
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Asks directly: can courage be built?
+
+    '
+  topic: courage-building
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=6203s
+    start_timestamp: 01:43:23
+    end_timestamp: 01:43:26
+  evidence:
+    excerpt: null
+  notes: '~[01:43:17]-[01:43:43] (also used in the episode''s cold-open trailer at ~[00:02:04]). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Matches the trailer clip, giving reasonably high confidence this is Raj''s question.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=6203s in-browser. Caption reads ''Can you build courage? Absolutely.'' matching the statement verbatim.
+
+    '
+- id: raj-shamani-10816
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Asks Huberman to name, in simple terms that people can understand immediately, the three best "mental games" people can play to build resilience.
+
+    '
+  topic: mental-resilience-games
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=6619s
+    start_timestamp: 01:50:19
+    end_timestamp: 01:50:24
+  evidence:
+    excerpt: null
+  notes: '~[01:50:16]-[01:50:41]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context; moderate confidence.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=6619s in-browser. Caption reads ''immediately. Give me >> give me like top three mental games'' matching the statement.
+
+    '
+- id: raj-shamani-10817
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Says he wants to shift gears and cover two or three final topics before wrapping up the conversation.
+
+    '
+  topic: episode-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=8206s
+    start_timestamp: 02:16:46
+    end_timestamp: 02:16:52
+  evidence:
+    excerpt: null
+  notes: '~[02:16:46]-[02:17:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=8206s in-browser. Caption reads ''You know I have I want to change a gear a little bit and just [cover two or three final topics]'' matching the statement.
+
+    '
+- id: raj-shamani-10818
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Asks Huberman whether deliberately taking on difficulty (self-imposed friction) actually produces a change inside the brain -- whether it is neuroscientifically "wired," or involves a real chemical or neurological process.
+
+    '
+  topic: self-imposed-difficulty
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=8449s
+    start_timestamp: 02:20:49
+    end_timestamp: 02:21:05
+  evidence:
+    excerpt: null
+  notes: '~[02:20:49]-[02:21:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context -- Huberman answers "absolutely" and launches into a neuroscience explanation right after; moderate confidence.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=8449s in-browser. Caption reads ''you go. >> Do you think that... something that does the the neurology or like the chemistry inside my brain'' matching the statement.
+
+    '
+- id: raj-shamani-10819
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Asks Huberman whether, in the next phase of his career, he sees himself getting into entrepreneurship and building something.
+
+    '
+  topic: huberman-future-plans
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=8925s
+    start_timestamp: 02:28:45
+    end_timestamp: 02:29:05
+  evidence:
+    excerpt: null
+  notes: '~[02:29:12]-[02:29:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context; moderate confidence.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=8925s in-browser. Caption around this point discusses Huberman becoming a producer/entrepreneurial direction, consistent with the entrepreneurship question; speaker turn inferred from context given no diarization.
+
+    '
+- id: raj-shamani-10820
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: observation
+  text: 'Brings up having heard or seen clips of Huberman on a podcast saying that he struggled with romantic relationships, despite having studied the brain so extensively and seeming to have answers for almost everything.
+
+    '
+  topic: huberman-relationships
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=9008s
+    start_timestamp: 02:30:08
+    end_timestamp: 02:30:24
+  evidence:
+    excerpt: null
+  notes: '~[02:30:08]-[02:30:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context; moderate confidence.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=9008s in-browser. Caption reads ''But I was listening to one of your one of your podcast or one [clip]... Right. So you you struggle with it. What''s about love'' matching the statement.
+
+    '
+- id: raj-shamani-10821
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Asks: when have you felt most powerless in your life?
+
+    '
+  topic: powerlessness-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=9248s
+    start_timestamp: 02:34:08
+    end_timestamp: 02:34:23
+  evidence:
+    excerpt: null
+  notes: '~[02:34:03]-[02:34:23] (also used in the episode''s cold-open trailer at ~[00:02:04]-[00:02:31]). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Matches the trailer clip, giving reasonably high confidence this is Raj''s question.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=9248s in-browser. Caption reads ''investment like that where you know this person can really hurt you... You''re giving them a lot of power. >> When have you felt the [most powerless]'' matching the statement.
+
+    '
+- id: raj-shamani-10822
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Poses his standard closing question, which he says is one he asks every guest: "What is the cost of being Andrew Huberman?"
+
+    '
+  topic: cost-of-being-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=9670s
+    start_timestamp: 02:41:10
+    end_timestamp: 02:41:41
+  evidence:
+    excerpt: null
+  notes: '~[02:41:09]-[02:41:41]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj explicitly frames this as a recurring closing question he asks every guest, giving high confidence in the attribution.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=9670s in-browser. Caption reads ''This is the last... question that we ask every [guest]... Huberman? >> The cost.'' matching the signature closing question verbatim.
+
+    '
+- id: raj-shamani-10823
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: assertion
+  text: 'Tells Huberman that if he ever wants to visit India, he should just say when, and Raj will personally host him and arrange everything.
+
+    '
+  topic: india-visit-invitation
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=9946s
+    start_timestamp: 02:45:46
+    end_timestamp: 02:46:11
+  evidence:
+    excerpt: null
+  notes: '~[02:45:24]-[02:46:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context; moderate confidence.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=9946s in-browser. Caption around this point discusses visiting India and ends with ''All right. You''re on. >> Done. Okay,'' consistent with the invitation being extended and accepted.
+
+    '
+- id: raj-shamani-10824
+  person: raj-shamani
+  source: raj-shamani-fo556-andrew-huberman
+  type: recommendation
+  text: 'Closes the episode by thanking viewers for watching to the end, and asks them to share in the comments what they liked or didn''t like about the episode, and which guests (new or returning) they''d like to see on the show.
+
+    '
+  topic: episode-outro
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Y566_T-YlNQ&t=9991s
+    start_timestamp: 02:46:31
+    end_timestamp: 02:46:45
+  evidence:
+    excerpt: null
+  notes: '~[02:45:46]-end. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Y566_T-YlNQ&t=9991s in-browser. Caption reads ''feedback helps us improve and make every episode [better]'' matching the outro.
+
+    '
