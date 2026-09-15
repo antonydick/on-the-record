@@ -1,333 +1,274 @@
 statements:
-  - id: raj-shamani-09201
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: observation
-    text: >
-      Anahat Singh is India's rising squash star — at just 18 years old, she
-      became the first Indian to win the World Junior Squash Championship.
-    topic: anahat-singh-intro
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:00]-[00:00:21]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. This is Raj's introductory narration about the
-      guest at the top of the episode, immediately following a teaser clip
-      of the interview.
+- id: raj-shamani-09201
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: observation
+  text: 'Anahat Singh is India''s rising squash star — at just 18 years old, she became the first Indian to win the World Junior Squash Championship.
 
-  - id: raj-shamani-09202
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: recommendation
-    text: >
-      If you're running a small business from home, or just starting
-      something of your own, one of the biggest challenges is getting your
-      products to your customers without spending too much — that's why I
-      recommend Porter. Their two-hour service is available in more than 40
-      cities.
-    topic: sponsor-porter
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:22]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is a sponsor/ad read by Raj for the show's title
-      sponsor Porter.
+    '
+  topic: anahat-singh-intro
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00]-[00:00:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj''s introductory narration about the guest at the top of the episode, immediately following a teaser clip of the interview.
 
-  - id: raj-shamani-09203
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: recommendation
-    text: >
-      Porter has now launched a Porter Scooter with the same 20 kg capacity,
-      for goods that need extra space and extra care. Whether you're sending
-      an order to a customer or moving goods for your business, Porter
-      handles all of it — and the best part is you never have to haggle over
-      price; whatever rate shows on the app is exactly what you pay.
-    topic: sponsor-porter
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Continuation of the same Porter sponsor read as the
-      previous statement.
 
-  - id: raj-shamani-09204
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: experience
-    text: >
-      I was actually watching this documentary about Rafael Nadal recently.
-    topic: nadal-documentary
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:16:49]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj raises this to ask Anahat whether she has seen the
-      same documentary, leading into a discussion of Nadal's mindset around
-      playing through injury/pain.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was inside the cold-open teaser in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09202
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: recommendation
+  text: 'If you''re running a small business from home, or just starting something of your own, one of the biggest challenges is getting your products to your customers without spending too much — that''s why I recommend Porter. Their two-hour service is available in more than 40 cities.
 
-  - id: raj-shamani-09205
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: belief
-    text: >
-      Nadal is like that, isn't he? I like the way he organizes his body —
-      his pre-match rituals and routines.
-    topic: nadal-superstition
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:29:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Said as an aside during a discussion of athletes'
-      pre-match superstitions/rituals; speaker attribution between Raj and
-      the guest is not fully clear from the ASR text in this passage, but
-      phrasing and position in the exchange point to Raj.
+    '
+  topic: sponsor-porter
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:22]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is a sponsor/ad read by Raj for the show''s title sponsor Porter.
 
-  - id: raj-shamani-09206
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: belief
-    text: >
-      You do so many things that are based on psychological principles, and
-      you don't even realize it — it's fascinating. Just from this bit of
-      conversation, I can think of five psychological principles you're
-      applying in your head.
-    topic: psychology-of-coping
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:36:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's comment/compliment after Anahat describes how she
-      deliberately avoids thinking about a match right before or after it to
-      manage stress.
 
-  - id: raj-shamani-09207
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: evidence
-    text: >
-      There's a report that analyzed, I think, about 20 Olympics, looking at
-      the No. 1, No. 2, and No. 3 finishers. When they're receiving their
-      medals, the third-place finisher on the podium tends to look happier,
-      while the second-place finisher tends to look very sad.
-    topic: olympic-podium-emotions
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:07:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj cites this report while discussing whether coming
-      second is the "worst" outcome. Exact source/count of Olympics ("20")
-      is as stated by Raj and unverified.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was inside the cold-open teaser in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09203
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: recommendation
+  text: 'Porter has now launched a Porter Scooter with the same 20 kg capacity, for goods that need extra space and extra care. Whether you''re sending an order to a customer or moving goods for your business, Porter handles all of it — and the best part is you never have to haggle over price; whatever rate shows on the app is exactly what you pay.
 
-  - id: raj-shamani-09208
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: experience
-    text: >
-      I recently saw a photo from the Commonwealth Games — the transcript
-      names the athlete as "Anra Chopra," almost certainly javelin thrower
-      Neeraj Chopra — who won silver, standing next to another Indian
-      athlete who won bronze. That other athlete was smiling broadly, while
-      the silver medalist stood there looking very sad. When I saw that
-      photo, I thought: yes, I know exactly what he must be thinking right
-      now.
-    topic: neeraj-chopra-photo
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:08:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The athlete's name is garbled in the ASR transcript
-      ("एनआरए चोपड़ा" / "निर्ज") — contextually (Commonwealth Games, silver
-      medal) this is almost certainly Neeraj Chopra, but this identification
-      is inferred, not a clean transcription.
+    '
+  topic: sponsor-porter
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=h-0u0ui8ESQ&t=82s
+    start_timestamp: 00:01:22
+    end_timestamp: 00:02:25
+  evidence:
+    excerpt: null
+  notes: '~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Continuation of the same Porter sponsor read as the previous statement.
 
-  - id: raj-shamani-09209
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: belief
-    text: >
-      I think squash was invented in England.
-    topic: squash-origin
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:08:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Said while asking why Egypt dominates squash despite
-      not being the sport's country of origin.
 
-  - id: raj-shamani-09210
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: observation
-    text: >
-      The current world No. 2 women's squash player is 19 years old — she
-      was a Junior World No. 1 and then became the World No. 2 at the senior
-      level.
-    topic: squash-ranking-trivia
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:54:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj raises this as a comparison after establishing
-      that Anahat is currently ranked Junior No. 1 and senior No. 20; the
-      player's name is not given in the transcript.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=h-0u0ui8ESQ&t=82s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09204
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: experience
+  text: 'I was actually watching this documentary about Rafael Nadal recently.
 
-  - id: raj-shamani-09211
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: evidence
-    text: >
-      Novak Djokovic has lost from match/game point only four times in his
-      entire career — from that position he has never lost. If he reaches
-      match point in a Grand Slam final, he has never lost.
-    topic: djokovic-match-point-record
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:23:51]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Stated by Raj during a discussion of players' mindset
-      at match point; the specific figures ("four times," "never" in Slam
-      finals) are as stated by Raj and unverified.
+    '
+  topic: nadal-documentary
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:16:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj raises this to ask Anahat whether she has seen the same documentary, leading into a discussion of Nadal''s mindset around playing through injury/pain.
 
-  - id: raj-shamani-09212
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: evidence
-    text: >
-      Roger Federer, by contrast, has lost twenty-four times from similar
-      match-point situations.
-    topic: federer-match-point-record
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:23:51]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Federer's name is badly garbled in the ASR transcript
-      ("पेड्रा" / "फेड्रा" / "फेडर्रा"); identified from context (paired
-      with Djokovic, tennis, match-point record) as almost certainly Roger
-      Federer, but this identification is inferred, not a clean
-      transcription. The "24 times" figure is as stated by Raj and
-      unverified.
 
-  - id: raj-shamani-09213
-    person: raj-shamani
-    source: raj-shamani-fo548-anahat-singh
-    type: mechanism
-    text: >
-      Djokovic and Federer think differently at match point — someone told
-      me that when Federer is at match point, he starts thinking "I
-      shouldn't do anything wrong now," and that's why he ends up making
-      mistakes. Djokovic, on the other hand, thinks "today is a great day,
-      I've done everything right, now I know I'm winning" — which is why he
-      wins more often at the final point.
-    topic: djokovic-federer-mindset
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:24:19]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj attributes this observation to an unnamed third
-      party ("someone said"). Federer's name is garbled in the ASR
-      transcript as in the previous statement.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was inside the cold-open teaser in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09205
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: belief
+  text: 'Nadal is like that, isn''t he? I like the way he organizes his body — his pre-match rituals and routines.
+
+    '
+  topic: nadal-superstition
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:29:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said as an aside during a discussion of athletes'' pre-match superstitions/rituals; speaker attribution between Raj and the guest is not fully clear from the ASR text in this passage, but phrasing and position in the exchange point to Raj.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was inside the cold-open teaser in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09206
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: belief
+  text: 'You do so many things that are based on psychological principles, and you don''t even realize it — it''s fascinating. Just from this bit of conversation, I can think of five psychological principles you''re applying in your head.
+
+    '
+  topic: psychology-of-coping
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:36:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s comment/compliment after Anahat describes how she deliberately avoids thinking about a match right before or after it to manage stress.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was inside the cold-open teaser in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09207
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: evidence
+  text: 'There''s a report that analyzed, I think, about 20 Olympics, looking at the No. 1, No. 2, and No. 3 finishers. When they''re receiving their medals, the third-place finisher on the podium tends to look happier, while the second-place finisher tends to look very sad.
+
+    '
+  topic: olympic-podium-emotions
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:07:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj cites this report while discussing whether coming second is the "worst" outcome. Exact source/count of Olympics ("20") is as stated by Raj and unverified.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was inside the cold-open teaser in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09208
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: experience
+  text: 'I recently saw a photo from the Commonwealth Games — the transcript names the athlete as "Anra Chopra," almost certainly javelin thrower Neeraj Chopra — who won silver, standing next to another Indian athlete who won bronze. That other athlete was smiling broadly, while the silver medalist stood there looking very sad. When I saw that photo, I thought: yes, I know exactly what he must be thinking right now.
+
+    '
+  topic: neeraj-chopra-photo
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:08:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The athlete''s name is garbled in the ASR transcript ("एनआरए चोपड़ा" / "निर्ज") — contextually (Commonwealth Games, silver medal) this is almost certainly Neeraj Chopra, but this identification is inferred, not a clean transcription.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was inside the cold-open teaser in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09209
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: belief
+  text: 'I think squash was invented in England.
+
+    '
+  topic: squash-origin
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:08:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said while asking why Egypt dominates squash despite not being the sport''s country of origin.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was inside the cold-open teaser in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09210
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: observation
+  text: 'The current world No. 2 women''s squash player is 19 years old — she was a Junior World No. 1 and then became the World No. 2 at the senior level.
+
+    '
+  topic: squash-ranking-trivia
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:54:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj raises this as a comparison after establishing that Anahat is currently ranked Junior No. 1 and senior No. 20; the player''s name is not given in the transcript.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was inside the cold-open teaser in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-09211
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: evidence
+  text: 'Novak Djokovic has lost from match/game point only four times in his entire career — from that position he has never lost. If he reaches match point in a Grand Slam final, he has never lost.
+
+    '
+  topic: djokovic-match-point-record
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=h-0u0ui8ESQ&t=5044s
+    start_timestamp: 01:24:04
+    end_timestamp: 01:24:16
+  evidence:
+    excerpt: null
+  notes: '~[01:23:51]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Stated by Raj during a discussion of players'' mindset at match point; the specific figures ("four times," "never" in Slam finals) are as stated by Raj and unverified.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=h-0u0ui8ESQ&t=5044s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09212
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: evidence
+  text: 'Roger Federer, by contrast, has lost twenty-four times from similar match-point situations.
+
+    '
+  topic: federer-match-point-record
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=h-0u0ui8ESQ&t=5028s
+    start_timestamp: 01:23:48
+    end_timestamp: 01:24:00
+  evidence:
+    excerpt: null
+  notes: '~[01:23:51]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Federer''s name is badly garbled in the ASR transcript ("पेड्रा" / "फेड्रा" / "फेडर्रा"); identified from context (paired with Djokovic, tennis, match-point record) as almost certainly Roger Federer, but this identification is inferred, not a clean transcription. The "24 times" figure is as stated by Raj and unverified.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=h-0u0ui8ESQ&t=5028s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-09213
+  person: raj-shamani
+  source: raj-shamani-fo548-anahat-singh
+  type: mechanism
+  text: 'Djokovic and Federer think differently at match point — someone told me that when Federer is at match point, he starts thinking "I shouldn''t do anything wrong now," and that''s why he ends up making mistakes. Djokovic, on the other hand, thinks "today is a great day, I''ve done everything right, now I know I''m winning" — which is why he wins more often at the final point.
+
+    '
+  topic: djokovic-federer-mindset
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=h-0u0ui8ESQ&t=5073s
+    start_timestamp: 01:24:33
+    end_timestamp: 01:24:45
+  evidence:
+    excerpt: null
+  notes: '~[01:24:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj attributes this observation to an unnamed third party ("someone said"). Federer''s name is garbled in the ASR transcript as in the previous statement.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=h-0u0ui8ESQ&t=5073s in-browser (English caption text check, close/exact match).'
