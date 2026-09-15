@@ -1,1 +1,58 @@
-statements: []
+statements:
+  - id: nikhil-kamath-212
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-longevity-ep21
+    type: experience
+    text: >
+      Discloses that his brother and Zerodha co-founder Nithin Kamath
+      suffered a stroke in January (shortly before this recording),
+      despite being, in Nikhil's description, an "obsessive workout guy"
+      who takes around 20-30 supplement tablets a day and had completed
+      an Ironman triathlon at peak fitness just a few months earlier, in
+      October/November of the previous year. Nithin confirms the account
+      himself on camera, noting this was his first appearance on camera
+      since the stroke.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: multi-guest panel (Nikhil hosting his brother
+      Nithin Kamath, Bryan Johnson, VC-turned-longevity-entrepreneur
+      Prashant Pitti [Biopeak], Fittr's Jitendra Chouksey ("JC"), and a
+      later audience-Q&A guest referred to as Seema), no diarization in
+      the auto-transcript. High-confidence attribution: this is a direct
+      claim about a named family member (Nithin Kamath), introduced by
+      Nikhil in first person ("he had a health calamity earlier this
+      year... he had a stroke") and independently corroborated by Nithin
+      himself in the same conversation.
+
+  - id: nikhil-kamath-213
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-longevity-ep21
+    type: experience
+    text: >
+      Says he tried an NAD+ IV infusion once in Dubai and felt so
+      physically uncomfortable during it -- describing a heavy sensation
+      in his chest -- that he would not do it again.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-212. Told in
+      first person while asking Prashant Pitti to explain what NAD is
+      ("I've tried NAD once in Dubai on an IV and I felt so bad while I
+      was taking it...").
