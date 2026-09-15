@@ -1,1 +1,32 @@
-statements: []
+statements:
+  - id: nikhil-kamath-222
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-restaurant-game-ep12
+    type: experience
+    text: >
+      In the show's recurring end-of-episode segment funding a young
+      entrepreneur (following the previous episode's fashion/beauty/home
+      grant), proposes funding a young restaurant entrepreneur under 22
+      and kicks off the pledge himself by committing 25 lakh rupees,
+      with the other panelists adding smaller amounts to bring the pool
+      to roughly 50 lakh rupees.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: three-person panel (Nikhil hosting patissier
+      Pooja Dhingra, Massive Restaurants' Zorawar Kalra, and Impresario's
+      Riyaaz Amlani), no diarization in the auto-transcript. This is the
+      show's recurring closing format, proposed and narrated in first
+      person by the host ("I'll do let me start it off and say I'll do 25
+      lakhs"). One panelist (likely Riyaaz Amlani, given his own
+      restaurant company's conflict-of-interest constraints) says he is
+      not personally allowed to invest in other restaurants and instead
+      offers mentorship only.
