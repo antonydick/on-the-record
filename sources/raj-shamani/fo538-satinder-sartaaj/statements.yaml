@@ -1,305 +1,253 @@
 statements:
-  - id: raj-shamani-07201
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: mechanism
-    text: >
-      Almost every son carries his father's life struggles and experiences
-      either "on his shoulder" or "in his shadow" — a fairly philosophical
-      distinction that people discuss.
-    topic: father-legacy-framework
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:38:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj introduces this shoulder-vs-shadow framework while
-      discussing how sons relate to their fathers' successes/failures; the
-      transcript has no speaker diarization so turn boundaries are inferred
-      from context.
+- id: raj-shamani-07201
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: mechanism
+  text: 'Almost every son carries his father''s life struggles and experiences either "on his shoulder" or "in his shadow" — a fairly philosophical distinction that people discuss.
 
-  - id: raj-shamani-07202
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: mechanism
-    text: >
-      "Shadow" means a son hides his father's failure away and is afraid of
-      becoming similarly unsuccessful himself, so he wants to build a
-      completely different world instead of that old one.
-    topic: shadow-concept
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:09]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Continuation of Raj's shoulder/shadow framework
-      explanation; turn boundaries inferred from context, no diarization
-      available.
+    '
+  topic: father-legacy-framework
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:38:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj introduces this shoulder-vs-shadow framework while discussing how sons relate to their fathers'' successes/failures; the transcript has no speaker diarization so turn boundaries are inferred from context.
 
-  - id: raj-shamani-07203
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: mechanism
-    text: >
-      "Shoulder" means a son openly carries and builds upon his father's
-      failure or success as a reference point, showing the world how much
-      further he has taken it (e.g. "look how much I've built now" or "look
-      how far beyond the old world we've come").
-    topic: shoulder-concept
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:40]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Continuation of Raj's shoulder/shadow framework
-      explanation; turn boundaries inferred from context, no diarization
-      available.
 
-  - id: raj-shamani-07204
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: belief
-    text: >
-      No matter what you say, it's true that everyone who comes from a
-      family carries some kind of trauma — it could be good or bad — that
-      they may not even be aware they have.
-    topic: family-trauma
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:40]-[00:40:07]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Said while discussing father-son dynamics; turn
-      attribution inferred from context (addressed to the guest with "aap
-      kuch bhi bolo").
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07202
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: mechanism
+  text: '"Shadow" means a son hides his father''s failure away and is afraid of becoming similarly unsuccessful himself, so he wants to build a completely different world instead of that old one.
 
-  - id: raj-shamani-07205
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: belief
-    text: >
-      Most people don't know what their own trauma actually is.
-    topic: trauma-awareness
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:40:07]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Immediately follows the family-trauma remark above;
-      turn attribution inferred from context, no diarization available.
+    '
+  topic: shadow-concept
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Continuation of Raj''s shoulder/shadow framework explanation; turn boundaries inferred from context, no diarization available.
 
-  - id: raj-shamani-07206
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: evidence
-    text: >
-      There is a concept called the "empathy isolation paradox": studies
-      show that highly empathetic people — such as leaders, healers,
-      therapists, writers, and the one person in a friend group who solves
-      everyone's problems — become increasingly isolated the more people
-      they help.
-    topic: empathy-isolation-paradox
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:56:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj introduces the term after asking the guest if
-      he'd heard of it (guest said no) and explains it, addressing the
-      guest respectfully as "sir"; attributed to Raj based on this exchange
-      pattern since the transcript has no diarization.
 
-  - id: raj-shamani-07207
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: mechanism
-    text: >
-      The mechanism behind the empathy isolation paradox is that when you
-      are highly empathetic and keep solving other people's problems, you
-      have to distance yourself from your own pain and always think from
-      others' perspective — which makes you increasingly isolated from your
-      own self and your own problems.
-    topic: empathy-isolation-mechanism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:57:05]-[00:57:33]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Continuation of Raj's empathy isolation paradox
-      explanation; turn boundaries inferred from context.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07203
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: mechanism
+  text: '"Shoulder" means a son openly carries and builds upon his father''s failure or success as a reference point, showing the world how much further he has taken it (e.g. "look how much I''ve built now" or "look how far beyond the old world we''ve come").
 
-  - id: raj-shamani-07208
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: observation
-    text: >
-      In the roughly 15 to 17 years that Satinder Sartaaj has been giving
-      interviews and making public appearances, everyone — including
-      himself — has only ever seen Sartaaj's "sage"/saintly side; there
-      must be another side to him.
-    topic: satinder-public-image
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:04:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attributed to Raj based on conversational flow
-      (agreement "haan 100%" followed by a pivot to a new observation,
-      leading into "tell me one thing..."); no diarization available.
+    '
+  topic: shoulder-concept
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Continuation of Raj''s shoulder/shadow framework explanation; turn boundaries inferred from context, no diarization available.
 
-  - id: raj-shamani-07209
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: belief
-    text: >
-      Every person achieves what they achieve at some cost.
-    topic: cost-of-achievement
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:24:11]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Said during Raj's signature closing "countdown"
-      segment of the interview, framing the question "what does it cost to
-      become Satinder Sartaaj?"
 
-  - id: raj-shamani-07210
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: belief
-    text: >
-      As I understand it, to earn a PhD/doctorate you take up a subject,
-      closely examine its nuances, and offer an evaluation — a new thought
-      — that didn't already exist, adding something new to everything that
-      has been written on the subject so far; that's what gets you a
-      doctorate.
-    topic: phd-process-understanding
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:16:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj explicitly frames this as "PhD ka main maayna
-      yeh bata raha tha" (I was explaining what a PhD means), summarizing
-      back to the guest using "aap/aapne"; the guest then continues in
-      first person about his own thesis, marking the turn boundary.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07204
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: belief
+  text: 'No matter what you say, it''s true that everyone who comes from a family carries some kind of trauma — it could be good or bad — that they may not even be aware they have.
 
-  - id: raj-shamani-07211
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: experience
-    text: >
-      I didn't fully understand the Punjabi in Satinder Sartaaj's live
-      performance, but I could follow it in broken bits because some of the
-      words overlap with Hindi, so I could still get the music and the
-      meaning out of it.
-    topic: punjabi-listening-experience
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:31:53]-[01:32:38]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Said right after the guest's live song
-      performance in the interview.
+    '
+  topic: family-trauma
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:40]-[00:40:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said while discussing father-son dynamics; turn attribution inferred from context (addressed to the guest with "aap kuch bhi bolo").
 
-  - id: raj-shamani-07212
-    person: raj-shamani
-    source: raj-shamani-fo538-satinder-sartaaj
-    type: belief
-    text: >
-      I loved that you kept pausing in between the live performance to
-      explain the lyrics to me, since I couldn't follow the Punjabi on my
-      own.
-    topic: enjoyed-lyric-explanations
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:31:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Said immediately after the guest's live song
-      performance in the interview, alongside the Punjabi-comprehension
-      remark above.
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07205
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: belief
+  text: 'Most people don''t know what their own trauma actually is.
+
+    '
+  topic: trauma-awareness
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:40:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Immediately follows the family-trauma remark above; turn attribution inferred from context, no diarization available.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07206
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: evidence
+  text: 'There is a concept called the "empathy isolation paradox": studies show that highly empathetic people — such as leaders, healers, therapists, writers, and the one person in a friend group who solves everyone''s problems — become increasingly isolated the more people they help.
+
+    '
+  topic: empathy-isolation-paradox
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X1Q0ZCcPiC8&t=3400s
+    start_timestamp: 00:56:40
+    end_timestamp: 00:56:55
+  evidence:
+    excerpt: null
+  notes: '~[00:56:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj introduces the term after asking the guest if he''d heard of it (guest said no) and explains it, addressing the guest respectfully as "sir"; attributed to Raj based on this exchange pattern since the transcript has no diarization.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X1Q0ZCcPiC8&t=3400s in-browser (Hindi caption text check, close/exact match).'
+- id: raj-shamani-07207
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: mechanism
+  text: 'The mechanism behind the empathy isolation paradox is that when you are highly empathetic and keep solving other people''s problems, you have to distance yourself from your own pain and always think from others'' perspective — which makes you increasingly isolated from your own self and your own problems.
+
+    '
+  topic: empathy-isolation-mechanism
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:57:05]-[00:57:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Continuation of Raj''s empathy isolation paradox explanation; turn boundaries inferred from context.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07208
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: observation
+  text: 'In the roughly 15 to 17 years that Satinder Sartaaj has been giving interviews and making public appearances, everyone — including himself — has only ever seen Sartaaj''s "sage"/saintly side; there must be another side to him.
+
+    '
+  topic: satinder-public-image
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:04:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attributed to Raj based on conversational flow (agreement "haan 100%" followed by a pivot to a new observation, leading into "tell me one thing..."); no diarization available.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07209
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: belief
+  text: 'Every person achieves what they achieve at some cost.
+
+    '
+  topic: cost-of-achievement
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:24:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said during Raj''s signature closing "countdown" segment of the interview, framing the question "what does it cost to become Satinder Sartaaj?"
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07210
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: belief
+  text: 'As I understand it, to earn a PhD/doctorate you take up a subject, closely examine its nuances, and offer an evaluation — a new thought — that didn''t already exist, adding something new to everything that has been written on the subject so far; that''s what gets you a doctorate.
+
+    '
+  topic: phd-process-understanding
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:16:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj explicitly frames this as "PhD ka main maayna yeh bata raha tha" (I was explaining what a PhD means), summarizing back to the guest using "aap/aapne"; the guest then continues in first person about his own thesis, marking the turn boundary.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07211
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: experience
+  text: 'I didn''t fully understand the Punjabi in Satinder Sartaaj''s live performance, but I could follow it in broken bits because some of the words overlap with Hindi, so I could still get the music and the meaning out of it.
+
+    '
+  topic: punjabi-listening-experience
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X1Q0ZCcPiC8&t=5548s
+    start_timestamp: 01:32:28
+    end_timestamp: 01:32:43
+  evidence:
+    excerpt: null
+  notes: '~[01:31:53]-[01:32:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said right after the guest''s live song performance in the interview.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X1Q0ZCcPiC8&t=5548s in-browser (Hindi caption text check, close/exact match).'
+- id: raj-shamani-07212
+  person: raj-shamani
+  source: raj-shamani-fo538-satinder-sartaaj
+  type: belief
+  text: 'I loved that you kept pausing in between the live performance to explain the lyrics to me, since I couldn''t follow the Punjabi on my own.
+
+    '
+  topic: enjoyed-lyric-explanations
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:31:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said immediately after the guest''s live song performance in the interview, alongside the Punjabi-comprehension remark above.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
