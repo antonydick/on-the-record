@@ -1,1 +1,34 @@
-statements: []
+statements:
+  - id: nikhil-kamath-153
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-metaverse-ep1
+    type: experience
+    text: >
+      Says he had been researching Meta's (Facebook's) stock for the
+      preceding six months, and had concluded that at its valuation a
+      month or two before this recording -- roughly 13-14x -- it looked
+      fairly valued, contrasting this with Indian tech/startup
+      valuations, which he says typically run one or two orders of
+      magnitude higher on a comparable basis.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: multi-guest panel (Nikhil hosting Tanmay
+      Bhat, Umang Bedi, and Aprameya Radhakrishna, with additional
+      guests -- a fashion-metaverse founder referred to as "Marcos,"
+      a gaming/metaverse guest referred to as "Prashant," and virtual-
+      influencer creator Himanshu -- joining later), no diarization,
+      extremely fast cross-talk among 3-6 speakers throughout. Given
+      the unusual difficulty of speaker attribution in this format,
+      only this one statement was extracted with reasonable confidence
+      (it matches Nikhil's known investor persona and is phrased in
+      first person as personal research); the rest of the multi-hour
+      discussion was not attributed to any individual speaker.

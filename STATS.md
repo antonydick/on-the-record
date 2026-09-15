@@ -10,15 +10,15 @@ by hand — changes will be overwritten on the next push to main._
 ## Sources (appearances)
 
 - Total: 65
-  - pending: 29
-  - extracted: 36
+  - pending: 28
+  - extracted: 37
   - in_review: 0
   - complete: 0
 
 ## Statements
 
-- Total: 154
-  - draft: 152
+- Total: 155
+  - draft: 153
   - unverified: 0
   - reviewed: 1
   - verified: 1
