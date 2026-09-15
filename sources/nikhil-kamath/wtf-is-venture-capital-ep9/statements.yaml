@@ -1,1 +1,65 @@
-statements: []
+statements:
+  - id: nikhil-kamath-225
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-venture-capital-ep9
+    type: experience
+    text: >
+      In the episode's closing charity segment, says that since the group
+      spoke so much about climate on this episode, he wants to pick ACT
+      (Alliance for Climate Transformation/ACT Environment) as his charity,
+      says he has already committed to ACT previously, and commits an
+      additional 25 lakh rupees to it, noting ACT focuses on air, water,
+      waste, and land use.
+    topic: philanthropy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: four-guest panel (Nikhil's brother Nithin
+      Kamath/Zerodha, Karthik Reddy/Blume Ventures, Rajan Anandan/Peak
+      XV-Sequoia, Prashanth Prakash/Accel), no diarization in the
+      auto-transcript. This statement is confidently attributed to Nikhil
+      because it is the first of the four closing charity pledges (the
+      recurring WTF show ritual where the host commits to a cause), stated
+      immediately after the host's framing of the segment, in first person,
+      and precedes each guest's individual "next" pledge in turn
+      (Prashanth/Rajan/Karthik each match the same 25-lakh amount
+      afterward). Cross-reference: fixed/matched-pledge charity segments
+      also appear in several other episodes (e.g.
+      wtf-is-venture-capital-2025-ep24, wtf-is-real-estate-ep20).
+
+  - id: nikhil-kamath-226
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-venture-capital-ep9
+    type: experience
+    text: >
+      Later in the same closing segment, after Prashanth, Rajan, and
+      Karthik each name their own charities and match the 25-lakh amount,
+      says he will also add 25 lakh rupees and will let the audience pick
+      a charity for him, with the poll to go out once the episode is
+      released.
+    topic: philanthropy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same four-guest panel and no-diarization caveat
+      as nikhil-kamath-225. Attributed to Nikhil because it is stated
+      immediately after all three guests have named their own personal
+      charity picks and pledge amounts, framed as the host adding his own
+      separate commitment on top of theirs and turning the charity
+      selection over to the audience — consistent with the host's role
+      throughout this recurring segment, and immediately followed by the
+      episode's closing thanks and sign-off.
