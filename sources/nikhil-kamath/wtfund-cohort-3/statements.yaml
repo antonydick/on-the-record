@@ -1,1 +1,264 @@
-statements: []
+statements:
+  - id: nikhil-kamath-231
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-cohort-3
+    type: experience
+    text: >
+      Says he used to be a trader but, having become slower with age, no
+      longer really trades day-to-day; instead he now tends to take more
+      cyclical, thesis-driven calls on the market. Says he and "a team of
+      mine called Naman's team" spend a lot of time doing sector thesis
+      work across the whole market to narrow down which sectors have the
+      highest growth potential over the next 10 years, then allocate
+      capital accordingly. Names energy transition as the sector leading
+      that thesis currently, saying the team invested over the prior year
+      in solar panel companies, battery companies, electric vehicles, and
+      grid/transformer-efficiency companies.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: this source is a WTFund cohort demo-day style
+      session (8 founder teams presenting/being interviewed, extensive
+      informal back-and-forth banter), with no diarization in the
+      auto-transcript, and this particular episode opens with an
+      ambiguous framing passage where an unidentified speaker describes
+      "simulating Nikhil's persona in my head" to prepare for the
+      session — meaning the opening lines cannot be confidently
+      attributed to Nikhil himself. However, this statement and the other
+      statements pulled from this episode occur later, in an extended,
+      continuous personal Q&A exchange where the interviewer reciprocates
+      personal questions from a founder; attribution to Nikhil here is
+      high-confidence because the trading background and evolution
+      described ("used to be a trader," now doing thesis-driven sector
+      allocation) matches details already established in this corpus from
+      multiple other episodes (e.g. cross-referenced "19-20 years
+      full-time trading" self-identification statements in other
+      sources).
+
+  - id: nikhil-kamath-232
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-cohort-3
+    type: experience
+    text: >
+      Says he takes a bunch of longevity-related supplements and does
+      cold plunges, sauna, and workouts every day, describing himself as
+      "into all the fads" without being sure whether they work. Says he
+      distinguishes legacy from longevity: he doesn't care much about
+      legacy or what people think of him after he's gone (he expects
+      people will only remember him for "5 years, 10 years max"), but
+      values longevity for himself specifically because a better quality
+      of life in 10 years — for example, still being able to play padel
+      for two hours a day — is something he would personally enjoy.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same format and no-diarization caveat as
+      nikhil-kamath-231. Attributed to Nikhil as part of the same
+      continuous personal-question exchange with a founder, in first
+      person ("I do take a bunch of supplements," "legacy is for others,
+      longevity is for myself").
+
+  - id: nikhil-kamath-233
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-cohort-3
+    type: experience
+    text: >
+      Recommends the founders invest time in becoming better
+      storytellers, admitting he himself "sucked at it." Says he hired a
+      speech coach named Michael a few years ago — an Israeli who also
+      teaches a number of US politicians, whose company is called
+      Virtuoso — who flies in and lives with him for a week at a time,
+      taking away his phone and devices and making him write for two and
+      a half to three hours without a break.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
+      Attributed to Nikhil as part of the same continuous personal
+      exchange, in first person ("I got a speech coach a few years ago,"
+      "he flies down, lives with me for a week").
+
+  - id: nikhil-kamath-234
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-cohort-3
+    type: experience
+    text: >
+      Describes a personal annual tradition: every year on his birthday
+      he hosts a summit where he invites people he considers the
+      smartest and most relevant under age 45 across creative fields,
+      industry, and journalism. Says they book a large venue for about
+      100 people, ban cameras and cell phones from the room, and spend
+      the day having debates and conversations about topics people are
+      otherwise scared to discuss, calling it a day with "150 of the
+      smartest people in India."
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
+      Attributed to Nikhil as a direct first-person answer ("every year
+      on my birthday we have this big summit...") to a founder's question
+      of whether he celebrates his birthday.
+
+  - id: nikhil-kamath-235
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-cohort-3
+    type: experience
+    text: >
+      States that he is 39 years old, and reflects that since an average
+      Indian lives to about 73, he has roughly 34 New Year's Eves left,
+      of which maybe 20 will come at an age too old to do the things he
+      can do today — so practically he estimates he has only around 10
+      "good" New Year's Eves left in the sense that matters to him,
+      possibly a few more given that he monitors his health.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
+      Attributed to Nikhil as a first-person reflection ("I'm 39 years
+      old... I probably have 34 New Year's left") in response to a
+      founder's question about marriage/societal pressure, continuing the
+      same personal exchange as the other statements pulled from this
+      episode. Cross-reference: consistent with the recording's early-2026
+      publish date and Nikhil's previously established birth-year range
+      in this corpus.
+
+  - id: nikhil-kamath-236
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-cohort-3
+    type: experience
+    text: >
+      While questioning the pathology-diagnostics founders, says he has
+      met with a few doctors recently specifically about breast cancer
+      because someone in his family had it, and asks whether a cure is
+      close.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
+      Attributed to Nikhil as the interviewer questioning the diagnostics
+      founders, stated in first person ("I have met a few doctors
+      recently... cuz somebody in my family had it").
+
+  - id: nikhil-kamath-237
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-cohort-3
+    type: experience
+    text: >
+      While discussing the AI-earbuds startup, mentions that a cell
+      phone manufacturer he and his team are investors in is working on
+      building similar AI capability into earphones, reasoning that
+      people prefer new functionality live in a device they already
+      carry rather than adding another wearable.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
+      Attributed to Nikhil as a personal investment disclosure ("there is
+      a cell phone manufacturer we [are] investors in") made while
+      questioning the earbuds-startup founders, consistent with his
+      investor/host role throughout.
+
+  - id: nikhil-kamath-238
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-cohort-3
+    type: experience
+    text: >
+      Says he has read J. Krishnamurti's speeches (noting Krishnamurti
+      never wrote anything down himself) and mentions that his nephew
+      attends a Krishnamurti-affiliated school.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
+      Attributed to Nikhil in first person ("my nephew goes to his
+      school... I've read his speeches") during a philosophy discussion
+      with a founder.
+
+  - id: nikhil-kamath-239
+    person: nikhil-kamath
+    source: nikhil-kamath-wtfund-cohort-3
+    type: experience
+    text: >
+      Says he lived in Haryana for three years as a child and attended
+      Dal Singh Public School in Karnal, and that he is still in touch
+      with a few people from there.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
+      Attributed to Nikhil in first person ("I lived in Haryana... I went
+      to Dal Singh Public School in Karnal") responding to a founder from
+      a Haryana Jat family who asked about marriage pressure; stated as a
+      personal childhood biographical fact.
