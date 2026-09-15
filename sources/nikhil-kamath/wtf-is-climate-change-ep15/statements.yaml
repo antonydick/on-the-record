@@ -1,1 +1,89 @@
-statements: []
+statements:
+  - id: nikhil-kamath-175
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-climate-change-ep15
+    type: belief
+    text: >
+      Offers his own layperson's explanation of climate change, explicitly
+      prefaced as "my very idiotic non-aware description": the sun emits
+      rays, each surface on the planet reflects them back differently
+      (a phenomenon he identifies as albedo), and as that heat radiates
+      back it gets trapped in the atmosphere due to higher concentrations
+      of carbon dioxide, methane, and water vapor, raising the temperature.
+    topic: climate change
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: five-person panel (Nikhil hosting environmental
+      researcher Navroz Dubash, RT Industries' Mirik Gogri, actress and
+      climate activist Bhumi Pednekar, and Centre for Science and
+      Environment director Sunita Narain), no diarization in the
+      auto-transcript. High-confidence attribution: this passage is
+      explicitly self-introduced by the host ("I'll give you my very
+      idiotic non-aware description of it") immediately before asking each
+      guest for their own definition.
+
+  - id: nikhil-kamath-176
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-climate-change-ep15
+    type: belief
+    text: >
+      States, prefaced as "I have a very basic take on this," that a large
+      portion of the Indian public does not know that "climate change" is
+      a defined concept, though he distinguishes this from the rural
+      population (farmers, fishermen, nomads, and others who work directly
+      with the land), who he argues experience and understand the
+      phenomenon's effects first-hand even without using that specific
+      term.
+    topic: climate change
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-175. Attribution
+      confidence is higher than usual because the speaker explicitly
+      self-identifies the opinion as their own ("I have a very basic take
+      on this") before another panelist responds "I totally disagree" and
+      redirects to a distinction between the middle class and the rest of
+      India, in a back-and-forth consistent with the host being challenged
+      by a guest.
+
+  - id: nikhil-kamath-177
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-climate-change-ep15
+    type: experience
+    text: >
+      Describes a recurring end-of-episode segment on the show where each
+      guest commits money to a charity of their choice, with the audience
+      then voting on which charity gets a video showcasing the funded
+      work; in this episode, after two guests each pledged 10 lakh rupees,
+      he personally committed 30 lakh rupees to bring the total pledge
+      pool to 50 lakh rupees.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-175. This is the
+      show's recurring closing format, introduced and narrated in first
+      person by the host ("so what we typically do is ask people to
+      commit any amount of money... I'll do 30 so that makes it 50").
