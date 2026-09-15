@@ -1,603 +1,526 @@
 statements:
-  - id: raj-shamani-10401
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: observation
-    text: >
-      Raj describes Sebastian Kurz as having gone on a journey from being
-      the youngest chancellor in Austria's history to co-founding, together
-      with the founder of Pegasus, an AI company worth $3 billion.
-    topic: kurz-bio-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the host's spoken cold-open/intro narration
-      framing the episode and guest.
+- id: raj-shamani-10401
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: observation
+  text: 'Raj describes Sebastian Kurz as having gone on a journey from being the youngest chancellor in Austria''s history to co-founding, together with the founder of Pegasus, an AI company worth $3 billion.
 
-  - id: raj-shamani-10402
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: assertion
-    text: >
-      Raj repeatedly frames Sebastian Kurz, at several points across the
-      interview, as having become "the world's youngest prime minister."
-    topic: kurz-youngest-pm-claim
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      First stated ~[00:00:00], repeated e.g. ~[02:07:10] and ~[02:14:26].
-      Transcribed via YouTube Hindi auto-captions; text is a close English
-      translation of the original Hindi/Hinglish, not a verbatim quote.
-      Recurring framing claim used by the host throughout the episode.
+    '
+  topic: kurz-bio-framing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the host''s spoken cold-open/intro narration framing the episode and guest.
 
-  - id: raj-shamani-10403
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: experience
-    text: >
-      Raj says he heard a billionaire say that the world is controlled by
-      100 people sitting at one table, and that they decide who the
-      world's next leader will be.
-    topic: power-elite-theory
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:46:56]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Same line also appears in the episode's cold-open
-      montage at an earlier point in the file; this timestamp is where it
-      occurs in the main chronological interview.
 
-  - id: raj-shamani-10404
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: experience
-    text: >
-      Raj says he heard a billionaire say that the world should enjoy
-      conspiracy theories, but should not believe in them.
-    topic: conspiracy-theories
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:46:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10402
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: assertion
+  text: 'Raj repeatedly frames Sebastian Kurz, at several points across the interview, as having become "the world''s youngest prime minister."
 
-  - id: raj-shamani-10405
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: belief
-    text: >
-      Raj states that almost no one alive today has led a country at the
-      age of 30 or 31.
-    topic: young-leadership
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: kurz-youngest-pm-claim
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: 'First stated ~[00:00:00], repeated e.g. ~[02:07:10] and ~[02:14:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Recurring framing claim used by the host throughout the episode.
 
-  - id: raj-shamani-10406
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: observation
-    text: >
-      Raj comments to Kurz that he has made his early political gamble
-      (breaking with his party leader and forcing early elections) sound
-      easy, as if he simply took a risk and it all worked out.
-    topic: kurz-risk-narrative
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:35:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-10407
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: belief
-    text: >
-      Raj raises the idea that a group of five or six billionaires might be
-      running everything, since they are the ones investing in
-      infrastructure and controlling the money.
-    topic: power-elite-theory
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:43:30]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Posed as a question/hypothesis to the guest.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10403
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: experience
+  text: 'Raj says he heard a billionaire say that the world is controlled by 100 people sitting at one table, and that they decide who the world''s next leader will be.
 
-  - id: raj-shamani-10408
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: belief
-    text: >
-      Raj raises the idea that a small handful of people invest in a
-      particular political candidate from a very young age, promoting
-      them and financing their entire political career and campaigns,
-      gradually turning them into one of the most powerful people in the
-      world.
-    topic: power-elite-theory
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:48:01]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Posed as a question/hypothesis to the guest.
+    '
+  topic: power-elite-theory
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:46:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Same line also appears in the episode''s cold-open montage at an earlier point in the file; this timestamp is where it occurs in the main chronological interview.
 
-  - id: raj-shamani-10409
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: belief
-    text: >
-      Raj raises the idea that certain media companies and a powerful,
-      wealthy person all come together, become friends, and craft a
-      particular narrative in order to influence outside audiences or
-      world power.
-    topic: media-power-collusion
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:50:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Posed as a question/hypothesis to the guest.
 
-  - id: raj-shamani-10410
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: belief
-    text: >
-      Raj states his belief that as soon as someone becomes powerful, big
-      media moguls will want to become their friend and will perhaps do
-      something to help them.
-    topic: media-power-collusion
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:51:32]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj explicitly frames this as "मेरा मानना है" ("I
-      believe").
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10404
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: experience
+  text: 'Raj says he heard a billionaire say that the world should enjoy conspiracy theories, but should not believe in them.
 
-  - id: raj-shamani-10411
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: belief
-    text: >
-      Raj states that whoever wants to become your friend once you are
-      powerful (e.g. prime minister) will want some kind of transactional
-      exchange.
-    topic: power-and-friendship
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:18:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. A near-identical line also appears in the episode's
-      cold-open montage earlier in the file.
+    '
+  topic: conspiracy-theories
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:46:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-10412
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: observation
-    text: >
-      Raj says that while looking at photos of American presidents, he
-      noticed there is always a person who has a printer with them at all
-      times, carrying it around so that if the president needs anything
-      it can be printed and brought to him — though he notes digital
-      alternatives are common today.
-    topic: presidential-entourage
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:08:56]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This section of the ASR is somewhat rough; a
-      following fragment about Donald Trump winning an election appeared
-      too garbled/out-of-context to confidently attribute or include.
 
-  - id: raj-shamani-10413
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: belief
-    text: >
-      Raj states that America is a great model for immigration, because
-      almost every major (tech/AI) company there is run and led by
-      immigrants, and that the country has presented a successful model
-      of inviting immigrants and being led by them.
-    topic: immigration-us-model
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:41:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10405
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: belief
+  text: 'Raj states that almost no one alive today has led a country at the age of 30 or 31.
 
-  - id: raj-shamani-10414
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: belief
-    text: >
-      Raj argues that you can never decide in advance whether an immigrant
-      will contribute or not — you open the doors at the start, then
-      immigrants come, have to struggle a great deal, and hustle in remote
-      parts of the country.
-    topic: immigration-contribution
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:44:02]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Kurz strongly disagrees with this in his response.
+    '
+  topic: young-leadership
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-10415
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: observation
-    text: >
-      Raj notes that many people argue that, going forward, the rise of AI
-      and technology will bring about a significant change in the world
-      order, driven by the world's tech billionaires.
-    topic: ai-world-order
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:36:14]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-10416
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: observation
-    text: >
-      Raj observes that everyone wanted to live in the Gulf region,
-      everyone thought it was the safest place, everyone felt it was the
-      future, and everyone wanted to be part of the UAE, especially Dubai
-      and Abu Dhabi.
-    topic: uae-perception
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:37:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10406
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: observation
+  text: 'Raj comments to Kurz that he has made his early political gamble (breaking with his party leader and forcing early elections) sound easy, as if he simply took a risk and it all worked out.
 
-  - id: raj-shamani-10417
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: observation
-    text: >
-      Raj comments that it might seem strange to many people that Kurz was
-      still in office as prime minister while going to court and fighting
-      his own court case.
-    topic: kurz-legal-case
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:47:49]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: kurz-risk-narrative
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:35:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-10418
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: belief
-    text: >
-      Raj suggests that the people who filed cases against Kurz were
-      political rivals who wanted his office, and who wanted his party
-      and him to lose.
-    topic: kurz-legal-case
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:50:11]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-10419
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: experience
-    text: >
-      Raj says the first place he traveled to outside India was Vienna,
-      because he was there for a United Nations-affiliated program,
-      representing India, and recalls this was around 2014 or 2015.
-    topic: raj-vienna-trip
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:26:51]-[00:27:12]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. The ASR renders the program name as "United
-      Kingdom" ("यूनाइटेड किंगडम"), which appears to be a
-      mistranscription of a UN-affiliated program name given the
-      surrounding context (Vienna, UN, representing India) — flagged here
-      for the verifier rather than guessed at.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10407
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: belief
+  text: 'Raj raises the idea that a group of five or six billionaires might be running everything, since they are the ones investing in infrastructure and controlling the money.
 
-  - id: raj-shamani-10420
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: experience
-    text: >
-      Raj describes his time in Vienna as a "training ground" where he
-      learned a lot, and says Vienna is one of his favorite cities because
-      he learned every little thing there.
-    topic: raj-vienna-trip
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:27:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: power-elite-theory
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:43:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Posed as a question/hypothesis to the guest.
 
-  - id: raj-shamani-10421
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: observation
-    text: >
-      Raj frames Kurz's cybersecurity company as bringing together a
-      former prime minister who wanted to defend his country with a
-      co-founder who previously wanted to attack people and gather
-      information on them, now united to build a defense mechanism, since
-      that same co-founder understands the vulnerabilities from having
-      infiltrated people's computers and software.
-    topic: kurz-startup-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:59:52]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-10422
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: belief
-    text: >
-      Raj calls Kurz's company an incredible startup, saying that just
-      from the idea's standpoint it sounds very exciting, given that the
-      co-founder came from Israel — a country he describes as known for
-      its precision in cybersecurity and intelligence/information
-      gathering.
-    topic: kurz-startup-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:03:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10408
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: belief
+  text: 'Raj raises the idea that a small handful of people invest in a particular political candidate from a very young age, promoting them and financing their entire political career and campaigns, gradually turning them into one of the most powerful people in the world.
 
-  - id: raj-shamani-10423
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: observation
-    text: >
-      Raj states that India has significant firsthand knowledge of
-      Pegasus, because a lot of people in India were affected by that
-      software, which he says could be called a "virus."
-    topic: pegasus-india
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:04:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: power-elite-theory
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:48:01]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Posed as a question/hypothesis to the guest.
 
-  - id: raj-shamani-10424
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: experience
-    text: >
-      Raj tells Kurz that whenever he meets him, he feels a warm and
-      humble energy that inspires him to do more and become a better
-      version of himself, adding that he hasn't said this often and that
-      his listeners know that well.
-    topic: raj-kurz-relationship
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:13:49]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-10425
-    person: raj-shamani
-    source: raj-shamani-fo554-sebastian-kurz
-    type: experience
-    text: >
-      Raj recounts that he first met Kurz in a car in Abu Dhabi, but their
-      first real conversation happened at a dinner table where he sat
-      next to "the world's youngest prime minister," across from another
-      country's prime minister, a health minister, and a lawyer who
-      worked with private equity firms — and says he was completely
-      mesmerized.
-    topic: raj-kurz-first-meeting
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:14:26]-[02:15:02]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. The tail end of this segment in the ASR
-      (about "starting one of the world's biggest podcasts") was too
-      garbled/ambiguous in speaker attribution to include.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10409
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: belief
+  text: 'Raj raises the idea that certain media companies and a powerful, wealthy person all come together, become friends, and craft a particular narrative in order to influence outside audiences or world power.
+
+    '
+  topic: media-power-collusion
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:50:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Posed as a question/hypothesis to the guest.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10410
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: belief
+  text: 'Raj states his belief that as soon as someone becomes powerful, big media moguls will want to become their friend and will perhaps do something to help them.
+
+    '
+  topic: media-power-collusion
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:51:32]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj explicitly frames this as "मेरा मानना है" ("I believe").
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10411
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: belief
+  text: 'Raj states that whoever wants to become your friend once you are powerful (e.g. prime minister) will want some kind of transactional exchange.
+
+    '
+  topic: power-and-friendship
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:18:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. A near-identical line also appears in the episode''s cold-open montage earlier in the file.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10412
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: observation
+  text: 'Raj says that while looking at photos of American presidents, he noticed there is always a person who has a printer with them at all times, carrying it around so that if the president needs anything it can be printed and brought to him — though he notes digital alternatives are common today.
+
+    '
+  topic: presidential-entourage
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:08:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This section of the ASR is somewhat rough; a following fragment about Donald Trump winning an election appeared too garbled/out-of-context to confidently attribute or include.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10413
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: belief
+  text: 'Raj states that America is a great model for immigration, because almost every major (tech/AI) company there is run and led by immigrants, and that the country has presented a successful model of inviting immigrants and being led by them.
+
+    '
+  topic: immigration-us-model
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:41:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10414
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: belief
+  text: 'Raj argues that you can never decide in advance whether an immigrant will contribute or not — you open the doors at the start, then immigrants come, have to struggle a great deal, and hustle in remote parts of the country.
+
+    '
+  topic: immigration-contribution
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:44:02]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Kurz strongly disagrees with this in his response.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10415
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: observation
+  text: 'Raj notes that many people argue that, going forward, the rise of AI and technology will bring about a significant change in the world order, driven by the world''s tech billionaires.
+
+    '
+  topic: ai-world-order
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:36:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10416
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: observation
+  text: 'Raj observes that everyone wanted to live in the Gulf region, everyone thought it was the safest place, everyone felt it was the future, and everyone wanted to be part of the UAE, especially Dubai and Abu Dhabi.
+
+    '
+  topic: uae-perception
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:37:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10417
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: observation
+  text: 'Raj comments that it might seem strange to many people that Kurz was still in office as prime minister while going to court and fighting his own court case.
+
+    '
+  topic: kurz-legal-case
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:47:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10418
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: belief
+  text: 'Raj suggests that the people who filed cases against Kurz were political rivals who wanted his office, and who wanted his party and him to lose.
+
+    '
+  topic: kurz-legal-case
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:50:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10419
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: experience
+  text: 'Raj says the first place he traveled to outside India was Vienna, because he was there for a United Nations-affiliated program, representing India, and recalls this was around 2014 or 2015.
+
+    '
+  topic: raj-vienna-trip
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:26:51]-[00:27:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The ASR renders the program name as "United Kingdom" ("यूनाइटेड किंगडम"), which appears to be a mistranscription of a UN-affiliated program name given the surrounding context (Vienna, UN, representing India) — flagged here for the verifier rather than guessed at.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10420
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: experience
+  text: 'Raj describes his time in Vienna as a "training ground" where he learned a lot, and says Vienna is one of his favorite cities because he learned every little thing there.
+
+    '
+  topic: raj-vienna-trip
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:27:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10421
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: observation
+  text: 'Raj frames Kurz''s cybersecurity company as bringing together a former prime minister who wanted to defend his country with a co-founder who previously wanted to attack people and gather information on them, now united to build a defense mechanism, since that same co-founder understands the vulnerabilities from having infiltrated people''s computers and software.
+
+    '
+  topic: kurz-startup-framing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:59:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10422
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: belief
+  text: 'Raj calls Kurz''s company an incredible startup, saying that just from the idea''s standpoint it sounds very exciting, given that the co-founder came from Israel — a country he describes as known for its precision in cybersecurity and intelligence/information gathering.
+
+    '
+  topic: kurz-startup-framing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:03:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10423
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: observation
+  text: 'Raj states that India has significant firsthand knowledge of Pegasus, because a lot of people in India were affected by that software, which he says could be called a "virus."
+
+    '
+  topic: pegasus-india
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:04:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-10424
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: experience
+  text: 'Raj tells Kurz that whenever he meets him, he feels a warm and humble energy that inspires him to do more and become a better version of himself, adding that he hasn''t said this often and that his listeners know that well.
+
+    '
+  topic: raj-kurz-relationship
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Lpan7Kd3Mnc&t=8025s
+    start_timestamp: 02:13:45
+    end_timestamp: 02:13:58
+  evidence:
+    excerpt: null
+  notes: '~[02:13:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Lpan7Kd3Mnc&t=8025s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-10425
+  person: raj-shamani
+  source: raj-shamani-fo554-sebastian-kurz
+  type: experience
+  text: 'Raj recounts that he first met Kurz in a car in Abu Dhabi, but their first real conversation happened at a dinner table where he sat next to "the world''s youngest prime minister," across from another country''s prime minister, a health minister, and a lawyer who worked with private equity firms — and says he was completely mesmerized.
+
+    '
+  topic: raj-kurz-first-meeting
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=Lpan7Kd3Mnc&t=8062s
+    start_timestamp: 02:14:22
+    end_timestamp: 02:14:40
+  evidence:
+    excerpt: null
+  notes: '~[02:14:26]-[02:15:02]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The tail end of this segment in the ASR (about "starting one of the world''s biggest podcasts") was too garbled/ambiguous in speaker attribution to include.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=Lpan7Kd3Mnc&t=8062s in-browser (English caption text check, close/exact match).'
