@@ -14,30 +14,28 @@ statements:
       publicly.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=0JDsFpU6pGQ&t=2532s"
+      start_timestamp: "42:12"
+      end_timestamp: "42:50"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting bar
-      owner/mixologist Minakshi, Goa Brewing Company co-founder Sagar,
-      an alcohol-industry marketing/events entrepreneur, and Radico
-      Khaitan's Abhishek Khaitan), no diarization in the auto-transcript.
-      This episode's format has each guest narrate an extended personal
-      story in turn, which makes first-person passages easy to
-      misattribute. This statement is attributed to Nikhil because it
-      immediately follows the host's own framing line ("I have to preface
-      Abhishek's introduction") before the interview segment begins, and
-      names Abhishek in the third person as the counterparty holding the
-      much larger stake, consistent with an outside investor (not
-      Abhishek himself) speaking. The exact rupee figure is somewhat
-      garbled in the transcript (numbers named include both "500 crores"
-      and "400 crores" in the exchange) -- confirm the precise amount
-      during verification.
+      owner/mixologist Minakshi Singh, Goa Brewing Company's Suraj
+      Shenai, Gin Explorers Club's Shuchir Suri, and Radico Khaitan's
+      Abhishek Khaitan), no diarization in the auto-transcript, but
+      confirmed via clear video (Nikhil on camera, unbroken narration).
+      Confirmed via video at 42:12-42:50 ("Abhishek's Intro" chapter):
+      "...least abishek I have to preface abhishek's introduction uh so
+      we are a very small miniature partner to abishek ... but we have
+      spoken like privately many times about it I think it's 1.6 ... pre
+      no no from the open market I think close to ... think 400 crores
+      400 near 400 crores of abishek['s holding] ... investment for me so
+      uh nice don't blame me." The precise figure is 400 crores (the
+      draft's "500 crores" alternative does not occur here).
 
   - id: nikhil-kamath-182
     person: nikhil-kamath
@@ -52,18 +50,20 @@ statements:
       Kingfisher again.
     topic: business
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=0JDsFpU6pGQ&t=4265s"
+      start_timestamp: "1:11:07"
+      end_timestamp: "1:11:20"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-181. This is
-      framed as the host's own anecdote ("I had an interesting
-      conversation with an ex executive at UB who said...") offered while
-      posing a question to the panel about brand strategy, distinguishing
-      it stylistically from the guests' own first-person life/business
-      narratives.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-181, resolved the
+      same way (Nikhil visibly on camera). Confirmed via video at
+      1:11:07-1:11:20 ("Steps to Start a Liquor brand" chapter), posed
+      while asking the panel a hypothetical brand-strategy question: "...I
+      had an interesting conversation with an ex executive at UB who said
+      that off late they've been trying to push hin[eken] instead of KF
+      and it's a strategy that has not worked yes and they're falling
+      back on selling KF again."
