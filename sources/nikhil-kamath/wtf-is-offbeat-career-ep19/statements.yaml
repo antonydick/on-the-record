@@ -1,1 +1,79 @@
-statements: []
+statements:
+  - id: nikhil-kamath-214
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-offbeat-career-ep19
+    type: experience
+    text: >
+      Says that in the one to two months before this recording, he
+      stopped buying public equities entirely ("I'm not even buying
+      stocks. I just stopped"), citing that multiples and valuations
+      across the market are too expensive for him to enter positions with
+      a capital-gains outcome in mind; says he will wait for conditions to
+      change before resuming, while continuing to hold theses on
+      India-first consumption brands and the energy transition space.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: three-person panel (Nikhil hosting actress
+      Kriti Sanon, musician Badshah, and cricketer KL Rahul), no
+      diarization in the auto-transcript. Stated in first person while
+      answering a question about what he looks for before investing in a
+      company.
+
+  - id: nikhil-kamath-215
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-offbeat-career-ep19
+    type: experience
+    text: >
+      Says he is considering building an operating business again (as
+      opposed to only investing), mentioning he is "flirting with" the
+      idea of a media business and separately holds a thesis around
+      building something in the energy transition space.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-214. Stated in
+      first person in the same discussion as nikhil-kamath-214, about his
+      current investing/business-building plans.
+
+  - id: nikhil-kamath-216
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-offbeat-career-ep19
+    type: experience
+    text: >
+      Says the shirt he is wearing in the episode is from an Indian brand
+      he refers to as "1111," praising its sustainability story --
+      specifically that the dye used has come from the same source
+      bucket for the past 10-20 years.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-214. Stated in
+      first person during a discussion of Indian luxury/premium brands
+      ("this shirt I'm wearing is from this guy called 1111... I love his
+      story"). Brand name is auto-transcribed and unconfirmed -- verify
+      spelling/identity during verification.
