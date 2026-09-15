@@ -1,432 +1,379 @@
 statements:
-  - id: raj-shamani-08201
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: assertion
-    text: >
-      We'll start with the board. That's why we prepared this big board, and
-      we'll ask you to explain to us these major frauds or scams that
-      happened in our country — these are the scams that made headlines and
-      are large-scale fraud cases.
-    topic: scam-board-segment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:06:58]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj introduces the "big board" segment listing major
-      Indian fraud/scam cases the guest will be asked to walk through.
+- id: raj-shamani-08201
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: assertion
+  text: 'We''ll start with the board. That''s why we prepared this big board, and we''ll ask you to explain to us these major frauds or scams that happened in our country — these are the scams that made headlines and are large-scale fraud cases.
 
-  - id: raj-shamani-08202
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: observation
-    text: >
-      How did such intelligent, educated people — people who aren't
-      particularly naive — end up becoming victims of this, and for such a
-      large amount of money?
-    topic: victim-profile
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:30]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's framing remark introducing the board-of-scams
-      segment, expressing that it's notable that smart, educated people fall
-      for large-scale fraud.
+    '
+  topic: scam-board-segment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:06:58]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj introduces the "big board" segment listing major Indian fraud/scam cases the guest will be asked to walk through.
 
-  - id: raj-shamani-08203
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: assertion
-    text: >
-      Today's guest is Sunil Bajpai, who is the Chief Trust Officer at Tanla
-      Platforms.
-    topic: guest-bio
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of Raj's host narration introducing the guest.
 
-  - id: raj-shamani-08204
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: assertion
-    text: >
-      He (Sunil Bajpai) spent 30 years in the Indian government, most of it
-      at TRAI, where he wrote rules that became global standards for
-      preventing spam calls and messages.
-    topic: guest-trai-background
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Continuation of Raj's host narration introducing the
-      guest's background.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08202
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: observation
+  text: 'How did such intelligent, educated people — people who aren''t particularly naive — end up becoming victims of this, and for such a large amount of money?
 
-  - id: raj-shamani-08205
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: belief
-    text: >
-      Raj says that if a caller falsely accused him of a crime like this
-      (e.g. drug trafficking via a parcel in his name), his response would
-      simply be to say he didn't do it.
-    topic: hypothetical-accusation-response
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:11:40]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's own hypothetical reaction while discussing the
-      "digital arrest" scam pattern with the guest.
+    '
+  topic: victim-profile
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:07:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s framing remark introducing the board-of-scams segment, expressing that it''s notable that smart, educated people fall for large-scale fraud.
 
-  - id: raj-shamani-08206
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: belief
-    text: >
-      Raj says that even if there's an extremely low probability (he cites
-      one in ten thousand, or one in a million) that a serious accusation
-      made over a call is true, his response would be to become suspicious —
-      calling this the only rational response, rather than complying out of
-      caution.
-    topic: rational-suspicion
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:12:17]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Some ASR uncertainty around the exact probability
-      figures cited in this passage.
 
-  - id: raj-shamani-08207
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: belief
-    text: >
-      Raj says that rather than assuming he can always be reached, his first
-      instinct if told his child was in trouble would be to say "let me
-      speak to my child directly."
-    topic: contact-child-directly
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:24:58]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Said during discussion of the fake "your child is in
-      trouble" scam scenario.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08203
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: assertion
+  text: 'Today''s guest is Sunil Bajpai, who is the Chief Trust Officer at Tanla Platforms.
 
-  - id: raj-shamani-08208
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: experience
-    text: >
-      When asked directly whether he has children, Raj confirms that he
-      does.
-    topic: raj-has-children
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:24:30]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker attribution in this exchange is inferred from
-      context (the guest appears to ask Raj this directly) rather than
-      explicit labeling, since the transcript is not diarized.
+    '
+  topic: guest-bio
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5pZuXAUke9w&t=168s
+    start_timestamp: 00:02:48
+    end_timestamp: 00:02:58
+  evidence:
+    excerpt: null
+  notes: '~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of Raj''s host narration introducing the guest.
 
-  - id: raj-shamani-08209
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: belief
-    text: >
-      Raj suggests that since the fraud industry has five business-like
-      stages (procurement, manufacturing, distribution, fulfilment,
-      treasury), there must be one top person acting as the main mastermind
-      orchestrating it all.
-    topic: fraud-industry-mastermind
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:44:24]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The guest goes on to rebut this assumption, describing
-      the industry as decentralized rather than run by one boss.
 
-  - id: raj-shamani-08210
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: recommendation
-    text: >
-      Raj suggests telecom companies could offer customers a paid monthly
-      premium service (he cites 50-100 rupees per month) guaranteeing that
-      no scam calls reach them, since the telecom companies would have the
-      necessary data to do so.
-    topic: telecom-premium-service
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:04:36]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker split in this passage is inferred from context
-      (the guest immediately pushes back that data alone isn't sufficient).
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5pZuXAUke9w&t=168s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-08204
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: assertion
+  text: 'He (Sunil Bajpai) spent 30 years in the Indian government, most of it at TRAI, where he wrote rules that became global standards for preventing spam calls and messages.
 
-  - id: raj-shamani-08211
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: belief
-    text: >
-      Discussing the S.P. Oswal case, Raj says that for a big businessman
-      like him, the obvious next step should have been to call the local
-      police, his lawyer, or someone else, and questions why that wasn't
-      obvious to the victim.
-    topic: sp-oswal-case-response
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:15:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: guest-trai-background
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5pZuXAUke9w&t=172s
+    start_timestamp: 00:02:52
+    end_timestamp: 00:03:05
+  evidence:
+    excerpt: null
+  notes: '~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Continuation of Raj''s host narration introducing the guest''s background.
 
-  - id: raj-shamani-08212
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: observation
-    text: >
-      Raj remarks that it's unbelievable that S.P. Oswal suffered such a
-      huge loss in the scam, while acknowledging that it did happen.
-    topic: sp-oswal-case-reaction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:17:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-08213
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: belief
-    text: >
-      Raj estimates that India is probably losing around one to two lakh
-      crore rupees to scams in total (including unreported cases).
-    topic: india-scam-losses-estimate
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:28:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj's own on-the-spot guess, which the guest
-      then says is roughly correct (citing a higher figure around 2.5 lakh
-      crore) — that confirmation is the guest's content and is out of scope
-      for this extraction pass.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5pZuXAUke9w&t=172s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-08205
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: belief
+  text: 'Raj says that if a caller falsely accused him of a crime like this (e.g. drug trafficking via a parcel in his name), his response would simply be to say he didn''t do it.
 
-  - id: raj-shamani-08214
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: observation
-    text: >
-      Raj says this is the last question he asks everyone on the show: what
-      personal price did you pay to become who you are today?
-    topic: signature-closing-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:22:58]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj describes this as a recurring closing question he
-      asks every guest.
+    '
+  topic: hypothetical-accusation-response
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:11:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s own hypothetical reaction while discussing the "digital arrest" scam pattern with the guest.
 
-  - id: raj-shamani-08215
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: belief
-    text: >
-      In his closing remarks, Raj says he particularly liked the part of
-      Sunil's answer where Sunil said the price of being trustworthy is a
-      lot of money, adding that it makes sense.
-    topic: closing-remarks
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:28:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-08216
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: belief
-    text: >
-      In the episode's closing call-to-action, Raj says that one
-      conversation can change someone's entire life, giving this as his
-      reason for asking viewers to share the episode with at least one
-      person.
-    topic: episode-share-cta
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:28:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Standard show outro/call-to-action segment.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08206
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: belief
+  text: 'Raj says that even if there''s an extremely low probability (he cites one in ten thousand, or one in a million) that a serious accusation made over a call is true, his response would be to become suspicious — calling this the only rational response, rather than complying out of caution.
 
-  - id: raj-shamani-08217
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: observation
-    text: >
-      Raj notes that Truecaller is widely used and is free to use up to a
-      certain tier, and asks why it hasn't eliminated spam and scam calls
-      given that.
-    topic: truecaller-effectiveness
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:05:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: rational-suspicion
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:12:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Some ASR uncertainty around the exact probability figures cited in this passage.
 
-  - id: raj-shamani-08218
-    person: raj-shamani
-    source: raj-shamani-fo543-sunil-bajpai
-    type: belief
-    text: >
-      Raj wonders aloud whether, at the point of being accused during a
-      "digital arrest" style call, he could simply stop and call his own
-      lawyer instead of continuing to comply.
-    topic: digital-arrest-lawyer-call
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:13:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The guest's later reply ("you suggested calling a
-      lawyer") confirms this question originated from Raj.
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08207
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: belief
+  text: 'Raj says that rather than assuming he can always be reached, his first instinct if told his child was in trouble would be to say "let me speak to my child directly."
+
+    '
+  topic: contact-child-directly
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:24:58]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said during discussion of the fake "your child is in trouble" scam scenario.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08208
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: experience
+  text: 'When asked directly whether he has children, Raj confirms that he does.
+
+    '
+  topic: raj-has-children
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:24:30]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker attribution in this exchange is inferred from context (the guest appears to ask Raj this directly) rather than explicit labeling, since the transcript is not diarized.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08209
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: belief
+  text: 'Raj suggests that since the fraud industry has five business-like stages (procurement, manufacturing, distribution, fulfilment, treasury), there must be one top person acting as the main mastermind orchestrating it all.
+
+    '
+  topic: fraud-industry-mastermind
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:44:24]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The guest goes on to rebut this assumption, describing the industry as decentralized rather than run by one boss.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08210
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: recommendation
+  text: 'Raj suggests telecom companies could offer customers a paid monthly premium service (he cites 50-100 rupees per month) guaranteeing that no scam calls reach them, since the telecom companies would have the necessary data to do so.
+
+    '
+  topic: telecom-premium-service
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:04:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker split in this passage is inferred from context (the guest immediately pushes back that data alone isn''t sufficient).
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08211
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: belief
+  text: 'Discussing the S.P. Oswal case, Raj says that for a big businessman like him, the obvious next step should have been to call the local police, his lawyer, or someone else, and questions why that wasn''t obvious to the victim.
+
+    '
+  topic: sp-oswal-case-response
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:15:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08212
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: observation
+  text: 'Raj remarks that it''s unbelievable that S.P. Oswal suffered such a huge loss in the scam, while acknowledging that it did happen.
+
+    '
+  topic: sp-oswal-case-reaction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:17:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08213
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: belief
+  text: 'Raj estimates that India is probably losing around one to two lakh crore rupees to scams in total (including unreported cases).
+
+    '
+  topic: india-scam-losses-estimate
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:28:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj''s own on-the-spot guess, which the guest then says is roughly correct (citing a higher figure around 2.5 lakh crore) — that confirmation is the guest''s content and is out of scope for this extraction pass.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08214
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: observation
+  text: 'Raj says this is the last question he asks everyone on the show: what personal price did you pay to become who you are today?
+
+    '
+  topic: signature-closing-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=5pZuXAUke9w&t=4988s
+    start_timestamp: 01:23:08
+    end_timestamp: 01:23:20
+  evidence:
+    excerpt: null
+  notes: '~[01:22:58]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj describes this as a recurring closing question he asks every guest.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=5pZuXAUke9w&t=4988s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-08215
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: belief
+  text: 'In his closing remarks, Raj says he particularly liked the part of Sunil''s answer where Sunil said the price of being trustworthy is a lot of money, adding that it makes sense.
+
+    '
+  topic: closing-remarks
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:28:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08216
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: belief
+  text: 'In the episode''s closing call-to-action, Raj says that one conversation can change someone''s entire life, giving this as his reason for asking viewers to share the episode with at least one person.
+
+    '
+  topic: episode-share-cta
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:28:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Standard show outro/call-to-action segment.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08217
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: observation
+  text: 'Raj notes that Truecaller is widely used and is free to use up to a certain tier, and asks why it hasn''t eliminated spam and scam calls given that.
+
+    '
+  topic: truecaller-effectiveness
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:05:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08218
+  person: raj-shamani
+  source: raj-shamani-fo543-sunil-bajpai
+  type: belief
+  text: 'Raj wonders aloud whether, at the point of being accused during a "digital arrest" style call, he could simply stop and call his own lawyer instead of continuing to comply.
+
+    '
+  topic: digital-arrest-lawyer-call
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:13:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The guest''s later reply ("you suggested calling a lawyer") confirms this question originated from Raj.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
