@@ -12,23 +12,34 @@ statements:
       the stock market.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=0YKTsHr5bDE&t=294s"
+      start_timestamp: "4:54"
+      end_timestamp: "5:05"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Ray
-      Dalio), no diarization. Attribution inferred from conversational
-      role, not confirmed via video. Cross-reference: precisely
-      corroborates nikhil-kamath-026 (Kumar Birla episode: started
-      trading at 17, 21 years by Dec 2024) -- this episode independently
-      gives the same "21 years" figure and names the actual company,
-      a level of specificity worth double-checking carefully (exact
-      company name/spelling) during verification.
+      Dalio), no diarization, but confirmed via video: Nikhil is on
+      camera at 4:54-5:05 saying "Do you think it's like that -- I
+      often think about this, there was a really tiny [company] ...
+      when I was 17, I bought this company called Marsoft, a defunct
+      software company in India, and the share price, again, doubled
+      or tripled," immediately after Ray finishes his own first-stock
+      story (Northeast Airlines, ending ~4:45). The separate "I've been
+      trading now a long time, about 21 years" line is confirmed
+      present in the source (via NotebookLM transcript search, with
+      the surrounding text "Hi Ray, thank you for doing this, as a
+      trader myself...") but its own exact timestamp was not
+      independently pinned in this pass -- extensive search of 0:00-
+      4:54 didn't surface it, so it likely sits in a moment not
+      distinctly captioned or slightly outside that window. Cross-
+      reference: precisely corroborates nikhil-kamath-026 (Kumar Birla
+      episode: started trading at 17, 21 years by Dec 2024) -- this
+      episode independently gives the same "21 years" figure and names
+      the actual company (confirmed spelling: "Marsoft").
 
   - id: nikhil-kamath-048
     person: nikhil-kamath
@@ -49,4 +60,14 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-047.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-047. Content
+      confirmed present via NotebookLM transcript search (exact line:
+      "I hold a lot of gold I for a long time have kept 10% of my asset
+      base in gold," preceded by "...can't print it you create more of
+      it and then it also in order to hold its..." -- likely a
+      gold-vs-fiat-currency comparison). Exact video timestamp NOT
+      pinned in this pass -- checked the Bitcoin/gold-bonds discussion
+      around 25:00-27:00 (chapters "Bitcoin, stable..." and "What
+      actually...") without a match; a future pass should try scrubbing
+      that same general region more finely, or elsewhere in the
+      1:12:45 runtime, rather than restarting from 0:00.
