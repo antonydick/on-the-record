@@ -1,284 +1,253 @@
 statements:
-  - id: raj-shamani-04401
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: observation
-    text: >
-      Introducing the guest, Raj says the world's largest producer of spice
-      extracts is a Kerala-based company that most people have probably
-      never heard of. It supplies the flavors found in packaged foods, the
-      fragrance in expensive perfumes like Chanel, and ingredients for
-      supplements people take every morning.
-    topic: synthite-overview
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:01:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the host's scripted episode introduction
-      (voiceover before the interview proper begins).
+- id: raj-shamani-04401
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: observation
+  text: 'Introducing the guest, Raj says the world''s largest producer of spice extracts is a Kerala-based company that most people have probably never heard of. It supplies the flavors found in packaged foods, the fragrance in expensive perfumes like Chanel, and ingredients for supplements people take every morning.
 
-  - id: raj-shamani-04402
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: observation
-    text: >
-      In his introduction, Raj states that Dr. Viju Jacob's father started
-      the Synthite business in 1970 with only one product. He says the
-      company's revenue is now in the thousands of crores of rupees and
-      that it is a world leader in its sector.
-    topic: synthite-history
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:01:56]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the host's scripted episode introduction.
+    '
+  topic: synthite-overview
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=9IxevWyzIhM&t=94s
+    start_timestamp: 00:01:34
+    end_timestamp: 00:01:45
+  evidence:
+    excerpt: null
+  notes: '~[00:01:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the host''s scripted episode introduction (voiceover before the interview proper begins).
 
-  - id: raj-shamani-04403
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: assertion
-    text: >
-      In the episode introduction, Raj frames it as a fact that no spice
-      brand in India has, to date, achieved dominance (a nationwide win)
-      across the entire country.
-    topic: spice-industry-india
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:01:56]-[00:02:22]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Presented as an episode-preview tease line, but
-      it embeds a specific factual claim.
 
-  - id: raj-shamani-04404
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: observation
-    text: >
-      Raj remarks that ₹140 crore (the size of the company when Dr. Viju
-      joined) was an extremely large sum/valuation for a business in 1983.
-    topic: business-scale-context
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:05:48]-[00:06:12]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=9IxevWyzIhM&t=94s in-browser (English caption text check, close/exact match). Note: this episode''s noted transcript timestamps run ~6s behind the real video clock; real timestamp used here.'
+- id: raj-shamani-04402
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: observation
+  text: 'In his introduction, Raj states that Dr. Viju Jacob''s father started the Synthite business in 1970 with only one product. He says the company''s revenue is now in the thousands of crores of rupees and that it is a world leader in its sector.
 
-  - id: raj-shamani-04405
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: belief
-    text: >
-      Raj remarks that securing, in 1985, the opportunity to supply
-      perfume extracts that were used by Chanel was a very big deal.
-    topic: chanel-perfume-deal
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:11:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: synthite-history
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=9IxevWyzIhM&t=122s
+    start_timestamp: 00:02:02
+    end_timestamp: 00:02:15
+  evidence:
+    excerpt: null
+  notes: '~[00:01:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the host''s scripted episode introduction.
 
-  - id: raj-shamani-04406
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: belief
-    text: >
-      Raj says he has generally heard that for businesses that become very
-      large in Tamil Nadu, the natural region to expand into next is
-      Telangana, Kerala, Andhra Pradesh, and Karnataka.
-    topic: regional-expansion
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:17:14]-[00:17:39]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-04407
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: belief
-    text: >
-      Raj assumes that because companies like Nestle are very large, they
-      would not normally allow small entrepreneurs to easily get access to
-      come and meet with them.
-    topic: corporate-access
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:19:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. ASR is somewhat rough in this stretch; attribution to
-      the host is inferred from the surrounding question-asking context.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=9IxevWyzIhM&t=122s in-browser (English caption text check, close/exact match). Note: this episode''s noted transcript timestamps run ~6s behind the real video clock; real timestamp used here.'
+- id: raj-shamani-04403
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: assertion
+  text: 'In the episode introduction, Raj frames it as a fact that no spice brand in India has, to date, achieved dominance (a nationwide win) across the entire country.
 
-  - id: raj-shamani-04408
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: belief
-    text: >
-      Raj observes that the biggest cost in any industry is the one that
-      people don't talk about.
-    topic: market-positioning
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:26:02]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: spice-industry-india
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:01:56]-[00:02:22]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Presented as an episode-preview tease line, but it embeds a specific factual claim.
 
-  - id: raj-shamani-04409
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: belief
-    text: >
-      Raj suggests that once a company has reached the number 2 or number
-      3 position in its industry and closed most of the remaining gap, and
-      is financially well-off enough, it can then set its sights on
-      actually becoming number 1.
-    topic: market-positioning
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:27:14]-[00:27:35]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
 
-  - id: raj-shamani-04410
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: belief
-    text: >
-      Raj asks Dr. Viju why he wants to be in the supplements business
-      given that, in Raj's framing, its market is quite small.
-    topic: supplement-market
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:31:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Dr. Viju immediately disputes this framing in his
-      reply (out of scope for this extraction pass).
+    Visual verification check (2026-09-15): checked nearby the noted timestamp (adjusted +6s for this episode''s transcript/video clock offset); caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-04404
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: observation
+  text: 'Raj remarks that ₹140 crore (the size of the company when Dr. Viju joined) was an extremely large sum/valuation for a business in 1983.
 
-  - id: raj-shamani-04411
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: belief
-    text: >
-      Raj reacts that injecting supplement ingredients directly into a
-      person's blood vessels sounds dangerous and scary, since it means
-      dealing with needles and putting something into your body without
-      really knowing what is being put in.
-    topic: supplement-injections
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:32:26]-[00:33:19]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. This reaction is voiced twice in similar words
-      in this stretch; combined into one statement.
+    '
+  topic: business-scale-context
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=9IxevWyzIhM&t=373s
+    start_timestamp: 00:06:13
+    end_timestamp: 00:06:25
+  evidence:
+    excerpt: null
+  notes: '~[00:05:48]-[00:06:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-04412
-    person: raj-shamani
-    source: raj-shamani-fo524-dr-viju
-    type: observation
-    text: >
-      Raj summarizes his understanding of "fairy dusting" back to Dr.
-      Viju: that the actual amount of a supplement's headline extract is
-      often only about 1/10th to 1/100th of what is claimed on the label,
-      comparing it to "magic dust" that doesn't actually work.
-    topic: fairy-dusting
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:35:30]-[00:36:01]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Restates, in the host's own words, a concept
-      Dr. Viju had just explained.
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=9IxevWyzIhM&t=373s in-browser (English caption text check, close/exact match). Note: this episode''s noted transcript timestamps run ~6s behind the real video clock; real timestamp used here.'
+- id: raj-shamani-04405
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: belief
+  text: 'Raj remarks that securing, in 1985, the opportunity to supply perfume extracts that were used by Chanel was a very big deal.
+
+    '
+  topic: chanel-perfume-deal
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:11:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp (adjusted +6s for this episode''s transcript/video clock offset); caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-04406
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: belief
+  text: 'Raj says he has generally heard that for businesses that become very large in Tamil Nadu, the natural region to expand into next is Telangana, Kerala, Andhra Pradesh, and Karnataka.
+
+    '
+  topic: regional-expansion
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=9IxevWyzIhM&t=1056s
+    start_timestamp: 00:17:36
+    end_timestamp: 00:17:50
+  evidence:
+    excerpt: null
+  notes: '~[00:17:14]-[00:17:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=9IxevWyzIhM&t=1056s in-browser (English caption text check, close/exact match). Note: this episode''s noted transcript timestamps run ~6s behind the real video clock; real timestamp used here.'
+- id: raj-shamani-04407
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: belief
+  text: 'Raj assumes that because companies like Nestle are very large, they would not normally allow small entrepreneurs to easily get access to come and meet with them.
+
+    '
+  topic: corporate-access
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:19:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. ASR is somewhat rough in this stretch; attribution to the host is inferred from the surrounding question-asking context.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp (adjusted +6s for this episode''s transcript/video clock offset); caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-04408
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: belief
+  text: 'Raj observes that the biggest cost in any industry is the one that people don''t talk about.
+
+    '
+  topic: market-positioning
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:26:02]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp (adjusted +6s for this episode''s transcript/video clock offset); caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-04409
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: belief
+  text: 'Raj suggests that once a company has reached the number 2 or number 3 position in its industry and closed most of the remaining gap, and is financially well-off enough, it can then set its sights on actually becoming number 1.
+
+    '
+  topic: market-positioning
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=9IxevWyzIhM&t=1642s
+    start_timestamp: 00:27:22
+    end_timestamp: 00:27:36
+  evidence:
+    excerpt: null
+  notes: '~[00:27:14]-[00:27:35]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=9IxevWyzIhM&t=1642s in-browser (English caption text check, close/exact match). Note: this episode''s noted transcript timestamps run ~6s behind the real video clock; real timestamp used here.'
+- id: raj-shamani-04410
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: belief
+  text: 'Raj asks Dr. Viju why he wants to be in the supplements business given that, in Raj''s framing, its market is quite small.
+
+    '
+  topic: supplement-market
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:31:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Dr. Viju immediately disputes this framing in his reply (out of scope for this extraction pass).
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp (adjusted +6s for this episode''s transcript/video clock offset); caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-04411
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: belief
+  text: 'Raj reacts that injecting supplement ingredients directly into a person''s blood vessels sounds dangerous and scary, since it means dealing with needles and putting something into your body without really knowing what is being put in.
+
+    '
+  topic: supplement-injections
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:32:26]-[00:33:19]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This reaction is voiced twice in similar words in this stretch; combined into one statement.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp (adjusted +6s for this episode''s transcript/video clock offset); caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-04412
+  person: raj-shamani
+  source: raj-shamani-fo524-dr-viju
+  type: observation
+  text: 'Raj summarizes his understanding of "fairy dusting" back to Dr. Viju: that the actual amount of a supplement''s headline extract is often only about 1/10th to 1/100th of what is claimed on the label, comparing it to "magic dust" that doesn''t actually work.
+
+    '
+  topic: fairy-dusting
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=9IxevWyzIhM&t=2140s
+    start_timestamp: 00:35:40
+    end_timestamp: 00:36:00
+  evidence:
+    excerpt: null
+  notes: '~[00:35:30]-[00:36:01]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Restates, in the host''s own words, a concept Dr. Viju had just explained.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=9IxevWyzIhM&t=2140s in-browser (English caption text check, close/exact match). Note: this episode''s noted transcript timestamps run ~6s behind the real video clock; real timestamp used here.'
