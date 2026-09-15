@@ -1,373 +1,316 @@
 statements:
-  - id: raj-shamani-03401
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: assertion
-    text: >
-      Raj introduces the episode by saying: "Hello, I am Raj Shamani. We are
-      here with Imran Baig to do a handwriting analysis."
-    topic: episode-intro
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:41]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The ASR text includes a garbled short prefix
-      ("aaibi"/"IB") immediately before "Imran Baig" whose meaning is
-      unclear (possibly a nickname, title, or transcription artifact); it
-      has been omitted from the translation since it could not be confirmed.
+- id: raj-shamani-03401
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: assertion
+  text: 'Raj introduces the episode by saying: "Hello, I am Raj Shamani. We are here with Imran Baig to do a handwriting analysis."
 
-  - id: raj-shamani-03402
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: belief
-    text: >
-      Raj tells Imran he isn't sure he agrees with what's been said so far,
-      calling it mostly generic statements that could apply to anyone. He
-      then asks Imran to be more specific: to name one trait Raj is proud
-      of, and one thing he tries to hide.
-    topic: graphology-skepticism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:05]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker attribution to Raj (rather than Imran) is
-      inferred from context — the tone of skepticism and the switch to
-      questioning Imran — since the transcript has no speaker labels.
+    '
+  topic: episode-intro
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:41]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The ASR text includes a garbled short prefix ("aaibi"/"IB") immediately before "Imran Baig" whose meaning is unclear (possibly a nickname, title, or transcription artifact); it has been omitted from the translation since it could not be confirmed.
 
-  - id: raj-shamani-03403
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: belief
-    text: >
-      Raj dismisses the detailed guesses Imran was offering (about things
-      like his blood test results and toxin levels) as "foolish stuff,"
-      saying what he actually wants to focus on instead is the intuitive
-      side of the reading.
-    topic: graphology-skepticism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:10:33]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker attribution to Raj is inferred from context
-      (redirecting the guest away from granular claims toward intuition);
-      the transcript has no speaker labels, so there is some uncertainty.
 
-  - id: raj-shamani-03404
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: evidence
-    text: >
-      Raj says he was reading a study claiming that people under stress
-      write with more pressure on the pen, and asks Imran whether that is
-      true.
-    topic: handwriting-pressure-stress
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:16:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj does not name the study; only the claim itself is
-      captured here.
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03402
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: belief
+  text: 'Raj tells Imran he isn''t sure he agrees with what''s been said so far, calling it mostly generic statements that could apply to anyone. He then asks Imran to be more specific: to name one trait Raj is proud of, and one thing he tries to hide.
 
-  - id: raj-shamani-03405
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: experience
-    text: >
-      Raj says he writes a lot, and mentions that he has noticed himself
-      writing both with a pencil and on his iPad.
-    topic: raj-writing-habits
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:33:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This passage is a first-person reflection inferred to
-      be Raj's (the transcript has no speaker labels); a following clause
-      comparing himself to a "typewriter" when using voice-to-text was too
-      ambiguous in attribution and meaning to include here.
+    '
+  topic: graphology-skepticism
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:07:05]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker attribution to Raj (rather than Imran) is inferred from context — the tone of skepticism and the switch to questioning Imran — since the transcript has no speaker labels.
 
-  - id: raj-shamani-03406
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: experience
-    text: >
-      Raj confirms that he recently hurt his back while doing deadlifts.
-    topic: raj-back-injury
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:45:01]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This follows Imran guessing from Raj's handwriting
-      that he has a back problem; the deadlift detail reads as Raj's own
-      confirming reply.
 
-  - id: raj-shamani-03407
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: experience
-    text: >
-      Raj says he used to underline his signature in the past but has since
-      stopped doing it, because he feels it looks bad.
-    topic: raj-signature-habits
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:00:44]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attributed to Raj as a direct reply to Imran noting
-      that his signature isn't underlined; the transcript has no speaker
-      labels.
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03403
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: belief
+  text: 'Raj dismisses the detailed guesses Imran was offering (about things like his blood test results and toxin levels) as "foolish stuff," saying what he actually wants to focus on instead is the intuitive side of the reading.
 
-  - id: raj-shamani-03408
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: belief
-    text: >
-      Raj pushes back on Imran's pitch, saying he can't simply trust a
-      promise of results like "10x better than your current efforts" from
-      someone who doesn't actually know anything about his life or what he
-      does or doesn't do — he says being told to just trust and believe
-      doesn't make sense to him.
-    topic: graphology-skepticism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:10:31]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: graphology-skepticism
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:10:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker attribution to Raj is inferred from context (redirecting the guest away from granular claims toward intuition); the transcript has no speaker labels, so there is some uncertainty.
 
-  - id: raj-shamani-03409
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: belief
-    text: >
-      When asked what qualities he wants people to associate with him once
-      he reaches the peak of his life, Raj names: determined, humble,
-      driven, and having a protective, family-loving nature.
-    topic: raj-values
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:11:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The ASR is choppy in this passage (single words/short
-      phrases exchanged rapidly); one additional word in the list was too
-      garbled to confidently translate and has been left out.
 
-  - id: raj-shamani-03410
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: belief
-    text: >
-      Raj says he believes he already is this kind of person (determined,
-      humble, driven, protective/family-oriented), and that's why he's
-      moving toward the direction he wants. He adds that even if his level
-      of success changes, he wants to retain enough knowledge and wisdom to
-      keep pace with it.
-    topic: raj-values
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:11:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Directly follows raj-shamani-03409 in the
-      conversation.
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03404
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: evidence
+  text: 'Raj says he was reading a study claiming that people under stress write with more pressure on the pen, and asks Imran whether that is true.
 
-  - id: raj-shamani-03411
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: qualification
-    text: >
-      Raj says he still finds it hard to believe what Imran is telling him,
-      but says that just for the experience of it, he might borrow some of
-      Imran's exercises and try them for the next 21 days to actually see
-      the results.
-    topic: graphology-skepticism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:12:46]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: handwriting-pressure-stress
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:16:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj does not name the study; only the claim itself is captured here.
 
-  - id: raj-shamani-03412
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: belief
-    text: >
-      Raj comments that the problems Imran is describing (around
-      self-esteem and related issues) are so generic that most people would
-      feel they relate to them, and asks Imran to give him one specific
-      example instead.
-    topic: graphology-skepticism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:23:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This echoes a similar challenge Raj makes earlier in
-      the conversation (see raj-shamani-03402); each is recorded as its own
-      independent statement since they occur at different points and about
-      different topics.
 
-  - id: raj-shamani-03413
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: belief
-    text: >
-      Raj says that's exactly why they're going to verify things — he isn't
-      just taking Imran's word for it, and they're proceeding based only on
-      what can actually be shown on paper.
-    topic: graphology-skepticism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:23:37]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03405
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: experience
+  text: 'Raj says he writes a lot, and mentions that he has noticed himself writing both with a pencil and on his iPad.
 
-  - id: raj-shamani-03414
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: observation
-    text: >
-      Raj says his job (as the host) is to ask questions, framing the
-      exchange as being like a conversation between a believer and a
-      non-believer.
-    topic: raj-interviewer-role
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:26:37]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: raj-writing-habits
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:33:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This passage is a first-person reflection inferred to be Raj''s (the transcript has no speaker labels); a following clause comparing himself to a "typewriter" when using voice-to-text was too ambiguous in attribution and meaning to include here.
 
-  - id: raj-shamani-03415
-    person: raj-shamani
-    source: raj-shamani-fo519-imran-baig
-    type: belief
-    text: >
-      Raj says he believes viewers of the podcast fall into three types:
-      people who believe in this kind of thing and follow it blindly hoping
-      to see change in their lives; non-believers who call it a good
-      podcast/conversation but say they don't believe it; and a third group
-      of people who have a lot of problems in their life, for whom other
-      solutions haven't worked, and who are genuinely unsure whether to
-      believe or not.
-    topic: raj-audience-view
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:27:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03406
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: experience
+  text: 'Raj confirms that he recently hurt his back while doing deadlifts.
+
+    '
+  topic: raj-back-injury
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:45:01]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This follows Imran guessing from Raj''s handwriting that he has a back problem; the deadlift detail reads as Raj''s own confirming reply.
+
+
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03407
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: experience
+  text: 'Raj says he used to underline his signature in the past but has since stopped doing it, because he feels it looks bad.
+
+    '
+  topic: raj-signature-habits
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:00:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attributed to Raj as a direct reply to Imran noting that his signature isn''t underlined; the transcript has no speaker labels.
+
+
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03408
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: belief
+  text: 'Raj pushes back on Imran''s pitch, saying he can''t simply trust a promise of results like "10x better than your current efforts" from someone who doesn''t actually know anything about his life or what he does or doesn''t do — he says being told to just trust and believe doesn''t make sense to him.
+
+    '
+  topic: graphology-skepticism
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=uokt0pavxhM&t=4231s
+    start_timestamp: 01:10:31
+    end_timestamp: 01:10:45
+  evidence:
+    excerpt: null
+  notes: '~[01:10:31]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=uokt0pavxhM&t=4231s in-browser (English caption text check, close match).'
+- id: raj-shamani-03409
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: belief
+  text: 'When asked what qualities he wants people to associate with him once he reaches the peak of his life, Raj names: determined, humble, driven, and having a protective, family-loving nature.
+
+    '
+  topic: raj-values
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:11:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The ASR is choppy in this passage (single words/short phrases exchanged rapidly); one additional word in the list was too garbled to confidently translate and has been left out.
+
+
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03410
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: belief
+  text: 'Raj says he believes he already is this kind of person (determined, humble, driven, protective/family-oriented), and that''s why he''s moving toward the direction he wants. He adds that even if his level of success changes, he wants to retain enough knowledge and wisdom to keep pace with it.
+
+    '
+  topic: raj-values
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:11:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Directly follows raj-shamani-03409 in the conversation.
+
+
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03411
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: qualification
+  text: 'Raj says he still finds it hard to believe what Imran is telling him, but says that just for the experience of it, he might borrow some of Imran''s exercises and try them for the next 21 days to actually see the results.
+
+    '
+  topic: graphology-skepticism
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:12:46]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03412
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: belief
+  text: 'Raj comments that the problems Imran is describing (around self-esteem and related issues) are so generic that most people would feel they relate to them, and asks Imran to give him one specific example instead.
+
+    '
+  topic: graphology-skepticism
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:23:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This echoes a similar challenge Raj makes earlier in the conversation (see raj-shamani-03402); each is recorded as its own independent statement since they occur at different points and about different topics.
+
+
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03413
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: belief
+  text: 'Raj says that''s exactly why they''re going to verify things — he isn''t just taking Imran''s word for it, and they''re proceeding based only on what can actually be shown on paper.
+
+    '
+  topic: graphology-skepticism
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:23:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03414
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: observation
+  text: 'Raj says his job (as the host) is to ask questions, framing the exchange as being like a conversation between a believer and a non-believer.
+
+    '
+  topic: raj-interviewer-role
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:26:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
+- id: raj-shamani-03415
+  person: raj-shamani
+  source: raj-shamani-fo519-imran-baig
+  type: belief
+  text: 'Raj says he believes viewers of the podcast fall into three types: people who believe in this kind of thing and follow it blindly hoping to see change in their lives; non-believers who call it a good podcast/conversation but say they don''t believe it; and a third group of people who have a lot of problems in their life, for whom other solutions haven''t worked, and who are genuinely unsure whether to believe or not.
+
+    '
+  topic: raj-audience-view
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:27:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby timestamps in this pass; caption content was ambiguous or didn''t clearly match. Left as draft pending closer re-check.'
