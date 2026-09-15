@@ -13,21 +13,28 @@ statements:
       inflection point for the sector.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=iuyy1bIgR1s&t=10643s"
+      start_timestamp: "2:57:23"
+      end_timestamp: "2:57:49"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting Blusmart's
-      Punit Goyal, Ather's Tarun Mehta, Reva founder Chetan Maini
-      referred to as "Chan" in the auto-transcript, and Ossus Biorenewables'
-      Suuchi, a green-hydrogen entrepreneur), no diarization in the
-      auto-transcript. Stated in first person while introducing the
-      carbon-tax question to the panel.
+      Punit Goyal, Ather's Tarun Mehta, Reva/Sun Mobility founder Chetan
+      Maini, and Ossus Biorenewables' Suruchi Rao), no diarization in the
+      auto-transcript, but Nikhil is clearly visible on camera. Confirmed
+      via video at 2:57:23-2:57:49 ("Is Carbon Tax the solution?"
+      chapter, with an on-screen "CARBON TAX" graphic): "...create
+      discourse so you know personally I'm looking to invest in evee and
+      I've been researching a whole bunch of companies not just in evee
+      but energy transition per se uh carbon tax uh a big part of Tesla's
+      revenue for many years has been coming from carbon credits not so
+      much today but at least in the very early years do you think a
+      thing will happen in India and that could be the inflection point
+      for EVs."
 
   - id: nikhil-kamath-203
     person: nikhil-kamath
@@ -40,16 +47,22 @@ statements:
       lakh rupees, matching the panel's largest individual pledge.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=iuyy1bIgR1s&t=11278s"
+      start_timestamp: "3:07:58"
+      end_timestamp: "3:08:07"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-202. This is the
-      show's recurring closing format; other panelists committed amounts
-      ranging from 1-2 lakhs to 25 lakhs, and Nikhil states "I'll also do
-      25" to match Chetan Maini's 25 lakh commitment.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-202, resolved the
+      same way (Nikhil visibly on camera). This is the show's recurring
+      closing format ("WTF Fund: 4th Edition is here!" chapter); other
+      panelists pledged amounts from 1-2 lakhs (Suruchi/Ossus) up to 25
+      lakhs (Chetan Maini/Reva-Sun Mobility, following his line "if the
+      investment opportun[ity] is good I['ll] put 25 lakhs"). Confirmed
+      via video at 3:07:58-3:08:07: "okay let's say between 10 to 25 and
+      I'll also do 25 so we'll add it all up and we'll have a nice we'll
+      find somebody young and like brilliant... really who deserves that
+      money."
