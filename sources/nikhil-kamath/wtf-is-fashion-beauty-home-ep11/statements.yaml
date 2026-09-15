@@ -1,1 +1,59 @@
-statements: []
+statements:
+  - id: nikhil-kamath-204
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-fashion-beauty-home-ep11
+    type: experience
+    text: >
+      Says he has been researching consumption as a sector and that he
+      (through his fund) created a fund specifically to invest in
+      consumption-focused companies. Describes noticing a disconnect
+      shortly before this recording: top-line reported consumption
+      numbers looked healthy, but people he spoke to on the ground were
+      describing a consumption slowdown over the prior two to three
+      months across travel, fashion, and e-commerce.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: three-person panel (Nikhil hosting Mensa
+      Brands' Ananth Narayanan, detergent-brand-turned-House-of-X founder
+      Raj, and a third guest, Kishore), no diarization in the
+      auto-transcript. Stated in first person in the host's opening
+      framing of the episode.
+
+  - id: nikhil-kamath-205
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-fashion-beauty-home-ep11
+    type: experience
+    text: >
+      In the show's recurring end-of-episode charity segment, proposes
+      doing it differently this time: funding one or two entrepreneurs
+      under the age of 22 (reasoning that founders that young find it
+      especially hard to raise money) building something in fashion,
+      cosmetics, or another topic discussed in the episode, rather than
+      donating to a charity. After other panelists suggest 10 lakh rupees
+      each, he proposes increasing it and committing 20 lakh rupees each
+      across two companies (40 lakh rupees total), citing the show's
+      previous grant of 40 lakh rupees to the (then 18-year-old) Zepto
+      founders as precedent for how much a young grantee can do with that
+      amount.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-204. Proposed and
+      narrated in first person by the host near the end of the episode.
