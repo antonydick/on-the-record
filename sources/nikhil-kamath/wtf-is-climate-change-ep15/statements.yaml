@@ -13,12 +13,12 @@ statements:
       of carbon dioxide, methane, and water vapor, raising the temperature.
     topic: climate change
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=2q7-cTPwf-g&t=2775s"
+      start_timestamp: "46:17"
+      end_timestamp: "46:37"
     evidence:
       excerpt: null
     notes: >
@@ -26,10 +26,14 @@ statements:
       researcher Navroz Dubash, RT Industries' Mirik Gogri, actress and
       climate activist Bhumi Pednekar, and Centre for Science and
       Environment director Sunita Narain), no diarization in the
-      auto-transcript. High-confidence attribution: this passage is
-      explicitly self-introduced by the host ("I'll give you my very
-      idiotic non-aware description of it") immediately before asking each
-      guest for their own definition.
+      auto-transcript, but confirmed via clear video (Nikhil on camera).
+      Confirmed at 46:17-46:37 ("What is Climate Change? Simplified"
+      chapter): "...I'll give you my very idiotic non-aware description
+      of IT Sun emits Rays each [surface reflects them back differently]
+      ...[alb]edo when the heat is going back it gets trapped in the
+      atmosphere by virtue of [CO2, methane, water vapor and temperature]
+      rises but I want each of you in your own words describe climate
+      change for me."
 
   - id: nikhil-kamath-176
     person: nikhil-kamath
@@ -46,7 +50,7 @@ statements:
       term.
     topic: climate change
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -61,7 +65,14 @@ statements:
       on this") before another panelist responds "I totally disagree" and
       redirects to a distinction between the middle class and the rest of
       India, in a back-and-forth consistent with the host being challenged
-      by a guest.
+      by a guest. Located to the "Effects of Politics and Narratives on
+      Climate Change" chapter (roughly 1:01:35-1:07:00 of the 2:57:53
+      video) via the real video ("well it sounds like S[unita] has an
+      answer but I I I do too" at 1:01:37-1:01:47 leads into Nikhil's own
+      turn), but extensive caption scrubbing through Sunita's extended
+      response on politics/migration/war did not surface the exact "basic
+      take"/"climate change is a defined concept" line within the pass.
+      Left at reviewed rather than forcing an imprecise timestamp.
 
   - id: nikhil-kamath-177
     person: nikhil-kamath
@@ -77,16 +88,22 @@ statements:
       pool to 50 lakh rupees.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=2q7-cTPwf-g&t=10561s"
+      start_timestamp: "2:56:01"
+      end_timestamp: "2:56:56"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-175. This is the
-      show's recurring closing format, introduced and narrated in first
-      person by the host ("so what we typically do is ask people to
-      commit any amount of money... I'll do 30 so that makes it 50").
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-175, resolved the
+      same way (Nikhil visibly on camera). This is the show's recurring
+      closing format ("WTF Fund is Back!" chapter), introduced and
+      narrated in first person by the host. Confirmed via video at
+      2:56:01-2:56:56: "...end of every episode we generally try and do a
+      good deed ... so what we typically do is ask people to commit any
+      amount of money it could be ... [two guests each pledge] 10 lakhs
+      ... I'll do 30 so that makes it 50 we'll get the uh audience to pick
+      and uh you guys will come up with the Charities that will be in the
+      poll."
