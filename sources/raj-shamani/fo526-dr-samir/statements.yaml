@@ -1,113 +1,85 @@
 statements:
-  - id: raj-shamani-04801
-    person: raj-shamani
-    source: raj-shamani-fo526-dr-samir
-    type: belief
-    text: >
-      Raj says that, in the context of business development, one thing that
-      bothers him is India's purchasing power — everyone wants to bet on
-      India's potential, but they aren't actually serious about investing
-      in it.
-    topic: india-purchasing-power
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:11:48]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript has no speaker labels; attribution to
-      Raj (rather than the guest, Dr. Samir) is inferred from context — this
-      follows the line "बिजनेस डेवलपमेंट के बारे में बात करते हुए आपने कुछ
-      कहा, मैं बस उन बातों को आपस में जोड़ने की कोशिश कर रहा हूं" ("you said
-      something about business development, I'm just trying to connect
-      those points"), which reads as an interviewer transition addressed to
-      the guest.
+- id: raj-shamani-04801
+  person: raj-shamani
+  source: raj-shamani-fo526-dr-samir
+  type: belief
+  text: 'Raj says that, in the context of business development, one thing that bothers him is India''s purchasing power — everyone wants to bet on India''s potential, but they aren''t actually serious about investing in it.
 
-  - id: raj-shamani-04802
-    person: raj-shamani
-    source: raj-shamani-fo526-dr-samir
-    type: observation
-    text: >
-      Raj observes that the discussion around India's purchasing power and
-      its potential has been going on for almost a decade now.
-    topic: india-purchasing-power
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:12:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Immediately follows raj-shamani-04801 in the same
-      turn, before the guest picks up with his own answer (the guest then
-      introduces his personal "Hermes Power Index" framing). Speaker
-      attribution is inferred, not diarized — see note on 04801.
+    '
+  topic: india-purchasing-power
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=E-F5XJ2jJ1k&t=720s
+    start_timestamp: 00:12:00
+    end_timestamp: 00:12:13
+  evidence:
+    excerpt: null
+  notes: '~[00:11:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript has no speaker labels; attribution to Raj (rather than the guest, Dr. Samir) is inferred from context — this follows the line "बिजनेस डेवलपमेंट के बारे में बात करते हुए आपने कुछ कहा, मैं बस उन बातों को आपस में जोड़ने की कोशिश कर रहा हूं" ("you said something about business development, I''m just trying to connect those points"), which reads as an interviewer transition addressed to the guest.
 
-  - id: raj-shamani-04803
-    person: raj-shamani
-    source: raj-shamani-fo526-dr-samir
-    type: observation
-    text: >
-      Raj says he was quite surprised to learn that Dr. Samir believes that
-      if India starts investing in itself across the world, other
-      countries/investors will also start investing in India — meaning
-      India shouldn't need to worry so much about international relations.
-    topic: india-self-investment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:42:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj's own paraphrase/summary of a point
-      attributed to the guest, offered as a reaction ("I was quite
-      surprised to learn...") — captured here only as a statement of Raj's
-      own reaction, not as a claim about what the guest actually said.
-      Attribution to Raj is supported by the guest's immediate reply "नहीं,
-      नहीं, मुझे गलत मत समझिए" ("no, no, don't misunderstand me"), which
-      reads as the guest correcting a mischaracterization just voiced by
-      the other speaker. The transcript has no speaker labels.
 
-  - id: raj-shamani-04804
-    person: raj-shamani
-    source: raj-shamani-fo526-dr-samir
-    type: observation
-    text: >
-      Raj mentions that in an article of Dr. Samir's, he read that India
-      needs certain inputs — one is finance, but India also needs physical
-      inputs.
-    topic: india-strategic-inputs
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:47:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Follows "आप जिक्र कर रहे थे कि आपके लेख में..." ("you
-      were mentioning that in your article..."), addressed to the guest
-      about the guest's own article, which supports attributing this line
-      to Raj as interviewer. Which specific article is not identified in
-      the transcript. Speaker attribution is inferred, not diarized.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=E-F5XJ2jJ1k&t=720s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-04802
+  person: raj-shamani
+  source: raj-shamani-fo526-dr-samir
+  type: observation
+  text: 'Raj observes that the discussion around India''s purchasing power and its potential has been going on for almost a decade now.
+
+    '
+  topic: india-purchasing-power
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=E-F5XJ2jJ1k&t=733s
+    start_timestamp: 00:12:13
+    end_timestamp: 00:12:25
+  evidence:
+    excerpt: null
+  notes: '~[00:12:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Immediately follows raj-shamani-04801 in the same turn, before the guest picks up with his own answer (the guest then introduces his personal "Hermes Power Index" framing). Speaker attribution is inferred, not diarized — see note on 04801.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=E-F5XJ2jJ1k&t=733s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-04803
+  person: raj-shamani
+  source: raj-shamani-fo526-dr-samir
+  type: observation
+  text: 'Raj says he was quite surprised to learn that Dr. Samir believes that if India starts investing in itself across the world, other countries/investors will also start investing in India — meaning India shouldn''t need to worry so much about international relations.
+
+    '
+  topic: india-self-investment
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=E-F5XJ2jJ1k&t=2525s
+    start_timestamp: 00:42:05
+    end_timestamp: 00:42:20
+  evidence:
+    excerpt: null
+  notes: '~[00:42:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj''s own paraphrase/summary of a point attributed to the guest, offered as a reaction ("I was quite surprised to learn...") — captured here only as a statement of Raj''s own reaction, not as a claim about what the guest actually said. Attribution to Raj is supported by the guest''s immediate reply "नहीं, नहीं, मुझे गलत मत समझिए" ("no, no, don''t misunderstand me"), which reads as the guest correcting a mischaracterization just voiced by the other speaker. The transcript has no speaker labels.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=E-F5XJ2jJ1k&t=2525s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-04804
+  person: raj-shamani
+  source: raj-shamani-fo526-dr-samir
+  type: observation
+  text: 'Raj mentions that in an article of Dr. Samir''s, he read that India needs certain inputs — one is finance, but India also needs physical inputs.
+
+    '
+  topic: india-strategic-inputs
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=E-F5XJ2jJ1k&t=2875s
+    start_timestamp: 00:47:55
+    end_timestamp: 00:48:10
+  evidence:
+    excerpt: null
+  notes: '~[00:47:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Follows "आप जिक्र कर रहे थे कि आपके लेख में..." ("you were mentioning that in your article..."), addressed to the guest about the guest''s own article, which supports attributing this line to Raj as interviewer. Which specific article is not identified in the transcript. Speaker attribution is inferred, not diarized.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=E-F5XJ2jJ1k&t=2875s in-browser (English caption text check, close/exact match).'
