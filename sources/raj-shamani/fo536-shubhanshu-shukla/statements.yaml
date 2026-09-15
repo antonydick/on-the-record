@@ -1,271 +1,232 @@
 statements:
-  - id: raj-shamani-06801
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: assertion
-    text: >
-      Radiation is very high once you're up there [in orbit].
-    topic: space-radiation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:31:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj states this as a lead-in before asking the
-      astronaut whether he can physically feel the radiation once back on
-      Earth; kept as its own statement since it is a distinct factual
-      claim Raj makes.
+- id: raj-shamani-06801
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: assertion
+  text: 'Radiation is very high once you''re up there [in orbit].
 
-  - id: raj-shamani-06802
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: belief
-    text: >
-      In just a few weeks in space, an astronaut may accumulate as much
-      radiation exposure as we might not get even in years on Earth.
-    topic: space-radiation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:32:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj phrases this with a hedge ("shayad"/maybe) as
-      he asks the astronaut about radiation exposure limits; the guest
-      responds "that is true."
+    '
+  topic: space-radiation
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:31:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj states this as a lead-in before asking the astronaut whether he can physically feel the radiation once back on Earth; kept as its own statement since it is a distinct factual claim Raj makes.
 
-  - id: raj-shamani-06803
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: assertion
-    text: >
-      Before an astronaut puts on a spacesuit, they need about four hours
-      of pre-breathing pure oxygen.
-    topic: spacesuit-preparation
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:33:42]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj asks why this is required; the guest clarifies
-      this pre-breathing requirement is specifically for an EVA spacewalk
-      (going outside the station), not for his own IVA-only mission.
 
-  - id: raj-shamani-06804
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: belief
-    text: >
-      One small mistake during the mission and it could be over for
-      life — either being lost in space forever, or death, with nothing
-      in between.
-    topic: mission-risk
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:37:24]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj frames this scenario himself while asking how
-      the astronaut mentally prepares for the mission; the guest
-      subsequently pushes back somewhat, saying it's not that there is
-      nothing else — there are backup systems in place.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06802
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: belief
+  text: 'In just a few weeks in space, an astronaut may accumulate as much radiation exposure as we might not get even in years on Earth.
 
-  - id: raj-shamani-06805
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: observation
-    text: >
-      In fighter jet flying and test-piloting, there is always a safety
-      mechanism — you can press a button, eject, and a parachute will
-      keep you safe — but in a space mission there is nothing comparable.
-    topic: mission-risk
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:37:50]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Made as a comparison to the guest's own background
-      as a fighter pilot and test pilot; the guest replies that he
-      understands the point and agrees the risk is immense, but notes
-      there are still systems in place for space missions too.
+    '
+  topic: space-radiation
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:32:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj phrases this with a hedge ("shayad"/maybe) as he asks the astronaut about radiation exposure limits; the guest responds "that is true."
 
-  - id: raj-shamani-06806
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: evidence
-    text: >
-      Raj recounts that he once spoke with astronaut Sunita Williams, who
-      told him that the most dangerous smell in space is that of Indian
-      food — so strong that if you open it up there, everybody
-      immediately knows it's Indian food.
-    topic: astronaut-food
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:29:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj shares this as his own anecdote from a
-      separate prior conversation with Sunita Williams; the guest
-      confirms it is true here as well because of the amount of spices
-      used.
 
-  - id: raj-shamani-06807
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: belief
-    text: >
-      It's incredible that someone who comes from Lucknow, with no one
-      in his entire family background connected to space or science,
-      went against the odds to become the first Indian to reach the
-      International Space Station.
-    topic: guest-achievement
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:46:42]-[00:47:11]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Raj's framing comment made directly to the
-      guest, leading into a question about what he'd tell a similarly
-      placed child today.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06803
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: assertion
+  text: 'Before an astronaut puts on a spacesuit, they need about four hours of pre-breathing pure oxygen.
 
-  - id: raj-shamani-06808
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: belief
-    text: >
-      There is likely some kid right now in a small city who cannot even
-      dream of achieving something like this, because it may not even
-      seem possible to them.
-    topic: inspiration
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:47:11]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Immediately precedes Raj's question "what would
-      you tell that person?"
+    '
+  topic: spacesuit-preparation
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:33:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj asks why this is required; the guest clarifies this pre-breathing requirement is specifically for an EVA spacewalk (going outside the station), not for his own IVA-only mission.
 
-  - id: raj-shamani-06809
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: experience
-    text: >
-      Raj says he has never been to an air show.
-    topic: personal-experience
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:51:48]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Comes up as the guest asks Raj whether he has been
-      to an air show, while explaining why watching one fascinated him as
-      a child; Raj answers "no."
 
-  - id: raj-shamani-06810
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: experience
-    text: >
-      Raj mentions that ahead of the conversation he was reading about
-      different fighter jets and came across names he could not even
-      pronounce.
-    topic: personal-experience
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:13:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Said just before asking the guest to name and
-      compare three or four of the best fighter planes.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06804
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: belief
+  text: 'One small mistake during the mission and it could be over for life — either being lost in space forever, or death, with nothing in between.
 
-  - id: raj-shamani-06811
-    person: raj-shamani
-    source: raj-shamani-fo536-shubhanshu-shukla
-    type: observation
-    text: >
-      Asking "what is one piece of advice nobody should follow" is a
-      question Raj now asks almost every guest on his show.
-    topic: show-format
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:38:01]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Stated by Raj as he poses what he calls his
-      standard closing question.
+    '
+  topic: mission-risk
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:37:24]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj frames this scenario himself while asking how the astronaut mentally prepares for the mission; the guest subsequently pushes back somewhat, saying it''s not that there is nothing else — there are backup systems in place.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06805
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: observation
+  text: 'In fighter jet flying and test-piloting, there is always a safety mechanism — you can press a button, eject, and a parachute will keep you safe — but in a space mission there is nothing comparable.
+
+    '
+  topic: mission-risk
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:37:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Made as a comparison to the guest''s own background as a fighter pilot and test pilot; the guest replies that he understands the point and agrees the risk is immense, but notes there are still systems in place for space missions too.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06806
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: evidence
+  text: 'Raj recounts that he once spoke with astronaut Sunita Williams, who told him that the most dangerous smell in space is that of Indian food — so strong that if you open it up there, everybody immediately knows it''s Indian food.
+
+    '
+  topic: astronaut-food
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=a3UVcK612iU&t=1775s
+    start_timestamp: 00:29:35
+    end_timestamp: 00:29:50
+  evidence:
+    excerpt: null
+  notes: '~[00:29:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj shares this as his own anecdote from a separate prior conversation with Sunita Williams; the guest confirms it is true here as well because of the amount of spices used.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=a3UVcK612iU&t=1775s in-browser (English/Hindi caption text check, close/exact match).'
+- id: raj-shamani-06807
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: belief
+  text: 'It''s incredible that someone who comes from Lucknow, with no one in his entire family background connected to space or science, went against the odds to become the first Indian to reach the International Space Station.
+
+    '
+  topic: guest-achievement
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:46:42]-[00:47:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s framing comment made directly to the guest, leading into a question about what he''d tell a similarly placed child today.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06808
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: belief
+  text: 'There is likely some kid right now in a small city who cannot even dream of achieving something like this, because it may not even seem possible to them.
+
+    '
+  topic: inspiration
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:47:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Immediately precedes Raj''s question "what would you tell that person?"
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06809
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: experience
+  text: 'Raj says he has never been to an air show.
+
+    '
+  topic: personal-experience
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:51:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Comes up as the guest asks Raj whether he has been to an air show, while explaining why watching one fascinated him as a child; Raj answers "no."
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06810
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: experience
+  text: 'Raj mentions that ahead of the conversation he was reading about different fighter jets and came across names he could not even pronounce.
+
+    '
+  topic: personal-experience
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:13:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said just before asking the guest to name and compare three or four of the best fighter planes.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or didn''t clearly match in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-06811
+  person: raj-shamani
+  source: raj-shamani-fo536-shubhanshu-shukla
+  type: observation
+  text: 'Asking "what is one piece of advice nobody should follow" is a question Raj now asks almost every guest on his show.
+
+    '
+  topic: show-format
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=a3UVcK612iU&t=5880s
+    start_timestamp: 01:38:00
+    end_timestamp: 01:38:15
+  evidence:
+    excerpt: null
+  notes: '~[01:38:01]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Stated by Raj as he poses what he calls his standard closing question.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=a3UVcK612iU&t=5880s in-browser (English/Hindi caption text check, close/exact match).'
