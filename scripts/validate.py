@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
-"""Validate people/*.yaml, sources/*/*/metadata.yaml, and
-sources/*/*/statements.yaml against schema/*.schema.yaml, plus
-cross-file rules that JSON Schema alone can't express (id uniqueness,
-references that must resolve, and extra fields required once a
-statement is verified).
+"""Validate people/*.yaml, sources/episodes/*.yaml,
+sources/*/*/metadata.yaml, and sources/*/*/statements.yaml against
+schema/*.schema.yaml, plus cross-file rules that JSON Schema alone
+can't express (id uniqueness, references that must resolve, and extra
+fields required once a statement is verified).
 
 Collects every error before exiting, so a single run reports everything
 wrong across the repo rather than stopping at the first problem.
@@ -24,11 +24,12 @@ VERIFIED_REQUIRED_FIELDS = ["source_url", "start_timestamp", "end_timestamp", "v
 
 
 class Errors:
-    def __init__(self) -> None:
+    def __init__(self, repo_root: Path) -> None:
+        self.repo_root = repo_root
         self.items: list[str] = []
 
     def add(self, path: Path, message: str) -> None:
-        self.items.append(f"{path.relative_to(REPO_ROOT)}: {message}")
+        self.items.append(f"{path.relative_to(self.repo_root)}: {message}")
 
     @property
     def ok(self) -> bool:
@@ -56,19 +57,46 @@ def validate_against_schema(path: Path, data, validator: Draft7Validator, errors
         errors.add(path, f"{loc}: {err.message}")
 
 
-def main() -> int:
-    errors = Errors()
+def check_episode_data(data: dict, filename_stem: str) -> list[str]:
+    """Structural error messages for one sources/episodes/<id>.yaml record."""
+    messages: list[str] = []
+    if not isinstance(data, dict):
+        return messages
+    episode_id = data.get("id")
+    if episode_id and episode_id != filename_stem:
+        messages.append(f"id '{episode_id}' does not match filename '{filename_stem}.yaml'")
+    return messages
+
+
+def check_appearance_against_dirs(data: dict, person_dir: str, episode_dir: str) -> list[str]:
+    """Structural error messages for one appearance (source) record, given
+    the <person-slug> and <episode-slug> directory segments it lives under."""
+    messages: list[str] = []
+    if not isinstance(data, dict):
+        return messages
+    if data.get("person") and data["person"] != person_dir:
+        messages.append(f"person '{data['person']}' does not match directory '{person_dir}'")
+    if data.get("episode") and data["episode"] != episode_dir:
+        messages.append(f"episode '{data['episode']}' does not match directory '{episode_dir}'")
+    return messages
+
+
+def main(repo_root: Path | None = None) -> int:
+    repo_root = repo_root or REPO_ROOT
+    errors = Errors(repo_root)
 
     person_validator = load_schema("person.schema.yaml")
+    episode_validator = load_schema("episode.schema.yaml")
     source_validator = load_schema("source.schema.yaml")
     statement_validator = load_schema("statement.schema.yaml")
 
     person_ids: dict[str, Path] = {}
+    episode_ids: dict[str, Path] = {}
     source_ids: dict[str, Path] = {}
     statement_ids: dict[str, Path] = {}
 
     # --- people/*.yaml ---
-    for path in sorted((REPO_ROOT / "people").glob("*.yaml")):
+    for path in sorted((repo_root / "people").glob("*.yaml")):
         data = load_yaml(path, errors)
         if data is None:
             continue
@@ -78,12 +106,29 @@ def main() -> int:
             if person_id != path.stem:
                 errors.add(path, f"id '{person_id}' does not match filename '{path.stem}.yaml'")
             if person_id in person_ids:
-                errors.add(path, f"duplicate person id '{person_id}' (also in {person_ids[person_id].relative_to(REPO_ROOT)})")
+                errors.add(path, f"duplicate person id '{person_id}' (also in {person_ids[person_id].relative_to(repo_root)})")
             else:
                 person_ids[person_id] = path
 
-    # --- sources/<person>/<interviewer>/metadata.yaml ---
-    for path in sorted((REPO_ROOT / "sources").glob("*/*/metadata.yaml")):
+    # --- sources/episodes/*.yaml ---
+    episodes_dir = repo_root / "sources" / "episodes"
+    if episodes_dir.is_dir():
+        for path in sorted(episodes_dir.glob("*.yaml")):
+            data = load_yaml(path, errors)
+            if data is None:
+                continue
+            validate_against_schema(path, data, episode_validator, errors)
+            for message in check_episode_data(data, path.stem):
+                errors.add(path, message)
+            episode_id = data.get("id") if isinstance(data, dict) else None
+            if episode_id:
+                if episode_id in episode_ids:
+                    errors.add(path, f"duplicate episode id '{episode_id}' (also in {episode_ids[episode_id].relative_to(repo_root)})")
+                else:
+                    episode_ids[episode_id] = path
+
+    # --- sources/<person>/<episode>/metadata.yaml ---
+    for path in sorted((repo_root / "sources").glob("*/*/metadata.yaml")):
         data = load_yaml(path, errors)
         if data is None:
             continue
@@ -91,16 +136,14 @@ def main() -> int:
         if not isinstance(data, dict):
             continue
 
-        person_dir, interviewer_dir = path.parent.parts[-2], path.parent.parts[-1]
-        if data.get("person") and data["person"] != person_dir:
-            errors.add(path, f"person '{data['person']}' does not match directory '{person_dir}'")
-        if data.get("interviewer_slug") and data["interviewer_slug"] != interviewer_dir:
-            errors.add(path, f"interviewer_slug '{data['interviewer_slug']}' does not match directory '{interviewer_dir}'")
+        person_dir, episode_dir = path.parent.parts[-2], path.parent.parts[-1]
+        for message in check_appearance_against_dirs(data, person_dir, episode_dir):
+            errors.add(path, message)
 
         source_id = data.get("id")
         if source_id:
             if source_id in source_ids:
-                errors.add(path, f"duplicate source id '{source_id}' (also in {source_ids[source_id].relative_to(REPO_ROOT)})")
+                errors.add(path, f"duplicate source id '{source_id}' (also in {source_ids[source_id].relative_to(repo_root)})")
             else:
                 source_ids[source_id] = path
 
@@ -108,8 +151,12 @@ def main() -> int:
         if person_ref and person_ref not in person_ids:
             errors.add(path, f"person '{person_ref}' does not match any people/*.yaml id")
 
-    # --- sources/<person>/<interviewer>/statements.yaml ---
-    for path in sorted((REPO_ROOT / "sources").glob("*/*/statements.yaml")):
+        episode_ref = data.get("episode")
+        if episode_ref and episode_ref not in episode_ids:
+            errors.add(path, f"episode '{episode_ref}' does not match any sources/episodes/*.yaml id")
+
+    # --- sources/<person>/<episode>/statements.yaml ---
+    for path in sorted((repo_root / "sources").glob("*/*/statements.yaml")):
         data = load_yaml(path, errors)
         if data is None:
             continue
@@ -125,7 +172,7 @@ def main() -> int:
             statement_id = statement.get("id")
             if statement_id:
                 if statement_id in statement_ids:
-                    errors.add(path, f"duplicate statement id '{statement_id}' (also in {statement_ids[statement_id].relative_to(REPO_ROOT)})")
+                    errors.add(path, f"duplicate statement id '{statement_id}' (also in {statement_ids[statement_id].relative_to(repo_root)})")
                 else:
                     statement_ids[statement_id] = path
 
@@ -147,7 +194,10 @@ def main() -> int:
                     )
 
     if errors.ok:
-        print(f"OK: {len(person_ids)} people, {len(source_ids)} sources, {len(statement_ids)} statements — all valid.")
+        print(
+            f"OK: {len(person_ids)} people, {len(episode_ids)} episodes, "
+            f"{len(source_ids)} appearances, {len(statement_ids)} statements — all valid."
+        )
         return 0
 
     print(f"FAILED: {len(errors.items)} error(s)\n")
