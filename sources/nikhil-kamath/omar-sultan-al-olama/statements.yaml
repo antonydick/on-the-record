@@ -1,1 +1,99 @@
-statements: []
+statements:
+  - id: nikhil-kamath-136
+    person: nikhil-kamath
+    source: nikhil-kamath-omar-sultan-al-olama
+    type: assertion
+    text: >
+      States he is 39 years old, a few years older than Omar Sultan
+      Al Olama (35), while discussing generational differences.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing UAE AI
+      Minister Omar Sultan Al Olama), no diarization. Attribution
+      inferred from conversational role, not confirmed via video.
+      Cross-reference: published 2026-01-10, consistent with the
+      36 (2023) -> 38 (May 2025) -> 39 (Jan 2026 / May-June 2026)
+      progression established across nikhil-kamath-101,
+      nikhil-kamath-130, nikhil-kamath-097 and nikhil-kamath-119. A
+      brief exchange moments later in the transcript ("I'm dreading 36")
+      is garbled/inconsistent in the auto-transcript and should not be
+      relied on.
+
+  - id: nikhil-kamath-137
+    person: nikhil-kamath
+    source: nikhil-kamath-omar-sultan-al-olama
+    type: experience
+    text: >
+      The event moderator notes, and Nikhil does not contest, that his
+      interview lineup that month included Elon Musk, Sam Altman, and
+      Ray Dalio before this conversation with Omar Sultan Al Olama.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-136. Stated by
+      the moderator ("Manoj"/"Manuj" in the garbled transcript) rather
+      than by Nikhil in the first person -- confirm which specific
+      episodes these correspond to during verification, and check
+      whether Elon Musk, Sam Altman, and Ray Dalio sources need to be
+      added to this dataset.
+
+  - id: nikhil-kamath-138
+    person: nikhil-kamath
+    source: nikhil-kamath-omar-sultan-al-olama
+    type: experience
+    text: >
+      Indicates he has read Machiavelli's "The Prince," drawing on
+      specific passages from it (the advice that a prince must "appear"
+      generous, forgiving, and religious) during the discussion.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-136.
+
+  - id: nikhil-kamath-139
+    person: nikhil-kamath
+    source: nikhil-kamath-omar-sultan-al-olama
+    type: experience
+    text: >
+      Says he plays paddle back home in India with an 18-year-old
+      teammate named Dion, whom he describes as significantly better
+      than he is.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-136.
+      Cross-reference: consistent with the paddle/racquet-sport habit
+      referenced in nikhil-kamath-117 (Mankind x Dr. Reddy's episode).
