@@ -14,20 +14,29 @@ statements:
       months across travel, fashion, and e-commerce.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=hjiZ11lKCrU&t=1s"
+      start_timestamp: "0:03"
+      end_timestamp: "1:10"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: three-person panel (Nikhil hosting Mensa
-      Brands' Ananth Narayanan, detergent-brand-turned-House-of-X founder
-      Raj, and a third guest, Kishore), no diarization in the
-      auto-transcript. Stated in first person in the host's opening
-      framing of the episode.
+      Brands' founder Ananth Narayanan, House of X/Figuring Out founder
+      Raj Shamani, and Future Group's Kishore Biyani), no diarization in
+      the auto-transcript. Stated in first person in the host's opening
+      framing of the episode (a continuous monologue over the intro
+      music/disclaimer overlay, not a separate cold-open trailer clip as
+      initially suspected). Confirmed via video at 0:03-1:10 ("Intro"
+      chapter): "so I have been looking into consumption we created a
+      fund to invest into companies around consumption uh there seems to
+      be a double standard in a way wherein the reported numbers on the
+      top are looking good but everyone I talk to on the ground is
+      talking about how consumption seems to have dropped in the last two
+      or three months uh this could be in travel this could be in fashion
+      this could be eCommerce uh across segments."
 
   - id: nikhil-kamath-205
     person: nikhil-kamath
@@ -48,14 +57,28 @@ statements:
       amount.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=hjiZ11lKCrU&t=12081s"
+      start_timestamp: "3:21:21"
+      end_timestamp: "3:23:02"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-204. Proposed and
-      narrated in first person by the host near the end of the episode.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-204, resolved the
+      same way (Nikhil visibly on camera throughout). Proposed and
+      narrated in first person by the host near the end of the episode
+      ("Special Announcement: Apply Below!" chapter). Confirmed via video
+      across two parts of the same continuous closing negotiation: at
+      3:21:21-3:21:42, "...sure finding young people when he started like
+      yeah yeah like him ... in the last episode we had the zepto guys and
+      you know the one thing they said that was so incredibly cool is
+      they got a grant of 40 lakhs from this fund when they were 18 and
+      that's what helped them build [Ze]pto ... amazing yeah so we'll
+      figure out an investment between all of this"; then at 3:22:42-
+      3:23:02, "...much better also should we do a larger amount so it'll
+      be game changing we can do we can do whatever or we can do two
+      companies so should we do 20 lakhs each and two companies 40 lakhs
+      ... yeah that's much better yeah I think it'll increase the
+      probability also done and we will ask them to incorporate."
