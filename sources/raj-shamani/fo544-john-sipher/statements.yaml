@@ -1,882 +1,778 @@
 statements:
-  - id: raj-shamani-08401
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj introduces John Sipher as a former CIA intelligence officer who
-      spent 28 years in the CIA's covert operations, where he recruited
-      spies and carried out intelligence missions around the world,
-      including work in Russia, China, and Pakistan.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's spoken guest introduction/voiceover near
-      the top of the episode.
+- id: raj-shamani-08401
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj introduces John Sipher as a former CIA intelligence officer who spent 28 years in the CIA''s covert operations, where he recruited spies and carried out intelligence missions around the world, including work in Russia, China, and Pakistan.
 
-  - id: raj-shamani-08402
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj opens the interview by characterizing Sipher's nearly 28-year
-      career as recruiting people who would betray their own countries,
-      helping people overthrow their governments, hunting down traitors,
-      and identifying informants within the US's own system.
-    topic: guest-career-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj's own provocative framing of Sipher's
-      career at the start of the main interview, after the sponsor break.
+    '
+  topic: guest-introduction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s spoken guest introduction/voiceover near the top of the episode.
 
-  - id: raj-shamani-08403
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks Sipher to imagine someone meeting him for the first time who
-      is immediately drawn to him in conversation, and asks how Sipher
-      would explain to that person what he does for a living.
-    topic: first-impression-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:47]-[00:03:10]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. The auto-caption text is somewhat garbled
-      around this exchange; phrasing is approximate.
 
-  - id: raj-shamani-08404
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks whether today's United States is losing trust around the
-      world and whether people now see America as an unreliable partner.
-    topic: us-losing-trust-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:07:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. A shorter version of this same question also appears
-      in the cold-open highlight reel at the very start of the episode
-      ([00:00:00]).
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08402
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj opens the interview by characterizing Sipher''s nearly 28-year career as recruiting people who would betray their own countries, helping people overthrow their governments, hunting down traitors, and identifying informants within the US''s own system.
 
-  - id: raj-shamani-08405
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks Sipher whether he tells his children that he was a spy in
-      some country.
-    topic: tells-kids-about-cia-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:09:51]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: guest-career-framing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj''s own provocative framing of Sipher''s career at the start of the main interview, after the sponsor break.
 
-  - id: raj-shamani-08406
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks at what age Sipher told his children about his CIA work.
-    topic: kids-age-told-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:11:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-08407
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: belief
-    text: >
-      Raj states his own view that, at least in the world of espionage and
-      intelligence, Russia wants chaos, China wants a bit of patience, and
-      Pakistan wants a lot of influence.
-    topic: russia-china-pakistan-comparison
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:12:21]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj offers this comparison himself before asking
-      Sipher to explain further.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08403
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks Sipher to imagine someone meeting him for the first time who is immediately drawn to him in conversation, and asks how Sipher would explain to that person what he does for a living.
 
-  - id: raj-shamani-08408
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks Sipher to explain how Russia, China, and Pakistan differ
-      from each other and how each of their intelligence services
-      operates.
-    topic: russia-china-pakistan-comparison
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:12:21]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: first-impression-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:47]-[00:03:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The auto-caption text is somewhat garbled around this exchange; phrasing is approximate.
 
-  - id: raj-shamani-08409
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks what the CIA fears most.
-    topic: cia-biggest-fear-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:18:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The same question also appears in the cold-open
-      highlight reel at the start of the episode.
 
-  - id: raj-shamani-08410
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks whether Sipher thinks China will at some point challenge the
-      US for the world's number one position.
-    topic: china-number-one-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:20:16]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. A version of this question also appears in the
-      cold-open highlight reel, phrased with the added words "is it
-      inevitable."
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08404
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks whether today''s United States is losing trust around the world and whether people now see America as an unreliable partner.
 
-  - id: raj-shamani-08411
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: observation
-    text: >
-      Raj observes that in Africa and some neighboring countries, China has
-      effectively economically colonized them by giving them so much money
-      that they can never repay it, so that China now controls their
-      ports, governments, airports, and virtually all infrastructure
-      there.
-    topic: china-debt-colonization
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:21:49]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: us-losing-trust-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:07:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. A shorter version of this same question also appears in the cold-open highlight reel at the very start of the episode ([00:00:00]).
 
-  - id: raj-shamani-08412
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks whether countries that are economically dependent on China
-      in this way would then support China.
-    topic: china-support-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:22:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Follows directly from Raj's observation about
-      China's economic leverage over African and neighboring countries.
 
-  - id: raj-shamani-08413
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: belief
-    text: >
-      Raj argues that India should be America's most natural ally, since
-      ideologically both are democracies -- describing the US and India as
-      the world's most powerful and biggest democracies respectively -- and
-      both believe in free markets, liberty, capital formation, and
-      protecting their own interests.
-    topic: india-natural-ally
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:24:33]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08405
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks Sipher whether he tells his children that he was a spy in some country.
 
-  - id: raj-shamani-08414
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: qualification
-    text: >
-      Raj adds that, at least on paper, both India and the US talk about
-      world peace, world friendship, moving forward together, democracy,
-      freedom, and counter-terrorism, though he notes that at the moment
-      America doesn't seem to be living up to that itself.
-    topic: india-natural-ally
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:25:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Directly continues Raj's argument about India as a
-      natural US ally.
+    '
+  topic: tells-kids-about-cia-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:09:51]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-08415
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks what is really going on given that the US nonetheless
-      maintains what he calls a kind of "toxic marriage" with the ISI and
-      Pakistan, despite Pakistan's support for terrorism to serve its own
-      purposes, its heavy reliance on military rule over democracy, and its
-      close alliance with China, which the US opposes.
-    topic: toxic-marriage-pakistan
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:25:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-08416
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: belief
-    text: >
-      Raj remarks that he thinks Trump has a personal interest in the
-      crypto world, and comments that he doesn't know what's going on with
-      the rest of the Trump family's interests.
-    topic: trump-crypto-interest
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:29:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker attribution here is somewhat uncertain since
-      the transcript has no speaker labels and this is a short interjection
-      within a longer exchange about US-Pakistan relations; the surrounding
-      context and phrasing suggest this is Raj's comment rather than
-      Sipher's.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08406
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks at what age Sipher told his children about his CIA work.
 
-  - id: raj-shamani-08417
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj references a past statement by Sipher to the effect that Russia
-      doesn't need to use Trump as an agent, calls it a striking thing for
-      a former CIA officer to say, and asks Sipher to repeat and explain
-      that statement.
-    topic: trump-russia-agent-statement
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:30:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The auto-caption renders a name before "Russia" that
-      is garbled/unclear (transcribed here only as Raj's reference to a
-      prior Sipher statement, without that name).
+    '
+  topic: kids-age-told-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:11:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-08418
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks which is more dangerous: a person who knows he is working
-      for an enemy country, or a person who doesn't realize he's being
-      used and is simply a fool.
-    topic: more-dangerous-agent-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raised in the context of discussing the Russian
-      concept of a "useful idiot."
 
-  - id: raj-shamani-08419
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Playing devil's advocate, Raj asks whether -- since Trump says he
-      wants to bring manufacturing jobs back to America, improve the
-      economy, and correct the trade imbalance -- Trump might actually be
-      doing something right for Americans, explicitly noting that he is
-      "just asking."
-    topic: trump-devils-advocate
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:40:31]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08407
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: belief
+  text: 'Raj states his own view that, at least in the world of espionage and intelligence, Russia wants chaos, China wants a bit of patience, and Pakistan wants a lot of influence.
 
-  - id: raj-shamani-08420
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks whether people in America actually like Trump.
-    topic: americans-like-trump-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:44:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: russia-china-pakistan-comparison
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:12:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj offers this comparison himself before asking Sipher to explain further.
 
-  - id: raj-shamani-08421
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks whether US civic education isn't as strong as it should be,
-      and whether the American economy has real structural problems severe
-      enough that people are willing to risk electing someone like Trump
-      as president.
-    topic: civic-education-economy-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:46:07]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-08422
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj states that the CIA had been tracking Khamenei's location and
-      movements and shared that intelligence with Israel, and that Israel
-      used AI and traffic-camera data to identify targets and carry out a
-      strike.
-    topic: cia-khamenei-tracking
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:47:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker attribution is somewhat uncertain given the
-      lack of speaker labels in the transcript, but the phrasing and pivot
-      into a new topic suggest this is Raj introducing the claim/question
-      rather than Sipher continuing his own answer.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08408
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks Sipher to explain how Russia, China, and Pakistan differ from each other and how each of their intelligence services operates.
 
-  - id: raj-shamani-08423
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: belief
-    text: >
-      Raj comments that what Sipher is describing sounds like it was
-      probably a mix of the NSA and CIA working together and making
-      decisions jointly, rather than the CIA alone.
-    topic: cia-nsa-collaboration
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:49:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: russia-china-pakistan-comparison
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:12:21]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-08424
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj states that US agencies shared targeting data with Israel, that
-      Israel believed a strike would produce regime change while the CIA
-      assessed that it would not, and that Israel went ahead with the
-      strike anyway, with the outcome now visible.
-    topic: israel-regime-change-assessment
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:49:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker attribution is somewhat uncertain given the
-      lack of speaker labels, but the summarizing, question-like phrasing
-      suggests this is Raj restating the situation back to Sipher.
 
-  - id: raj-shamani-08425
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: observation
-    text: >
-      Raj observes that Russia is a subject Sipher has been especially
-      vocal and confident about, noting that Sipher has compared today's
-      Russia to the pre-9/11 threat posed by Al-Qaeda, and asks why he
-      draws that comparison.
-    topic: russia-alqaeda-comparison
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:51:50]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08409
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks what the CIA fears most.
 
-  - id: raj-shamani-08426
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks Sipher for his personal view of Putin specifically -- not
-      how the world sees him -- including how Putin behaves, what his
-      agenda is, and what he is like psychologically.
-    topic: putin-own-view-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:54:52]-[00:55:23]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: cia-biggest-fear-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:18:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The same question also appears in the cold-open highlight reel at the start of the episode.
 
-  - id: raj-shamani-08427
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks what Putin actually wants that he cannot say publicly.
-    topic: putin-private-wants-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:03:23]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. A version of this question also appears in the
-      cold-open highlight reel at the start of the episode.
 
-  - id: raj-shamani-08428
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: belief
-    text: >
-      Raj remarks that Putin is nonetheless a "good friend" of India,
-      reasoning that Russia, squeezed by sanctions and needing money, sells
-      India cheap oil, which is good for India's economy and good for
-      Russia too.
-    topic: putin-good-friend-india
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:04:24]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08410
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks whether Sipher thinks China will at some point challenge the US for the world''s number one position.
 
-  - id: raj-shamani-08429
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks whether the Russian people also want the same things Putin
-      is pursuing.
-    topic: russians-want-same-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:04:51]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: china-number-one-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:20:16]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. A version of this question also appears in the cold-open highlight reel, phrased with the added words "is it inevitable."
 
-  - id: raj-shamani-08430
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: belief
-    text: >
-      Raj says he has often said that he wants to be in a room where the
-      people working for him are more intelligent than he is, and that he
-      wants good, capable people around him.
-    topic: raj-leadership-philosophy
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:09:34]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. First-person phrasing ("I have often said...") in the
-      transcript strongly suggests this is Raj's own remark about his
-      personal leadership philosophy, made in response to a discussion of
-      good leaders surrounding themselves with capable people.
 
-  - id: raj-shamani-08431
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks Sipher which single potential candidate he would want to
-      watch as a possible successor to Trump.
-    topic: trump-successor-pick-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:13:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08411
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: observation
+  text: 'Raj observes that in Africa and some neighboring countries, China has effectively economically colonized them by giving them so much money that they can never repay it, so that China now controls their ports, governments, airports, and virtually all infrastructure there.
 
-  - id: raj-shamani-08432
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks Sipher to explain tradecraft -- what it is -- and
-      specifically how one would go about recruiting a spy.
-    topic: tradecraft-recruit-spy-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:46]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. A version of this question ("How would you recruit a
-      spy?") also appears in the cold-open highlight reel at the start of
-      the episode, where the term for "tradecraft" is garbled in the
-      auto-caption.
+    '
+  topic: china-debt-colonization
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:21:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-08433
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks Sipher to explain what goes on inside the FBI and CIA, both
-      traditionally and in the present day.
-    topic: fbi-cia-inside-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:21:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-08434
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks why the FBI and CIA don't trust each other.
-    topic: fbi-cia-trust-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:25:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08412
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks whether countries that are economically dependent on China in this way would then support China.
 
-  - id: raj-shamani-08435
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      As a final question, Raj poses a hypothetical: given an unlimited
-      budget and 90 days, with no Senate, no government, no White House,
-      and no need for approval, what would Sipher want to do that no
-      government would ever authorize.
-    topic: unlimited-budget-hypothetical
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:27:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: china-support-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:22:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Follows directly from Raj''s observation about China''s economic leverage over African and neighboring countries.
 
-  - id: raj-shamani-08436
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: observation
-    text: >
-      Raj says that, purely out of curiosity and not something he had
-      planned to ask, he found online that Sipher keeps a brick from Osama
-      bin Laden's house, and asks how he obtained it and the story behind
-      it.
-    topic: bin-laden-brick-curiosity
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:30:13]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-08437
-    person: raj-shamani
-    source: raj-shamani-fo544-john-sipher
-    type: assertion
-    text: >
-      Raj asks Sipher what the brick reminds him of, and pointedly why he
-      would keep something connected to one of the world's biggest
-      terrorists.
-    topic: bin-laden-brick-why-keep
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:31:05]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08413
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: belief
+  text: 'Raj argues that India should be America''s most natural ally, since ideologically both are democracies -- describing the US and India as the world''s most powerful and biggest democracies respectively -- and both believe in free markets, liberty, capital formation, and protecting their own interests.
+
+    '
+  topic: india-natural-ally
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:24:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08414
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: qualification
+  text: 'Raj adds that, at least on paper, both India and the US talk about world peace, world friendship, moving forward together, democracy, freedom, and counter-terrorism, though he notes that at the moment America doesn''t seem to be living up to that itself.
+
+    '
+  topic: india-natural-ally
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:25:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Directly continues Raj''s argument about India as a natural US ally.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08415
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks what is really going on given that the US nonetheless maintains what he calls a kind of "toxic marriage" with the ISI and Pakistan, despite Pakistan''s support for terrorism to serve its own purposes, its heavy reliance on military rule over democracy, and its close alliance with China, which the US opposes.
+
+    '
+  topic: toxic-marriage-pakistan
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:25:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08416
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: belief
+  text: 'Raj remarks that he thinks Trump has a personal interest in the crypto world, and comments that he doesn''t know what''s going on with the rest of the Trump family''s interests.
+
+    '
+  topic: trump-crypto-interest
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:29:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker attribution here is somewhat uncertain since the transcript has no speaker labels and this is a short interjection within a longer exchange about US-Pakistan relations; the surrounding context and phrasing suggest this is Raj''s comment rather than Sipher''s.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08417
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj references a past statement by Sipher to the effect that Russia doesn''t need to use Trump as an agent, calls it a striking thing for a former CIA officer to say, and asks Sipher to repeat and explain that statement.
+
+    '
+  topic: trump-russia-agent-statement
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:30:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The auto-caption renders a name before "Russia" that is garbled/unclear (transcribed here only as Raj''s reference to a prior Sipher statement, without that name).
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08418
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks which is more dangerous: a person who knows he is working for an enemy country, or a person who doesn''t realize he''s being used and is simply a fool.
+
+    '
+  topic: more-dangerous-agent-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raised in the context of discussing the Russian concept of a "useful idiot."
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08419
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Playing devil''s advocate, Raj asks whether -- since Trump says he wants to bring manufacturing jobs back to America, improve the economy, and correct the trade imbalance -- Trump might actually be doing something right for Americans, explicitly noting that he is "just asking."
+
+    '
+  topic: trump-devils-advocate
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:40:31]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08420
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks whether people in America actually like Trump.
+
+    '
+  topic: americans-like-trump-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:44:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08421
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks whether US civic education isn''t as strong as it should be, and whether the American economy has real structural problems severe enough that people are willing to risk electing someone like Trump as president.
+
+    '
+  topic: civic-education-economy-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:46:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08422
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj states that the CIA had been tracking Khamenei''s location and movements and shared that intelligence with Israel, and that Israel used AI and traffic-camera data to identify targets and carry out a strike.
+
+    '
+  topic: cia-khamenei-tracking
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:47:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker attribution is somewhat uncertain given the lack of speaker labels in the transcript, but the phrasing and pivot into a new topic suggest this is Raj introducing the claim/question rather than Sipher continuing his own answer.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08423
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: belief
+  text: 'Raj comments that what Sipher is describing sounds like it was probably a mix of the NSA and CIA working together and making decisions jointly, rather than the CIA alone.
+
+    '
+  topic: cia-nsa-collaboration
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:49:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08424
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj states that US agencies shared targeting data with Israel, that Israel believed a strike would produce regime change while the CIA assessed that it would not, and that Israel went ahead with the strike anyway, with the outcome now visible.
+
+    '
+  topic: israel-regime-change-assessment
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:49:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker attribution is somewhat uncertain given the lack of speaker labels, but the summarizing, question-like phrasing suggests this is Raj restating the situation back to Sipher.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08425
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: observation
+  text: 'Raj observes that Russia is a subject Sipher has been especially vocal and confident about, noting that Sipher has compared today''s Russia to the pre-9/11 threat posed by Al-Qaeda, and asks why he draws that comparison.
+
+    '
+  topic: russia-alqaeda-comparison
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:51:50]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08426
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks Sipher for his personal view of Putin specifically -- not how the world sees him -- including how Putin behaves, what his agenda is, and what he is like psychologically.
+
+    '
+  topic: putin-own-view-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:54:52]-[00:55:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08427
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks what Putin actually wants that he cannot say publicly.
+
+    '
+  topic: putin-private-wants-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:03:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. A version of this question also appears in the cold-open highlight reel at the start of the episode.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08428
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: belief
+  text: 'Raj remarks that Putin is nonetheless a "good friend" of India, reasoning that Russia, squeezed by sanctions and needing money, sells India cheap oil, which is good for India''s economy and good for Russia too.
+
+    '
+  topic: putin-good-friend-india
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:04:24]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08429
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks whether the Russian people also want the same things Putin is pursuing.
+
+    '
+  topic: russians-want-same-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:04:51]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08430
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: belief
+  text: 'Raj says he has often said that he wants to be in a room where the people working for him are more intelligent than he is, and that he wants good, capable people around him.
+
+    '
+  topic: raj-leadership-philosophy
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:09:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. First-person phrasing ("I have often said...") in the transcript strongly suggests this is Raj''s own remark about his personal leadership philosophy, made in response to a discussion of good leaders surrounding themselves with capable people.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08431
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks Sipher which single potential candidate he would want to watch as a possible successor to Trump.
+
+    '
+  topic: trump-successor-pick-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:13:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08432
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks Sipher to explain tradecraft -- what it is -- and specifically how one would go about recruiting a spy.
+
+    '
+  topic: tradecraft-recruit-spy-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:14:46]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. A version of this question ("How would you recruit a spy?") also appears in the cold-open highlight reel at the start of the episode, where the term for "tradecraft" is garbled in the auto-caption.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08433
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks Sipher to explain what goes on inside the FBI and CIA, both traditionally and in the present day.
+
+    '
+  topic: fbi-cia-inside-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:21:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08434
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks why the FBI and CIA don''t trust each other.
+
+    '
+  topic: fbi-cia-trust-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:25:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-08435
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'As a final question, Raj poses a hypothetical: given an unlimited budget and 90 days, with no Senate, no government, no White House, and no need for approval, what would Sipher want to do that no government would ever authorize.
+
+    '
+  topic: unlimited-budget-hypothetical
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=QPXJ3VL7Li4&t=5218s
+    start_timestamp: 01:26:58
+    end_timestamp: 01:27:10
+  evidence:
+    excerpt: null
+  notes: '~[01:27:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=QPXJ3VL7Li4&t=5218s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-08436
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: observation
+  text: 'Raj says that, purely out of curiosity and not something he had planned to ask, he found online that Sipher keeps a brick from Osama bin Laden''s house, and asks how he obtained it and the story behind it.
+
+    '
+  topic: bin-laden-brick-curiosity
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=QPXJ3VL7Li4&t=5411s
+    start_timestamp: 01:30:11
+    end_timestamp: 01:30:24
+  evidence:
+    excerpt: null
+  notes: '~[01:30:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=QPXJ3VL7Li4&t=5411s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-08437
+  person: raj-shamani
+  source: raj-shamani-fo544-john-sipher
+  type: assertion
+  text: 'Raj asks Sipher what the brick reminds him of, and pointedly why he would keep something connected to one of the world''s biggest terrorists.
+
+    '
+  topic: bin-laden-brick-why-keep
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=QPXJ3VL7Li4&t=5463s
+    start_timestamp: 01:31:03
+    end_timestamp: 01:31:14
+  evidence:
+    excerpt: null
+  notes: '~[01:31:05]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=QPXJ3VL7Li4&t=5463s in-browser (English caption text check, close/exact match).'
