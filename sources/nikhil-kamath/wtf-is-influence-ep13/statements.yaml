@@ -1,1 +1,55 @@
-statements: []
+statements:
+  - id: nikhil-kamath-210
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-influence-ep13
+    type: experience
+    text: >
+      Is confirmed by guest Nuseir Yassin (Nas Daily) to be an investor in
+      Yassin's company, which is building the creator-monetization
+      platform Nas.io (helping creators turn their community/audience
+      into a business via memberships, digital courses, and similar
+      products).
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting Nas Daily's
+      Nuseir Yassin, comedian/entrepreneur Tanmay Bhat, content creator
+      Prajakta Koli, and BeerBiceps' Ranveer Allahbadia), no diarization
+      in the auto-transcript. This is a claim made about Nikhil by
+      Nuseir directly addressing him on camera ("Do you know what you
+      invested in? In my company -- so your money I'm using, we're
+      building this platform that you've invested in... great track
+      record, genius investor, I'm using your money"), which Nikhil does
+      not dispute.
+
+  - id: nikhil-kamath-211
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-influence-ep13
+    type: experience
+    text: >
+      In the show's recurring end-of-episode community-support segment,
+      after other panelists pledge 5 lakh rupees each toward free training
+      for 50 selected aspiring creators, commits 50 lakh rupees of his own
+      to the same pool.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-210. This is the
+      show's recurring closing format, committed in first person by the
+      host near the end of the episode ("I'll add amount to 50 lakhs").
