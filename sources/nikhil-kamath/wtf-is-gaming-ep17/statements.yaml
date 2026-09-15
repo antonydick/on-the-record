@@ -10,22 +10,26 @@ statements:
       holding around a 5% stake.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=VIlfHB7Jk2s&t=372s"
+      start_timestamp: "6:12"
+      end_timestamp: "6:22"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting Nazara
       Technologies founder Nitish Mittersain, Krafton India's Sean [Sung
       Hyun] Kim, Lila Games' Joseph, and esports player/content creator
-      "8bit Thug"), no diarization in the auto-transcript. Stated
-      explicitly in first person as a disclosure ("for all the
-      disclosures that should be made I am an investor in Nitish's
-      company... 5% investor").
+      "8bit Thug"), no diarization in the auto-transcript, but clear
+      video (Nikhil on camera, with an on-screen Economic Times graphic:
+      "Zerodha's Nikhil Kamath invests Rs 100 crore in gaming company
+      Nazara"). Confirmed via video at 6:12-6:22 ("Nitish Mittersain
+      Introduction Continued" chapter): "Okay, for all the disclosures
+      that should be made, I am an investor in Nitish's company" ... "And
+      what is it, 4-5%?" ... "5% investor" ... "and like I'm gonna bug all
+      of you today, I bug him a lot on questions."
 
   - id: nikhil-kamath-209
     person: nikhil-kamath
@@ -38,20 +42,31 @@ statements:
       through an open application process (with the panelists jointly
       selecting the 20), to receive mentorship, internships, grants, and
       cloud credits from the assembled companies; commits 1 crore rupees
-      of his own toward this, matching Krafton's commitment, alongside
-      Nazara's separate 1 crore rupee commitment.
+      of his own toward this, matching Nazara/Nitish Mittersain's 1 crore
+      rupee commitment (Krafton's separate contribution is cloud credits
+      and partner-program support, not a matching cash commitment).
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=VIlfHB7Jk2s&t=9663s"
+      start_timestamp: "2:41:07"
+      end_timestamp: "2:41:25"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-208. This is the
-      show's recurring closing format, proposed and narrated in first
-      person by the host near the end of the episode ("so I'll do one CR
-      as well").
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-208, resolved the
+      same way (clear video, Nikhil identifiable). CORRECTION TO DRAFT:
+      the original draft said Nikhil's 1-crore pledge matches "Krafton's"
+      commitment; per NotebookLM cross-reference and the real video, the
+      1-crore commitment sequence is actually Nitish Mittersain (Nazara)
+      pledging first ("1 CR to start with but we can double down on that
+      done," ~2:38:20-2:38:32), then Krafton's Sean Kim separately
+      offering cloud credits/partner-program support (no crore figure,
+      ~2:40:48-2:41:05), and finally Nikhil matching Nitish/Nazara's
+      figure. Confirmed via video at 2:41:07-2:41:25 ("WTFund" closing
+      segment): "...so I'll do one CR as well so we will pick these 20
+      people and do all we can from time money grant Cloud credits
+      mentorship" ... "the only key here is I will lean upon you guys to
+      pick who the 20 should be." Text field corrected accordingly.
