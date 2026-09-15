@@ -126,6 +126,43 @@ def test_extract_name_candidates_from_notes_no_attribution_block():
     assert rg.extract_name_candidates_from_notes("Just some ordinary notes.") == []
 
 
+def test_extract_name_candidates_from_notes_ignores_later_parenthetical_asides():
+    # Real example shape (nikhil-kamath/wtf-is-gaming-ep17 statements.yaml,
+    # statement nikhil-kamath-209): the block's own guest-list parenthetical
+    # is not the first paren group here (it's a later aside, "(clear video,
+    # Nikhil identifiable)"), but a later, unrelated aside -- "(Nazara)" --
+    # happens to be a single capitalized word and must not be extracted as
+    # a name candidate.
+    notes = (
+        "SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-208, resolved the "
+        "same way (clear video, Nikhil identifiable). CORRECTION TO DRAFT: "
+        "the original draft said Nikhil's 1-crore pledge matches Krafton's "
+        "commitment; per cross-reference and the real video, the 1-crore "
+        "commitment sequence is actually Nitish Mittersain (Nazara) "
+        "pledging first, then Krafton's Sean Kim separately offering cloud "
+        "credits."
+    )
+    names = rg.extract_name_candidates_from_notes(notes)
+    assert "Nazara" not in names
+
+
+def test_extract_name_candidates_from_notes_ignores_later_aside_after_guest_list():
+    # Real example shape (nikhil-kamath/ray-dalio statements.yaml): the
+    # block's first paren group is the genuine guest-list parenthetical
+    # ("(Nikhil interviewing Ray Dalio)"), but a later, unrelated aside --
+    # "(Northeast Airlines, ending ~4:45)" -- must not contribute "Northeast
+    # Airlines" as a name candidate just because it's 1-4 capitalized words.
+    notes = (
+        "SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Ray "
+        "Dalio), no diarization, but confirmed via video: Nikhil is on "
+        "camera saying he bought a company called Marsoft, immediately "
+        "after Ray finishes his own first-stock story (Northeast Airlines, "
+        "ending ~4:45)."
+    )
+    names = rg.extract_name_candidates_from_notes(notes)
+    assert "Northeast Airlines" not in names
+
+
 def test_extract_name_candidates_from_title_rejects_headline_noun_phrase_before_colon():
     # Real example shape (fo545-ian-bremmer): the leading-name-before-colon
     # heuristic must not treat a capitalized headline noun phrase as a

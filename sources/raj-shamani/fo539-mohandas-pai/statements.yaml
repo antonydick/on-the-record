@@ -1,1095 +1,946 @@
 statements:
-  - id: raj-shamani-07401
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: observation
-    text: >
-      Raj introduces T.V. Mohandas Pai as co-founder and chairman of Aarin
-      Capital, framing the episode as covering India's economic future,
-      entrepreneurship, startups, investment, education, and the
-      governance and policies shaping the country's development.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:33]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the spoken intro/framing segment before the
-      interview proper begins.
+- id: raj-shamani-07401
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: observation
+  text: 'Raj introduces T.V. Mohandas Pai as co-founder and chairman of Aarin Capital, framing the episode as covering India''s economic future, entrepreneurship, startups, investment, education, and the governance and policies shaping the country''s development.
 
-  - id: raj-shamani-07402
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: observation
-    text: >
-      Raj opens the interview by reading back something Pai apparently
-      said about paying his taxes and receiving a "platinum certificate"
-      in return, while still being treated very badly by tax authorities,
-      then asks him what he means by that.
-    topic: tax-terrorism-opening-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are not labeled in the source ASR
-      transcript, so this line is inferred to be Raj's from context (he
-      is quoting Pai's own words back to him and then asking a follow-up
-      question); a similar line also appears in the episode's cold-open
-      trailer.
+    '
+  topic: guest-introduction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the spoken intro/framing segment before the interview proper begins.
 
-  - id: raj-shamani-07403
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks whether he thinks more and more young people are seeing
-      India as having a better future, or a worse one.
-    topic: youth-outlook-on-india
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:17:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj from context. A near-identical line
-      also appears in the episode's cold-open trailer.
 
-  - id: raj-shamani-07404
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks Pai to go back to an incident from his childhood/early
-      life that he thinks people should know about, when someone called
-      Pai a "servant" (naukar) while he was working at a young age, and
-      asks him to tell the full story.
-    topic: childhood-servant-incident
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:35:32]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj from context (prompting the guest to
-      recount a specific known anecdote).
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07402
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: observation
+  text: 'Raj opens the interview by reading back something Pai apparently said about paying his taxes and receiving a "platinum certificate" in return, while still being treated very badly by tax authorities, then asks him what he means by that.
 
-  - id: raj-shamani-07405
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks Pai how long he could keep tolerating the disrespect for
-      the sake of his own dignity, and how long it eventually took him to
-      walk out of that job.
-    topic: leaving-first-job
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:36:54]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj from context as a follow-up question.
+    '
+  topic: tax-terrorism-opening-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=jr0k_fOR1b0&t=183s
+    start_timestamp: 00:03:03
+    end_timestamp: 00:03:15
+  evidence:
+    excerpt: null
+  notes: '~[00:03:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are not labeled in the source ASR transcript, so this line is inferred to be Raj''s from context (he is quoting Pai''s own words back to him and then asking a follow-up question); a similar line also appears in the episode''s cold-open trailer.
 
-  - id: raj-shamani-07406
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      After Pai says happiness is the gap between expectation and
-      reality, Raj asks him to elaborate further on that specific point.
-    topic: happiness-expectation-reality
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:37:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a prompt for elaboration.
 
-  - id: raj-shamani-07407
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks Pai when he took his vow to never work for anyone else
-      (never become an employee), and how long ago that was.
-    topic: vow-never-be-employee
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:37:37]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a follow-up question.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=jr0k_fOR1b0&t=183s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-07403
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks whether he thinks more and more young people are seeing India as having a better future, or a worse one.
 
-  - id: raj-shamani-07408
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks Pai what specifically he was searching for/looking for in
-      the balance sheets and annual reports he read as a teenager.
-    topic: teenage-balance-sheet-reading
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:41:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a follow-up question.
+    '
+  topic: youth-outlook-on-india
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:17:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj from context. A near-identical line also appears in the episode''s cold-open trailer.
 
-  - id: raj-shamani-07409
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj references something Pai told him earlier about Infosys and a
-      "risk premium" that had to be paid for operating in India, and asks
-      him to explain what he means by that.
-    topic: india-risk-premium
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:43:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj, who is referencing an earlier point
-      in the same conversation.
 
-  - id: raj-shamani-07410
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks Pai to explain what "cost of capital" means.
-    topic: cost-of-capital-explainer
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:44:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a clarifying question.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07404
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks Pai to go back to an incident from his childhood/early life that he thinks people should know about, when someone called Pai a "servant" (naukar) while he was working at a young age, and asks him to tell the full story.
 
-  - id: raj-shamani-07411
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj notes that Pai said India's cost of capital is still the
-      highest in the world, and that the country has been paying the
-      price for this since Nehru's time, then asks him to explain what he
-      means by that.
-    topic: cost-of-capital-nehru-legacy
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:50:36]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj, who is summarizing and following up
-      on Pai's preceding point.
+    '
+  topic: childhood-servant-incident
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:35:32]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj from context (prompting the guest to recount a specific known anecdote).
 
-  - id: raj-shamani-07412
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks whether, given everything happening in India today
-      (regulation, tax terrorism, high cost of capital, industry
-      cartels), a young person still has a real opportunity and a fair
-      chance to break through these cartels and build something.
-    topic: young-entrepreneur-opportunity-vs-cartels
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:51:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj from context. A related version of
-      this question also appears in the episode's cold-open trailer.
 
-  - id: raj-shamani-07413
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: observation
-    text: >
-      Raj tells Pai that one of the stories he found most interesting was
-      about the early license-raj era, before liberalization, when even
-      buying a computer required government approval.
-    topic: episode-framing-license-raj-story
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:52:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj's framing remark introducing the topic;
-      the actual license-raj computer-purchase story that follows is
-      Pai's own account and is out of scope for this host-only pass.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07405
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks Pai how long he could keep tolerating the disrespect for the sake of his own dignity, and how long it eventually took him to walk out of that job.
 
-  - id: raj-shamani-07414
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: observation
-    text: >
-      Raj marks a transition in the conversation, saying they've covered
-      the political aspect and the current state of the country, and that
-      they will now move to the corporate world -- understanding Pai's
-      Infosys journey before eventually building toward opportunities,
-      the current landscape, and his startup investing journey.
-    topic: episode-structure-transition
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:03:34]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as an explicit segment transition.
+    '
+  topic: leaving-first-job
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:36:54]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj from context as a follow-up question.
 
-  - id: raj-shamani-07415
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks why an Indian startup or company would need government
-      approval just to buy something like a computer today, and asks Pai
-      how it feels that the country now takes credit for things he once
-      had to beg officials for.
-    topic: license-raj-vs-today
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:04:28]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a follow-up on the license-raj
-      story Pai had just told.
 
-  - id: raj-shamani-07416
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      When Pai downplays himself, saying he isn't influential anywhere
-      and only has a citizen's right to speak, Raj pushes back, telling
-      him he was influential -- very influential.
-    topic: pai-influence-pushback
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:15:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj from context as a pushback on Pai's
-      preceding statement.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07406
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'After Pai says happiness is the gap between expectation and reality, Raj asks him to elaborate further on that specific point.
 
-  - id: raj-shamani-07417
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks what Narayana Murthy was like as a boss.
-    topic: murthy-as-boss
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:16:23]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a direct question.
+    '
+  topic: happiness-expectation-reality
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:37:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a prompt for elaboration.
 
-  - id: raj-shamani-07418
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks Pai to give a specific example of a time Murthy was
-      ruthless toward him personally, and asks whether Pai felt that
-      ruthlessness himself or saw it happen to someone else.
-    topic: murthy-ruthlessness-example
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:16:52]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a follow-up question.
 
-  - id: raj-shamani-07419
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks whether Murthy was harsh toward other people as well, not
-      just toward Pai.
-    topic: murthy-harshness-others
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:18:14]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a follow-up question.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07407
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks Pai when he took his vow to never work for anyone else (never become an employee), and how long ago that was.
 
-  - id: raj-shamani-07420
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj notes that Pai has spoken about this before, and asks what
-      happened on the trip where Murthy's family office visited China and
-      observed the "996" work culture there.
-    topic: murthy-china-996-trip
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:19:53]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj, who references a prior discussion
-      (possibly on another occasion) with Pai.
+    '
+  topic: vow-never-be-employee
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:37:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a follow-up question.
 
-  - id: raj-shamani-07421
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks what Pai feels -- whether there should be such a thing as
-      work-life balance.
-    topic: work-life-balance-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:22:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj from context. A near-identical
-      version of this question also appears in the episode's cold-open
-      trailer.
 
-  - id: raj-shamani-07422
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: observation
-    text: >
-      Raj points out an apparent contradiction: Pai headed the human
-      resources/people function at Infosys, yet had just said he doesn't
-      particularly like being around people all the time.
-    topic: hr-head-contradiction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:25:01]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj, who is quoting Pai's own earlier
-      words back to him.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07408
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks Pai what specifically he was searching for/looking for in the balance sheets and annual reports he read as a teenager.
 
-  - id: raj-shamani-07423
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks what it is that makes high performers self-motivated.
-    topic: self-motivation-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:26:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a follow-up question.
+    '
+  topic: teenage-balance-sheet-reading
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:41:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a follow-up question.
 
-  - id: raj-shamani-07424
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      In a discussion about a valuable employee being poached with a
-      higher offer, Raj asks why a manager wouldn't simply double that
-      employee's pay if they know how important the person is.
-    topic: retaining-talent-pay-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:28:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a follow-up question.
 
-  - id: raj-shamani-07425
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks, on behalf of entrepreneurs watching the episode, what
-      they should do in their own companies to retain key people.
-    topic: advice-for-founders-retention
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:29:07]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a direct-to-audience framing
-      question.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07409
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj references something Pai told him earlier about Infosys and a "risk premium" that had to be paid for operating in India, and asks him to explain what he means by that.
 
-  - id: raj-shamani-07426
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: observation
-    text: >
-      Turning to Pai's startup investing journey, Raj notes that Pai had
-      casually mentioned around 700 people/pitches coming to his office
-      every month seeking investment, and asks if there is a specific,
-      recurring pattern in what founders are doing wrong.
-    topic: startup-pitch-volume-and-mistakes
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:32:22]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a topic transition and question.
+    '
+  topic: india-risk-premium
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:43:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj, who is referencing an earlier point in the same conversation.
 
-  - id: raj-shamani-07427
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks whether Pai ever realized, between 2016 and 2022, that his
-      decision to invest in Byju's was a mistake, and asks if he
-      personally recalls a specific moment when he felt that might be the
-      point where things started going wrong.
-    topic: byjus-investment-mistake-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:35:05]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript and this passage is somewhat garbled; attributed to Raj
-      based on context and Pai's direct reply ("For whom? For Byju's.").
 
-  - id: raj-shamani-07428
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks which sectors, beyond AI, Pai is most optimistic about for
-      young people to build in today.
-    topic: sectors-for-young-builders
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:37:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a direct question.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07410
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks Pai to explain what "cost of capital" means.
 
-  - id: raj-shamani-07429
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj clarifies he means AI applied in fintech and AI applied in the
-      health sector specifically, and asks Pai to describe the specific
-      problem he sees in each.
-    topic: ai-fintech-health-clarification
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:37:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a self-correction/clarification of
-      his own preceding question.
+    '
+  topic: cost-of-capital-explainer
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:44:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a clarifying question.
 
-  - id: raj-shamani-07430
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks whether he thinks any single enterprise/company could
-      build this kind of AI technology entirely in-house, or whether they
-      would need outside technology providers.
-    topic: enterprise-ai-build-vs-buy
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:40:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a follow-up question.
 
-  - id: raj-shamani-07431
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks Pai, a former CFO, whether he is personally scared of his
-      own CFO and whether that fear is what drives him to check his own
-      accounts so closely, then asks him for a framework of five or six
-      data points every entrepreneur should definitely track on a
-      monthly basis.
-    topic: cfo-monthly-metrics-framework
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:44:57]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a direct question and request.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07411
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj notes that Pai said India''s cost of capital is still the highest in the world, and that the country has been paying the price for this since Nehru''s time, then asks him to explain what he means by that.
 
-  - id: raj-shamani-07432
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj says Pai made an interesting point that auditors should have
-      caught certain issues, and uses that as an opening to ask about the
-      recent TCS controversy, asking whether Pai had seen it.
-    topic: tcs-controversy-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:52:11]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a topic transition and question.
-      The specific TCS controversy referenced is not named beyond
-      context clues in the transcript (sexual harassment/forced
-      religious conversion allegations at a TCS office) and should be
-      checked against the source.
+    '
+  topic: cost-of-capital-nehru-legacy
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:50:36]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj, who is summarizing and following up on Pai''s preceding point.
 
-  - id: raj-shamani-07433
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj follows up, asking what a company should do if something like
-      this happens even at a large company like TCS, and whether he
-      thinks this kind of incident also happens at smaller companies.
-    topic: incident-response-smaller-companies
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:53:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a follow-up question.
 
-  - id: raj-shamani-07434
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      In a story about a CFO who refused to approve his CEO's personal
-      vacation expense bill, Raj asks whether that CFO was fired.
-    topic: cfo-refusal-story-outcome
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:53:59]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a direct follow-up question.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07412
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks whether, given everything happening in India today (regulation, tax terrorism, high cost of capital, industry cartels), a young person still has a real opportunity and a fair chance to break through these cartels and build something.
 
-  - id: raj-shamani-07435
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks at what stage of a startup's growth it should hire a CFO.
-    topic: when-to-hire-cfo
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:54:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a direct question.
+    '
+  topic: young-entrepreneur-opportunity-vs-cartels
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:51:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj from context. A related version of this question also appears in the episode''s cold-open trailer.
 
-  - id: raj-shamani-07436
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: observation
-    text: >
-      Raj remarks that Pai seems very passionate/enthusiastic about the
-      topic of wanting founders to become billionaires.
-    topic: pai-enthusiasm-billionaires
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:56:20]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as an observational aside.
 
-  - id: raj-shamani-07437
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: observation
-    text: >
-      Raj notes that Pai made two tweets that seem to contradict each
-      other -- one saying Karnataka gives the central government more
-      than it receives back, and another calling delimitation a ticking
-      time bomb -- and asks him to reconcile the two.
-    topic: karnataka-tweets-contradiction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:58:07]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj, who references specific past tweets
-      by Pai that should be checked against the source.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07413
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: observation
+  text: 'Raj tells Pai that one of the stories he found most interesting was about the early license-raj era, before liberalization, when even buying a computer required government approval.
 
-  - id: raj-shamani-07438
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj follows up, specifically asking Pai to explain what he meant by
-      calling delimitation a "ticking time bomb."
-    topic: delimitation-time-bomb-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:59:52]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker turns are unlabeled in the source ASR
-      transcript; attributed to Raj as a direct follow-up question.
+    '
+  topic: episode-framing-license-raj-story
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:52:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj''s framing remark introducing the topic; the actual license-raj computer-purchase story that follows is Pai''s own account and is out of scope for this host-only pass.
 
-  - id: raj-shamani-07439
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: observation
-    text: >
-      Before his final question, Raj thanks Pai for his time and for
-      guiding him through the discussion on the economy, the country, and
-      stories related to Infosys.
-    topic: closing-thanks
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the host's closing framing before the
-      final question segment.
 
-  - id: raj-shamani-07440
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: observation
-    text: >
-      As his closing segment, Raj picks a random number, 53, and asks Pai
-      what one or two concrete steps he would take if he had to restart
-      his life from zero today in order to reach that number, which Raj
-      frames as being "halfway" to where Pai is now.
-    topic: closing-board-game-format
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:03:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This describes Raj's recurring closing-segment
-      format/game as used in this episode.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07414
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: observation
+  text: 'Raj marks a transition in the conversation, saying they''ve covered the political aspect and the current state of the country, and that they will now move to the corporate world -- understanding Pai''s Infosys journey before eventually building toward opportunities, the current landscape, and his startup investing journey.
 
-  - id: raj-shamani-07441
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks what specific skill Pai would want to learn if he were
-      starting his life over today, and then asks why he would
-      specifically choose engineering over other fields.
-    topic: skill-and-engineering-choice
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:04:11]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the closing "start from zero" question
-      segment.
+    '
+  topic: episode-structure-transition
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:03:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as an explicit segment transition.
 
-  - id: raj-shamani-07442
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks Pai to name a shortcut he would want to take to fast-track
-      becoming a billionaire.
-    topic: billionaire-shortcut-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:05:13]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the closing "start from zero" question
-      segment.
 
-  - id: raj-shamani-07443
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks Pai to name three people who would be his ideal investors
-      today, and follows up by asking for the third name specifically.
-    topic: ideal-investors-naming
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:06:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the closing "start from zero" question
-      segment.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07415
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks why an Indian startup or company would need government approval just to buy something like a computer today, and asks Pai how it feels that the country now takes credit for things he once had to beg officials for.
 
-  - id: raj-shamani-07444
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      Raj asks what one mistake Pai would want to avoid, based on
-      everything he has achieved in his life.
-    topic: mistake-to-avoid-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:07:34]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the closing "start from zero" question
-      segment.
+    '
+  topic: license-raj-vs-today
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:04:28]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a follow-up on the license-raj story Pai had just told.
 
-  - id: raj-shamani-07445
-    person: raj-shamani
-    source: raj-shamani-fo539-mohandas-pai
-    type: assertion
-    text: >
-      As his final question, Raj asks how someone can actually go about
-      identifying what America needs today and what products should be
-      built for that market.
-    topic: identifying-us-market-needs
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:08:33]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is the final question of the episode, closing
-      the "start from zero" segment.
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07416
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'When Pai downplays himself, saying he isn''t influential anywhere and only has a citizen''s right to speak, Raj pushes back, telling him he was influential -- very influential.
+
+    '
+  topic: pai-influence-pushback
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:15:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj from context as a pushback on Pai''s preceding statement.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07417
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks what Narayana Murthy was like as a boss.
+
+    '
+  topic: murthy-as-boss
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:16:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a direct question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07418
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks Pai to give a specific example of a time Murthy was ruthless toward him personally, and asks whether Pai felt that ruthlessness himself or saw it happen to someone else.
+
+    '
+  topic: murthy-ruthlessness-example
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:16:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a follow-up question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07419
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks whether Murthy was harsh toward other people as well, not just toward Pai.
+
+    '
+  topic: murthy-harshness-others
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:18:14]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a follow-up question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07420
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj notes that Pai has spoken about this before, and asks what happened on the trip where Murthy''s family office visited China and observed the "996" work culture there.
+
+    '
+  topic: murthy-china-996-trip
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:19:53]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj, who references a prior discussion (possibly on another occasion) with Pai.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07421
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks what Pai feels -- whether there should be such a thing as work-life balance.
+
+    '
+  topic: work-life-balance-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:22:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj from context. A near-identical version of this question also appears in the episode''s cold-open trailer.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07422
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: observation
+  text: 'Raj points out an apparent contradiction: Pai headed the human resources/people function at Infosys, yet had just said he doesn''t particularly like being around people all the time.
+
+    '
+  topic: hr-head-contradiction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:25:01]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj, who is quoting Pai''s own earlier words back to him.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07423
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks what it is that makes high performers self-motivated.
+
+    '
+  topic: self-motivation-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:26:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a follow-up question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07424
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'In a discussion about a valuable employee being poached with a higher offer, Raj asks why a manager wouldn''t simply double that employee''s pay if they know how important the person is.
+
+    '
+  topic: retaining-talent-pay-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:28:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a follow-up question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07425
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks, on behalf of entrepreneurs watching the episode, what they should do in their own companies to retain key people.
+
+    '
+  topic: advice-for-founders-retention
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:29:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a direct-to-audience framing question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07426
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: observation
+  text: 'Turning to Pai''s startup investing journey, Raj notes that Pai had casually mentioned around 700 people/pitches coming to his office every month seeking investment, and asks if there is a specific, recurring pattern in what founders are doing wrong.
+
+    '
+  topic: startup-pitch-volume-and-mistakes
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:32:22]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a topic transition and question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07427
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks whether Pai ever realized, between 2016 and 2022, that his decision to invest in Byju''s was a mistake, and asks if he personally recalls a specific moment when he felt that might be the point where things started going wrong.
+
+    '
+  topic: byjus-investment-mistake-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:35:05]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript and this passage is somewhat garbled; attributed to Raj based on context and Pai''s direct reply ("For whom? For Byju''s.").
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07428
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks which sectors, beyond AI, Pai is most optimistic about for young people to build in today.
+
+    '
+  topic: sectors-for-young-builders
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:37:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a direct question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07429
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj clarifies he means AI applied in fintech and AI applied in the health sector specifically, and asks Pai to describe the specific problem he sees in each.
+
+    '
+  topic: ai-fintech-health-clarification
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:37:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a self-correction/clarification of his own preceding question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07430
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks whether he thinks any single enterprise/company could build this kind of AI technology entirely in-house, or whether they would need outside technology providers.
+
+    '
+  topic: enterprise-ai-build-vs-buy
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:40:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a follow-up question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07431
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks Pai, a former CFO, whether he is personally scared of his own CFO and whether that fear is what drives him to check his own accounts so closely, then asks him for a framework of five or six data points every entrepreneur should definitely track on a monthly basis.
+
+    '
+  topic: cfo-monthly-metrics-framework
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:44:57]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a direct question and request.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07432
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj says Pai made an interesting point that auditors should have caught certain issues, and uses that as an opening to ask about the recent TCS controversy, asking whether Pai had seen it.
+
+    '
+  topic: tcs-controversy-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:52:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a topic transition and question. The specific TCS controversy referenced is not named beyond context clues in the transcript (sexual harassment/forced religious conversion allegations at a TCS office) and should be checked against the source.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07433
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj follows up, asking what a company should do if something like this happens even at a large company like TCS, and whether he thinks this kind of incident also happens at smaller companies.
+
+    '
+  topic: incident-response-smaller-companies
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:53:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a follow-up question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07434
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'In a story about a CFO who refused to approve his CEO''s personal vacation expense bill, Raj asks whether that CFO was fired.
+
+    '
+  topic: cfo-refusal-story-outcome
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:53:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a direct follow-up question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07435
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks at what stage of a startup''s growth it should hire a CFO.
+
+    '
+  topic: when-to-hire-cfo
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:54:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a direct question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07436
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: observation
+  text: 'Raj remarks that Pai seems very passionate/enthusiastic about the topic of wanting founders to become billionaires.
+
+    '
+  topic: pai-enthusiasm-billionaires
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:56:20]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as an observational aside.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07437
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: observation
+  text: 'Raj notes that Pai made two tweets that seem to contradict each other -- one saying Karnataka gives the central government more than it receives back, and another calling delimitation a ticking time bomb -- and asks him to reconcile the two.
+
+    '
+  topic: karnataka-tweets-contradiction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:58:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj, who references specific past tweets by Pai that should be checked against the source.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07438
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj follows up, specifically asking Pai to explain what he meant by calling delimitation a "ticking time bomb."
+
+    '
+  topic: delimitation-time-bomb-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:59:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turns are unlabeled in the source ASR transcript; attributed to Raj as a direct follow-up question.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07439
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: observation
+  text: 'Before his final question, Raj thanks Pai for his time and for guiding him through the discussion on the economy, the country, and stories related to Infosys.
+
+    '
+  topic: closing-thanks
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:02:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the host''s closing framing before the final question segment.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07440
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: observation
+  text: 'As his closing segment, Raj picks a random number, 53, and asks Pai what one or two concrete steps he would take if he had to restart his life from zero today in order to reach that number, which Raj frames as being "halfway" to where Pai is now.
+
+    '
+  topic: closing-board-game-format
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=jr0k_fOR1b0&t=7395s
+    start_timestamp: 02:03:15
+    end_timestamp: 02:03:25
+  evidence:
+    excerpt: null
+  notes: '~[02:03:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This describes Raj''s recurring closing-segment format/game as used in this episode.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=jr0k_fOR1b0&t=7395s in-browser (English caption text check, close/exact match).'
+- id: raj-shamani-07441
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks what specific skill Pai would want to learn if he were starting his life over today, and then asks why he would specifically choose engineering over other fields.
+
+    '
+  topic: skill-and-engineering-choice
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:04:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the closing "start from zero" question segment.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07442
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks Pai to name a shortcut he would want to take to fast-track becoming a billionaire.
+
+    '
+  topic: billionaire-shortcut-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:05:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the closing "start from zero" question segment.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07443
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks Pai to name three people who would be his ideal investors today, and follows up by asking for the third name specifically.
+
+    '
+  topic: ideal-investors-naming
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:06:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the closing "start from zero" question segment.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07444
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'Raj asks what one mistake Pai would want to avoid, based on everything he has achieved in his life.
+
+    '
+  topic: mistake-to-avoid-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:07:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the closing "start from zero" question segment.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous or was the guest''s own answer in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-07445
+  person: raj-shamani
+  source: raj-shamani-fo539-mohandas-pai
+  type: assertion
+  text: 'As his final question, Raj asks how someone can actually go about identifying what America needs today and what products should be built for that market.
+
+    '
+  topic: identifying-us-market-needs
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=jr0k_fOR1b0&t=7710s
+    start_timestamp: 02:08:30
+    end_timestamp: 02:08:42
+  evidence:
+    excerpt: null
+  notes: '~[02:08:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is the final question of the episode, closing the "start from zero" segment.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=jr0k_fOR1b0&t=7710s in-browser (English caption text check, close/exact match).'

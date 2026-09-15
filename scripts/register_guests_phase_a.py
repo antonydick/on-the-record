@@ -162,7 +162,15 @@ def extract_name_candidates_from_notes(notes: str) -> list[str]:
     # names so those cross-episode mentions aren't misattributed here.
     block = block.split("Cross-reference:")[0]
     candidates: list[str] = []
-    for paren_group in PAREN_LIST_RE.findall(block):
+    # Only the *first* parenthesized group in the block is ever the
+    # guest-list convention (it always appears immediately after the
+    # panel/interview framing, e.g. "...panel (Name/Org, Name/Org)"). Any
+    # later parenthetical is just a prose aside -- scanning those too picks
+    # up unrelated capitalized asides (a company name, a video chapter
+    # title) as bogus name candidates.
+    first_paren_match = PAREN_LIST_RE.search(block)
+    if first_paren_match:
+        paren_group = first_paren_match.group(1)
         for item in paren_group.split(","):
             item = item.strip()
             role_match = ROLE_AFTER_SLASH_RE.match(item)
