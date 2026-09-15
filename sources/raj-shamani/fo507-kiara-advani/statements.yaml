@@ -1,387 +1,337 @@
 statements:
-  - id: raj-shamani-01001
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: belief
-    text: >
-      Raj Shamani introduces Kiara Advani as one of Indian cinema's most
-      celebrated actresses, joining him for what he calls "an unfiltered
-      conversation."
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This line is host narration/voiceover at the very top
-      of the episode, likely part of an intro/recap montage rather than
-      live conversation.
+- id: raj-shamani-01001
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: belief
+  text: 'Raj Shamani introduces Kiara Advani as one of Indian cinema''s most celebrated actresses, joining him for what he calls "an unfiltered conversation."
 
-  - id: raj-shamani-01002
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: mechanism
-    text: >
-      Raj Shamani asks Kiara about something he calls the "shadow effect" —
-      the idea that after growing up watching her very affectionate
-      ("lovey-dovey") parents, a person subconsciously wants to shadow, or
-      replicate in their own life, everything they saw their parents go
-      through.
-    topic: shadow-effect
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:00] (the same question/framing recurs almost verbatim later
-      in the conversation, around ~[01:16:07]). Transcribed via YouTube
-      Hindi auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
+    '
+  topic: guest-introduction
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=21s
+    start_timestamp: 00:00:21
+    end_timestamp: 00:00:27
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This line is host narration/voiceover at the very top of the episode, likely part of an intro/recap montage rather than live conversation.
 
-  - id: raj-shamani-01003
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: belief
-    text: >
-      Introducing Kiara Advani, Raj Shamani describes her performances
-      "from Shershaah to Kabir Singh" as ones that stayed with the
-      audience.
-    topic: filmography
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:27]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the host's spoken guest introduction.
 
-  - id: raj-shamani-01004
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: example
-    text: >
-      Raj Shamani recounts that one actor (unnamed) told him he became very
-      angry for a long time, and started hating both himself and others,
-      because the character he was playing was so dark.
-    topic: actors-losing-themselves-in-character
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:15:13]-[00:15:42]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Raj appears to be recounting something told to
-      him by a past podcast guest; the actor is not named in this passage.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=21s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01002
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: mechanism
+  text: 'Raj Shamani asks Kiara about something he calls the "shadow effect" — the idea that after growing up watching her very affectionate ("lovey-dovey") parents, a person subconsciously wants to shadow, or replicate in their own life, everything they saw their parents go through.
 
-  - id: raj-shamani-01005
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: example
-    text: >
-      Raj Shamani recounts that one female actor (unnamed) told him she
-      started getting scared and having nightmares because she was playing
-      a character who was a victim of sexual assault in a film, which made
-      her feel very bad for every woman in the world.
-    topic: actors-losing-themselves-in-character
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:15:42]-[00:16:07]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. The actor is not named in this passage.
+    '
+  topic: shadow-effect
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=27s
+    start_timestamp: 00:00:27
+    end_timestamp: 00:00:40
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00] (the same question/framing recurs almost verbatim later in the conversation, around ~[01:16:07]). Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-01006
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: evidence
-    text: >
-      Raj Shamani says that actor Paresh Rawal told him that whoever claims
-      to lose themselves in a character like that is lying.
-    topic: actors-losing-themselves-in-character
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:15:42]-[00:16:07]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. Paresh Rawal is named explicitly in this
-      passage ("परेश रावल सर").
 
-  - id: raj-shamani-01007
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: evidence
-    text: >
-      Raj Shamani says another actor told him that nothing like "losing
-      yourself" in a character actually happens, because actors train for
-      many years to be able to do that.
-    topic: actors-losing-themselves-in-character
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:16:07]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript renders the actor's name as something
-      like "वेंकट" ("Venkat"), but this is very likely a garbled ASR
-      mis-transcription of the actual name — treat that specific
-      attribution as uncertain pending verification against the recording.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=27s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01003
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: belief
+  text: 'Introducing Kiara Advani, Raj Shamani describes her performances "from Shershaah to Kabir Singh" as ones that stayed with the audience.
 
-  - id: raj-shamani-01008
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: belief
-    text: >
-      Raj Shamani says he believes every actor must have gone through that
-      kind of difficulty with certain characters, though he doesn't think
-      that is Kiara's experience with every single role she plays.
-    topic: actors-losing-themselves-in-character
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:16:07]-[00:16:41]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote.
+    '
+  topic: filmography
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=207s
+    start_timestamp: 00:03:27
+    end_timestamp: 00:03:40
+  evidence:
+    excerpt: null
+  notes: '~[00:03:27]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the host''s spoken guest introduction.
 
-  - id: raj-shamani-01009
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: observation
-    text: >
-      Raj Shamani asks Kiara if she knows about a personality type/term
-      that he says has recently become widely used — the "AB testing
-      personality."
-    topic: ab-testing-personality
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:40:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Comes immediately after a discussion of younger
-      generations (Gen Alpha/Gen Z) and social-media identity; speaker
-      attribution across this stretch of the transcript is difficult
-      because there is no diarization, but this specific question reads as
-      host-directed framing.
 
-  - id: raj-shamani-01010
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: evidence
-    text: >
-      Raj Shamani references a study in the US finding that almost 65% of
-      people have fallen into the pattern of adjusting their behavior or
-      image based on whether it gets a positive or negative reaction, and
-      says this happens on an everyday basis.
-    topic: ab-testing-personality
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:41:50]-[00:42:00]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. He does not name the specific study; this
-      immediately precedes a direct question to Kiara ("have you ever
-      tried to do anything..."), which is what makes the attribution to
-      Raj (rather than Kiara) reasonably confident here.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=207s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01004
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: example
+  text: 'Raj Shamani recounts that one actor (unnamed) told him he became very angry for a long time, and started hating both himself and others, because the character he was playing was so dark.
 
-  - id: raj-shamani-01011
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: belief
-    text: >
-      Raj Shamani comments to Kiara that she seems very cognizant of what
-      to do and what not to do because her "mom brain" has taken over, and
-      that the decisions she is making are very wise.
-    topic: motherhood-mindset
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:47:52]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: actors-losing-themselves-in-character
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=913s
+    start_timestamp: 00:15:13
+    end_timestamp: 00:15:25
+  evidence:
+    excerpt: null
+  notes: '~[00:15:13]-[00:15:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj appears to be recounting something told to him by a past podcast guest; the actor is not named in this passage.
 
-  - id: raj-shamani-01012
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: experience
-    text: >
-      Raj Shamani mentions that partway through the conversation he was
-      writing down a few notes.
-    topic: interview-process
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:47:52]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. A small aside made while transitioning to a new
-      question.
 
-  - id: raj-shamani-01013
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: belief
-    text: >
-      Raj Shamani remarks that, generally speaking, boys get hit/spanked by
-      parents more than girls do.
-    topic: parenting-gender
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:59:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Made as a passing comment during a discussion of
-      Kiara's own upbringing; this stretch of the transcript interleaves
-      host and guest lines closely and the ASR is somewhat garbled here, so
-      speaker attribution carries more uncertainty than usual — flagging
-      for extra care at verification.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=913s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01005
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: example
+  text: 'Raj Shamani recounts that one female actor (unnamed) told him she started getting scared and having nightmares because she was playing a character who was a victim of sexual assault in a film, which made her feel very bad for every woman in the world.
 
-  - id: raj-shamani-01014
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: evidence
-    text: >
-      Raj Shamani says he was recently reading a paper on parenting styles.
-    topic: parenting-styles
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:00:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: actors-losing-themselves-in-character
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=942s
+    start_timestamp: 00:15:42
+    end_timestamp: 00:15:55
+  evidence:
+    excerpt: null
+  notes: '~[00:15:42]-[00:16:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The actor is not named in this passage.
 
-  - id: raj-shamani-01015
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: evidence
-    text: >
-      Raj Shamani describes a finding from the parenting-styles paper he
-      read: children of very strict parents do better than average, but
-      they rarely end up becoming "top" performers.
-    topic: parenting-styles
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:01:15]-[01:01:43]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original Hindi/Hinglish,
-      not a verbatim quote. He does not name the paper or its author.
 
-  - id: raj-shamani-01016
-    person: raj-shamani
-    source: raj-shamani-fo507-kiara-advani
-    type: evidence
-    text: >
-      Raj Shamani cites a report claiming that Kiara's Met Gala
-      outfit/appearance generated more than $15 million worth of
-      (organic/free) media coverage.
-    topic: met-gala-media-value
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:30:37]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. He does not name the specific report.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=942s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01006
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: evidence
+  text: 'Raj Shamani says that actor Paresh Rawal told him that whoever claims to lose themselves in a character like that is lying.
+
+    '
+  topic: actors-losing-themselves-in-character
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=942s
+    start_timestamp: 00:15:42
+    end_timestamp: 00:16:05
+  evidence:
+    excerpt: null
+  notes: '~[00:15:42]-[00:16:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Paresh Rawal is named explicitly in this passage ("परेश रावल सर").
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=942s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01007
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: evidence
+  text: 'Raj Shamani says another actor told him that nothing like "losing yourself" in a character actually happens, because actors train for many years to be able to do that.
+
+    '
+  topic: actors-losing-themselves-in-character
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=967s
+    start_timestamp: 00:16:07
+    end_timestamp: 00:16:20
+  evidence:
+    excerpt: null
+  notes: '~[00:16:07]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript renders the actor''s name as something like "वेंकट" ("Venkat"), but this is very likely a garbled ASR mis-transcription of the actual name — treat that specific attribution as uncertain pending verification against the recording.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=967s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01008
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: belief
+  text: 'Raj Shamani says he believes every actor must have gone through that kind of difficulty with certain characters, though he doesn''t think that is Kiara''s experience with every single role she plays.
+
+    '
+  topic: actors-losing-themselves-in-character
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=967s
+    start_timestamp: 00:16:07
+    end_timestamp: 00:16:30
+  evidence:
+    excerpt: null
+  notes: '~[00:16:07]-[00:16:41]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=967s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01009
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: observation
+  text: 'Raj Shamani asks Kiara if she knows about a personality type/term that he says has recently become widely used — the "AB testing personality."
+
+    '
+  topic: ab-testing-personality
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:40:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Comes immediately after a discussion of younger generations (Gen Alpha/Gen Z) and social-media identity; speaker attribution across this stretch of the transcript is difficult because there is no diarization, but this specific question reads as host-directed framing.
+
+
+    Visual verification check (2026-09-15): at ~[00:40:26] the caption shows only breathing sound-effect annotations, no confirmable dialogue text matching this statement. Left as draft.'
+- id: raj-shamani-01010
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: evidence
+  text: 'Raj Shamani references a study in the US finding that almost 65% of people have fallen into the pattern of adjusting their behavior or image based on whether it gets a positive or negative reaction, and says this happens on an everyday basis.
+
+    '
+  topic: ab-testing-personality
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=2510s
+    start_timestamp: 00:41:50
+    end_timestamp: 00:42:05
+  evidence:
+    excerpt: null
+  notes: '~[00:41:50]-[00:42:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. He does not name the specific study; this immediately precedes a direct question to Kiara ("have you ever tried to do anything..."), which is what makes the attribution to Raj (rather than Kiara) reasonably confident here.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=2510s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01011
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: belief
+  text: 'Raj Shamani comments to Kiara that she seems very cognizant of what to do and what not to do because her "mom brain" has taken over, and that the decisions she is making are very wise.
+
+    '
+  topic: motherhood-mindset
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:47:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass; left as draft pending a dedicated check.'
+- id: raj-shamani-01012
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: experience
+  text: 'Raj Shamani mentions that partway through the conversation he was writing down a few notes.
+
+    '
+  topic: interview-process
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:47:52]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. A small aside made while transitioning to a new question.
+
+
+    Not individually re-confirmed in this pass; left as draft pending a dedicated check.'
+- id: raj-shamani-01013
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: belief
+  text: 'Raj Shamani remarks that, generally speaking, boys get hit/spanked by parents more than girls do.
+
+    '
+  topic: parenting-gender
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:59:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Made as a passing comment during a discussion of Kiara''s own upbringing; this stretch of the transcript interleaves host and guest lines closely and the ASR is somewhat garbled here, so speaker attribution carries more uncertainty than usual — flagging for extra care at verification.
+
+
+    Not individually re-confirmed in this pass; left as draft pending a dedicated check.'
+- id: raj-shamani-01014
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: evidence
+  text: 'Raj Shamani says he was recently reading a paper on parenting styles.
+
+    '
+  topic: parenting-styles
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=3645s
+    start_timestamp: 01:00:45
+    end_timestamp: 01:01:00
+  evidence:
+    excerpt: null
+  notes: '~[01:00:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=3645s in-browser (caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01015
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: evidence
+  text: 'Raj Shamani describes a finding from the parenting-styles paper he read: children of very strict parents do better than average, but they rarely end up becoming "top" performers.
+
+    '
+  topic: parenting-styles
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:01:15]-[01:01:43]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. He does not name the paper or its author.
+
+
+    Not individually re-confirmed in this pass (adjacent to verified 01014); left as draft pending a dedicated check.'
+- id: raj-shamani-01016
+  person: raj-shamani
+  source: raj-shamani-fo507-kiara-advani
+  type: evidence
+  text: 'Raj Shamani cites a report claiming that Kiara''s Met Gala outfit/appearance generated more than $15 million worth of (organic/free) media coverage.
+
+    '
+  topic: met-gala-media-value
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=3otrmTL24OA&t=5437s
+    start_timestamp: 01:30:37
+    end_timestamp: 01:30:50
+  evidence:
+    excerpt: null
+  notes: '~[01:30:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. He does not name the specific report.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=3otrmTL24OA&t=5437s in-browser (caption text check, exact/close match) at this point in the recording.'
