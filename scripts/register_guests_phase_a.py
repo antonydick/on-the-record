@@ -31,6 +31,14 @@ LEADING_NAME_RE = re.compile(r"^([A-Z][a-zA-Z\.\']+(?:\s+[A-Z][a-zA-Z\.\']+){0,3
 FT_CLAUSE_RE = re.compile(r"\bFt\.?\s+(.+?)(?:\s*\||$)")
 SPEAKER_ATTRIBUTION_RE = re.compile(r"SPEAKER ATTRIBUTION:(.+?)(?:\n\n|\Z)", re.DOTALL)
 PAREN_LIST_RE = re.compile(r"\(([^()]+)\)")
+# "Company/Company founder Name" -- two slash-joined companies followed by a
+# founder/co-founder/CEO role word and the person's name. Distinguishes this
+# from the corpus's usual "Name/Company" convention (name comes first).
+ROLE_AFTER_SLASH_RE = re.compile(
+    r"^[A-Za-z0-9&.,' -]+/[A-Za-z0-9&.,' -]+\s+"
+    r"(?:(?i:founder|co-founder|cofounder|ceo))\s+"
+    r"([A-Z][a-zA-Z\.\']*(?:\s+[A-Z][a-zA-Z\.\']*){0,3})$"
+)
 
 HEADLINE_STOPWORDS = {
     "the", "a", "an", "is", "are", "was", "were", "will", "why", "how",
@@ -40,6 +48,13 @@ HEADLINE_STOPWORDS = {
     "than", "then", "so", "if", "it", "its", "his", "her", "their",
     "our", "my", "be", "do", "does", "did", "can", "could", "should",
     "would", "make", "makes", "made", "become", "becomes", "becoming",
+    # Headline noun-phrase descriptors: capitalized words that dress up a
+    # headline (e.g. "Top Geopolitical Expert:", "Bureaucracy:") but never
+    # appear as part of an actual guest's name.
+    "top", "expert", "bureaucracy", "russian", "spy", "supreme", "court",
+    "warning", "advice", "champion", "mindset", "explained", "explains",
+    "foreign", "affairs", "psychiatrist", "brain", "scientist",
+    "geopolitical",
 }
 
 
@@ -116,7 +131,9 @@ def extract_name_candidates_from_notes(notes: str) -> list[str]:
     candidates: list[str] = []
     for paren_group in PAREN_LIST_RE.findall(block):
         for item in paren_group.split(","):
-            name = item.split("/")[0].strip()
+            item = item.strip()
+            role_match = ROLE_AFTER_SLASH_RE.match(item)
+            name = role_match.group(1).strip() if role_match else item.split("/")[0].strip()
             words = name.split()
             if 1 <= len(words) <= 4 and all(
                 NAME_TOKEN_RE.match(w) or TITLE_PREFIX_RE.match(w.rstrip("."))
