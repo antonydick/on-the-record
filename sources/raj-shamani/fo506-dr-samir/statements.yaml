@@ -1,617 +1,547 @@
 statements:
-  - id: raj-shamani-00801
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj introduces his guest as Samir Saran, describing him as India's
-      biggest geopolitical researcher and President of the Observer
-      Research Foundation (ORF).
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Part of the cold-open/trailer segment before the
-      main interview begins.
+- id: raj-shamani-00801
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj introduces his guest as Samir Saran, describing him as India''s biggest geopolitical researcher and President of the Observer Research Foundation (ORF).
 
-  - id: raj-shamani-00802
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj frames the episode as a discussion of eight "battlegrounds"
-      that will decide whether China or India becomes the superpower of
-      2050.
-    topic: episode-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:49]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: guest-introduction
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=16s
+    start_timestamp: 00:00:16
+    end_timestamp: 00:00:26
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Part of the cold-open/trailer segment before the main interview begins.
 
-  - id: raj-shamani-00803
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: belief
-    text: >
-      Raj says he finds it fascinating that, for the first time in human
-      history, a country (China) has colonized more than 100 countries
-      without firing a single bullet.
-    topic: china-colonization-without-war
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:33]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This opens the substantive discussion, immediately
-      followed by the guest offering a counter-perspective.
 
-  - id: raj-shamani-00804
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: observation
-    text: >
-      Raj observes that Britain needed an army, Rome needed an army, and
-      America needed military bases to increase its influence, but China
-      needed none of that — through trade, data, influence, and money
-      alone it made more than 100 countries dependent on itself without
-      firing a single bullet.
-    topic: china-vs-western-powers-influence-model
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:33]-[00:04:08]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. Continues directly from the
-      prior statement, same turn.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=16s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00802
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj frames the episode as a discussion of eight "battlegrounds" that will decide whether China or India becomes the superpower of 2050.
 
-  - id: raj-shamani-00805
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj recaps that there are eight specific domains that serve as
-      "battlegrounds" for becoming a superpower, and that China has
-      already established dominance in all eight of them.
-    topic: eight-battlegrounds-framework
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:17:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj recapping the framework he set up in
-      the episode's cold open.
+    '
+  topic: episode-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=49s
+    start_timestamp: 00:00:49
+    end_timestamp: 00:01:30
+  evidence:
+    excerpt: null
+  notes: '~[00:00:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-00806
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks the guest to first explain how China built its dominance
-      in these battlegrounds, to give him perspective on how it
-      happened, and then to explain what India should do to compete.
-    topic: request-explain-china-dominance
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:17:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-00807
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj states that the first battleground China has used is dominance
-      over raw materials.
-    topic: raw-material-dominance-battleground
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:17:37]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript is not speaker-diarized and this
-      transition line is inferred to be Raj's based on it directly
-      following his framing question and preceding the guest's detailed
-      explanation.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=49s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00803
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: belief
+  text: 'Raj says he finds it fascinating that, for the first time in human history, a country (China) has colonized more than 100 countries without firing a single bullet.
 
-  - id: raj-shamani-00808
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks: given how dangerously dominant China is over something
-      as small as rare earth minerals, how will India compete?
-    topic: rare-earth-competitiveness-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:18:09]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This exact line is also reused as a soundbite in
-      the episode's cold-open trailer.
+    '
+  topic: china-colonization-without-war
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=213s
+    start_timestamp: 00:03:33
+    end_timestamp: 00:03:45
+  evidence:
+    excerpt: null
+  notes: '~[00:03:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This opens the substantive discussion, immediately followed by the guest offering a counter-perspective.
 
-  - id: raj-shamani-00809
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj cites a figure of roughly 70 to 90 percent for China's
-      dominance over rare earth mining and/or processing.
-    topic: rare-earth-dominance-stat
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:18:39]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Attribution to Raj rests on the guest's immediate
-      reply referencing "the number between 70 and 90 percent that you
-      said" — the transcript itself is not speaker-diarized, so the
-      exact original wording of Raj's statement could not be cleanly
-      isolated; a verifier should confirm against the recording.
 
-  - id: raj-shamani-00810
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj frames the second battleground: after the guest said India
-      never wanted or did anything wrong to anyone, Raj notes that one
-      place where China is doing wrong is economic domination.
-    topic: economic-domination-battleground
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:24:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This exact line is also reused as a soundbite in
-      the episode's cold-open trailer.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=213s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00804
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: observation
+  text: 'Raj observes that Britain needed an army, Rome needed an army, and America needed military bases to increase its influence, but China needed none of that — through trade, data, influence, and money alone it made more than 100 countries dependent on itself without firing a single bullet.
 
-  - id: raj-shamani-00811
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks the guest to explain, in simple, basic language, how
-      China does this — specifically, what the playbook is for creating
-      a "debt trap."
-    topic: debt-trap-playbook-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:25:08]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: china-vs-western-powers-influence-model
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=213s
+    start_timestamp: 00:03:33
+    end_timestamp: 00:03:50
+  evidence:
+    excerpt: null
+  notes: '~[00:03:33]-[00:04:08]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Continues directly from the prior statement, same turn.
 
-  - id: raj-shamani-00812
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks whether the Strait of Malacca is one way for India to
-      counter China's sea-route encirclement.
-    topic: malacca-strait-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:37:09]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-00813
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks the guest to imagine boldly: if India wanted to create a
-      "choke point" somewhere to exert negative leverage, what choke
-      point could it create?
-    topic: india-choke-point-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:44:12]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=213s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00805
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj recaps that there are eight specific domains that serve as "battlegrounds" for becoming a superpower, and that China has already established dominance in all eight of them.
 
-  - id: raj-shamani-00814
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj introduces another battleground and asks the guest to confirm
-      whether it is accurate: China's data and surveillance dominance in
-      the world, noting there are a lot of mixed reviews and conspiracy
-      theories about it, but also a lot of data backing it.
-    topic: data-surveillance-battleground
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:56:13]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This exact framing is also reused as a soundbite
-      earlier in the episode's cold-open trailer.
+    '
+  topic: eight-battlegrounds-framework
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=1032s
+    start_timestamp: 00:17:12
+    end_timestamp: 00:17:25
+  evidence:
+    excerpt: null
+  notes: '~[00:17:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj recapping the framework he set up in the episode''s cold open.
 
-  - id: raj-shamani-00815
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks whether China somehow uses data and surveillance as a
-      weapon.
-    topic: china-data-weaponization-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:58:15]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This exact line is also reused as a soundbite in
-      the episode's cold-open trailer.
 
-  - id: raj-shamani-00816
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks the guest what the biggest digital payments company in
-      India is (prompting the answer "PhonePe"), and then asks where
-      that company, the second-biggest, and the third-biggest platforms
-      are actually from/owned from.
-    topic: indian-fintech-foreign-ownership
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:06:03]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Framed as a leading, quiz-style question to make a
-      point about foreign capital in Indian fintech.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=1032s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00806
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks the guest to first explain how China built its dominance in these battlegrounds, to give him perspective on how it happened, and then to explain what India should do to compete.
 
-  - id: raj-shamani-00817
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: belief
-    text: >
-      Raj says he agrees, and frames the next battleground as technology
-      domination — noting that China has at least shown the world it
-      dominates technology and will keep playing that role over the next
-      10-20 years, calling it a battleground China has even won against
-      America — then asks the guest whether he believes that.
-    topic: technology-domination-battleground
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:13:56]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: request-explain-china-dominance
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=1032s
+    start_timestamp: 00:17:12
+    end_timestamp: 00:17:37
+  evidence:
+    excerpt: null
+  notes: '~[00:17:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-00818
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: observation
-    text: >
-      Raj mentions there was recent news that China (referring to
-      Huawei) is making chips that the Western world reportedly doesn't
-      think should even be possible.
-    topic: huawei-chips-news
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The company name ("Huawei") is inferred from
-      context ("hवाई" in the ASR text) rather than stated clearly.
 
-  - id: raj-shamani-00819
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: observation
-    text: >
-      Raj observes that whenever DeepSeek launches something, American
-      companies' value drops, and that there is a kind of fear about
-      this everywhere.
-    topic: deepseek-market-impact
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=1032s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00807
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj states that the first battleground China has used is dominance over raw materials.
 
-  - id: raj-shamani-00820
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: evidence
-    text: >
-      Raj cites a statistic that, in terms of useful patents filed,
-      China has filed six times more patents than America in the last
-      few years, and that India isn't even in the picture in this race.
-    topic: china-patents-stat
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:58]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: raw-material-dominance-battleground
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:17:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript is not speaker-diarized and this transition line is inferred to be Raj''s based on it directly following his framing question and preceding the guest''s detailed explanation.
 
-  - id: raj-shamani-00821
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks directly whether China is dominating the world
-      technologically, and whether that is a battle China has already
-      won.
-    topic: china-tech-dominance-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:58]-[01:15:38]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote. This exact question is also
-      reused as a soundbite in the episode's cold-open trailer.
 
-  - id: raj-shamani-00822
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj frames the final battleground as currency domination, noting
-      that the dollar is the world's dominant currency, and that China
-      is slowly building a parallel system, including trying to
-      establish a "petro-yuan."
-    topic: currency-domination-battleground
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:36:19]-[01:36:51]. Transcribed via YouTube Hindi auto-captions;
-      text is a close English translation of the original
-      Hindi/Hinglish, not a verbatim quote.
+    Not individually re-confirmed in this pass (adjacent to the verified [00:17:12] block); left as draft pending a dedicated check.'
+- id: raj-shamani-00808
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks: given how dangerously dominant China is over something as small as rare earth minerals, how will India compete?
 
-  - id: raj-shamani-00823
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks whether de-dollarization is happening.
-    topic: de-dollarization-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:38:18]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: rare-earth-competitiveness-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:18:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This exact line is also reused as a soundbite in the episode''s cold-open trailer.
 
-  - id: raj-shamani-00824
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks whether a change in the world order is coming, or whether
-      it has already arrived.
-    topic: world-order-change-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:40:33]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-00825
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: assertion
-    text: >
-      Raj asks when the guest thinks India will be in the powerful,
-      superpower-controlling position being described — asking if it
-      will be by 2036, ten years from the time of recording.
-    topic: india-superpower-timeline-question
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:46:44]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The transcript is not speaker-diarized and this
-      section has heavy cross-talk; the core question (India's timeline
-      to superpower status, "2036") is clear, but exact phrasing is
-      uncertain.
+    Not individually re-confirmed in this pass; left as draft pending a dedicated check.'
+- id: raj-shamani-00809
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj cites a figure of roughly 70 to 90 percent for China''s dominance over rare earth mining and/or processing.
 
-  - id: raj-shamani-00826
-    person: raj-shamani
-    source: raj-shamani-fo506-dr-samir
-    type: experience
-    text: >
-      Raj thanks the guest for spending the time on the podcast and says
-      he really enjoyed the conversation.
-    topic: episode-closing-remark
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:49:04]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: rare-earth-dominance-stat
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:18:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Attribution to Raj rests on the guest''s immediate reply referencing "the number between 70 and 90 percent that you said" — the transcript itself is not speaker-diarized, so the exact original wording of Raj''s statement could not be cleanly isolated; a verifier should confirm against the recording.
+
+
+    Not individually re-confirmed in this pass; left as draft pending a dedicated check.'
+- id: raj-shamani-00810
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj frames the second battleground: after the guest said India never wanted or did anything wrong to anyone, Raj notes that one place where China is doing wrong is economic domination.
+
+    '
+  topic: economic-domination-battleground
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:24:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This exact line is also reused as a soundbite in the episode''s cold-open trailer.
+
+
+    Visual verification check (2026-09-15): at ~[00:24:38] the caption (''started a war in the world, just people...'') doesn''t clearly match the ''second battleground'' framing described. Left as draft pending closer re-check.'
+- id: raj-shamani-00811
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks the guest to explain, in simple, basic language, how China does this — specifically, what the playbook is for creating a "debt trap."
+
+    '
+  topic: debt-trap-playbook-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:25:08]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (adjacent to 00810''s timestamp); left as draft pending a dedicated check.'
+- id: raj-shamani-00812
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks whether the Strait of Malacca is one way for India to counter China''s sea-route encirclement.
+
+    '
+  topic: malacca-strait-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=2229s
+    start_timestamp: 00:37:09
+    end_timestamp: 00:37:25
+  evidence:
+    excerpt: null
+  notes: '~[00:37:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=2229s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00813
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks the guest to imagine boldly: if India wanted to create a "choke point" somewhere to exert negative leverage, what choke point could it create?
+
+    '
+  topic: india-choke-point-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=2652s
+    start_timestamp: 00:44:12
+    end_timestamp: 00:44:25
+  evidence:
+    excerpt: null
+  notes: '~[00:44:12]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=2652s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00814
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj introduces another battleground and asks the guest to confirm whether it is accurate: China''s data and surveillance dominance in the world, noting there are a lot of mixed reviews and conspiracy theories about it, but also a lot of data backing it.
+
+    '
+  topic: data-surveillance-battleground
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:56:13]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This exact framing is also reused as a soundbite earlier in the episode''s cold-open trailer.
+
+
+    Not individually re-confirmed in this pass; left as draft pending a dedicated check.'
+- id: raj-shamani-00815
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks whether China somehow uses data and surveillance as a weapon.
+
+    '
+  topic: china-data-weaponization-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=3963s
+    start_timestamp: 01:06:03
+    end_timestamp: 01:06:15
+  evidence:
+    excerpt: null
+  notes: '~[00:58:15]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This exact line is also reused as a soundbite in the episode''s cold-open trailer.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=3963s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00816
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks the guest what the biggest digital payments company in India is (prompting the answer "PhonePe"), and then asks where that company, the second-biggest, and the third-biggest platforms are actually from/owned from.
+
+    '
+  topic: indian-fintech-foreign-ownership
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=3963s
+    start_timestamp: 01:06:03
+    end_timestamp: 01:06:25
+  evidence:
+    excerpt: null
+  notes: '~[01:06:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Framed as a leading, quiz-style question to make a point about foreign capital in Indian fintech.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=3963s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00817
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: belief
+  text: 'Raj says he agrees, and frames the next battleground as technology domination — noting that China has at least shown the world it dominates technology and will keep playing that role over the next 10-20 years, calling it a battleground China has even won against America — then asks the guest whether he believes that.
+
+    '
+  topic: technology-domination-battleground
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=4436s
+    start_timestamp: 01:13:56
+    end_timestamp: 01:14:10
+  evidence:
+    excerpt: null
+  notes: '~[01:13:56]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=4436s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00818
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: observation
+  text: 'Raj mentions there was recent news that China (referring to Huawei) is making chips that the Western world reportedly doesn''t think should even be possible.
+
+    '
+  topic: huawei-chips-news
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:14:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The company name ("Huawei") is inferred from context ("hवाई" in the ASR text) rather than stated clearly.
+
+
+    Not individually re-confirmed in this pass (adjacent to the verified [01:13:56] technology-domination block); left as draft.'
+- id: raj-shamani-00819
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: observation
+  text: 'Raj observes that whenever DeepSeek launches something, American companies'' value drops, and that there is a kind of fear about this everywhere.
+
+    '
+  topic: deepseek-market-impact
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:14:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass; left as draft pending a dedicated check.'
+- id: raj-shamani-00820
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: evidence
+  text: 'Raj cites a statistic that, in terms of useful patents filed, China has filed six times more patents than America in the last few years, and that India isn''t even in the picture in this race.
+
+    '
+  topic: china-patents-stat
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:14:58]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass; left as draft pending a dedicated check.'
+- id: raj-shamani-00821
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks directly whether China is dominating the world technologically, and whether that is a battle China has already won.
+
+    '
+  topic: china-tech-dominance-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:14:58]-[01:15:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This exact question is also reused as a soundbite in the episode''s cold-open trailer.
+
+
+    Not individually re-confirmed in this pass; left as draft pending a dedicated check.'
+- id: raj-shamani-00822
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj frames the final battleground as currency domination, noting that the dollar is the world''s dominant currency, and that China is slowly building a parallel system, including trying to establish a "petro-yuan."
+
+    '
+  topic: currency-domination-battleground
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=5779s
+    start_timestamp: 01:36:19
+    end_timestamp: 01:36:35
+  evidence:
+    excerpt: null
+  notes: '~[01:36:19]-[01:36:51]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=5779s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00823
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks whether de-dollarization is happening.
+
+    '
+  topic: de-dollarization-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:38:18]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (adjacent to the verified [01:36:19] currency-domination block); left as draft.'
+- id: raj-shamani-00824
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks whether a change in the world order is coming, or whether it has already arrived.
+
+    '
+  topic: world-order-change-question
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:40:33]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass; left as draft pending a dedicated check.'
+- id: raj-shamani-00825
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: assertion
+  text: 'Raj asks when the guest thinks India will be in the powerful, superpower-controlling position being described — asking if it will be by 2036, ten years from the time of recording.
+
+    '
+  topic: india-superpower-timeline-question
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=X6wtL19fxmg&t=6404s
+    start_timestamp: 01:46:44
+    end_timestamp: 01:47:00
+  evidence:
+    excerpt: null
+  notes: '~[01:46:44]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript is not speaker-diarized and this section has heavy cross-talk; the core question (India''s timeline to superpower status, "2036") is clear, but exact phrasing is uncertain.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=X6wtL19fxmg&t=6404s in-browser (caption text check, exact/close match to statement text) at this point in the recording.'
+- id: raj-shamani-00826
+  person: raj-shamani
+  source: raj-shamani-fo506-dr-samir
+  type: experience
+  text: 'Raj thanks the guest for spending the time on the podcast and says he really enjoyed the conversation.
+
+    '
+  topic: episode-closing-remark
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:49:04]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): at ~[01:49:04] the caption (''Raj, for doing the podcast that you do, and for...'') reads as the GUEST addressing/thanking Raj, not Raj thanking the guest as this statement describes. Likely misattributed or the real moment is a few seconds away. Left as draft pending closer re-check.'
