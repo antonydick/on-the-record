@@ -11,8 +11,8 @@ by hand — changes will be overwritten on the next push to main._
 
 - Total: 212
   - pending: 89
-  - extracted: 114
-  - in_review: 2
+  - extracted: 113
+  - in_review: 3
   - complete: 7
 
 ## Statements
