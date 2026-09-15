@@ -15,24 +15,34 @@ statements:
       since the stroke.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=fEUoJSTYtyc&t=730s"
+      start_timestamp: "12:10"
+      end_timestamp: "14:20"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: multi-guest panel (Nikhil hosting his brother
-      Nithin Kamath, Bryan Johnson, VC-turned-longevity-entrepreneur
-      Prashant Pitti [Biopeak], Fittr's Jitendra Chouksey ("JC"), and a
-      later audience-Q&A guest referred to as Seema), no diarization in
-      the auto-transcript. High-confidence attribution: this is a direct
-      claim about a named family member (Nithin Kamath), introduced by
-      Nikhil in first person ("he had a health calamity earlier this
-      year... he had a stroke") and independently corroborated by Nithin
-      himself in the same conversation.
+      Nithin Kamath, Bryan Johnson, Accel India/BioPeak & Longevity
+      India's Prashanth Prakash [correcting the draft's "Prashant
+      Pitti"], Fittr's Jitendra Chouksey ("JC"), and Zerodha director
+      Seema Kamath), no diarization in the auto-transcript, but confirmed
+      via clear video. Confirmed at 12:10-12:47 ("Future of Medical
+      Innovations" chapter): Nikhil says "...that's me and uh I'm better
+      known as nich's [Nithin's] brother so let him [tell you] a little
+      bit about health so ... n[ithin] is like this obsessive workout guy
+      ... maybe 20 to 30 tablets not prescribed by me not prescribed ...
+      works out for a long time every day and he had a health Calamity
+      earlier this year so he had a stroke even though he was very [fit]."
+      Nithin's own on-camera confirmation follows separately at
+      13:45-14:20, in the same continuous segment: "...yeah I I mean I
+      had the same question about last October last November I did Iron
+      Man like I was I was really at my fittest I was ever been and
+      January I was met with a stroke it was it was so accidental ... and
+      this is like really the first time I guess I'm in front of a camera
+      uh after the stroke."
 
   - id: nikhil-kamath-213
     person: nikhil-kamath
@@ -45,7 +55,7 @@ statements:
       in his chest -- that he would not do it again.
     topic: personal life
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -54,7 +64,24 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-212. Told in
-      first person while asking Prashant Pitti to explain what NAD is
-      ("I've tried NAD once in Dubai on an IV and I felt so bad while I
-      was taking it...").
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-212, resolved the
+      same way. Told in first person while asking Prashanth Prakash
+      [correcting the draft's "Prashant Pitti"] to explain what NAD is.
+      Content confirmed present via NotebookLM (exact line: "can you
+      elaborate and say what is NAD a little bit I've tried NAD once uh
+      in Dubai on an IV and I felt so bad while I was taking it it felt
+      like my chest is heavy and it was so uncomfortable that I would
+      never take it just for that reason but what is any," preceded by
+      "...today we don't even know what are the Transporters that are
+      going to transport Ned [NAD] from your bloodstream across cell
+      membrane..." and followed by "...so in your body there's a process
+      which we refer to as metabolism and your body produces something
+      called as ATP..."), within the "Understanding Health Supplements"
+      chapter (roughly 32:18-36:45 of the 3:29:49 video). The "before"
+      context ("...bloodstream across cell membrane can you...") was
+      matched in the real video at 33:05, but extensive caption scrubbing
+      from there through ~36:45 did not surface Nikhil's exact personal
+      quote -- the NAD discussion continues for several more minutes with
+      Prashanth/Jitendra/Bryan covering precursors, injected delivery, and
+      lab testing without Nikhil's Dubai anecdote appearing in that span.
+      Left at reviewed rather than forcing an imprecise timestamp.
