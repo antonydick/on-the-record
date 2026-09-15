@@ -1,1 +1,100 @@
-statements: []
+statements:
+  - id: nikhil-kamath-178
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-entrepreneur-flaws-ep16
+    type: experience
+    text: >
+      Says he has seen the Rare Rabbit store in the mall near his house in
+      UB City, Bangalore, many times, and that he (through his fund/team)
+      was in the process of investing in Rare Rabbit; recounts that when
+      they began researching the company more closely, its profile seemed
+      almost implausible for its era -- a bootstrapped Indian-grown
+      Western-clothing manufacturer that was profitable after tax with no
+      outside investors and no dilution.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting OYO founder
+      Ritesh Agarwal, Mamaearth co-founder Ghazal Alagh, and Rare Rabbit
+      founder Manish Poddar), no diarization. This episode has each guest
+      narrate an extended personal life story in turn, which makes
+      first-person passages easy to misattribute -- long stretches
+      initially read as candidates for Nikhil (a detailed childhood story
+      involving a temple in Odisha, a self-given "Chief Clarity Officer"
+      title, a sports-based hiring philosophy, and an India sovereign
+      credit rating critique) were on closer reading part of Ritesh
+      Agarwal's own narrated segment, not Nikhil's, and were excluded.
+      This statement is instead drawn from the host's own introduction of
+      Manish Poddar/Rare Rabbit before the interview segment begins,
+      which is stylistically distinct (third-person framing of the guest,
+      "we started researching the company") from the guests' own
+      first-person life narratives.
+
+  - id: nikhil-kamath-179
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-entrepreneur-flaws-ep16
+    type: experience
+    text: >
+      Describes himself as having an "avoidant attachment" tendency: he
+      fears being seen as vulnerable or receiving sympathy, and when
+      something bad is happening in his life he will tend to hide it
+      rather than mention it. Says his coping mechanism when multiple
+      things are going wrong at once is to compartmentalize -- setting
+      aside the problem that isn't working, addressing the others first,
+      and returning to it afterward, which he describes as "what works
+      for me."
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-178. This
+      self-disclosure comes in first person during the closing
+      recap/summary segment, offered in direct response to and contrast
+      with Ritesh Agarwal's own account of hiding difficulties from his
+      leadership team, with Ritesh then asking Nikhil "how do you look at
+      it" before Nikhil's compartmentalizing answer.
+
+  - id: nikhil-kamath-180
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-entrepreneur-flaws-ep16
+    type: experience
+    text: >
+      Describes the show's recurring end-of-episode practice of "paying
+      forward" some of their luck by funding a young founder, and,
+      inspired by Ritesh Agarwal's account of how Peter Thiel's fellowship
+      changed his life, proposes doing this episode's version as a "WTF
+      Founders Fellowship": he and the other three panelists would each
+      commit 20 lakh rupees (80 lakh rupees total) as a grant to a young
+      founder selected from open applications reviewed by all four of
+      them, noting the show has previously run similar pay-it-forward
+      segments for influencers and for EV-sector charities.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-178. This is the
+      show's recurring closing format, proposed and narrated in first
+      person by the host ("we'll all uh commit a certain amount of
+      money... should we do 20 lakhs each").
