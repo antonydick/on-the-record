@@ -12,7 +12,7 @@ statements:
       products).
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -25,11 +25,25 @@ statements:
       Nuseir Yassin, comedian/entrepreneur Tanmay Bhat, content creator
       Prajakta Koli, and BeerBiceps' Ranveer Allahbadia), no diarization
       in the auto-transcript. This is a claim made about Nikhil by
-      Nuseir directly addressing him on camera ("Do you know what you
-      invested in? In my company -- so your money I'm using, we're
-      building this platform that you've invested in... great track
-      record, genius investor, I'm using your money"), which Nikhil does
-      not dispute.
+      Nuseir directly addressing him on camera. Content confirmed present
+      via NotebookLM (exact line: "do you know what you invested in in my
+      company so your money I'm using we're building this platform that
+      you've invested in okay I know Nas nasio so Nas doio platform is
+      basically saying okay in the future Brands will not be your friends
+      Community will be," followed by "so nasio basically helps you take
+      your community and turn it into a business that's what is really
+      important helps you sell those digital courses"), occurring
+      somewhere within the "Longevity and brand deals" /
+      "Importance of owning the audience" chapters (roughly 2:42:25-
+      2:53:45 of the 3:09:14 video). Extensively searched this range via
+      the real video's captions across two passes without pinning the
+      exact moment -- the transcript segment does not appear where its
+      surrounding context (brand-deal economics, "renting your time")
+      would suggest, and manual caption scrubbing at ~15s intervals
+      across the full window did not surface it. Left at reviewed rather
+      than forcing an imprecise timestamp; a future pass with YouTube's
+      transcript search (not available in this session) should pin it
+      quickly.
 
   - id: nikhil-kamath-211
     person: nikhil-kamath
@@ -43,15 +57,22 @@ statements:
       to the same pool.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=JjDjDvNgkFo&t=11175s"
+      start_timestamp: "3:06:15"
+      end_timestamp: "3:06:34"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-210. This is the
-      show's recurring closing format, committed in first person by the
-      host near the end of the episode ("I'll add amount to 50 lakhs").
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-210, resolved via
+      clear video (Nikhil visibly on camera, unbroken shot). This is the
+      show's recurring closing format ("WTF Fund" chapter); Tanmay Bhat
+      and Prajakta Koli each pledge 5 lakh rupees toward free training for
+      50 aspiring creators, hiring actual trainers from India for two
+      months. Confirmed via video at 3:06:15-3:06:34: "...super so we'll
+      commit to that yeah and I'll add amount to 50 lakhs uh to the same
+      thing and we'll combine it all together and we'll run this and uh I
+      think it can go a long way in helping many new young people become
+      like people on this table or better."
