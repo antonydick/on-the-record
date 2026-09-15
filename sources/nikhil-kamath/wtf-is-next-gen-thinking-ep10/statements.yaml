@@ -1,1 +1,183 @@
-statements: []
+statements:
+  - id: nikhil-kamath-159
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
+    type: assertion
+    text: >
+      States he is 36 years old and has been a full-time trader for 19
+      years, i.e. since around age 17.
+    topic: biography
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: multi-guest panel (Nikhil hosting Navya
+      Naveli Nanda, an actress referred to as "Tara" -- consistent with
+      Tara Sutaria per the episode title, though her described
+      biography in this transcript, e.g. a twin sister and an
+      NCPA-opera childhood, was not independently verified -- and Zepto
+      co-founders Aadit Palicha and Kaivalya Vohra), no diarization.
+      Attribution inferred from conversational role, not confirmed via
+      video. Cross-reference: consistent with nikhil-kamath-101 (Kiran
+      Mazumdar-Shaw episode, age 36, published 2023-07-22) and
+      nikhil-kamath-154 (Social Media panel, also age 36, published
+      2023-04-19) -- this episode published 2023-09-20.
+
+  - id: nikhil-kamath-160
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
+    type: experience
+    text: >
+      Says he has been an investor in PVR (the cinema chain) for a long
+      time, and separately started his own company building small,
+      two-screen multiplexes for tier-2/tier-3 Indian towns (combined
+      with a grocery store and community-center concept in the same
+      building), citing specific unit economics he worked with -- a
+      target of 60-70% occupancy, tickets around 150 rupees, and roughly
+      1.5 crore rupees of capex per center.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159.
+
+  - id: nikhil-kamath-161
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
+    type: experience
+    text: >
+      Mentions having a much younger brother, around 15 years old at
+      the time, who lives in Dubai and got on Instagram around age
+      11-12.
+    topic: family
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. Given the
+      large age gap with Nikhil (36 at the time), this is likely a
+      different sibling from his brother and Zerodha co-founder Nithin
+      Kamath (referenced separately and by name later in this same
+      episode, see nikhil-kamath-162) -- treat as a distinct family
+      detail requiring careful confirmation during verification rather
+      than assuming it refers to Nithin.
+
+  - id: nikhil-kamath-162
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
+    type: experience
+    text: >
+      Describes his working relationship with his brother Nithin
+      Kamath: he started trading full-time at 17, and the two of them
+      founded "Kamath Associates" together about 16 years before this
+      recording; he handles all stock-market and investing decisions
+      while Nithin handles people and the broking business, and they
+      have operated without external investors or debt, formalizing
+      their arrangement early on with lawyers and a written
+      constitution.
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. A
+      specific, checkable business/biography timeline claim (Kamath
+      Associates founding, ~16 years before a 2023-09-20 recording) --
+      confirm exact dates during verification.
+
+  - id: nikhil-kamath-163
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
+    type: experience
+    text: >
+      Describes a personal habit, sustained for about a year, of
+      writing down his dreams within the first five minutes of waking
+      (even at 4am), after reading that dream recall fades quickly;
+      also mentions he has been writing a book for a long time that he
+      says he will never publish, purely for his own personal
+      reflection.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159.
+
+  - id: nikhil-kamath-164
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
+    type: experience
+    text: >
+      Describes a personal planning ritual: going alone into the office
+      on Sundays surrounded by whiteboards, sometimes for up to 12
+      hours with no other agenda, using pen-and-paper charts and arrows
+      to think through plans and decisions.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159.
+
+  - id: nikhil-kamath-165
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
+    type: experience
+    text: >
+      Discloses having been to therapy ("I've been to a few [therapists],
+      nine out of ten are horrible"), and shares that he has never had
+      a strong sense of self-worth and does not feel lasting
+      fulfillment from what he has built -- describing satisfaction as
+      fleeting, followed by a need to chase something new.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. Sensitive
+      personal/psychological content -- treat with particular care
+      during verification and do not present as a clinical diagnosis or
+      settled fact, per SKILL.md guidance on sensitive content.
