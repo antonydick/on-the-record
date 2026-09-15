@@ -10,22 +10,25 @@ statements:
       Mysore.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ohjXRswUYqM&t=80s"
+      start_timestamp: "1:22"
+      end_timestamp: "1:31"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing A.R.
-      Rahman), no diarization. Attribution inferred from conversational
-      role, not confirmed via video. Cross-reference: more specific
-      than nikhil-kamath-040 (Narendra Modi episode: father "from near
-      Mangalore," mother from Mysore) -- Udyavar/Udupi and Mangalore are
-      both coastal Karnataka and roughly consistent, but the two should
-      be reconciled during verification rather than assumed identical.
+      Rahman), no diarization, but confirmed via video at 1:22-1:31:
+      Nikhil is visibly on camera saying "And I have grown up all my
+      life in Bangalore... half Konkani, half Kannada... Dad is from
+      this town near Udupi called Udyavar, and Mom is from Mysore."
+      Cross-reference: more specific than nikhil-kamath-040 (Narendra
+      Modi episode: father "from near Mangalore," mother from Mysore)
+      -- Udyavar/Udupi and Mangalore are both coastal Karnataka and
+      roughly consistent; not treated as identical, just noted as
+      compatible.
 
   - id: nikhil-kamath-050
     person: nikhil-kamath
@@ -36,17 +39,30 @@ statements:
       Mentions his father passed away the year before this recording.
     topic: family
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ohjXRswUYqM&t=449s"
+      start_timestamp: "7:29"
+      end_timestamp: "7:33"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-049.
-      Cross-reference: third independent corroboration of the father's
-      death, alongside nikhil-kamath-022 (Ranbir Kapoor) and
-      nikhil-kamath-027 (Kumar Birla). Treat with the same
-      sensitivity-during-verification note as those.
+      SPEAKER ATTRIBUTION: confirmed via video, with one caveat worth
+      recording. Sequence at 7:27-7:38: Rahman (on camera) finishes
+      describing his nephew GV Prakash's National Award and "my son, my
+      daughters" (7:27-7:29); the caption "And how did that change
+      you?" appears at 7:33 while the camera is still on Rahman as a
+      reaction shot; the camera then cuts to Nikhil at 7:38 continuing
+      the same question ("How does it affect you first, and how does it
+      change you later?"). The "And" opening implies this follows a
+      preceding remark not fully visible on Rahman's shot -- read
+      together with Nikhil being the confirmed speaker of the
+      immediately following continuation, this is Nikhil's aside ("my
+      dad passed away recently last year") leading into his question to
+      Rahman, not Rahman talking about himself (Rahman's own father's
+      death, decades earlier, is the separate subject of this episode's
+      "Childhood Trauma, Losing His Father" chapter). Cross-reference:
+      third independent corroboration of the father's death, alongside
+      nikhil-kamath-022 (Ranbir Kapoor) and nikhil-kamath-027 (Kumar
+      Birla).
