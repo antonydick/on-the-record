@@ -1,1 +1,115 @@
-statements: []
+statements:
+  - id: nikhil-kamath-194
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-craft-beverages-ep22
+    type: experience
+    text: >
+      Says he did not drink coffee as recently as three years before this
+      recording and avoided caffeine generally, instead drinking green tea
+      on the belief it was healthy; says his view of green tea has since
+      shifted to associating it with microplastics, and that he now drinks
+      coffee daily and feels unwell without having two cups a day.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting Blue Tokai's
+      Matt Chitharanjan, Mossant's Aditya, Subko's Rahul Reddy, and a
+      fourth guest, Anish, a photographer-turned-beverage entrepreneur),
+      no diarization in the auto-transcript. Stated in first person during
+      a discussion of the craft-beverage/coffee category as an investment
+      area.
+
+  - id: nikhil-kamath-195
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-craft-beverages-ep22
+    type: belief
+    text: >
+      Describes his investing approach when asked who he'd invest in within
+      quick-commerce: he evaluates companies as a multiple of the EBITDA or
+      net cash they generate, finds current quick-commerce valuations
+      expensive by that measure, and says he has not invested in the space
+      as a result, characterizing himself as "more a conservative
+      investor."
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-194. Stated in
+      first person in response to a direct question about which
+      quick-commerce company he would invest in.
+
+  - id: nikhil-kamath-196
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-craft-beverages-ep22
+    type: belief
+    text: >
+      Says that, having attended the World Economic Forum in Switzerland
+      shortly before this recording and heard Europeans and Americans
+      discussing Trump-era trade fragmentation, he believes a more
+      protectionist world (e.g. India reciprocating against companies like
+      Coca-Cola and Pepsi) would be an inflection point favoring India's
+      craft beverage industry. Adds that he has a personal "buy Indian"
+      rule that extends beyond beverages to clothing, food, sneakers, and
+      electronics: he will generally choose an Indian brand over a
+      foreign one as long as the quality gap is within about 5% or the
+      price premium is within about 5%.
+    topic: worldview
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-194. Stated in
+      first person. Cross-reference: consistent with his established
+      pattern of Davos/WEF attendance noted in other episodes' notes
+      (e.g. nikhil-kamath-167's PVR statement references Davos in an
+      earlier episode).
+
+  - id: nikhil-kamath-197
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-craft-beverages-ep22
+    type: experience
+    text: >
+      Mentions, while discussing large language models' potential impact
+      on consumer business, that he recorded a podcast conversation with
+      Yann LeCun (Meta's chief AI scientist), and that he and someone he
+      refers to as "the Perplexity guy" are working on something together
+      related to AI.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-194. Stated in
+      first person. Cross-reference: the Yann LeCun podcast corroborates
+      nikhil-kamath-148/149 (the separate Yann LeCun episode already in
+      this dataset). The "Perplexity guy" collaboration is a new,
+      unverified claim -- the specific project and person (likely
+      Perplexity AI founder Aravind Srinivas, who has a separate episode
+      in this dataset) should be confirmed during verification.
