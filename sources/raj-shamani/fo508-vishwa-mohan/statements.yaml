@@ -1,0 +1,418 @@
+statements:
+  - id: raj-shamani-01201
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj introduces today's guest as Vishwa Mohan, Founder and CEO of
+      Upgrade School of Tech, noting that he has built systems at global
+      tech giants including Oracle, PayPal, Walmart, Amazon, and LinkedIn.
+    topic: guest-introduction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:16]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Part of the episode's spoken intro/framing segment
+      before the interview proper begins.
+
+  - id: raj-shamani-01202
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj says the guest has mentored more than 10 lakh (1 million)
+      students.
+    topic: guest-mentorship-claim
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:16]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Part of the spoken guest-introduction segment.
+
+  - id: raj-shamani-01203
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj frames the episode around three things he wants to learn from
+      the guest: what large companies like Amazon, Oracle, and LinkedIn
+      look for before giving a fresher a package worth a crore or more,
+      which jobs AI will replace in the next five years, and which three
+      skills will make someone future-ready.
+    topic: episode-framing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:51]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Spoken as part of the episode's opening framing,
+      before the interview proper begins.
+
+  - id: raj-shamani-01204
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: assertion
+    text: >
+      Raj interrupts the guest's "crack/switch/EMI" life-story monologue
+      to say: "No, no, no, this is just phase one — we'll finish phase
+      two and phase three as well, and then I'll ask my question. I'm
+      loving this side of you."
+    topic: host-reaction-phases
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:11:37]-[00:11:59]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Speaker attribution to Raj is inferred from
+      context (a short interjecting reaction breaking into the guest's
+      first-person narrative); the ASR has no diarization, so exact
+      wording/segmentation is approximate.
+
+  - id: raj-shamani-01205
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj asks Vishwa Mohan — noting that he has worked at Amazon,
+      Oracle, and LinkedIn, has sat in hiring rooms, and has seen people
+      hired from the other side as well as having been hired himself —
+      what a world-class hiring manager or HR person at a company like
+      Amazon looks at when comparing a resume from an IIT against one
+      from MIT or Stanford, and whether the MIT/Stanford candidate
+      actually gets preference.
+    topic: iit-vs-mit-hiring
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:30:17]-[00:30:46]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote.
+
+  - id: raj-shamani-01206
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj asks Vishwa Mohan to name the top three skills that companies
+      like Amazon, Oracle, and PayPal expect a new hire to already have
+      on day one.
+    topic: day-one-skills
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:37:46]-[00:38:13]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote.
+
+  - id: raj-shamani-01207
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: belief
+    text: >
+      Raj says he has heard that Amazon's hiring process is one of the
+      toughest/top, and asks the guest how his own experience interviewing
+      at Amazon was.
+    topic: amazon-hiring-reputation
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:44:56]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-01208
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj challenges the guest: if he believes the degree-based college
+      education system is completely broken, why does his own institute
+      still attach itself to degrees, giving out a B.Tech affiliated with
+      an existing university — effectively becoming part of the same
+      "broken system" it criticizes.
+    topic: degree-vs-broken-system
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:49:27]-[00:49:56]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Some ASR words in this stretch ("झूठ का", "स्ट्रांग
+      पॉइंट") are slightly garbled; translation reflects the best-inferred
+      meaning of a pointed, somewhat sarcastic question.
+
+  - id: raj-shamani-01209
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj states that Amazon brought in robots and let go of about half
+      its workforce as a result, and has now used AI to cut more jobs,
+      noting the company has automated its workforce multiple times
+      before.
+    topic: amazon-automation-layoffs
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:05:25]-[01:05:50]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. This is Raj's own claim, stated as framing for
+      a question to the guest — not something the guest asserted.
+
+  - id: raj-shamani-01210
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj asks Vishwa Mohan, drawing on his experience at Amazon,
+      LinkedIn, and other large companies, which specific type of
+      engineer survives when a large company brings in automation and
+      lays off staff.
+    topic: automation-survivors
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:05:50]-[01:06:15]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote.
+
+  - id: raj-shamani-01211
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj asks why bodyguards are present when a big company carries out
+      layoffs, wondering aloud whether it's because a fired employee is
+      not allowed to return to their desk, in case they try to force
+      their way back in.
+    topic: firing-bodyguards
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:11:36]-[01:12:00]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Exact turn boundary with the guest's answer is
+      uncertain since the ASR has no diarization.
+
+  - id: raj-shamani-01212
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj asks how a student, a soon-to-be-hired graduate, or a working
+      professional worried about losing their job to AI could self-audit
+      whether they are "AI-ready," and what questions such a self-test
+      should include.
+    topic: ai-readiness-self-audit
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:13:50]-[01:14:16]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote.
+
+  - id: raj-shamani-01213
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: belief
+    text: >
+      Raj says he loves that the guest has painted such a brutal, honest
+      picture of today's job market, adding that not knowing this reality
+      is a bigger fear than knowing it — knowing it is good news, because
+      then people can start figuring out how to respond.
+    topic: brutal-honesty-reaction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:18:47]-[01:19:19]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote.
+
+  - id: raj-shamani-01214
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj says the conversation could lead to one of two outcomes —
+      either it stays just talk about problems with no real solution, or
+      it leads to something actionable — and asks, combining the guest's
+      experience, the harsh realities just described, and what his
+      institute is actually doing, how someone about to enter college can
+      make their career "bulletproof" today.
+    topic: bulletproof-career
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:19:55]-[01:20:17]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote.
+
+  - id: raj-shamani-01215
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: belief
+    text: >
+      Raj says that amid all the discussion of what's going wrong in
+      India, there is one thing they have to agree on: the global value
+      of Indian minds is increasing a lot more than it used to.
+    topic: indian-minds-global-value
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:34:29]-[01:35:12]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. This stretch of ASR is somewhat garbled around
+      the transition into the guest's reply; translation reflects the
+      best-inferred meaning of Raj's lead-in statement.
+
+  - id: raj-shamani-01216
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      Raj asks what it is about Indian thinking or the Indian mindset —
+      what framework — that the rest of the world, including the US and
+      China, is now valuing and copying from India.
+    topic: indian-mindset-question
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:35:12]-[01:35:40]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote.
+
+  - id: raj-shamani-01217
+    person: raj-shamani
+    source: raj-shamani-fo508-vishwa-mohan
+    type: observation
+    text: >
+      As a closing question, Raj asks the guest to fill in the blank in
+      one word or one line: "India will grow when ___."
+    topic: closing-fill-in-blank
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:38:29]-[01:39:00]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Recurring closing-question format Raj uses on
+      this show.

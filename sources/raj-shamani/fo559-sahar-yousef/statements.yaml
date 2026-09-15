@@ -1,0 +1,446 @@
+statements:
+  - id: raj-shamani-11401
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: recommendation
+    text: >
+      Raj asks viewers to subscribe to the channel, saying the more
+      subscribers the show has, the better, because it lets them bring on
+      bigger guests and give those guests better facilities, which in turn
+      gives viewers more value from the conversations.
+    topic: channel-growth
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:04]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is a recurring subscribe-request bit; wording
+      may be lightly garbled by ASR.
+
+  - id: raj-shamani-11402
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: assertion
+    text: >
+      Raj mentions that the full audio experience of the show is also
+      available on Spotify, and invites listeners to follow the show there
+      to hear new episodes.
+    topic: podcast-distribution
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:27]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-11403
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: observation
+    text: >
+      Raj notes, while introducing the guest's background, that she has
+      trained many people at large companies, including people from
+      Nvidia and Google, and that she teaches and researches
+      over-achievers.
+    topic: guest-background
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:09:14]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution is reasonably confident but the
+      passage is framing/introduction rather than a direct quote, and ASR
+      quality in this section is only moderate.
+
+  - id: raj-shamani-11404
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: experience
+    text: >
+      Raj says this happens to him often: he'll have an irrational belief
+      about his work, and even while sitting somewhere at random in the
+      afternoon he'll start noticing "spots" of opportunity that suddenly
+      appear and eventually turn into valuable opportunities worth
+      millions of dollars, which he then goes on to capture.
+    topic: opportunity-belief
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:20:45]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This follows the guest's point about beliefs shaping
+      what the brain notices, and Raj responds describing his own
+      experience in first person.
+
+  - id: raj-shamani-11405
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: experience
+    text: >
+      Raj says he always plays the "victim" about his sleep, telling
+      himself that because of his routine, life, and work he's someone
+      who will never be able to sleep properly, and that every little
+      thing ends up confirming that belief for him.
+    topic: sleep-victim-narrative
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:21:15]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-11406
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: experience
+    text: >
+      Raj says that even on days he gets close to 10 hours available for
+      sleep, he still ends up confirming a belief that he didn't sleep
+      well, telling himself excuses like "this happened, that happened,"
+      and that these excuses are constantly running in his head.
+    topic: sleep-excuses
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:21:42]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-11407
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: assertion
+    text: >
+      In response to a direct question, Raj confirms that he is not
+      married yet.
+    topic: marital-status
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:58:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The immediately following exchange about dating is
+      too garbled in the ASR transcript to confidently capture.
+
+  - id: raj-shamani-11408
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: experience
+    text: >
+      Raj says he learned through hosting his own podcast that when his
+      phone is right next to him, his attention during the conversation
+      drops noticeably; because of this he now always hands his phone
+      away during recording (out of the room or elsewhere) and keeps it
+      on airplane mode, arriving without needing it about 30 minutes
+      beforehand.
+    topic: phone-podcast-focus
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:59:18]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Some surrounding phrasing is garbled ASR; the core
+      claim (phone nearby reduces his attention, so he removes it and uses
+      airplane mode) is clear.
+
+  - id: raj-shamani-11409
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: experience
+    text: >
+      Raj says that when a guest comes in to record, he tells his crew to
+      turn phones off and take them out of the room entirely.
+    topic: phone-crew-policy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:17:24]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-11410
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: belief
+    text: >
+      During an exercise about how the brain represents goals (described
+      as a "city map" of the brain), Raj gives his own goal as the working
+      example: he wants to become the number one podcast in the world.
+    topic: podcast-goal
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:55:19]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj's own phrasing here is somewhat garbled ("I want
+      to become this podcaster and this too"); the "number one in the
+      world" framing comes from the guest immediately restating his
+      example back to him in the same exchange, which is why it is
+      included here as Raj's stated goal.
+
+  - id: raj-shamani-11411
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: experience
+    text: >
+      Raj says that one thing he consistently fails at is waking up very
+      early. He says he has tried many times and really pushed hard, and
+      has only managed to train himself to wake up around 7:30-8:00 AM,
+      but still cannot join the "5 AM club."
+    topic: early-rising-struggle
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:03:26]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-11412
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: experience
+    text: >
+      Raj says that if left to his own natural schedule, he can easily
+      stay up very late using devices until around 2-3 AM and would
+      typically be ready to sleep around 4 AM.
+    topic: natural-sleep-schedule
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:09:47]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is part of a chronotype discussion where Raj is
+      revealing his own quiz results; some ASR gender-agreement glitches
+      appear in this passage but the first-person content matches Raj's
+      role in the conversation at this point.
+
+  - id: raj-shamani-11413
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: experience
+    text: >
+      Raj says that because he runs a business and has to wake up, his
+      natural late sleep schedule "doesn't work," so he has had to build
+      systems for himself (such as blackout curtains and an eye mask) to
+      fall asleep by around 11:00 PM at night instead.
+    topic: sleep-systems
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:10:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-11414
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: observation
+    text: >
+      Based on the chronotype assessment done on the show, Raj's
+      biological chronotype is confirmed to be "PM-shifted" (a night-owl
+      type), which the guest notes is a minority pattern among the
+      general population.
+    topic: chronotype
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:17:14]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The reveal is phrased jointly ("that's me, that's
+      you too, PM-shifted") in the transcript, so Raj's specific result is
+      inferred from context rather than a fully clean standalone
+      statement; worth double-checking against the recording.
+
+  - id: raj-shamani-11415
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: experience
+    text: >
+      Raj admits that he feels very tired in the mornings.
+    topic: morning-fatigue
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:18:07]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-11416
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: assertion
+    text: >
+      Wrapping up the episode, Raj tells the guest that they've left out
+      an important topic - what the "10 rules" are for a person to become
+      "superhuman" - and says they will cover it together in a future
+      episode.
+    topic: future-episode-plan
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:53:36]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-11417
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: belief
+    text: >
+      Right after the interview wraps, Raj says that he doesn't care about
+      having fun, at least for the next two to three years, because he is
+      there purely for work and to maximize impact.
+    topic: work-priority
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:54:10]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is an off-the-cuff closing remark; the exact
+      wording around "maximizing impact" is somewhat garbled in the ASR
+      transcript.
+
+  - id: raj-shamani-11418
+    person: raj-shamani
+    source: raj-shamani-fo559-sahar-yousef
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode to
+      the end and asks them to comment with what they liked or didn't
+      like about the episode, and which guests they'd like to see on the
+      show, saying this feedback helps him improve future episodes.
+    topic: audience-feedback
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:54:31]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is a standard closing outro; wording is a
+      paraphrase of the intent rather than a precise sentence-by-sentence
+      match due to ASR garbling.

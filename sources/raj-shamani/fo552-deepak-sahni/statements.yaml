@@ -1,0 +1,825 @@
+statements:
+  - id: raj-shamani-10001
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: evidence
+    text: >
+      In the episode's opening narration, Raj stated that one in nine adults
+      in the world has diabetes today, and that 250 million of them don't
+      even know they have it.
+    topic: diabetes-global-stats
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:16]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This line is part of Raj's scripted episode-intro
+      voiceover (English-language stat, stated before introducing the
+      guest), not part of the live interview Q&A.
+
+  - id: raj-shamani-10002
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: evidence
+    text: >
+      In the episode's opening narration, Raj stated that global healthcare
+      spending on diabetes crossed $1 trillion dollars last year.
+    topic: diabetes-healthcare-spending
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:24]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Part of Raj's scripted episode-intro voiceover. No
+      source is given in the transcript for the "$1 trillion" figure or the
+      "last year" it refers to.
+
+  - id: raj-shamani-10003
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked Deepak that, given he has seen so many reports over his
+      years working in diagnostics, what the most common disease/health
+      issue in India is.
+    topic: diagnostics-common-diseases
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:59]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This exact question is also heard, near-verbatim, in
+      the cold-open montage at the very start of the video; this note
+      anchors it to its point in the actual interview flow.
+
+  - id: raj-shamani-10004
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: observation
+    text: >
+      Raj remarked that gut-related health issues have become an epidemic
+      ("on fire") in India right now, and asked why everyone seems to have
+      suddenly realized this — asking whether it wasn't a problem before.
+    topic: gut-health-awareness
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:04:10]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10005
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked which diseases Deepak thinks will still be a major health
+      burden even 10 years from now.
+    topic: future-disease-burden
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:04:54]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10006
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked Deepak to explain what "neuro-performance" means and to
+      also explain "regenerative health."
+    topic: neuro-performance-regenerative-health
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:07:17]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10007
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked Deepak what future trends he sees in healthcare.
+    topic: healthcare-future-trends
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:09:02]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10008
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: belief
+    text: >
+      Raj asked what could be done without a blood test, remarking that
+      having to give blood is itself the biggest obstacle/hurdle in blood
+      testing.
+    topic: non-invasive-diagnostics
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:10:23]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10009
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: belief
+    text: >
+      Raj asked skeptically whether the EMS-style muscle-building machines
+      being discussed actually work, or whether that's just how it seems.
+    topic: ems-muscle-machines
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:15:45]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The transcript has no speaker labels, so this
+      attribution to Raj (rather than Deepak) rests on the question being
+      addressed as "aap" (you) and the immediate "nahi nahi nahi" reply that
+      follows it.
+
+  - id: raj-shamani-10010
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked what two or three diseases Deepak knows of that cannot be
+      solved at all today, despite how far medical science has advanced.
+    topic: incurable-diseases
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:16:23]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This same question is also heard in the cold-open
+      montage at the start of the video.
+
+  - id: raj-shamani-10011
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked what is something that can actually be treated today but
+      that people don't know about — because the technology hasn't reached
+      the general public, most doctors aren't aware of it, or there's
+      simply a lack of general awareness.
+    topic: unknown-treatable-conditions
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:18:45]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The transcript has no speaker labels and this section
+      blends into Deepak's preceding answer about cancer, so the exact
+      turn boundary is inferred from the question phrasing.
+
+  - id: raj-shamani-10012
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: observation
+    text: >
+      Raj observed that healthcare has suddenly become a major focus
+      worldwide, noting that a lot of startup founders now specifically
+      want to build something in healthcare, and asked why this is
+      happening.
+    topic: healthcare-industry-boom
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:20:28]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10013
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked Deepak to be very specific about what kind of business,
+      started today specifically in the health space, could become a
+      ₹1,000-crore business, and what exactly would need to be done to
+      build it.
+    topic: healthcare-business-opportunity
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:27:00]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. A version of this question is also heard in the
+      cold-open montage at the start of the video.
+
+  - id: raj-shamani-10014
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked Deepak to give an example of one of the biggest hospitals
+      where the problem being discussed (patients having to navigate the
+      hospital "pillar to post") is most acute, suggesting Medanta as a
+      possible example.
+    topic: hospital-concierge-service
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:29:34]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10015
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj steered the conversation to skip past shared hospital rooms and
+      move directly to discussing single-room pricing.
+    topic: hospital-room-pricing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:29:59]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10016
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked, for example, how much a hospital room would cost per
+      night.
+    topic: hospital-room-pricing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:30:20]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10017
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: observation
+    text: >
+      Raj said he understood the problem to be that people paying very
+      expensive hospital bills (around ₹45 lakh) don't necessarily need the
+      process to be faster — they need someone else to handle everything
+      for them so they personally don't have to spend hours waiting around.
+    topic: hospital-concierge-service
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:31:24]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is Raj paraphrasing his understanding of
+      Deepak's business idea back to him; the transcript has no speaker
+      labels so the exact turn boundary is inferred from context.
+
+  - id: raj-shamani-10018
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: qualification
+    text: >
+      Raj raised the concern that a concierge-style health-navigation
+      service seems quite risky ("scary") for the provider — for instance,
+      if there's ever a delay and something happens to a patient as a
+      result.
+    topic: hospital-concierge-service
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:36:26]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10019
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked: if the wrong operation is performed at the wrong hospital
+      (e.g. a knee surgery that isn't even an emergency), how would a
+      patient go about choosing the right doctor or hospital in the first
+      place?
+    topic: choosing-a-doctor
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:36:54]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10020
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked how this sudden interest in Ayurveda came about.
+    topic: ayurveda-interest-origin
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:38:41]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10021
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj noted that the supplement side of an Ayurveda business had been
+      covered, and asked what the service side of it would look like.
+    topic: ayurveda-business-model
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:39:36]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10022
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Referring back to Deepak's earlier point that Americans and
+      Westerners — who have a lot of disposable income to spend and a lot
+      of disease burden — are increasingly placing hope and trust in
+      ancient medicine, specifically Ayurveda, Raj asked him to be very
+      specific about what kind of Ayurveda-based business could be built
+      there without running into a legal/regulatory problem.
+    topic: ayurveda-business-opportunity
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:42:59]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. A version of this framing is also heard in the
+      cold-open montage at the start of the video.
+
+  - id: raj-shamani-10023
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked whether Deepak was proposing the business sell a
+      "protocol," or whether it would ultimately just end up selling
+      supplements.
+    topic: ayurveda-business-model
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:44:45]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10024
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Citing hair-fall and weight-loss as examples of big problems that
+      have already been successfully monetized in the US, Raj asked what
+      one big problem currently unsolved in the US market could be solved
+      by layering in Ayurveda.
+    topic: ayurveda-business-opportunity
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:50:15]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10025
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Discussing PCOS as the example pain point, Raj asked whether it is a
+      pain point that people are willing to pay a lot of money to solve.
+    topic: pcos-business-opportunity
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:52:15]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10026
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj remarked that Deepak had just laid out an entire business plan,
+      and asked whether building something like this would require raising
+      funds initially, or whether it could be done without funding.
+    topic: startup-funding
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:53:20]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10027
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj posed a hypothetical to Deepak: if an entrepreneur got excited
+      about an idea like this, worked hard on it, and now needed to raise
+      ₹3 crore, could Deepak name three people in India today who would
+      actually give ₹3 crore for something like this?
+    topic: startup-fundraising-india
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:54:19]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10028
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked Deepak about his background, confirming he was born in
+      Delhi and asking what kind of family he came from and what his
+      father did for work.
+    topic: deepak-sahni-background
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:59:56]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10029
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked how one goes about constructing the "story" — the
+      narrative used to pitch investors on a company's valuation and
+      growth trajectory when fundraising.
+    topic: startup-fundraising-narrative
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:16:14]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The transcript has no speaker labels; this line
+      sits amid a long guest explanation of fundraising, so the exact turn
+      boundary is inferred from the question phrasing.
+
+  - id: raj-shamani-10030
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked how many investor pitches Deepak made for that funding
+      round.
+    topic: startup-fundraising
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:19:33]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10031
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked whether, in the final negotiation, Deepak was able to
+      negotiate the valuation number, or whether investors simply agreed to
+      what he had initially quoted.
+    topic: startup-fundraising-negotiation
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:20:19]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10032
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked whether it happens that money sometimes doesn't actually
+      come through even after the Shareholders' Agreement (SHA) has been
+      signed.
+    topic: startup-fundraising-risk
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:20:56]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The transcript has no speaker labels; the exact turn
+      boundary here is inferred from the question phrasing and the answer
+      that immediately follows it.
+
+  - id: raj-shamani-10033
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: belief
+    text: >
+      Raj assumed that good, reputable investors probably wouldn't back out
+      of a deal like that, and suggested that doing so would damage an
+      investor's reputation/name.
+    topic: vc-investor-behavior
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:21:11]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Deepak disagreed with this assumption in the
+      following lines, saying it's normal industry behavior tied to
+      timing/risk rather than investor quality (not captured here as a
+      separate statement since that content belongs to Deepak, not Raj).
+
+  - id: raj-shamani-10034
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: assertion
+    text: >
+      Raj asked how much Unblock (Deepak's program) costs.
+    topic: unblock-pricing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:21:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-10035
+    person: raj-shamani
+    source: raj-shamani-fo552-deepak-sahni
+    type: experience
+    text: >
+      Closing the interview, Raj told Deepak he really enjoyed the
+      conversation and that he had personally been wanting to have this
+      conversation with him for a long time, and that it had finally
+      happened today.
+    topic: episode-closing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:25:13]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.

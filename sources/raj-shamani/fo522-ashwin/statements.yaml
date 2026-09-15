@@ -1,0 +1,411 @@
+statements:
+  - id: raj-shamani-04001
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: observation
+    text: >
+      Every year, 11 million Indian students finish high school, but not a
+      single Indian university ranks among the world's top 100 universities.
+      Because of this, India's most talented students leave the country to
+      earn degrees abroad.
+    topic: indian-higher-education-gap
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:15]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is part of Raj's pre-interview host narration
+      framing the episode.
+
+  - id: raj-shamani-04002
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: observation
+    text: >
+      This year, global universities such as UNSW Sydney and the University
+      of Bristol are opening their own campuses in India.
+    topic: foreign-university-campuses-india
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:39]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. From Raj's host narration framing the episode topics.
+
+  - id: raj-shamani-04003
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: observation
+    text: >
+      Despite government institutions receiving heavy subsidies, 60 to 70%
+      of IT graduates [from institutions like the IITs] leave for the US.
+    topic: brain-drain-it-graduates
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:39]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Posed by Raj as a rhetorical/teaser question in the
+      host narration framing the episode; the guest later cites a similar
+      IIT-specific figure independently in the interview itself.
+
+  - id: raj-shamani-04004
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: belief
+    text: >
+      Of India's more than 250 unicorn founders, only three are college
+      dropouts, which raises the question of whether dropping out of
+      college to build a startup is actually a myth.
+    topic: college-dropout-myth
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:04]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. From Raj's host narration framing the episode.
+
+  - id: raj-shamani-04005
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: assertion
+    text: >
+      Raj asked Ashwin what he thought the current level of respect for
+      Indians was, and whether, going to universities as an Indian, he felt
+      that respect had changed, or whether there was still a bit of the old
+      attitude that "you're coming from a poor country."
+    topic: perception-of-indians-abroad
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:35]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The transcript has no speaker labels (merged ASR of a
+      two-person conversation), so attribution to Raj is inferred from
+      context (a question addressed to Ashwin about his own experience) and
+      should be checked against the recording.
+
+  - id: raj-shamani-04006
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: assertion
+    text: >
+      Raj asked why an American university, using American taxpayers'
+      money, would give an Indian student a 70% tuition scholarship, and
+      asked whether that was racist.
+    topic: us-university-scholarships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:05:05]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The transcript is not speaker-labeled; this question
+      is inferred to be Raj's (interjected into Ashwin's personal scholarship
+      story) from context and should be verified against the recording.
+
+  - id: raj-shamani-04007
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: experience
+    text: >
+      Raj said he had spoken with a student who told him Harvard calls a
+      certain classroom practice something like a "cold call."
+    topic: harvard-cold-call
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:22:53]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Attribution to Raj is inferred from the first-person
+      framing ("I spoke with a student") in an unlabeled merged transcript;
+      verify against the recording.
+
+  - id: raj-shamani-04008
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: mechanism
+    text: >
+      Describing his approach to opening an interview, Raj said he starts
+      by thinking about his audience -- what useful information a guest
+      like Ashwin can give them and how best to present it -- and that he
+      prefers to ask an open question, such as "How would you do this? Give
+      me some advice," rather than a closed one.
+    topic: raj-interview-technique
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:26:07]-[00:26:40]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. This was said during a live role-play exercise
+      where Ashwin asked Raj to demonstrate how he would open an interview
+      with him; the transcript has no speaker labels, so attribution to Raj
+      (via first-person "I" statements about his own interviewing approach,
+      addressed to "Ashwin") should be verified against the recording.
+
+  - id: raj-shamani-04009
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: mechanism
+    text: >
+      Raj illustrated the difference between open and closed questions with
+      an example: asking "Ashwin, tell me what people should do" is an open
+      question, while asking "should someone go to university or join a
+      startup" is a closed question, because it already offers two
+      pre-set options.
+    topic: open-vs-closed-questions
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:27:03]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Continues the same role-play/demonstration as the
+      previous statement; attribution to Raj inferred from the example
+      being addressed to "Ashwin" by name -- verify against the recording.
+
+  - id: raj-shamani-04010
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: observation
+    text: >
+      Raj pointed out what he saw as a contradiction in Ashwin's answer:
+      Ashwin said he wanted the discussion to work as a full masterclass to
+      improve people's careers, while also wanting to answer very small,
+      short-term questions -- and noted that these two approaches serve
+      different audiences.
+    topic: podcast-audience-framing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:28:21]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Attribution to Raj inferred from context (addressed
+      to Ashwin as "you create a contradiction") in an unlabeled merged
+      transcript; verify against the recording.
+
+  - id: raj-shamani-04011
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: experience
+    text: >
+      In a puzzle posed to him about buying either two intact mugs for 100
+      rupees, or two intact mugs plus one broken mug for the same 100
+      rupees, Raj picked the option that included the broken mug, and
+      explained that he felt like he was getting something extra by
+      choosing it.
+    topic: decision-making-bias-example
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:36:03]-[00:37:00]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. This was part of a behavioral-economics example
+      Ashwin ran on Raj live; the transcript is not speaker-labeled, so the
+      specific choice and reasoning attributed to Raj should be checked
+      against the recording.
+
+  - id: raj-shamani-04012
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: experience
+    text: >
+      Responding to a hypothetical about choosing between a branded
+      medicine (like Tylenol) and its cheaper generic/unbranded paracetamol
+      equivalent, Raj said he doesn't have children, and that this might be
+      why he would pick the unbranded, cheaper option.
+    topic: consumer-behavior-example
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:38:23]-[00:38:47]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Part of a consumer-psychology example Ashwin
+      walked Raj through live; the transcript has no speaker labels, so
+      this personal remark attributed to Raj should be verified against the
+      recording.
+
+  - id: raj-shamani-04013
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: experience
+    text: >
+      When Ashwin proposed doing a live role-play where Raj would have to
+      act as the interviewer questioning him, Raj reacted, "Oh god, that's
+      a big responsibility."
+    topic: interview-roleplay-reaction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:25:39]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is a brief reaction line in an unlabeled merged
+      transcript; the ASR text around it is also somewhat garbled, so
+      attribution and exact wording should be checked against the
+      recording.
+
+  - id: raj-shamani-04014
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: experience
+    text: >
+      When asked how he would resolve a moral dilemma used in one of
+      Ashwin's Harvard classes (whether to drop the atomic bomb, weighing
+      US soldier deaths against civilian casualties), Raj said he had
+      forgotten the relevant decision-making framework and asked Ashwin to
+      teach it to him, saying he found the topic interesting.
+    topic: moral-decision-framework
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:06:54]-[01:07:14]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Transcript has no speaker labels; attribution
+      to Raj is inferred from context and should be verified against the
+      recording.
+
+  - id: raj-shamani-04015
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: assertion
+    text: >
+      Raj asked whether this kind of college education and degree would
+      still hold value, questioning what might happen over the next 3-4
+      years and whether what someone studies today could become useless
+      with the rise of AI.
+    topic: ai-impact-on-education-value
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:34:33]-[01:35:04]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Transcript has no speaker labels; attribution
+      to Raj (as the one raising the AI-skepticism question to Ashwin) is
+      inferred from context and should be verified against the recording.
+
+  - id: raj-shamani-04016
+    person: raj-shamani
+    source: raj-shamani-fo522-ashwin
+    type: belief
+    text: >
+      When Ashwin invited him to come teach at one of his campuses, Raj
+      said he would, adding that he wants to teach at some point in his
+      life, that he will definitely do it, and that he loves teaching.
+    topic: raj-teaching-aspiration
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:39:11]-[01:39:33]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Said near the close of the episode, right after
+      Ashwin's invitation and "thank you, Raj" exchange.

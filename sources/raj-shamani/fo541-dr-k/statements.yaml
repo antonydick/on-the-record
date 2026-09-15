@@ -1,0 +1,234 @@
+statements:
+  - id: raj-shamani-07801
+    person: raj-shamani
+    source: raj-shamani-fo541-dr-k
+    type: observation
+    text: >
+      The more I talk to my friends about who they're attracted to, the
+      more I feel like everyone is broken in their own way — I can
+      think of about 20 friends whose patterns of attraction are all
+      different from each other, and I still haven't figured out why
+      this happens.
+    topic: attraction-patterns-in-friends
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:36:40]-[00:37:10]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Said just before Raj asks Dr. K to explain
+      why people are attracted to the specific traits/people they are.
+
+  - id: raj-shamani-07802
+    person: raj-shamani
+    source: raj-shamani-fo541-dr-k
+    type: observation
+    text: >
+      Among over-achievers I know — in my own circle of friends and
+      people I've met, both men and women — I've often seen many
+      young, very successful people develop a pattern where they only
+      want to date someone who will improve their own social status.
+    topic: successful-people-status-seeking-dating
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:55:38]-[00:56:01]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. The transcript is not speaker-diarized, so
+      this turn attribution is inferred from conversational flow (Raj
+      referencing "you mentioned power couples too" while addressing
+      Dr. K, then asking "why is that?" immediately after) rather than
+      an explicit speaker label — flag for extra scrutiny on
+      verification.
+
+  - id: raj-shamani-07803
+    person: raj-shamani
+    source: raj-shamani-fo541-dr-k
+    type: experience
+    text: >
+      As soon as I wake up, I feel like eating junk food and sweet
+      things. If I can't do that, then I just want to go back to
+      sleep.
+    topic: morning-cravings-and-habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:27:10]-[00:27:44]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Given in response to Dr. K asking Raj by
+      name what attracts him as soon as he wakes up, as part of a
+      discussion about attraction versus what's actually good for you.
+      Pronoun/gender agreement in the ASR text around this exchange is
+      inconsistent (likely transcription noise), so treat with some
+      caution.
+
+  - id: raj-shamani-07804
+    person: raj-shamani
+    source: raj-shamani-fo541-dr-k
+    type: experience
+    text: >
+      Both my father and my mother used to give me hair-oil head
+      massages, and they'd comfort me with pats to help me sleep when
+      I was sick as a child — but my mother did it more than my
+      father.
+    topic: childhood-parental-touch
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:14:08]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Given in response to Dr. K asking who gave him
+      the most hair-oil massages and comforting touch as a child,
+      during the discussion of touch and physical affection.
+
+  - id: raj-shamani-07805
+    person: raj-shamani
+    source: raj-shamani-fo541-dr-k
+    type: experience
+    text: >
+      Being in love felt exciting, restless, and full of nervous
+      anticipation — I wanted to do things for her, and I wanted to
+      make sure she never faced any kind of inconvenience in her life.
+    topic: falling-in-love-personal-experience
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:42:18]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Said in response to Dr. K asking Raj whether he
+      has ever been in love and what it felt like in the early days.
+
+  - id: raj-shamani-07806
+    person: raj-shamani
+    source: raj-shamani-fo541-dr-k
+    type: experience
+    text: >
+      The first thing I'd do was figure out how long it would take to
+      reach her — and the waiting itself, just thinking that I'd see
+      her the next day, was more exciting than the actual meeting.
+    topic: anticipation-before-meeting-partner
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:42:49]-[00:43:17]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Follows directly from Raj's answer about
+      what being in love felt like; Dr. K then connects this to
+      anticipatory dopamine.
+
+  - id: raj-shamani-07807
+    person: raj-shamani
+    source: raj-shamani-fo541-dr-k
+    type: belief
+    text: >
+      People definitely do look down on me sometimes, but I don't let
+      that thought take over my mind.
+    topic: handling-being-looked-down-on
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:52:19]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Said in response to Dr. K directly asking, "Raj,
+      do people look down on you?" The exchange immediately around this
+      answer is somewhat garbled/crossed in the ASR transcript, so only
+      the clear parts of Raj's reply are used here.
+
+  - id: raj-shamani-07808
+    person: raj-shamani
+    source: raj-shamani-fo541-dr-k
+    type: experience
+    text: >
+      The hardest thing for me is when things stay exactly the same —
+      I find it very difficult to just keep doing something the same
+      way without trying to change or improve it.
+    topic: discomfort-with-staying-the-same
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:04:20]-[02:04:47]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Said after Dr. K told Raj to keep doing
+      exactly what he's doing and asked if that was hard for him; Raj
+      replied "very" and then explained why.
+
+  - id: raj-shamani-07809
+    person: raj-shamani
+    source: raj-shamani-fo541-dr-k
+    type: observation
+    text: >
+      Whether it's harder for a man or a woman to find a life partner
+      today seems to depend heavily on the country: in countries like
+      the US, more men seem to be struggling; in countries like Japan,
+      more women seem to be struggling; and in a country like India,
+      it feels like everyone without resources/means is struggling.
+    topic: dating-difficulty-varies-by-country
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:16:38]-[01:17:14]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Raised by Raj as a framing/question before
+      Dr. K critiques the premise of the question itself.

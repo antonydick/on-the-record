@@ -1,0 +1,634 @@
+statements:
+  - id: raj-shamani-07601
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj introduces Alok Sama as the former President and CFO of SoftBank
+      Group International, and as the author of the bestselling book "The
+      Money Trap."
+    topic: guest-introduction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:25] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is host narration/voiceover introducing the
+      guest near the top of the episode.
+
+  - id: raj-shamani-07602
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks what the difference is between a "startup investor" and a
+      "real investor."
+    topic: investor-types
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:55] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This line appears in the episode's cold-open
+      highlight montage (clips resequenced from later in the interview).
+      The transcript carries no speaker labels; attribution to Raj is
+      inferred from the second-person, interviewer-style phrasing.
+
+  - id: raj-shamani-07603
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: belief
+    text: >
+      Raj states that most entrepreneurs are intellectually curious.
+    topic: entrepreneurship-traits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:19] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The same sentence continues into a further clause
+      (roughly "...ultimately they end up working against wind-energy
+      entrepreneurs?") that is too garbled in the ASR transcript to
+      confidently translate, so it has been omitted here. Transcript has
+      no speaker labels; attribution to Raj inferred from context.
+
+  - id: raj-shamani-07604
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks what he thinks is the single biggest "cage," or constraint,
+      that entrepreneurs are trapped in, and says that if Alok had to pick
+      one challenge, he wants to know what the biggest challenge for
+      entrepreneurs would be.
+    topic: entrepreneurship-challenges
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:19] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from the question framing directed at the guest.
+
+  - id: raj-shamani-07605
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: observation
+    text: >
+      Raj asks Alok to tell him more about Masayoshi Son, noting that Son
+      is one of the rare people in the world who has run businesses across
+      major growing economies -- the US, China, Japan, and India -- and
+      that Alok had said Son keeps making repeated comebacks; Raj asks
+      what makes him special.
+    topic: masayoshi-son
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:06:26] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from the question framing addressed to the guest.
+
+  - id: raj-shamani-07606
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks: turning to the business world, who would you really call a
+      visionary?
+    topic: visionary-entrepreneurs
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:07:15] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from the interviewer-style question.
+
+  - id: raj-shamani-07607
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks Alok whether he will talk about Adam Neumann, and whether
+      Alok thinks everything about Neumann was fine or that he became too
+      greedy, noting that Neumann is the person Alok's book is about.
+    topic: adam-neumann
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:14:38] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from the second-person question referencing "your book."
+
+  - id: raj-shamani-07608
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: belief
+    text: >
+      Raj comments that for big "salesman" type founders like Adam
+      Neumann, who run the kind of ventures that vision funds favor,
+      attracting money is very easy -- regardless of how much revenue the
+      business has or whether it is really a technology business.
+    topic: startup-fundraising-ease
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:17:45] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from the second-person "you talked about..." framing that
+      precedes this generalization, and this same line recurs (in
+      resequenced form) in the episode's cold-open montage.
+
+  - id: raj-shamani-07609
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks: so logically speaking, what is the difference between a
+      startup and a technology business?
+    topic: startup-vs-tech-business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:18:31] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from context as the interviewer's question.
+
+  - id: raj-shamani-07610
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks Alok to explain the difference between Indians who build
+      startups in India and Indians who build startups in Silicon Valley.
+    topic: india-vs-silicon-valley-founders
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:23:36] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The same question is also heard, resequenced, in the
+      episode's cold-open montage. Transcript has no speaker labels;
+      attribution to Raj inferred from the interviewer-style question.
+
+  - id: raj-shamani-07611
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: observation
+    text: >
+      Raj remarks that people tell him India's leading startup hub is
+      either Delhi, Delhi NCR, or Bangalore.
+    topic: india-startup-hubs
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:27:10] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels, so this
+      attribution to Raj is lower-confidence than most other entries in
+      this file; it is inferred from the first-person "people tell me"
+      framing, which fits the host's vantage point across many
+      interviews.
+
+  - id: raj-shamani-07612
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj broadens the question and asks what the difference is between
+      Indian, American, and Chinese startups, and what it takes to succeed
+      in each.
+    topic: india-us-china-startups
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:27:37] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from the explicit segue ("let's make this a more detailed
+      question") that precedes it.
+
+  - id: raj-shamani-07613
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks which is better -- an underfunded startup or an overfunded
+      startup -- and which one Alok would choose.
+    topic: startup-funding-levels
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:32:44] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from the direct "what would you choose" question to the
+      guest.
+
+  - id: raj-shamani-07614
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks Alok to name two or three more startup examples, besides
+      the ones already discussed, where overfunding caused problems.
+    topic: overfunded-startup-examples
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:35:58] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The ASR renders the two company names already under
+      discussion as "Vivo" and "Oo Capital," which appear to be garbled
+      transcriptions of company names discussed earlier in the
+      conversation (likely WeWork- and Uber/Ola-related); these could not
+      be confidently resolved and are omitted from the statement text.
+      Transcript has no speaker labels; attribution to Raj inferred from
+      the "tell me" question directed at the guest.
+
+  - id: raj-shamani-07615
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: belief
+    text: >
+      Raj remarks that he doesn't know the specific deal details, but that
+      from the outside it looks like Ola's Bhavish Aggarwal has repeatedly
+      attracted capital while pivoting the business at nearly every stage
+      of its journey almost like a fresh startup each time, which Raj
+      notes is contradictory to how the VC world typically prefers to see
+      consistency.
+    topic: bhavish-aggarwal-ola
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:36:29] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The ASR renders the opening word oddly (something
+      like "Olaaf"), interpreted here as referring to Ola. Transcript has
+      no speaker labels; attribution to Raj inferred from the "I don't
+      know the details, but from the outside it looks like..." framing,
+      which fits an outside observer more than the SoftBank insider.
+
+  - id: raj-shamani-07616
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks whether Masayoshi Son was really provoking Ritesh Agarwal
+      into head-on competition with a rival company, and whether this is
+      described in Alok's book.
+    topic: masayoshi-son-ritesh-agarwal
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:40:35] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The rival company's name is not clearly rendered in
+      the ASR transcript (appears as garbled fragments, possibly a
+      reference to Airbnb) and has been left unspecified rather than
+      guessed. Transcript has no speaker labels; attribution to Raj
+      inferred from the "is this in the book" question.
+
+  - id: raj-shamani-07617
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks: among all the entrepreneurs you have met so far, who is
+      the most inspiring?
+    topic: inspiring-entrepreneurs
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:46:41] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from the interviewer-style question.
+
+  - id: raj-shamani-07618
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks Alok to name three or four more people he considers truly
+      capable and visionary -- two from around the world and two from
+      India.
+    topic: visionary-entrepreneurs
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:50:27] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from the interviewer-style "give me three-four more names"
+      request.
+
+  - id: raj-shamani-07619
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj draws a distinction between being visionary and being
+      opportunistic, and presses Alok on how he feels about the
+      entrepreneur under discussion and what he thinks that person really
+      is.
+    topic: visionary-vs-opportunist
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:51:35] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The specific entrepreneur being discussed is not
+      named explicitly in this passage, but the surrounding context
+      suggests it is likely Bhavish Aggarwal, discussed earlier in the
+      conversation. Transcript has no speaker labels; attribution to Raj
+      inferred from the "how do you feel" question directed at the guest.
+
+  - id: raj-shamani-07620
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: observation
+    text: >
+      Raj recounts that Masayoshi Son described Steve Jobs as "the
+      left-brain-right-brain Leonardo da Vinci of the tech world," and
+      asks Alok what that means.
+    topic: steve-jobs-da-vinci-quote
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:52:32] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The transcript literally reads "Masayoshi's son
+      said..."; this appears to be an ASR/translation artifact mistaking
+      the surname "Son" (as in Masayoshi Son) for the Hindi word for "son"
+      (offspring). Translated here as attributing the quote to Masayoshi
+      Son himself, consistent with the same quote appearing (without this
+      confusion) in the episode's cold-open montage. Transcript has no
+      speaker labels; attribution of the question itself to Raj inferred
+      from context.
+
+  - id: raj-shamani-07621
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: observation
+    text: >
+      Raj says he was talking about artists while going through his prep
+      notes and recalled a line where Alok had mentioned the word
+      "passion," and asks Alok why he said that.
+    topic: passion-reference
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:54:07] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Transcript has no speaker labels; attribution to Raj
+      inferred from the reference to reading from prep "notes" ahead of a
+      question to the guest.
+
+  - id: raj-shamani-07622
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks: how much money is enough, and how would you know?
+    topic: how-much-money-is-enough
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:57:55] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj explicitly frames this as "I have a question"
+      before asking it. A closely related version of this question also
+      appears, resequenced, in the episode's cold-open montage.
+
+  - id: raj-shamani-07623
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: observation
+    text: >
+      Raj notes that Alok said he would not personally promote any
+      particular brand, but observes that because of how much people now
+      rely on technology and data, you get real-time feedback on whether
+      something is working for your body.
+    topic: wearable-health-tech
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:01:36] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This appears to refer to a wearable health/recovery
+      tracking device discussed in the surrounding conversation, though
+      the specific brand or device is not named in this passage.
+      Transcript has no speaker labels; attribution to Raj inferred from
+      the second-person "you said..." framing.
+
+  - id: raj-shamani-07624
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj asks where Alok sees the next big, billion-dollar opportunity
+      area for young entrepreneurs in the startup world.
+    topic: next-billion-dollar-opportunity
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:04:14] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj frames this explicitly as his second-to-last
+      question of the interview.
+
+  - id: raj-shamani-07625
+    person: raj-shamani
+    source: raj-shamani-fo540-alok-sama
+    type: assertion
+    text: >
+      Raj poses his final question of the interview, referencing the
+      theme of Alok's book: is falling into the "money trap" a bad thing?
+    topic: money-trap
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:06:50] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj explicitly calls this "my last question" in the
+      transcript.

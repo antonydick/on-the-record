@@ -1,0 +1,239 @@
+statements:
+  - id: raj-shamani-11601
+    person: raj-shamani
+    source: raj-shamani-fo560-rishabh-singh
+    type: recommendation
+    text: >
+      Raj asks viewers to subscribe to the channel, saying the more
+      subscribers the show has, the better — it will let them bring on
+      bigger guests and provide those guests with better facilities.
+    topic: subscriber-appeal
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:59] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Mid-episode direct-address to viewers, a recurring
+      appeal seen across episodes of this show.
+
+  - id: raj-shamani-11602
+    person: raj-shamani
+    source: raj-shamani-fo560-rishabh-singh
+    type: assertion
+    text: >
+      Raj says the full audio experience of the show is also available
+      on Spotify, and invites listeners to follow the show there to
+      hear new episodes.
+    topic: podcast-distribution
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:59] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Immediately follows the subscribe appeal in the
+      same block.
+
+  - id: raj-shamani-11603
+    person: raj-shamani
+    source: raj-shamani-fo560-rishabh-singh
+    type: experience
+    text: >
+      Raj says he personally uses Porter when he needs to transport
+      things.
+    topic: porter-sponsorship
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:26] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Part of a sponsor read for the show's title
+      sponsor, Porter.
+
+  - id: raj-shamani-11604
+    person: raj-shamani
+    source: raj-shamani-fo560-rishabh-singh
+    type: assertion
+    text: >
+      Raj says Porter's two-wheeler delivery service is available in
+      more than 50 cities.
+    topic: porter-sponsorship
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:26] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Sponsor-read claim about Porter's coverage, made
+      by Raj during the title-sponsor ad segment.
+
+  - id: raj-shamani-11605
+    person: raj-shamani
+    source: raj-shamani-fo560-rishabh-singh
+    type: assertion
+    text: >
+      Raj says Porter has now launched a scooter service with similar
+      capacity, aimed at items that need extra space and extra care in
+      handling.
+    topic: porter-sponsorship
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:26] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Same Porter sponsor-read segment as the preceding
+      statement.
+
+  - id: raj-shamani-11606
+    person: raj-shamani
+    source: raj-shamani-fo560-rishabh-singh
+    type: assertion
+    text: >
+      Raj says that with Porter you never need to negotiate on price —
+      whatever rate is shown in the app is exactly what you pay.
+    topic: porter-sponsorship
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:46] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Closing line of the Porter sponsor-read segment.
+
+  - id: raj-shamani-11607
+    person: raj-shamani
+    source: raj-shamani-fo560-rishabh-singh
+    type: experience
+    text: >
+      Raj says that before this interview he read about Rishabh Singh,
+      talked to people about him, and tried to find out more about him.
+    topic: guest-preparation
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:54:23] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This falls in an exchange where Rishabh Singh
+      jokingly asks whether Raj background-checks people who try to get
+      close to him; the ASR transcript blends the two speakers' turns
+      without a clear break, but the content and pronouns indicate Raj
+      is confirming he researched Rishabh Singh ahead of the interview.
+      Some ASR uncertainty in exact turn boundaries here.
+
+  - id: raj-shamani-11608
+    person: raj-shamani
+    source: raj-shamani-fo560-rishabh-singh
+    type: experience
+    text: >
+      Raj says that over the past two to three days he watched about 10
+      of Rishabh Singh's own podcast appearances, spending more than 10
+      hours watching him.
+    topic: guest-preparation
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:54:23] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Same exchange as the preceding statement about
+      researching the guest; some ASR uncertainty in exact turn
+      boundaries.
+
+  - id: raj-shamani-11609
+    person: raj-shamani
+    source: raj-shamani-fo560-rishabh-singh
+    type: belief
+    text: >
+      Raj says that analyzing people this way — researching them
+      closely before meeting them — is his natural tendency.
+    topic: self-reflection
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:54:44] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Immediately follows the guest-research statements
+      in the same exchange.
+
+  - id: raj-shamani-11610
+    person: raj-shamani
+    source: raj-shamani-fo560-rishabh-singh
+    type: recommendation
+    text: >
+      At the close of the episode, Raj thanks viewers for watching and
+      asks them to comment on what they liked or disliked about the
+      episode and which guest they would like to see featured next.
+    topic: podcast-engagement
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:11:44] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Standard closing appeal used across episodes of
+      this show.

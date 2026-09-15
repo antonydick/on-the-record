@@ -1,0 +1,431 @@
+statements:
+  - id: raj-shamani-05201
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj asks Ranjit to explain, systematically and from the very
+      beginning, why India is not currently playing in the football World
+      Cup — covering talent development, scouting, the AIFF, all the
+      surrounding politics, and the relevant stats.
+    topic: why-india-not-in-world-cup
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:13:38]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The source transcript has no speaker labels, so
+      attribution to Raj (host) vs. Ranjit (guest) is inferred from the
+      question/answer flow; this line reads as the host's framing
+      question that sets up the whole interview.
+
+  - id: raj-shamani-05202
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj asks Ranjit to explain the history from post-independence
+      (1947) onward, comparing the trajectories of Indian football and
+      cricket since independence, and inviting him to bring hockey into
+      the comparison as well.
+    topic: football-cricket-hockey-trajectory
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:24:28]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in the source transcript); this is a redirect/framing
+      question steering the discussion to a specific historical period.
+
+  - id: raj-shamani-05203
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Going back to something Ranjit had mentioned about the
+      pre-independence era, Raj asks whether India was actually ever
+      good at football.
+    topic: pre-independence-football
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:26:25]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript).
+
+  - id: raj-shamani-05204
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj suggests that somebody must have changed the entire politics
+      and board system in Indian cricket too at some point, noting that
+      cricket could easily have ended up in a similarly corrupt state to
+      football.
+    topic: cricket-administration-reform
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:31:38]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript); phrased as a leading
+      question/inference to Ranjit.
+
+  - id: raj-shamani-05205
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj pushes back, asking whether international offers are actually
+      coming in for Indian players even at one-tenth the salary they
+      would earn playing in India.
+    topic: indian-players-abroad-offers
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:36:50]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript); this is a skeptical follow-up
+      challenging Ranjit's claim that Indian players wouldn't take a pay
+      cut to play abroad.
+
+  - id: raj-shamani-05206
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj asks Ranjit to give him the top three obstacles that "the
+      system" creates for footballers in India.
+    topic: football-system-obstacles
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:45:05]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript); this specific request also
+      appears reused as a hook line in the episode's cold open.
+
+  - id: raj-shamani-05207
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj asks Ranjit to name the exact price — how much it costs in
+      bribes — for someone who wants to play senior football at the
+      Santosh Trophy (national championship) level.
+    topic: santosh-trophy-bribery-cost
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:46:50]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript).
+
+  - id: raj-shamani-05208
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: belief
+    text: >
+      Raj asks what the actual point of bringing Messi to India was —
+      wondering aloud whether it was really just about making money —
+      and says his own impression was that the event was a big mess.
+    topic: messi-india-event-purpose
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:59:12]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript); combines two closely adjacent
+      host remarks (the redirect question and the "big mess" comment)
+      into one statement since they occur in the same turn.
+
+  - id: raj-shamani-05209
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj contrasts figures — noting the AIFF's annual budget is around
+      50 crore rupees while roughly 150 crore rupees was paid out for
+      Messi's brand visit to India — and asks Ranjit why he thinks that
+      imbalance exists.
+    topic: aiff-budget-vs-messi-fee
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:03:14]-[01:03:42]. Transcribed via YouTube Hindi
+      auto-captions; text is a close English translation of the original
+      Hindi/Hinglish, not a verbatim quote. Speaker attribution inferred
+      from context (no diarization in source transcript); the specific
+      figures (50 crore AIFF budget, 150 crore for Messi) were established
+      earlier by the guest, but this line is Raj's own framing/recap
+      question built on them.
+
+  - id: raj-shamani-05210
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj asks whether Ranjit thinks a single star player emerging from
+      India — comparable to a Ronaldo being born there — could change
+      everything for Indian football.
+    topic: star-player-impact
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:39:29]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript).
+
+  - id: raj-shamani-05211
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj asks Ranjit to describe a football player's daily training
+      routine, specifically while preparing for a major tournament.
+    topic: player-training-routine
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:21:47]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript).
+
+  - id: raj-shamani-05212
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj asks whether the relentless training/tournament schedule
+      Ranjit described isn't exhausting, and whether other national
+      teams follow the same kind of back-to-back schedule.
+    topic: training-schedule-exhausting
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:25:54]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript); audio is somewhat garbled around
+      this exchange (multiple filler sounds), but the two questions
+      appear to be a single host follow-up turn.
+
+  - id: raj-shamani-05213
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj, referencing what Ranjit had said about Ronaldo, asks
+      specifically what Ronaldo's sleeping pattern is like.
+    topic: ronaldo-sleep-pattern
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:26:44]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript).
+
+  - id: raj-shamani-05214
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj asks what Ranjit told his players the morning after they lost
+      a final, despite having been prepared going in with a "warrior"
+      kind of mindset.
+    topic: post-final-loss-psychology
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:29:44]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript).
+
+  - id: raj-shamani-05215
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: assertion
+    text: >
+      Raj asks Ranjit for a rupee-by-rupee cost breakdown: what it
+      actually costs to take a child from an Indian village, train them
+      for 10 years — feeding, housing, educating, coaching, and giving
+      them equipment, opportunities, exposure, and tournaments — and
+      prepare them to win an Olympic or World Cup-level medal.
+    topic: cost-to-produce-olympic-athlete
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:37:19]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript); this same question is echoed
+      almost verbatim in the episode's cold open, which helps confirm it
+      is the host's line.
+
+  - id: raj-shamani-05216
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: observation
+    text: >
+      As his closing question, Raj notes that he asks every guest the
+      same thing these days: what is one piece of advice that nobody
+      should follow?
+    topic: closing-question-format
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:50:24]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization in source transcript); this is a recurring closing
+      question format Raj describes using across guests.
+
+  - id: raj-shamani-05217
+    person: raj-shamani
+    source: raj-shamani-fo528-ranjit-bajaj
+    type: belief
+    text: >
+      Raj pushes back on Ranjit's claim that everyone would pick sport
+      as their school elective, saying a lot of people would choose a
+      language subject instead.
+    topic: sports-as-school-elective
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:25:36]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution here is less certain than
+      other entries in this file — the transcript has no diarization,
+      the passage is a fast back-and-forth ("no no... no no..."), and
+      Ranjit addresses "Raj" by name in the surrounding lines, which
+      makes the turn-taking hard to pin down with full confidence.

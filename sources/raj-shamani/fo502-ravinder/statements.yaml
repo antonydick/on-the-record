@@ -1,0 +1,689 @@
+statements:
+  - id: raj-shamani-00001
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: observation
+    text: >
+      Raj says that normally, when people talk about health or fitness, all
+      the attention goes only to diet, calories, and the gym.
+    topic: health-fitness-focus
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:01:13]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is from Raj's spoken intro/voiceover near the top
+      of the episode, before the guest is introduced by name.
+
+  - id: raj-shamani-00002
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: belief
+    text: >
+      Raj says people think that if they've met their protein requirements
+      and are working out every day, they're perfectly fit — but there is a
+      very big gap being missed: how essential minerals are disappearing
+      from food, causing the body to become internally weak.
+    topic: nutrition-gap
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:01:48]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Continues directly from Raj's intro/voiceover.
+
+  - id: raj-shamani-00003
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj introduces the guest as Ravinder Grover, CEO of Harvest Plus
+      Solutions, describing him as working on this "missing gap" in
+      nutrition.
+    topic: guest-introduction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:01:48]-[00:02:20]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. From Raj's spoken guest introduction/voiceover
+      at the top of the episode; "Harvest Plus Solutions" is as stated by
+      Raj, though later in the episode the organization is referred to only
+      as "HarvestPlus" — worth checking against the actual recording.
+
+  - id: raj-shamani-00004
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj frames the conversation as covering why zinc and nutrition in food
+      are declining nowadays, what "hidden hunger" is and how it weakens
+      people internally, and the early signs of micronutrient deficiency
+      that people mostly ignore.
+    topic: episode-framing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:20]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. From Raj's spoken intro/voiceover.
+
+  - id: raj-shamani-00005
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj opens the interview by asking the guest, "So in simple words, tell
+      me — what is the main work you do?"
+    topic: main-work-question
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:20]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00006
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj says he has never heard the term "bliss point engineering" before
+      and asks what it means.
+    topic: bliss-point-engineering
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:07:35]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (the guest
+      introduces the term, then a reaction of unfamiliarity follows) since
+      the transcript is not diarized by speaker.
+
+  - id: raj-shamani-00007
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: qualification
+    text: >
+      Raj points out that, by the guest's own account, biofortification
+      through crossbreeding takes 7-8 years — a long process — and that
+      doing this repeated crossbreeding and selection would also cost more
+      money, which would put affordability out of reach.
+    topic: biofortification-timeline-cost
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:17:34]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Introduced with "but you said two things," clearly
+      marking a second speaker responding to the guest.
+
+  - id: raj-shamani-00008
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj asks what the actual problem is now, noting that research has
+      already been done on biofortification, that prime ministers and
+      presidents around the world are accepting it, that international
+      bodies have given it awards, and that there are proven randomized
+      controlled trials — assuming that, as in India, other countries would
+      have run their own localized trials too.
+    topic: biofortification-adoption-barriers
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:23:30]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00009
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj states that price is not the problem — a biofortified seed costs
+      the same as a normal seed — and asks why people then aren't buying or
+      growing biofortified crops.
+    topic: biofortified-seed-pricing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:24:41]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00010
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj asks how far behind India is on biofortification compared with
+      other countries, listing possible reasons he's heard — too many
+      ministries, an awareness problem, or a money problem — while noting
+      that yields are almost the same as with regular crops.
+    topic: india-biofortification-lag
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:25:47]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00011
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj asks, "Who will pay the cost of the 10% [incentive being proposed
+      for farmers]?"
+    topic: farmer-incentive-funding
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:26:18]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00012
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: qualification
+    text: >
+      Raj frames it as a "chicken-and-egg problem": the guest says India is
+      losing 4% of GDP and should simply give farmers a 10% incentive to
+      grow biofortified crops, but Raj asks where the government would
+      immediately find funds for that incentive without diverting them from
+      the roughly 50 other priorities the country is working on, and when
+      the country would then actually see that 4% growth.
+    topic: incentive-funding-tradeoff
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:27:50]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00013
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj asks what impact zinc and iron deficiency would have on him
+      personally now, given that he is already a grown adult rather than a
+      child who is still developing.
+    topic: adult-zinc-iron-impact
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:31:50]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00014
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj asks to confirm that growth stunting would not be a risk for him
+      now, since he is already past the growth stage.
+    topic: adult-growth-stunting
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:31:50]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Immediate follow-up to raj-shamani-00013.
+
+  - id: raj-shamani-00015
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj poses a hypothetical: if someone hears all of this and still
+      decides not to change their diet or their household's food because
+      they think it doesn't matter to them, what consequences would that
+      person face in the next 5-10 years, or what should they at least
+      accept won't happen for them.
+    topic: diet-change-consequences
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:32:21]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00016
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: belief
+    text: >
+      Raj says there has suddenly been a lot of emphasis on protein in
+      India, which he considers a good thing, while noting that the guest
+      had said something suggesting too much emphasis on protein is
+      problematic.
+    topic: protein-emphasis-trend
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:34:45]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00017
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: belief
+    text: >
+      After the guest raises concerns about people overloading on protein,
+      Raj pushes back and asks what's wrong with that, saying that's exactly
+      what he's asking.
+    topic: protein-overconsumption-pushback
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:36:54]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00018
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: observation
+    text: >
+      Raj remarks that even though it's hard to overdose on protein given a
+      typical Indian diet, doing so would still be expensive — "you're
+      flushing your money out too."
+    topic: protein-cost-waste
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:36:54]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution here is less certain than usual
+      since the transcript is not diarized — this could plausibly be a
+      continuation of the guest's own point rather than a host interjection;
+      flag for extra care during verification.
+
+  - id: raj-shamani-00019
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj says he didn't understand the guest's explanation that mushroom
+      "skin," like human skin, can produce vitamin D after sunlight
+      exposure.
+    topic: mushroom-vitamin-d-confusion
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:42:16]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00020
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj asks whether, besides mushrooms, other foods can also be given
+      this "sun salutation" (sunlight exposure) treatment to boost their
+      vitamin content.
+    topic: sun-treatment-other-foods
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:42:52]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00021
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj asks the guest to describe the early signs — caused by missing
+      micronutrients — that a person notices in themselves but tends to
+      ignore, which will eventually lead to a major health problem.
+    topic: early-deficiency-signs
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:43:28]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00022
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: observation
+    text: >
+      Raj asks, as a hypothetical, whether people with micronutrient
+      deficiencies could instead get monthly or quarterly injections or IV
+      drips, noting that this is a trend among top-tier, elite people, and
+      asks the guest if he has seen this.
+    topic: iv-drip-trend
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:44:36]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00023
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj asks whether, in the guest's village, people are very easily
+      willing to accept "lab-made" seeds, then notes/asks whether these
+      (biofortified) seeds are actually not lab-made at all.
+    topic: village-seed-perception
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:48:21]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker turn-taking here is inferred from context in a
+      passage that also includes the guest's own remarks about his village;
+      flag for extra care during verification.
+
+  - id: raj-shamani-00024
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: belief
+    text: >
+      Raj says he finds the analogy that "zinc is like WiFi" for the whole
+      body very interesting.
+    topic: zinc-wifi-analogy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:54:57]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Said while Raj is recapping the micronutrients
+      discussed so far.
+
+  - id: raj-shamani-00025
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      Raj asks how they can help everyone listening to this conversation
+      start eating nutrient-rich food much faster than what the guest may
+      have originally projected, since it's good for the country, for
+      oneself, and for families.
+    topic: audience-call-to-action
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:00:18]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00026
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: assertion
+    text: >
+      As a closing question, Raj asks the guest to fill in the blank:
+      "India will not be able to grow if ___."
+    topic: fill-in-the-blank-growth
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:07:40]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00027
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: qualification
+    text: >
+      Raj notes that the guest described the "nutrition heist" as happening
+      at four levels — soil, crop, factory, and plate — and points out that
+      biofortification only addresses the crop level, then asks how the
+      soil-level problem will be fixed, how factories will be convinced,
+      and what will be done once food reaches the plate.
+    topic: nutrition-heist-four-levels
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:08:25]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00028
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: experience
+    text: >
+      In his closing remarks, Raj says it's been a long time since he's had
+      such a straightforward conversation where he didn't have follow-up
+      questions to ask — he just wanted to understand, watch, and listen.
+    topic: conversation-reflection
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:10:32]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-00029
+    person: raj-shamani
+    source: raj-shamani-fo502-ravinder
+    type: belief
+    text: >
+      In his closing remarks, Raj says he genuinely likes what the guest is
+      doing and wishes him all the best.
+    topic: guest-appreciation
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:10:32]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.

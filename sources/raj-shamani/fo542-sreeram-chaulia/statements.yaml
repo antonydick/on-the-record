@@ -1,0 +1,334 @@
+statements:
+  - id: raj-shamani-08001
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: observation
+    text: >
+      Raj introduces his guest, saying Professor Sreeram Chaulia is a foreign
+      affairs expert who has spent decades studying global geopolitics and
+      India's strategic interests.
+    topic: guest-credentials
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:21] (also repeated near the start of the main interview).
+      Transcribed via YouTube Hindi auto-captions; text is a close English
+      translation of the original Hindi/Hinglish, not a verbatim quote. This
+      is part of the host's spoken introduction/voiceover for the episode.
+
+  - id: raj-shamani-08002
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: observation
+    text: >
+      Raj frames the episode by saying that today Chaulia will decode India's
+      most important international partnerships and the strategy behind them.
+    topic: episode-framing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:21]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Part of the host's episode intro/voiceover.
+
+  - id: raj-shamani-08003
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: assertion
+    text: >
+      Raj recaps that Chaulia has said India is "in a live-in relationship"
+      in its international relations, and asks him to explain exactly what he
+      means by that.
+    topic: india-foreign-policy-analogy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:02]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is the opening question of the main interview
+      (a shorter version of the same question also appears in the episode's
+      cold-open trailer around [00:00:00]).
+
+  - id: raj-shamani-08004
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: assertion
+    text: >
+      Extending Chaulia's "live-in relationship" analogy, Raj jokingly asks
+      him to also specify which countries India is "dating" in this
+      arrangement, and whether it has "married" any of them.
+    topic: india-foreign-policy-analogy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:35]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. A playful follow-up to the previous question, part of
+      the same exchange.
+
+  - id: raj-shamani-08005
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: assertion
+    text: >
+      Raj notes that Chaulia has also said Japan and India together could
+      take China's place in Asia, and asks him to clarify what he means by
+      that — an alternative to what, specifically.
+    topic: japan-india-china-alternative
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:23:51]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08006
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: observation
+    text: >
+      Raj remarks that India appears to be in a good strategic and
+      geopolitical position by being friends with everyone: it has not cut
+      off trade with any country, has not stopped buying oil from anyone, and
+      has signed new trade deals without disrupting its existing imports and
+      exports.
+    topic: india-balanced-diplomacy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:35:14]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (Raj is
+      prefacing this as "just a curiosity question" before asking Chaulia
+      the related question captured separately); the passage uses "hum"
+      (we/us) in the collective sense of "India," a common rhetorical habit
+      in this kind of Hindi/English commentary.
+
+  - id: raj-shamani-08007
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: belief
+    text: >
+      Raj adds that whether this "friends with everyone" approach is the
+      right thing for India to be doing today is, in his view, plain for
+      everyone to see, and says that foreign policy experts worldwide — both
+      Western and Eastern — are saying it is a good thing India is doing.
+    topic: india-balanced-diplomacy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:35:38]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Continues directly from the previous statement in the
+      same turn.
+
+  - id: raj-shamani-08008
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: assertion
+    text: >
+      Raj says he is asking specifically because Chaulia reads so much
+      history, foreign policy, economics, and global politics, and then asks
+      him whether a country that tries to become everyone's friend actually
+      ends up becoming a superpower, or not.
+    topic: superpower-strategy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:36:06]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is the question Raj was building up to with the
+      "curiosity question" framing and the observations captured in the two
+      preceding statements.
+
+  - id: raj-shamani-08009
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: assertion
+    text: >
+      Raj pushes back on Chaulia, asking: if India intends to compete with
+      both China and the United States, then how can India become a
+      superpower?
+    topic: india-superpower-competing-powers
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:00:29]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08010
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: assertion
+    text: >
+      After calling France "nice," Raj asks whether France can actually be
+      trusted, and whether it has historically been a trustworthy partner to
+      other countries.
+    topic: france-trustworthiness
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:09:48]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08011
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: assertion
+    text: >
+      Raj moves the conversation to the next country Chaulia named, Israel,
+      and asks how Israel is a friend of India.
+    topic: india-israel-relationship
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:11:08]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08012
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: assertion
+    text: >
+      Raj moves the conversation to the UAE and asks what is strategic about
+      India's relationship with it.
+    topic: india-uae-relationship
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:15:28]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08013
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: assertion
+    text: >
+      As his final question of the interview, Raj asks Chaulia how the world
+      sees India.
+    topic: how-world-sees-india
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:22:29]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08014
+    person: raj-shamani
+    source: raj-shamani-fo542-sreeram-chaulia
+    type: assertion
+    text: >
+      Raj adds that people have often asked him this same question himself,
+      and asks whether, in these countries' own reckoning, India would
+      actually rank among their top three or top five friends, or not.
+    topic: how-world-sees-india
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:22:29]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Continues directly from the previous statement in the
+      same turn.

@@ -1,0 +1,316 @@
+statements:
+  - id: raj-shamani-11801
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: belief
+    text: >
+      Raj introduces Smriti Mandhana as today's guest, describing her
+      as one of the biggest stars in Indian cricket.
+    topic: guest-introduction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:21] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Part of the host's opening framing of the episode.
+
+  - id: raj-shamani-11802
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: belief
+    text: >
+      Raj asks viewers to subscribe to the channel, saying the more
+      subscribers the show has, the better and bigger guests they will
+      be able to bring on, providing more value through these
+      conversations.
+    topic: subscriber-appeal
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:14] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. A recurring mid-episode direct-address appeal seen
+      across episodes of this show.
+
+  - id: raj-shamani-11803
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: assertion
+    text: >
+      Raj says the full audio experience of the show is also available
+      on Spotify, where listeners can follow the show and hear new
+      episodes.
+    topic: podcast-distribution
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:14] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Immediately follows the subscribe appeal in the
+      same block.
+
+  - id: raj-shamani-11804
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: recommendation
+    text: >
+      Raj says many people today are becoming micro-entrepreneurs,
+      building a small business or an extra source of income that they
+      run from home, and that reliably getting products to customers
+      without spending too much is a big challenge for them — which is
+      why he recommends Porter.
+    topic: porter-sponsorship
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:14]-[00:02:43] Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Sponsor-read segment for title sponsor
+      Porter.
+
+  - id: raj-shamani-11805
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: assertion
+    text: >
+      Raj states that Porter's two-hour delivery service is available
+      in more than 50 cities.
+    topic: porter-sponsorship
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:43] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Sponsor-read claim about Porter, part of the same
+      ad segment as the surrounding statements.
+
+  - id: raj-shamani-11806
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: assertion
+    text: >
+      Raj states that Porter has also launched a scooter with similar
+      carrying capacity, for goods that need extra space and extra
+      care.
+    topic: porter-sponsorship
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:43] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Sponsor-read claim about Porter.
+
+  - id: raj-shamani-11807
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: assertion
+    text: >
+      Raj says that with Porter, whether you're sending an order to a
+      customer or moving goods for your own business, Porter takes
+      care of it, and the best part is you never have to haggle over
+      price — whatever rate is shown on the app is exactly what you
+      pay.
+    topic: porter-sponsorship
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:06] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Closing line of the Porter sponsor-read segment.
+
+  - id: raj-shamani-11808
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: observation
+    text: >
+      Raj remarks to Smriti that she clearly still wants to win, and
+      suggests that having now realized the power of ambition and what
+      she can achieve, she may be even more ambitious than she used to
+      be.
+    topic: ambition
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:06:46] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This transcript has no speaker labels and pronoun
+      gender is unreliable throughout; this line is attributed to Raj
+      based on its host-style recap/summary framing ("so you pointed to
+      three specific things...") immediately preceding it.
+
+  - id: raj-shamani-11809
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: belief
+    text: >
+      Raj comments that Smriti Mandhana's "30-minute rule" — not
+      dwelling on anything, including winning or losing, for more than
+      30 minutes — is a good rule, and that people should know about
+      it.
+    topic: mindset
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:49:23]-[00:49:52] Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Attributed to Raj because the line refers to
+      the guest in the third person by name ("Smriti Mandhana's mindset
+      strategy"), which reads as host commentary aimed at the audience
+      rather than the guest speaking about herself; the surrounding
+      passage has no speaker labels, so some uncertainty remains.
+
+  - id: raj-shamani-11810
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: mechanism
+    text: >
+      Raj structures part of the interview by naming what he calls the
+      four most prominent human emotions and asking Smriti to share how
+      she feels about each one, starting with anger.
+    topic: interview-format
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:23:05] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Host framing statement introducing a segment of
+      the interview.
+
+  - id: raj-shamani-11811
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: observation
+    text: >
+      Raj says he usually asks all his guests what piece of advice is
+      one that people should not follow.
+    topic: interview-format
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:42:28] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj describing a standard question he asks guests
+      on the show, just before Smriti answers it.
+
+  - id: raj-shamani-11812
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: observation
+    text: >
+      Raj's show has a recurring segment called "the price of
+      ambition."
+    topic: interview-format
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:45:02] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj naming the segment before asking the final
+      question of the episode.
+
+  - id: raj-shamani-11813
+    person: raj-shamani
+    source: raj-shamani-fo561-smriti-mandhana
+    type: belief
+    text: >
+      Raj says he likes asking successful people what price they have
+      paid for their ambition.
+    topic: interview-format
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:45:02] Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Immediately follows the "price of ambition"
+      segment-naming statement.

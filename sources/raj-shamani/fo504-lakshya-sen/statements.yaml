@@ -1,0 +1,668 @@
+statements:
+  - id: raj-shamani-00401
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: belief
+    text: >
+      Introducing the episode, Raj Shamani describes Lakshya Sen as one of
+      the best badminton players in the world today.
+    topic: guest-introduction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:05]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is host narration/voiceover at the very top of
+      the episode, part of the intro rather than live conversation.
+
+  - id: raj-shamani-00402
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: observation
+    text: >
+      In his introduction, Raj Shamani states that Lakshya Sen became the
+      first Indian male badminton player to reach the semifinals of the
+      Paris 2024 Olympics.
+    topic: paris-2024-milestone
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:10]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Intro voiceover.
+
+  - id: raj-shamani-00403
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: belief
+    text: >
+      After noting that Lakshya recently won a tournament in Australia (the
+      Australian Open), Raj Shamani describes him, in a voiceover line, as
+      having been "relentless."
+    topic: australian-open-win
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Intro/preview voiceover montage mixing clips with
+      host narration; the "relentless" line reads as host commentary rather
+      than something Lakshya said himself.
+
+  - id: raj-shamani-00404
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: observation
+    text: >
+      While asking Lakshya about it, Raj Shamani mentions that someone had
+      filed an FIR against him over a birth-certificate dispute.
+    topic: birth-certificate-fir
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:01:20]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Part of Raj's question framing, addressed to Lakshya
+      ("filed an FIR against you").
+
+  - id: raj-shamani-00405
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: belief
+    text: >
+      Raj Shamani observes that when Lakshya is playing a match at the same
+      time the Indian cricket team is also playing, obviously nobody is
+      talking about Lakshya.
+    topic: cricket-overshadowing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:01:20] (also repeated near ~[01:00:56]). Transcribed via YouTube
+      Hindi auto-captions; text is a close English translation of the
+      original Hindi/Hinglish, not a verbatim quote. Part of Raj's question
+      framing, addressed to Lakshya using "you."
+
+  - id: raj-shamani-00406
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: evidence
+    text: >
+      Raj Shamani says he has heard — at least from what he's seen on the
+      internet — that at the Istora stadium in Indonesia the shuttle moves
+      differently because the crowd generates so much heat and noise
+      against any non-Indonesian player, making it the worst crowd
+      atmosphere for such a player.
+    topic: istora-stadium-crowd
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:19:26]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj cites this as something he read/heard online
+      before asking Lakshya to explain "stora fever."
+
+  - id: raj-shamani-00407
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: example
+    text: >
+      Telling a story about Napoleon, Raj Shamani says Napoleon was
+      regarded as someone who never lost a fight, which is why he was
+      considered one of the most fearsome/brutal commanders.
+    topic: napoleon-visualization
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:51:27]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (the
+      transcript has no speaker diarization): Raj introduces the topic by
+      asking Lakshya if he knows about Napoleon, then narrates the story
+      himself before asking Lakshya "do you do that?" — moderate
+      confidence.
+
+  - id: raj-shamani-00408
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: example
+    text: >
+      Continuing the Napoleon story, Raj Shamani says that on the day of
+      any battle, big or small, Napoleon would wake up very early and sit
+      alone for about an hour beforehand.
+    topic: napoleon-visualization
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:51:27]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization) — same host narration block as raj-shamani-00407.
+
+  - id: raj-shamani-00409
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: example
+    text: >
+      Raj Shamani recounts that during that hour, Napoleon would visualize
+      himself dying in every possible way the enemy could kill him, going
+      through roughly 100 to 200 different ways he could die.
+    topic: napoleon-visualization
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:51:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization) — same host narration block as raj-shamani-00407.
+
+  - id: raj-shamani-00410
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: example
+    text: >
+      Raj Shamani says Napoleon did not spend that time thinking about
+      winning the fight — he only focused on visualizing how he could be
+      killed.
+    topic: napoleon-visualization
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:51:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization) — same host narration block as raj-shamani-00407.
+
+  - id: raj-shamani-00411
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: mechanism
+    text: >
+      Raj Shamani explains that, in his telling, because Napoleon had
+      already visualized every way he could be killed, he remained fully
+      prepared for battle — and that, Raj says, is why Napoleon used to
+      win.
+    topic: napoleon-visualization
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:52:23]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization) — same host narration block as raj-shamani-00407.
+
+  - id: raj-shamani-00412
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: example
+    text: >
+      Raj Shamani says Napoleon would do this pre-battle visualization
+      almost every time, before entering with his entire army.
+    topic: napoleon-visualization
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:52:23]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization); this line immediately precedes Raj's question to
+      Lakshya, "do you do that?"
+
+  - id: raj-shamani-00413
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: example
+    text: >
+      Raj Shamani adds that Michael Phelps used to do something similar —
+      visualize himself losing a race — and that he hated the feeling,
+      implying that is part of why Phelps obviously never lost.
+    topic: michael-phelps-visualization
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:52:23]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization): this comparison appears right after Lakshya answers
+      "do you do that?" and right before Lakshya replies "yes," which reads
+      as Lakshya agreeing with a point Raj just added — moderate
+      confidence.
+
+  - id: raj-shamani-00414
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: evidence
+    text: >
+      Raj Shamani mentions that he was reading a book that discussed the
+      concept of "winning line fever" in sport.
+    topic: winning-line-fever
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:59:58]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization): this fits Raj's recurring pattern in this episode of
+      introducing outside stories/reading (Napoleon, an American team
+      owner) mid-conversation — moderate confidence.
+
+  - id: raj-shamani-00415
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: mechanism
+    text: >
+      Drawing on that book, Raj Shamani explains that in a close,
+      high-pressure score like 19-all, both players are equally skilled
+      (that's how they both got there), but mentally one player is
+      thinking "I'm going to smash through and finish this" while the
+      other player's morale collapses into "I just need to save these last
+      couple of points."
+    topic: winning-line-fever
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:00:27]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization) — same block as raj-shamani-00414.
+
+  - id: raj-shamani-00416
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: belief
+    text: >
+      Raj Shamani states that in these "winning line fever" situations, the
+      player who is mentally playing to "save" their lead usually ends up
+      losing to the player who is playing to "finish" or "kill" the match.
+    topic: winning-line-fever
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:00:56]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization) — same block as raj-shamani-00414.
+
+  - id: raj-shamani-00417
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: evidence
+    text: >
+      Raj Shamani recounts that an American sports team owner once said
+      that although people commonly argue an underrated sport just needs
+      to be marketed better to become world-class, in the owner's view
+      "unfortunately it doesn't work like that."
+    topic: sports-marketing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:02:44]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The owner is not named in the transcript. This whole
+      passage is confirmed as Raj's narration because it ends by directly
+      addressing Lakshya ("you guys have big things on your shoulders").
+
+  - id: raj-shamani-00418
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: mechanism
+    text: >
+      Raj Shamani shares that, per this owner's framework, in any sport the
+      first two or three pioneering athletes have to fight the whole world
+      without pay — working day and night — to make their country win at
+      the world level, getting little appreciation, money, or attention,
+      and sometimes needing to fund themselves through loans.
+    topic: sports-marketing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:03:12]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Same host narration block as raj-shamani-00417.
+
+  - id: raj-shamani-00419
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: mechanism
+    text: >
+      Raj Shamani adds that once those pioneer athletes succeed, the whole
+      country comes together, and then the country pays attention to
+      whichever athlete comes next.
+    topic: sports-marketing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:03:12]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Same host narration block as raj-shamani-00417.
+
+  - id: raj-shamani-00420
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: example
+    text: >
+      Raj Shamani gives the example that this pattern is probably what
+      happened around Kapil Dev's era — before India's 1983 Cricket World
+      Cup win, cricket in India wasn't followed as fanatically at this
+      level, but that win created today's cricket craze/atmosphere.
+    topic: cricket-1983-worldcup
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:03:40]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Same host narration block as raj-shamani-00417,
+      immediately followed by Raj telling Lakshya "you guys have big
+      things on your shoulders," which confirms the attribution.
+
+  - id: raj-shamani-00421
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: experience
+    text: >
+      Raj Shamani recalls that he specifically watched a table tennis match
+      because Manika Batra was winning it — the first time he remembers an
+      Indian winning at that level in table tennis — so he wanted to
+      watch.
+    topic: manika-batra-tt
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:04:44]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization): this personal anecdote directly follows Raj's remark
+      to Lakshya that "the whole country will end up watching" if he
+      performs consistently — moderate-to-high confidence given the
+      first-person "I remember" framing.
+
+  - id: raj-shamani-00422
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: observation
+    text: >
+      Raj Shamani says he heard that many of his friends also ended up
+      watching that table tennis match, even though none of them had any
+      real connection to the sport.
+    topic: manika-batra-tt
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:04:44]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Same anecdote block as raj-shamani-00421.
+
+  - id: raj-shamani-00423
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: observation
+    text: >
+      Raj Shamani observes that, similarly, people now watch javelin at the
+      Olympics waiting for Neeraj Chopra to perform.
+    topic: neeraj-chopra-javelin
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:05:16]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Follows directly from the Manika Batra anecdote
+      (raj-shamani-00421/00422) as a second example of the same point.
+
+  - id: raj-shamani-00424
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: assertion
+    text: >
+      Raj Shamani states that Chinese players, and players from that part
+      of the world generally, typically use 3U rackets weighing about 85
+      grams, describing Indian players as using something a bit lighter
+      for "modern speed."
+    topic: racket-weight
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:46:44]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj asks Lakshya to confirm this ("you use 4U?"),
+      and Lakshya actually corrects him, saying he uses 3U himself — so
+      this reflects Raj's stated assumption going in, not a confirmed
+      fact.
+
+  - id: raj-shamani-00425
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: observation
+    text: >
+      Raj Shamani notes that Malaysian players tend to play with a somewhat
+      thinner racket grip, in contrast to the thicker grip Lakshya uses.
+    topic: grip-thickness
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:49:38]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Part of Raj's question framing, addressed to Lakshya
+      using "you."
+
+  - id: raj-shamani-00426
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: belief
+    text: >
+      Raj Shamani states that Indian players are known globally for
+      deceptive wrist work and very good touch play in badminton.
+    topic: indian-wrist-work
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:50:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Speaker attribution inferred from context (no
+      diarization): this opens a question block that ends with Raj asking
+      Lakshya "is that the reason or is there some other reason?" —
+      moderate confidence.
+
+  - id: raj-shamani-00427
+    person: raj-shamani
+    source: raj-shamani-fo504-lakshya-sen
+    type: belief
+    text: >
+      Raj Shamani suggests that Indian players may have mastered deceptive
+      wrist work partly to compensate for lacking the height and reach
+      advantage that tall European players have.
+    topic: indian-wrist-work
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:50:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Same question block as raj-shamani-00426; phrased as
+      a hypothesis in Raj's question rather than a firm claim.

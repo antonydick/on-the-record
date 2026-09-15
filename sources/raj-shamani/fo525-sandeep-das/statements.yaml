@@ -1,0 +1,444 @@
+statements:
+  - id: raj-shamani-04601
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: experience
+    text: >
+      Referring back to a previous conversation with the guest, Raj Shamani
+      says the guest had made a prediction that marriages in India would end
+      by 2047 at the latest, and that this statement shocked him and is
+      something he has thought about a lot since.
+    topic: marriage-prediction-reaction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:01:48]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is host framing at the start of the episode,
+      recapping a claim the guest made in an earlier appearance.
+
+  - id: raj-shamani-04602
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: observation
+    text: >
+      Raj Shamani observes that in India everyone grows up with marriage as
+      a central life value from birth: when a girl is born, the first
+      concern is how to get her married, and boys are raised with similar
+      expectations, so everyone grows up believing they must eventually buy
+      a house and get married.
+    topic: indian-marriage-upbringing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:24]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04603
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: belief
+    text: >
+      Raj Shamani questions whether a global marriage-collapse trend will
+      happen in India too, noting that he sees India as the world's most
+      marriage-obsessed country and wondering how marriage could collapse in
+      such a country — suggesting it might be happening elsewhere in the
+      world but perhaps not in India.
+    topic: india-marriage-obsession
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:06:48]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04604
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: observation
+    text: >
+      Raj Shamani observes that in his generation, people have consumed so
+      much relationship-related content that even before a relationship
+      starts, or after just one date, they have already mentally played out
+      how it will end (assuming it will fade in a few months, that the
+      person's "true colors" will show, or that the person will turn
+      controlling) — so they don't genuinely try to build a good
+      relationship, because they are already mentally rehearsing the
+      heartbreak.
+    topic: anticipatory-heartbreak
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:33:18]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The guest responds approvingly and then labels this
+      phenomenon "anticipatory grief," suggesting this framing originates
+      with Raj Shamani.
+
+  - id: raj-shamani-04605
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: evidence
+    text: >
+      Raj Shamani says he read that a company making life-size sex robots
+      intended for physical intimacy is valued at around $65 million and is
+      about to be valued at $1.5 billion, indicating strong demand and a
+      fast-growing market.
+    topic: sex-robot-market
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:49:57]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The company name is garbled in the ASR transcript
+      (sounds like "Emily" or similar) and could not be confidently
+      identified.
+
+  - id: raj-shamani-04606
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: belief
+    text: >
+      Raj Shamani questions whether there isn't something about physical
+      touch and intimacy with another actual human being that a robot
+      cannot replace, even as robots and AI increasingly offer physical and
+      emotional companionship.
+    topic: human-touch-vs-robots
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:50:46]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04607
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: observation
+    text: >
+      Raj Shamani asks whether the trend of women preferring AI boyfriends
+      over human ones is the fault of men, of women, or of AI itself.
+    topic: ai-boyfriend-blame
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:54:25]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04608
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: observation
+    text: >
+      Raj Shamani points out what he sees as a contradiction: if people
+      today have more sexual choices and options (potentially multiple
+      partners, multiple times) than ever before, shouldn't that mean people
+      are having more sex and more hookups, not less?
+    topic: choice-paradox-sex
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:10:29]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04609
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: belief
+    text: >
+      Raj Shamani suggests that "the ick" — often framed by people as a form
+      of self-awareness or having high standards — might actually just be a
+      disguised fear of commitment.
+    topic: the-ick-phenomenon
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:12:37]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04610
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: belief
+    text: >
+      Raj Shamani wonders whether infidelity might decrease because of AI,
+      since AI could end up fulfilling people's emotional support and
+      emotional needs.
+    topic: ai-and-infidelity
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:00:16]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04611
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: experience
+    text: >
+      Raj Shamani says he has a friend currently affected by tech-sector
+      layoffs whose situation mirrors what the guest described: the friend
+      and his wife earned nearly equal salaries (the wife around
+      60,000-70,000 rupees a month, the friend around 1 lakh rupees a
+      month), and the couple had moved out of their parents' homes to live
+      independently, pooling their incomes to build a future together.
+    topic: friend-layoff-story
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:47:24]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04612
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: observation
+    text: >
+      Raj Shamani says that after both his friend and the friend's wife lost
+      their jobs (about four months before this conversation), only the
+      husband has faced constant taunts from the household calling him
+      useless ("nikamma"), even though the couple had been near-equal
+      earners.
+    topic: friend-layoff-story
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:47:24]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04613
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: observation
+    text: >
+      Raj Shamani says that even his friend's wife — despite being in a
+      similarly precarious financial situation herself after also losing
+      her job — taunts her husband, telling him to find some job and bring
+      in some income.
+    topic: friend-layoff-story
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:48:06]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04614
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: belief
+    text: >
+      Raj Shamani says this situation shocked him, because he had always
+      assumed a couple who earned roughly equal incomes would be treated
+      equally by society, but instead saw that the subconscious expectation
+      that the man must be the provider persisted regardless.
+    topic: friend-layoff-story
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:48:06]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04615
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: experience
+    text: >
+      Raj Shamani says he wanted to understand the guest's perspective on
+      this topic because he does not consider himself to come from the
+      highly educated, elite background the guest was describing (top
+      IIT/IIM circles), and wanted to know whether the same lack of respect
+      for non-earning men holds true beyond that circle too.
+    topic: indore-background
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:44:29]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04616
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: observation
+    text: >
+      Raj Shamani says that in the society he grew up in, in Indore, if a
+      man past the age of about 24-26 does not leave the house each morning
+      and work, he is considered useless ("nikamma") — with no respect from
+      friends, no value in the dating/marriage pool, and no respect even
+      from his own family, no matter how wealthy his parents are.
+    topic: indore-male-respect
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:44:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04617
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: example
+    text: >
+      Raj Shamani adds that even if a young man's family runs a large
+      business employing thousands of people, if he simply goes and sits
+      there without actually contributing work, even an intern or a
+      watchman at that business will not respect him.
+    topic: indore-male-respect
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:46:00]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-04618
+    person: raj-shamani
+    source: raj-shamani-fo525-sandeep-das
+    type: observation
+    text: >
+      Raj Shamani explains the podcast's closing segment, which he calls the
+      "Countdown Close": the guest is given 60 seconds of silence to think
+      of three predictions from the conversation worth betting on, then
+      must state each one in a single line.
+    topic: countdown-close-segment
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[02:26:26]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.

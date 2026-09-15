@@ -1,0 +1,601 @@
+statements:
+  - id: raj-shamani-08601
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj introduces Ian Bremmer as a political scientist and one of the
+      world's leading experts in geopolitics, and frames the episode as
+      being for anyone who wants to understand where the world is headed,
+      why the global order is breaking down, how governments, technology,
+      and power are being redefined, and what impact that will have on the
+      viewer's future.
+    topic: episode-intro
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:18]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is part of the cold-open/intro narration before
+      the interview proper begins.
+
+  - id: raj-shamani-08602
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: belief
+    text: >
+      Raj says he thinks American companies are the real superpowers — not
+      America as an American nation-state.
+    topic: us-corporate-power
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:06:06]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Attribution to Raj (rather than Bremmer) is confirmed
+      later in the transcript (~[00:19:08]) when Bremmer says "you said you
+      think American companies are really the leaders" while recapping this
+      exchange.
+
+  - id: raj-shamani-08603
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: belief
+    text: >
+      Raj says he believes it is a handful of companies, rather than the
+      American government, that are deciding where and how things will go
+      — though he adds that this view of his could be biased, or the effect
+      could be very small; he isn't sure.
+    topic: us-corporate-power
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:06:06]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Immediately follows raj-shamani-08602 in the same
+      turn.
+
+  - id: raj-shamani-08604
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: observation
+    text: >
+      Raj asks Bremmer whether he doesn't think the US is still trying to
+      protect its interests worldwide, and in some cases still asserts its
+      dominance, telling other countries: if you don't follow this
+      particular way of doing trade or business, we will punish you.
+    topic: us-power
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:14:38]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is Raj pushing back on Bremmer's earlier claim
+      that the US no longer wants to be a superpower/leader.
+
+  - id: raj-shamani-08605
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: observation
+    text: >
+      Raj observes that on Russia and Ukraine, the US's position amounts to
+      saying it won't fully back Ukraine but will still push for sanctions
+      on Russia, insisting the whole world stop trading with Russia — and
+      that any country that doesn't stop trading with Russia is treated as
+      an enemy.
+    topic: us-russia-sanctions
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:15:07]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Continues the same turn as raj-shamani-08604. One
+      short clause in this passage was too garbled in the ASR to confidently
+      render and was omitted.
+
+  - id: raj-shamani-08606
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: observation
+    text: >
+      Raj notes that on Taiwan, the US has its own interests there and has
+      openly said that if China ever tries to seize Taiwan, the US will
+      defend it.
+    topic: taiwan
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:15:53]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Concludes the same turn as raj-shamani-08604 and
+      raj-shamani-08605.
+
+  - id: raj-shamani-08607
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: belief
+    text: >
+      Raj agrees with Bremmer's assessment that the United States is still,
+      overall, the most powerful country in the world.
+    topic: us-power
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:17:43]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Rendered as "मुझे भी ऐसा ही लगता है" (repeated twice)
+      immediately after Bremmer states this view; attribution to Raj as the
+      agreeing party is inferred from the back-and-forth structure and
+      carries some uncertainty.
+
+  - id: raj-shamani-08608
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj asks Bremmer who, in his view, are the three most powerful people
+      today who could shape the future.
+    topic: powerful-people
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:42:26]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08609
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj points out that although Bremmer considers Xi Jinping the world's
+      most powerful person, in his firm's risk report for this year Bremmer
+      identified the world's biggest threat as being neither China, nor
+      Russia, nor nuclear war, and asks him about this.
+    topic: risk-report
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:46:58]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. A follow-up clause in the ASR ("आपने यह क्यों नहीं
+      बताया कि वह शी जिनपिंग को पसंद करती हैं...") was too garbled/unclear
+      to confidently translate and was omitted.
+
+  - id: raj-shamani-08610
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj directly asks Bremmer whether he likes Donald Trump.
+    topic: trump
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:56:21]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Bremmer answers "No, I don't."
+
+  - id: raj-shamani-08611
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj asks whether today's young people believe the American Dream is
+      dead in America.
+    topic: american-dream
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:59:52]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08612
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: evidence
+    text: >
+      Raj says he was reading a report stating that in the 1950s, more than
+      75% of people in America trusted the government and its institutions,
+      whereas now fewer than 20% do.
+    topic: institutional-trust
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:04:17]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj cites this figure himself ("I was reading a
+      report...").
+
+  - id: raj-shamani-08613
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj asks whether this decline in public trust isn't a major problem,
+      and whether it's exactly the kind of opening that lets other
+      countries "win."
+    topic: institutional-trust
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:04:45]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Follows directly from raj-shamani-08612.
+
+  - id: raj-shamani-08614
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj asks: based on what Bremmer just said, what happens when a
+      country's youth stop believing in the system, and what happens to
+      that country next — specifically, given this is now happening in the
+      United States, what does Bremmer see coming next?
+    topic: youth-trust
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:09:05]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj explicitly frames this as "I have two questions
+      about this."
+
+  - id: raj-shamani-08615
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj asks what it means when the world's financial capital — a place
+      where capitalism has run in people's blood — starts electing leaders
+      who are not staunch supporters of capitalism, and whether that is a
+      good thing for a country or not.
+    topic: nyc-politics
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:11:33]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Context (Bremmer's answer that follows, about Zohran
+      Mamdani) indicates this refers to New York City's mayoral politics.
+
+  - id: raj-shamani-08616
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: observation
+    text: >
+      Raj observes that America used to follow the principle of not
+      interfering with companies or markets — letting the market pick
+      winners, with government meant to set the rules rather than directly
+      run the economy.
+    topic: us-economic-policy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:15:35]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj frames this as something he recently read about.
+      The exact phrasing of government's role in the ASR text is somewhat
+      garbled/self-contradictory; this translation reflects the most
+      plausible reading given the surrounding non-interventionist framing.
+
+  - id: raj-shamani-08617
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: observation
+    text: >
+      Raj observes that this is now changing — the government is
+      intervening and possibly buying shares in a number of companies,
+      particularly in sectors like technology, semiconductors, and
+      critical minerals — and asks Bremmer whether he thinks this is a good
+      thing.
+    topic: us-economic-policy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:15:35]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Continues the same turn as raj-shamani-08616.
+
+  - id: raj-shamani-08618
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj asks whether all these developments are leading toward a
+      financial crisis.
+    topic: financial-crisis
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:20:46]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08619
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj proposes discussing three places — India, which he suggests could
+      be called a "pivot state"; the Europe region; and West Asia — and
+      asks Bremmer to explain what is happening in each of the three right
+      now.
+    topic: geopolitics-regions
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:22:32]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08620
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj notes that they had discussed this before and that Bremmer said
+      he is friends with many European prime ministers and presidents, then
+      asks what is happening in Europe.
+    topic: europe
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:23:01]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Immediately follows raj-shamani-08619.
+
+  - id: raj-shamani-08621
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj asks Bremmer specifically why he calls India a "pivot state."
+    topic: india
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:27:00]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08622
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj asks Bremmer whether he doesn't believe in "prospect theory" —
+      the idea that if you feel your power is about to be taken away, you
+      become more willing to take risky actions rather than avoid risk —
+      in relation to Trump.
+    topic: trump-risk
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:52:45]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Bremmer responds "I think that's right," confirming
+      this was Raj's question.
+
+  - id: raj-shamani-08623
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: observation
+    text: >
+      Raj observes that Bremmer speaks very openly about everything, is
+      very honest about his views across all platforms and media, and
+      doesn't shy away from making judgment calls or calling truth as
+      truth, and asks him whether he ever feels afraid.
+    topic: bremmer-candor
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:33:34]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08624
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj asks what the "cost" of being Ian Bremmer is — how much he has
+      personally had to give up or lose.
+    topic: personal-cost
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:39:43]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-08625
+    person: raj-shamani
+    source: raj-shamani-fo545-ian-bremmer
+    type: assertion
+    text: >
+      Raj follows up by asking whether Bremmer sacrificed his sleep,
+      health, or the balance between work and personal life, specifically.
+    topic: personal-cost
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:41:05]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Follows directly from raj-shamani-08624.

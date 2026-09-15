@@ -1,0 +1,207 @@
+statements:
+  - id: raj-shamani-02201
+    person: raj-shamani
+    source: raj-shamani-fo513-dr-nachiket
+    type: belief
+    text: >
+      Raj said that after 8-9 years of studying and competing hard to become
+      a specialist doctor (MD/MS), ending up earning only around
+      ₹70,000-80,000 a month raises the question of whether it's even worth
+      it.
+    topic: doctor-pg-salary-worth-it
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:05:31]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The transcript has no speaker labels, so host vs.
+      guest turns are inferred from context and phrasing (e.g. an
+      affirming "बिल्कुल" immediately before this line suggests a
+      different speaker than the preceding data recital) rather than from
+      diarization; moderate confidence this line is Raj's rather than the
+      guest's continued monologue.
+
+  - id: raj-shamani-02202
+    person: raj-shamani
+    source: raj-shamani-fo513-dr-nachiket
+    type: belief
+    text: >
+      Raj said it's common knowledge ("everyone knows this") that medical
+      college seats get bought and sold, referencing a point the guest had
+      made earlier.
+    topic: medical-seat-sales
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:07:29]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Attribution to Raj is based on the phrase "यू सेड कि"
+      ("you said that"), which reads as the interviewer referencing back
+      something the guest told him; no formal speaker diarization exists
+      for this transcript.
+
+  - id: raj-shamani-02203
+    person: raj-shamani
+    source: raj-shamani-fo513-dr-nachiket
+    type: observation
+    text: >
+      Raj reacted with surprise, restating back to the guest: "you're
+      telling me that dermatologists are earning more than surgeons?"
+    topic: dermatology-vs-surgery-earnings
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:18:53]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Attribution to Raj has relatively good support: the
+      line "यू आर टेलिंग मी कि..." (you're telling me that...) is
+      immediately followed by "जी" (a respectful "yes"), consistent with
+      the guest confirming a question Raj just posed. No formal
+      diarization exists for this transcript.
+
+  - id: raj-shamani-02204
+    person: raj-shamani
+    source: raj-shamani-fo513-dr-nachiket
+    type: belief
+    text: >
+      Raj put it to the guest that if you are not rich in India, you
+      simply cannot become a doctor at all.
+    topic: doctor-entry-wealth-barrier
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:20:59]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Attribution to Raj is inferred from the opening
+      phrase "पर टेल मी दिस" ("but tell me this") marking a change of
+      speaker, and from "ट्रू" ("true") immediately following as the
+      guest's confirmation. No formal diarization exists for this
+      transcript, so this is a moderate-confidence attribution.
+
+  - id: raj-shamani-02205
+    person: raj-shamani
+    source: raj-shamani-fo513-dr-nachiket
+    type: belief
+    text: >
+      Raj described the fact that, in India, you can only become a doctor
+      if you're either a hyper-competitive top scorer or wealthy, as a
+      "bitter truth" (kadwa sach).
+    topic: doctor-entry-barrier-bitter-truth
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:22:48]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This line ("क्या कहते हैं इसको कड़वा सच?") reads as
+      the interviewer's own editorializing label on the guest's preceding
+      point; no formal speaker diarization exists for this transcript.
+
+  - id: raj-shamani-02206
+    person: raj-shamani
+    source: raj-shamani-fo513-dr-nachiket
+    type: belief
+    text: >
+      Raj said he has too many questions on the topic, but first wanted
+      to say that patients physically beating up doctors is "the worst
+      thing."
+    topic: patient-violence-against-doctors
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:27:12]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The phrase "आई हैव टू मेनी क्वेश्चंस ऑन दिस" (I have
+      too many questions on this) is a clear first-person interviewer
+      aside, giving relatively good confidence this is Raj rather than
+      the guest.
+
+  - id: raj-shamani-02207
+    person: raj-shamani
+    source: raj-shamani-fo513-dr-nachiket
+    type: observation
+    text: >
+      In closing, Raj told the guest that he had shared a lot, including
+      the "harsh" reality of the country on many issues.
+    topic: episode-closing-reflection
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:29:31]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is part of the episode's closing exchange,
+      where the host thanks the guest; reasonably high confidence this is
+      Raj speaking given the closing/outro context.
+
+  - id: raj-shamani-02208
+    person: raj-shamani
+    source: raj-shamani-fo513-dr-nachiket
+    type: experience
+    text: >
+      Raj admitted that he felt a bit scattered/all over the place by the
+      end of the conversation, remarking that the guest had talked about
+      a lot of different things.
+    topic: episode-closing-reflection
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:29:31]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Same closing exchange as the previous statement;
+      reasonably high confidence this is Raj speaking given the
+      closing/outro context.

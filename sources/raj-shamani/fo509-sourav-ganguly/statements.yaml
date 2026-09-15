@@ -1,0 +1,365 @@
+statements:
+  - id: raj-shamani-01401
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: belief
+    text: >
+      Introduces Sourav Ganguly as one of India's finest test captains,
+      someone with the ability to galvanize a team when the chips are
+      down.
+    topic: ganguly-captaincy-reputation
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. From the host's introductory narration that opens
+      the episode (a cold-open/trailer segment before the interview
+      proper begins).
+
+  - id: raj-shamani-01402
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: belief
+    text: >
+      Describes Ganguly as a "dangerous player" turned captain who
+      taught India how to fight, how to believe, and how to win
+      overseas, calling him the leader who changed Indian cricket
+      forever.
+    topic: ganguly-legacy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:00:25]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. From the host's introductory narration in the
+      episode's cold-open/trailer segment.
+
+  - id: raj-shamani-01403
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: observation
+    text: >
+      Notes, while introducing Ganguly's start in the sport, that
+      everyone in his family was right-handed, but Ganguly bats
+      left-handed.
+    topic: ganguly-batting-style
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:30]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-01404
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: observation
+    text: >
+      States that when Ganguly became captain in 2000, he inherited a
+      team that was struggling in the aftermath of the match-fixing
+      scandal, that trust in Indian cricket had dropped, and that in
+      the preceding ten years India had won only around two away Test
+      matches.
+    topic: indian-cricket-history-2000
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:12:02] (the same framing also appears in the episode's
+      cold-open at ~[00:00:00], reusing the same audio). Transcribed
+      via YouTube Hindi auto-captions; text is a close English
+      translation of the original Hindi/Hinglish, not a verbatim quote.
+      The "roughly two away Tests in ten years" figure is Raj's own
+      framing as stated in his question, not an independently confirmed
+      statistic.
+
+  - id: raj-shamani-01405
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: belief
+    text: >
+      Frames the team Ganguly inherited as captain as not just an
+      Indian cricket team, but as a story of "revival and proof point."
+    topic: ganguly-captaincy-narrative
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:12:33]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-01406
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: assertion
+    text: >
+      States that his goal in this part of the conversation is to draw
+      out lessons from Ganguly's captaincy that today's entrepreneurs
+      can understand and apply.
+    topic: interview-framing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:16:02]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-01407
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: assertion
+    text: >
+      Poses a hypothetical to Ganguly in which a business leader has
+      about ten team members who are shy and scared about the future,
+      and asks what such a leader should do, over roughly the next 90
+      days, to turn them into confident, "aggressive" performers.
+    topic: leadership-framing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:29:42]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. A hypothetical framing device translating the
+      cricket-captaincy discussion into a business-leadership scenario.
+
+  - id: raj-shamani-01408
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: belief
+    text: >
+      States that having a very hard conversation about replacing
+      someone -- telling a player they themselves built up that a new
+      player is taking their place -- is something almost every leader
+      eventually has to face in life.
+    topic: leadership-hard-conversations
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:49:03]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-01409
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: observation
+    text: >
+      Observes that Ganguly's team was full of technically gifted,
+      top-class talent (naming Sachin Tendulkar and Rahul Dravid as
+      examples), so talent was not the problem, yet the team still was
+      not winning, and asks what he thinks the reason was.
+    topic: team-talent-vs-winning
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:10:15]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-01410
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: evidence
+    text: >
+      References that Yuvraj Singh has said somewhere that he "would
+      die for a captain like that," referring to Ganguly.
+    topic: yuvraj-on-ganguly
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:44:58]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj presents this as something Yuvraj said in
+      some other, unspecified source (e.g. a prior interview or book),
+      not in this conversation.
+
+  - id: raj-shamani-01411
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: evidence
+    text: >
+      References a 2019 event in Noida at which Ganguly reportedly said
+      that nobody from Bengal had ever captained Team India, and asks
+      whether that gave him a complex.
+    topic: ganguly-bengal-complex
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:06:33]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-01412
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: observation
+    text: >
+      References that in Ganguly's last Test match, his captain at the
+      time, MS Dhoni, asked him to take over the captaincy for a spell
+      during play.
+    topic: ganguly-dhoni-last-test
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:47:45]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The source audio also includes a detail like
+      "after three overs" that was too garbled to confidently render,
+      so it has been left out.
+
+  - id: raj-shamani-01413
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: observation
+    text: >
+      Notes that Ganguly is currently involved with around 45 brands.
+    topic: ganguly-business-ventures
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:17:38]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The number "45" is somewhat unclear in the
+      source audio (ASR uncertainty) and may not be exact.
+
+  - id: raj-shamani-01414
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: observation
+    text: >
+      References that on January 2, 2021, Ganguly had a cardiac
+      blockage, and asks whether he has lived his life differently
+      since then.
+    topic: ganguly-health-incident
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:19:26]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Raj first says "blackout" and then self-corrects
+      to "block[age]" in the source audio; exact wording is uncertain
+      from the ASR, though this is consistent with Ganguly's real,
+      publicly reported 2021 heart procedure.
+
+  - id: raj-shamani-01415
+    person: raj-shamani
+    source: raj-shamani-fo509-sourav-ganguly
+    type: experience
+    text: >
+      Shares that his first cricketing memory in life was watching
+      Ganguly's generation of players, because he was very young at the
+      time, and tells Ganguly that his generation gave him and others
+      really good memories.
+    topic: raj-personal-cricket-memory
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:29:44]. Transcribed via YouTube Hindi auto-captions; text is
+      a close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Said near the end of the episode as the interview
+      wraps up.

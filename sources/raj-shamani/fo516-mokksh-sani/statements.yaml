@@ -1,0 +1,203 @@
+statements:
+  - id: raj-shamani-02801
+    person: raj-shamani
+    source: raj-shamani-fo516-mokksh-sani
+    type: assertion
+    text: >
+      At the start of the episode, Raj said he was very curious to learn
+      about one of the world's biggest businesses and about generational
+      trends within it, and that he was going to do a deep dive in this
+      episode to understand the nuances of the business.
+    topic: episode-framing-curiosity
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:05:54]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This appears at the start of the interview as the
+      host's own framing before guest content resumes; the transcript has
+      no speaker labels, so the attribution to Raj (host) is inferred from
+      context rather than an explicit tag.
+
+  - id: raj-shamani-02802
+    person: raj-shamani
+    source: raj-shamani-fo516-mokksh-sani
+    type: assertion
+    text: >
+      Raj framed the episode around three things he wanted to explore in
+      this business: how big the opportunity actually is, whether
+      entrepreneurs can build something in this space, and what the
+      business's broader impact on society is (whether it's right or
+      wrong) — saying they would get to that part of the discussion too.
+    topic: episode-framing-scope
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:05:54]-[00:06:39]. Transcribed via YouTube Hindi auto-captions;
+      text is a close English translation of the original Hindi/Hinglish,
+      not a verbatim quote. Attributed to Raj (host) based on
+      interview-framing language ("we'll talk about that part too"); the
+      transcript has no speaker labels.
+
+  - id: raj-shamani-02803
+    person: raj-shamani
+    source: raj-shamani-fo516-mokksh-sani
+    type: experience
+    text: >
+      Raj said it was difficult for him to sit with people who don't
+      drink alcohol.
+    topic: sober-friends-social-difficulty
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:06:00]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Immediately follows Raj's episode-framing remarks in
+      the transcript; attributed to Raj (host), though the transcript has
+      no speaker labels.
+
+  - id: raj-shamani-02804
+    person: raj-shamani
+    source: raj-shamani-fo516-mokksh-sani
+    type: observation
+    text: >
+      Raj said he has noticed a trend among his friends and in the places
+      he frequents: health-conscious people drink matcha coffee on
+      Saturday nights instead of alcohol.
+    topic: genz-matcha-trend
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:06:00]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Immediately follows Raj's episode-framing remarks in
+      the transcript; attributed to Raj (host), though the transcript has
+      no speaker labels.
+
+  - id: raj-shamani-02805
+    person: raj-shamani
+    source: raj-shamani-fo516-mokksh-sani
+    type: evidence
+    text: >
+      Raj said he had been reading about per-capita alcohol consumption
+      in other countries and knows it is higher there than in India,
+      though he noted this depends on population size.
+    topic: global-per-capita-alcohol-consumption
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:00]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Attributed to Raj (host) based on the first-person
+      "I was reading" framing, matching his pattern elsewhere in this
+      transcript of citing outside reading material; the transcript has
+      no speaker labels, so some uncertainty remains. The immediately
+      following sentences (about US/UK job markets and expats returning
+      to India) were too ambiguous in speaker attribution to include.
+
+  - id: raj-shamani-02806
+    person: raj-shamani
+    source: raj-shamani-fo516-mokksh-sani
+    type: experience
+    text: >
+      Raj remarked to the guest that what he (the guest) does is very
+      interesting and fascinating, and that it raised about 50 questions
+      in Raj's mind all at once.
+    topic: living-liquidz-curiosity-reaction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:41:35]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Attributed to Raj (host) because the speaker
+      directly addresses the guest ("the kind of things you are doing").
+
+  - id: raj-shamani-02807
+    person: raj-shamani
+    source: raj-shamani-fo516-mokksh-sani
+    type: evidence
+    text: >
+      Raj said he had read a statistic that 60% of cocktails ordered at
+      bars are ordered by women, and 40% of beers are ordered by women.
+    topic: women-alcohol-ordering-stats
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:19:40]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Attributed to Raj (host): the line is preceded by
+      "you said that..." addressing the guest, after which the speaker
+      adds their own cited statistic.
+
+  - id: raj-shamani-02808
+    person: raj-shamani
+    source: raj-shamani-fo516-mokksh-sani
+    type: evidence
+    text: >
+      Raj said he had read an article reporting that India's illegal
+      (illicit) liquor industry has reached about ₹60,000 crore.
+    topic: illegal-liquor-industry-size
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:01:26]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Attributed to Raj (host) based on the first-person
+      "today I read an article" framing, immediately followed by a
+      clarifying question to the guest about what "illegal liquor" means.

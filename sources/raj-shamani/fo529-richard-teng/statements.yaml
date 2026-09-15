@@ -1,0 +1,945 @@
+statements:
+  - id: raj-shamani-05401
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: observation
+    text: >
+      Raj introduces Richard Teng as the co-CEO of Binance, describing
+      Binance as the world's largest crypto exchange.
+    topic: guest-introduction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:01:51]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Part of the host's spoken guest-introduction
+      narration.
+
+  - id: raj-shamani-05402
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: observation
+    text: >
+      Raj states that Richard Teng spent 31 years in traditional finance,
+      starting his career at Singapore's central bank, then leading Abu
+      Dhabi's financial regulator, before moving into crypto.
+    topic: guest-background
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:20]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05403
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj claims that today, some of the biggest firms on Wall Street —
+      JPMorgan, BlackRock, and Standard Chartered — are embracing the
+      same crypto industry that Richard Teng leads.
+    topic: institutional-crypto-adoption
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:20]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05404
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      As an episode preview, Raj poses the question of whether a digital
+      wallet could replace a bank account in the future.
+    topic: episode-preview
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. From the host's spoken preview of topics before the
+      interview begins.
+
+  - id: raj-shamani-05405
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      As an episode preview, Raj poses the question of whether future
+      generations will ever have a bank account at all.
+    topic: episode-preview
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05406
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      As an episode preview, Raj poses the question of whether the US
+      dollar is really dying out, or whether that is just a rumor.
+    topic: dollar-status
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05407
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      As part of his episode preview, Raj states as a claim that banks
+      lend out more than 90% of their customers' deposits.
+    topic: bank-lending
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This is the host's own framing claim, not something
+      the guest verifies at this point.
+
+  - id: raj-shamani-05408
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Following his claim about banks lending out most of their deposits,
+      Raj asks whether money kept in a bank is really safe.
+    topic: bank-safety
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05409
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      As an episode preview, Raj poses the question of who would be
+      responsible if an AI trading agent lost someone's money.
+    topic: ai-trading-accountability
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:47]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05410
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: example
+    text: >
+      Raj opens the interview by asking Richard Teng to explain, to
+      someone watching him for the first time with no idea who he is —
+      one of the "1%" who has never even googled him — who he is and
+      what he does.
+    topic: interview-opening-format
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:18]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This appears to be a recurring opening-question
+      format Raj uses.
+
+  - id: raj-shamani-05411
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      After Richard Teng describes his role at Binance, Raj follows up by
+      asking who Richard is personally, beyond that title.
+    topic: interview-followup
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:03:50]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05412
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: example
+    text: >
+      Raj asks Richard Teng: if someone woke up from a 31-year coma with
+      no idea what's going on in the world, what about money today would
+      shock them the most.
+    topic: coma-analogy
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:04:42]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The "31 years" figure is drawn from the guest's own
+      stated career length, restated by Raj immediately before this
+      question.
+
+  - id: raj-shamani-05413
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: belief
+    text: >
+      Raj observes that this future seems very clear to Richard Teng
+      because he is inside that world, and that maybe only about 5-6% of
+      people worldwide see it just as clearly, which is why they are
+      betting on that future.
+    topic: mass-adoption-belief
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:09:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05414
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: belief
+    text: >
+      Raj observes that most people still believe in the old way of
+      handling money, that money is still just as powerful today, and
+      that for them money remains the most important resource.
+    topic: attachment-to-old-money
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:09:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05415
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks why people still hold on to the old way of doing things,
+      or put differently, what lie about money people still believe
+      today.
+    topic: money-beliefs
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:10:23]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05416
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: example
+    text: >
+      Raj poses a hypothetical to Richard Teng: if you had $100 and could
+      only invest it in banks, government, or technology companies,
+      which of the three would give the maximum return, thinking in
+      terms of power rather than actual money.
+    topic: hypothetical-investment
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:12:48]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This exact hypothetical also appears, in
+      abbreviated form, in the episode's cold-open montage.
+
+  - id: raj-shamani-05417
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj states that Warren Buffett and Charlie Munger have openly and
+      repeatedly said, in different places, that they are not in favor
+      of cryptocurrency, and asks what worries people who hold that
+      philosophy the most about crypto and this new asset class.
+    topic: crypto-skeptics
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:15:32]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05418
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks Richard Teng whether one reason for the change in stance
+      among people who used to be skeptical of crypto is the devaluation
+      of the dollar.
+    topic: dollar-devaluation
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:16:58]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05419
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks whether crypto is not, fundamentally, an alternative to
+      the dollar.
+    topic: crypto-as-dollar-alternative
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:19:23]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This same question also appears in abbreviated
+      form in the episode's cold-open montage.
+
+  - id: raj-shamani-05420
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: belief
+    text: >
+      Raj remarks that the same technology giving people a great deal of
+      freedom is, at the same time, empowering many bad actors.
+    topic: technology-dual-use
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:20:37]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The transcript has no speaker labels, so
+      attribution to Raj (rather than the guest) here is inferred from
+      context and should be double-checked against the recording.
+
+  - id: raj-shamani-05421
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks Richard Teng whether he ever thinks about how a technology
+      can empower both good and bad sides at the same time.
+    topic: technology-dual-use
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:21:39]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The transcript has no speaker labels, so
+      attribution to Raj here is inferred from context and should be
+      double-checked against the recording.
+
+  - id: raj-shamani-05422
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: belief
+    text: >
+      Raj states that across the roughly 5,000 years of human history,
+      people have always needed someone to trust with money — a king, a
+      temple, a bank, a government, or some intermediary in between.
+    topic: money-trust-history
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:24:23]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Introduced by Raj as a "philosophical question."
+
+  - id: raj-shamani-05423
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: belief
+    text: >
+      Raj states that crypto is, for the first time, a place where people
+      are coming together around the idea that they don't trust a
+      person, but instead trust math — a code or a mathematical formula.
+    topic: crypto-trust-math
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:24:23]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05424
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks whether people are moving away from trusting a person and
+      instead handing their trust over to some form of math or code.
+    topic: crypto-trust-math
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:24:50]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05425
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj challenges Richard Teng by asking whether Binance itself is
+      playing the role of a middleman, noting that Binance is
+      centralized — the very thing crypto was originally positioned
+      against — and asking whether Binance has adopted that same
+      concept.
+    topic: binance-as-middleman
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:27:38]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05426
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks Richard Teng whether, if he were 18 years old today, he
+      would open a bank account.
+    topic: banking-at-18
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:28:37]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05427
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks Richard Teng whether he believes wallet infrastructure
+      will become more important than bank infrastructure, and whether
+      that will happen at some specific point.
+    topic: wallet-vs-bank-infra
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:32:16]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05428
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: example
+    text: >
+      Raj asks Richard Teng whether he thinks people's children will talk
+      about bank accounts the same way people today talk about fax
+      machines.
+    topic: bank-accounts-obsolescence
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:32:16]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05429
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks what would happen if a group of countries or people came
+      together and decided to ban crypto.
+    topic: crypto-ban-scenario
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:34:04]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. This same question also appears in abbreviated
+      form in the episode's cold-open montage.
+
+  - id: raj-shamani-05430
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: observation
+    text: >
+      Raj mentions that he had been reading comments saying Binance uses
+      AI agents a great deal, and asks Richard Teng whether Binance uses
+      AI agents for better trading.
+    topic: binance-ai-agents
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:36:32]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05431
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks Richard Teng to explain agentic trading — specifically,
+      whether it means an agent will trade on Raj's behalf.
+    topic: agentic-trading
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:38:43]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05432
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: example
+    text: >
+      Raj poses a hypothetical: if an AI trading agent loses his money at
+      3am, who should he blame.
+    topic: ai-trading-accountability
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:38:43]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05433
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: example
+    text: >
+      Raj pushes the hypothetical further, asking who is to blame if a
+      bug caused his AI agent to lose his entire life's savings on
+      Binance's platform.
+    topic: ai-trading-accountability
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:38:43]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05434
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks whether, even after taking proper safety measures, Richard
+      Teng would trust an AI agent with all of his money.
+    topic: ai-trading-trust
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:39:34]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05435
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: example
+    text: >
+      Raj poses a scenario: what if he makes money on his first few
+      trades with a small amount, then puts in his entire savings, and
+      his AI agent then loses it all.
+    topic: ai-risk-escalation
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:40:00]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05436
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks Richard Teng what was personally the hardest thing for him
+      after taking over as CEO.
+    topic: ceo-challenges
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:40:55]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote.
+
+  - id: raj-shamani-05437
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj observes that money, the world, AI and technology, and
+      geopolitics are all changing, and asks what a young person around
+      20 years old should focus on — or which industry or specific thing
+      — to build wealth over the next 10, 20, or 30 years.
+    topic: career-advice-question
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:43:18]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. A shorter, earlier phrasing of essentially the same
+      question also appears in the episode's cold-open montage.
+
+  - id: raj-shamani-05438
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks Richard Teng whether there is a specific sector he
+      believes will see major change in the next 5-10 years.
+    topic: future-disruption-question
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:44:21]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. The same question also appears in abbreviated form
+      in the episode's cold-open montage.
+
+  - id: raj-shamani-05439
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: observation
+    text: >
+      Raj states that a closing question he has started asking all his
+      guests these days, which he really likes, is what advice someone
+      should NOT follow.
+    topic: closing-question-format
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:45:35]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Describes a recurring closing-question format Raj
+      says he now uses across episodes.
+
+  - id: raj-shamani-05440
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: experience
+    text: >
+      Raj mentions that he was in Budapest and watched the match, then
+      asks Richard Teng whether he is a fan of PSG or Arsenal.
+    topic: personal-anecdote
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:46:10]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Off-topic post-interview small talk; which match is
+      not specified in the transcript.
+
+  - id: raj-shamani-05441
+    person: raj-shamani
+    source: raj-shamani-fo529-richard-teng
+    type: assertion
+    text: >
+      Raj asks Richard Teng what his favorite football club is.
+    topic: personal-question
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:46:10]. Transcribed via YouTube Hindi auto-captions; text is a
+      close English translation of the original Hindi/Hinglish, not a
+      verbatim quote. Off-topic post-interview small talk.
