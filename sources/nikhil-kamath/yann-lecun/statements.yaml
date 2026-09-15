@@ -14,7 +14,7 @@ statements:
       model this way.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -24,11 +24,20 @@ statements:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Yann
-      LeCun), no diarization. Attribution inferred from conversational
-      role, not confirmed via video. This episode is a long, deeply
-      technical tutorial on AI/ML concepts with very little personal
-      disclosure from Nikhil -- extraction here is correspondingly
-      sparse.
+      LeCun), no diarization. This episode is a long, deeply technical
+      tutorial on AI/ML concepts with very little personal disclosure
+      from Nikhil -- extraction here is correspondingly sparse. Content
+      confirmed present via NotebookLM (exact line: "in my world it's
+      always been, I work in finance and hedge funds and fund managers
+      have always been attempting to pump a lot of data into a neural
+      network to recognize patterns, right... but what I've realized,
+      Yann, is it's even today it's very easy to tweak data that you
+      have collected retrospectively to make something appear like it
+      makes sense, but financial activity tends to be so random that I
+      don't know if you can build a model based on that"), immediately
+      following a discussion of "adaptive filter theory" and an analogy
+      to linear regression ("is it the same thing... an evolution from
+      the 50s"). Exact video timestamp NOT located in this pass.
 
   - id: nikhil-kamath-149
     person: nikhil-kamath
@@ -42,7 +51,7 @@ statements:
       energy and capital.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -53,5 +62,20 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-148.
       Cross-reference: consistent with the data-center investing
-      mentioned in nikhil-kamath-091 and nikhil-kamath-092
-      (EnerVenue x HiNa episode).
+      mentioned in nikhil-kamath-091 and nikhil-kamath-092 (EnerVenue x
+      HiNa episode). Content confirmed present via NotebookLM (exact
+      line: "and a private digression I was reviewing a data center
+      business to invest into uh a lot of people tell me that compute
+      as a commodity will soon be sold outside of the data center and
+      not inherently in it is it a good place to focus energy and time
+      on like building data centers out of India," followed by "i'm
+      taking the sovereign AI model where every country will probably
+      fight to retain their data a bit more than they're doing
+      currently"). Located the general segment -- the "Building data
+      centers [in India]" chapter (~1:20:00-1:21:09 of the 1:36:05
+      video), right after Yann discusses deploying AI systems widely in
+      India without copying data, and right before Nikhil pivots to a
+      time-constrained closing question ("As an Indian 20-year-old who
+      wants to build a business in AI...") -- but did not pin the exact
+      sentence to a timestamp in this pass; a future pass should check
+      1:20:00-1:20:53 more finely.
