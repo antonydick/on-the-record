@@ -14,12 +14,12 @@ statements:
       machine cost quickly at that price point.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=LcWoP6KtZKw&t=832s"
+      start_timestamp: "13:52"
+      end_timestamp: "14:40"
     evidence:
       excerpt: null
     notes: >
@@ -27,9 +27,15 @@ statements:
       Bengaluru's police commissioner and traffic police commissioner
       (referred to as "Anuchet" in the auto-transcript), no diarization,
       but the two-plus-host format makes turn-taking clearer than in
-      multi-founder panels. Stated in first person while discussing
-      self-driving/flying vehicles as solutions to Bangalore traffic
-      ("we invested in a new company recently, I did, and Accel did").
+      multi-founder panels. Confirmed via video at 13:52-14:40, during a
+      seated outdoor conversation (the "Why is Bengaluru [criticized for
+      traffic]" segment, before the later ride-along car segment):
+      Nikhil says "I did, and Accel did" (prompting a reaction "Oh, that
+      air taxi?" from an officer) ... "So it's an electric vehicle" ...
+      "And the cost per machine is something like 7-8 crores" (corrects
+      an auto-transcript garble of "78 crores" seen via NotebookLM) ...
+      ending with "It's very interesting, maybe that's the answer" from
+      the officer.
 
   - id: nikhil-kamath-218
     person: nikhil-kamath
@@ -43,7 +49,7 @@ statements:
       same today.
     topic: personal life
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -52,7 +58,18 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-217. Stated in
-      first person while passing the building during the ride-along
-      ("20 years ago I used to work in a call center called 24/7... this
-      used to be my office").
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-217. Content
+      confirmed present via NotebookLM (exact line: "sir 20 years ago i
+      used to work in a call center called 24/7 mhm so funnily enough
+      this used to be my office oh Embassy icon ah the building looks
+      exactly the same so i've seen this road from then," preceded by
+      "...effect basically you should pinch the person so that he is
+      discouraged from...violating the traffic rules..." and followed by
+      "...okay uh so basically what we have done we have repurposed the
+      uh few of the CCTV cameras of the safe city project taken the
+      feeds..."). This is said while driving past the building. Two
+      driving segments were located in the video (~32:00-38:00 and
+      ~39:00-50:00 of the 1:28:23 runtime) plus an "automation centre"
+      CCTV/Safe-City-project segment at ~23:00-28:00, but the exact
+      moment (presumably a brief aside during a drive between
+      locations) was NOT pinned to a timestamp in this pass.
