@@ -49,6 +49,48 @@ def test_extract_name_candidates_from_title_rejects_headline_boilerplate():
     assert "FO559 Raj Shamani" not in names
 
 
+def test_extract_name_candidates_from_title_rejects_headline_false_positives():
+    # Real examples that were previously mistaken for names via the
+    # pipe-segment fallback or the leading-name-before-colon match.
+    titles = [
+        "Elon Musk: A Different Conversation w/ Nikhil Kamath | Full Episode | People by WTF Ep. 16",
+        "Money Trap: Why More Money Won't Make You Rich & How to Escape | Alok Sama | FO540 Raj Shamani",
+        "The $11B Bet That Voice Will Replace Everything | Mati Staniszewski x Nikhil Kamath | WTF Online",
+        "People with The Prime Minister Shri Narendra Modi x Nikhil Kamath | Episode 6 | By WTF",
+        "Nikhil Kamath ft. Police Comm'r & Traffic Police Comm'r of Bengaluru | WTF is Policing? | Special Ep",
+        "17 Young Founders | 8 Startups | 20 Lakh Grants | Third WTFund Cohort",
+        "Inside Silicon Valley's VC Playbook | WTF is Venture Capital? - 2025 Edition | Ep. 24",
+        "Inside India's Next Gen Startups | Nikhil Kamath ft. WTFund C2/24 Founders",
+    ]
+    for title in titles:
+        names = dict(rg.extract_name_candidates_from_title(title))
+        for bogus in (
+            "Full Episode", "Money Trap", "WTF Online", "By WTF",
+            "Special Ep", "Third WTFund Cohort",
+            "Inside Silicon Valley's VC Playbook",
+            "Inside India's Next Gen Startups",
+        ):
+            assert bogus not in names, f"{bogus!r} wrongly extracted from {title!r}"
+
+
+def test_extract_name_candidates_from_title_splits_company_possessive_prefix():
+    # A "Company's Person Name" pipe segment should yield just the
+    # person's name, not the company+person phrase fused together.
+    title = "Founder Spotlight | Ather's Tarun Mehta | FO600 Raj Shamani"
+    names = dict(rg.extract_name_candidates_from_title(title))
+    assert names.get("Tarun Mehta") == "uncertain"
+    assert "Ather's Tarun Mehta" not in names
+
+
+def test_extract_name_candidates_from_title_leaves_real_possessive_headlines_alone():
+    # A genuine headline possessive (not "Company's Person") must not be
+    # stripped down into a bogus short "name".
+    title = "India-US Relations, China Competition & India's Superpower Strategy | Dr. Samir | FO526 Raj Shamani"
+    names = dict(rg.extract_name_candidates_from_title(title))
+    assert "Superpower Strategy" not in names
+    assert names.get("Dr. Samir") == "uncertain"
+
+
 def test_extract_name_candidates_from_notes_parses_speaker_attribution_parens():
     notes = (
         "SPEAKER ATTRIBUTION: four-guest panel (Nikhil's brother Nithin "
@@ -60,6 +102,24 @@ def test_extract_name_candidates_from_notes_parses_speaker_attribution_parens():
     assert "Karthik Reddy" in names
     assert "Rajan Anandan" in names
     assert "Prashanth Prakash" in names
+
+
+def test_extract_name_candidates_from_notes_splits_company_possessive_prefix():
+    # Real example shape (ather-s-tarun-mehta's original source text):
+    # free-text attribution names the company right before the guest's
+    # name ("Ather's Tarun Mehta"), unlike the corpus's own "Name/Company"
+    # convention -- the company must not be fused into the candidate name.
+    notes = (
+        "SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting Blusmart's "
+        "Punit Goyal, Ather's Tarun Mehta, and Ossus Biorenewables' Suruchi "
+        "Rao), no diarization in the auto-transcript."
+    )
+    names = rg.extract_name_candidates_from_notes(notes)
+    assert "Tarun Mehta" in names
+    assert "Punit Goyal" in names
+    assert "Suruchi Rao" in names
+    assert "Ather's Tarun Mehta" not in names
+    assert "Blusmart's Punit Goyal" not in names
 
 
 def test_extract_name_candidates_from_notes_no_attribution_block():
