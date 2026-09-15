@@ -1,1 +1,71 @@
-statements: []
+statements:
+  - id: nikhil-kamath-150
+    person: nikhil-kamath
+    source: nikhil-kamath-yuval-noah-harari
+    type: experience
+    text: >
+      States he has read many of Yuval Noah Harari's books and
+      considers himself a fan of how Harari writes and thinks, citing
+      Sapiens as his first exposure to Harari's work.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Yuval
+      Noah Harari, recorded alongside/after a panel session, apparently
+      at Davos), no diarization. Attribution inferred from
+      conversational role, not confirmed via video. This episode is a
+      long philosophical/geopolitical discussion with very little
+      personal disclosure from Nikhil -- extraction here is
+      correspondingly sparse.
+
+  - id: nikhil-kamath-151
+    person: nikhil-kamath
+    source: nikhil-kamath-yuval-noah-harari
+    type: experience
+    text: >
+      Mentions having recently met young people around 20 years old who
+      describe an AI chatbot as their girlfriend or boyfriend.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-150.
+
+  - id: nikhil-kamath-152
+    person: nikhil-kamath
+    source: nikhil-kamath-yuval-noah-harari
+    type: experience
+    text: >
+      Indicates he is attending Davos at the time of this conversation
+      (referenced in the discussion of power and influence among world
+      leaders).
+    topic: travel
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-150.
+      Cross-reference: consistent with nikhil-kamath-085 (Chamath
+      Palihapitiya episode), which also references Nikhil attending
+      Davos.
