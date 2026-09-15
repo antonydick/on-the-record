@@ -1,1 +1,56 @@
-statements: []
+statements:
+  - id: nikhil-kamath-217
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-policing-special
+    type: experience
+    text: >
+      Says he (along with Accel) recently invested in an electric flying-
+      taxi (eVTOL) company that is planning to take off from locations
+      such as hotel rooftops in Bangalore, with a range of about 160
+      kilometers, capacity for six passengers, and a per-machine cost of
+      roughly 7-8 crore rupees; says the company's plan is to price the
+      service at a premium (perhaps 3-5x) over Uber and recoup the
+      machine cost quickly at that price point.
+    topic: investing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: this episode is a ride-along interview with
+      Bengaluru's police commissioner and traffic police commissioner
+      (referred to as "Anuchet" in the auto-transcript), no diarization,
+      but the two-plus-host format makes turn-taking clearer than in
+      multi-founder panels. Stated in first person while discussing
+      self-driving/flying vehicles as solutions to Bangalore traffic
+      ("we invested in a new company recently, I did, and Accel did").
+
+  - id: nikhil-kamath-218
+    person: nikhil-kamath
+    source: nikhil-kamath-wtf-is-policing-special
+    type: experience
+    text: >
+      Says that about 20 years before this recording he worked at a call
+      center called "24/7" in the Embassy Icon building in Bangalore,
+      noting while driving past it that the building looks exactly the
+      same today.
+    topic: personal life
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-217. Stated in
+      first person while passing the building during the ride-along
+      ("20 years ago I used to work in a call center called 24/7... this
+      used to be my office").
