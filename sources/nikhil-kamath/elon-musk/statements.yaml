@@ -9,20 +9,23 @@ statements:
       investor.
     topic: work-habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=Rni7Fz7208c&t=1115s"
+      start_timestamp: "18:35"
+      end_timestamp: "18:39"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: this is a 1:1 interview (Nikhil interviewing
-      Elon Musk), no diarization in the transcript, but attribution is
-      inferred from conversational role (interviewer making a personal
-      aside mid-question) rather than confirmed via video -- verify
-      against the recording before moving past draft.
+      SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Elon
+      Musk), no diarization, but confirmed via video captions at
+      18:35-18:39: Nikhil says "My primary job, Elon, is a stockbroker
+      and stock investor" as an aside right after Elon finishes
+      proposing "predictive value" as a definition of a good investment
+      framework -- Elon immediately replies "Okay, there is no
+      predictive value..." continuing his own point, confirming Nikhil
+      as the speaker of the aside.
 
   - id: nikhil-kamath-004
     person: nikhil-kamath
@@ -34,15 +37,20 @@ statements:
       paid out when Elon Musk bought the company.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-15"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=Rni7Fz7208c&t=297s"
+      start_timestamp: "4:57"
+      end_timestamp: "5:05"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-003 -- inferred
-      from conversational role, not confirmed via video. Verify against
-      the recording before moving past draft.
+      SPEAKER ATTRIBUTION: confirmed via video captions at 4:57-5:05.
+      Mid-monologue, Elon is discussing text vs. video as information
+      formats ("...it's certainly going to be video") when Nikhil
+      interjects "so I used to be a shareholder of X, a very small one,
+      okay, and I got paid when you bought it, when you bought Twitter,
+      and you made it" -- addressed to Elon in the second person,
+      confirming Nikhil as speaker (Elon replies "You happy [with that]
+      decision? Glad y[ou were]").
