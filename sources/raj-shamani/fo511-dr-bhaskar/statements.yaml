@@ -1,488 +1,421 @@
 statements:
-  - id: raj-shamani-01801
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: assertion
-    text: >
-      Raj introduces today's guest as Dr. B. Bhaskar Rao, founder of KIMS
-      Hospitals, describing it as one of India's largest healthcare groups.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is from Raj's spoken guest introduction/voiceover
-      at the top of the episode.
+- id: raj-shamani-01801
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: assertion
+  text: 'Raj introduces today''s guest as Dr. B. Bhaskar Rao, founder of KIMS Hospitals, describing it as one of India''s largest healthcare groups.
 
-  - id: raj-shamani-01802
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: belief
-    text: >
-      As a framing question for the episode, Raj asks why hospitals run by
-      doctors are better than hospitals run by companies, presenting this
-      as a premise for the audience rather than a neutral open question.
-    topic: doctor-run-vs-corporate-hospitals
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:51]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From the episode-topics preview in Raj's intro
-      voiceover ("क्यों" phrasing presupposes the premise is true).
+    '
+  topic: guest-introduction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is from Raj''s spoken guest introduction/voiceover at the top of the episode.
 
-  - id: raj-shamani-01803
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: assertion
-    text: >
-      In introducing the guest, Raj states that Dr. Bhaskar Rao has
-      performed 30,000 heart surgeries over the course of his career.
-    topic: guest-bio-surgery-count
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:01:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's spoken bio of the guest in the intro
-      voiceover.
 
-  - id: raj-shamani-01804
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: assertion
-    text: >
-      Raj states that Dr. Bhaskar trained as a cardiothoracic surgeon in
-      both India and Australia, and returned home with the singular
-      mission of making world-class heart procedures affordable for every
-      family in India.
-    topic: guest-bio-mission
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:01:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's spoken bio of the guest in the intro
-      voiceover.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01802
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: belief
+  text: 'As a framing question for the episode, Raj asks why hospitals run by doctors are better than hospitals run by companies, presenting this as a premise for the audience rather than a neutral open question.
 
-  - id: raj-shamani-01805
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: assertion
-    text: >
-      Raj states that Dr. Bhaskar also established Afghanistan's first
-      state-of-the-art diagnostic center, in Kabul.
-    topic: guest-bio-afghanistan-center
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:01:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. From Raj's spoken bio of the guest in the intro
-      voiceover. Later in the interview Dr. Bhaskar's own account (out of
-      scope for this host-only pass) describes the Kabul venture starting
-      as a diagnostic center via his brothers' contacts, which a verifier
-      may want to cross-check against this framing.
+    '
+  topic: doctor-run-vs-corporate-hospitals
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:51]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From the episode-topics preview in Raj''s intro voiceover ("क्यों" phrasing presupposes the premise is true).
 
-  - id: raj-shamani-01806
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: assertion
-    text: >
-      As the premise for a question, Raj states that India loses roughly
-      75,000 good doctors to brain drain — meaning a large number of
-      Indian doctors go abroad and never come back.
-    topic: doctor-brain-drain
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:43:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj cites this figure as the premise of his question
-      before asking what goes through a young doctor's mind when deciding
-      whether to return to India.
 
-  - id: raj-shamani-01807
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: observation
-    text: >
-      Reacting to Dr. Bhaskar's description of the referral system in
-      countries like Australia/the UK, Raj remarks that requiring patients
-      to go through a primary/family doctor before being referred onward
-      to a hospital is exactly where healthcare costs could be cut
-      significantly.
-    topic: healthcare-referral-system
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:39:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj's brief interjection ("यहीं से आप काफी खर्च कम कर
-      सकते हैं") inserted mid-explanation, prompting the guest to continue
-      on family physicians.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01803
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: assertion
+  text: 'In introducing the guest, Raj states that Dr. Bhaskar Rao has performed 30,000 heart surgeries over the course of his career.
 
-  - id: raj-shamani-01808
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: belief
-    text: >
-      On hearing that a single focused-ultrasound tremor treatment costs
-      about ₹20 lakh and takes only about 5 minutes, Raj reacts that this
-      is very expensive.
-    topic: healthcare-cost-perception
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:41:34]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: guest-bio-surgery-count
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=bRR9Hzi60YA&t=115s
+    start_timestamp: 00:01:55
+    end_timestamp: 00:02:08
+  evidence:
+    excerpt: null
+  notes: '~[00:01:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s spoken bio of the guest in the intro voiceover.
 
-  - id: raj-shamani-01809
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: belief
-    text: >
-      Raj states his view that doctors are usually not entrepreneurs —
-      they aren't cut out to be CEOs, and they aren't founders; that's
-      simply not what they are known for.
-    topic: doctors-as-entrepreneurs
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:48:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Said just before asking what motivated Dr. Bhaskar
-      to take a loan and start his own hospital business.
 
-  - id: raj-shamani-01810
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: observation
-    text: >
-      Raj observes that it is very unusual for a doctor to take out a loan
-      in order to start a business.
-    topic: doctors-as-entrepreneurs
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:48:10]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=bRR9Hzi60YA&t=115s in-browser (English caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01804
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: assertion
+  text: 'Raj states that Dr. Bhaskar trained as a cardiothoracic surgeon in both India and Australia, and returned home with the singular mission of making world-class heart procedures affordable for every family in India.
 
-  - id: raj-shamani-01811
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: belief
-    text: >
-      Raj proposes a counter-hypothesis to the idea that more surgical
-      experience is always better: he suggests a doctor who has performed
-      30,000-40,000 surgeries may develop a fixed way of thinking about
-      handling complex situations, whereas a newer doctor might grasp new
-      technology and solve a problem differently and faster.
-    topic: surgeon-experience-vs-adaptability
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:57:45]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Posed as a pushback question to the guest's point
-      that huge case volume only helps outcomes.
+    '
+  topic: guest-bio-mission
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=bRR9Hzi60YA&t=115s
+    start_timestamp: 00:01:55
+    end_timestamp: 00:02:15
+  evidence:
+    excerpt: null
+  notes: '~[00:01:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s spoken bio of the guest in the intro voiceover.
 
-  - id: raj-shamani-01812
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: observation
-    text: >
-      Reacting to the figure of roughly 30,000 surgeries performed by
-      Dr. Bhaskar, Raj remarks that this is a very large number.
-    topic: surgeon-experience
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:56:17]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote ("यह तो बहुत ज्यादा है").
 
-  - id: raj-shamani-01813
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: example
-    text: >
-      As an illustrative example, Raj voices what a set-in-his-ways, older
-      doctor resistant to new technology might say when presented with it:
-      something like "I know how this works, don't teach me — this is your
-      new thing, I've seen this before."
-    topic: doctor-resistance-to-technology
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:59:17]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. ASR/attribution here is somewhat uncertain — Raj
-      appears to be voicing a hypothetical stubborn doctor's reaction
-      rather than describing himself, in the middle of a question about
-      whether experienced doctors welcome new technology.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=bRR9Hzi60YA&t=115s in-browser (English caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01805
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: assertion
+  text: 'Raj states that Dr. Bhaskar also established Afghanistan''s first state-of-the-art diagnostic center, in Kabul.
 
-  - id: raj-shamani-01814
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: observation
-    text: >
-      Raj suggests that patients are now driving technology adoption by
-      demanding specific procedures by name (e.g., robotic surgery), which
-      forces doctors to go and learn the new technique.
-    topic: patient-technology-demand
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:00:17]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Phrasing is compressed/ASR-garbled at this point
-      ("क्या मरीज मांग कर रहे हैं? हम्म। मुझे रोबोटिक सर्जरी की जरूरत है"),
-      so the exact wording is uncertain even though the gist is clear.
+    '
+  topic: guest-bio-afghanistan-center
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=bRR9Hzi60YA&t=140s
+    start_timestamp: 00:02:20
+    end_timestamp: 00:02:35
+  evidence:
+    excerpt: null
+  notes: '~[00:01:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. From Raj''s spoken bio of the guest in the intro voiceover. Later in the interview Dr. Bhaskar''s own account (out of scope for this host-only pass) describes the Kabul venture starting as a diagnostic center via his brothers'' contacts, which a verifier may want to cross-check against this framing.
 
-  - id: raj-shamani-01815
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: assertion
-    text: >
-      In asking about Dr. Bhaskar's hospital-acquisition checklist, Raj
-      states that Dr. Bhaskar's group now has more than 25 hospitals
-      across the country.
-    topic: guest-business-scale
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:51:38]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-01816
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: assertion
-    text: >
-      Raj states, citing something he read about the guest, that over 25
-      years of operation Dr. Bhaskar's organization has been able to
-      retain 98% of its doctors.
-    topic: doctor-retention
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:07:11]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=bRR9Hzi60YA&t=140s in-browser (English caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01806
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: assertion
+  text: 'As the premise for a question, Raj states that India loses roughly 75,000 good doctors to brain drain — meaning a large number of Indian doctors go abroad and never come back.
 
-  - id: raj-shamani-01817
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: assertion
-    text: >
-      Raj states that the health-cost-coverage scheme under discussion
-      (referred to as Aarogyasri) was the first scheme of its kind, that
-      Dr. Bhaskar started it together with the state's then Chief Minister
-      (referred to only as "Reddy" in the transcript), and confirms this
-      was in 2007.
-    topic: aarogyasri-scheme-history
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:29:39]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. The Chief Minister is named only as "Reddy" via ASR,
-      with no fuller name given in this passage; a verifier should confirm
-      the exact name against the source audio.
+    '
+  topic: doctor-brain-drain
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:43:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj cites this figure as the premise of his question before asking what goes through a young doctor''s mind when deciding whether to return to India.
 
-  - id: raj-shamani-01818
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: assertion
-    text: >
-      As the premise of a question, Raj states that Dr. Bhaskar started a
-      hospital in Afghanistan.
-    topic: afghanistan-venture
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:12:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Dr. Bhaskar's own subsequent account (out of scope
-      for this host-only pass) describes the venture starting as a
-      diagnostic center rather than a full hospital, which a verifier may
-      want to weigh against this framing.
 
-  - id: raj-shamani-01819
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: observation
-    text: >
-      Raj mentions that the last thing he asks every guest on the show
-      these days is a fill-in-the-blank question: "India will develop only
-      when ___."
-    topic: interview-format
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:18:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj describes this as a recurring closing question
-      he now asks every guest.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01807
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: observation
+  text: 'Reacting to Dr. Bhaskar''s description of the referral system in countries like Australia/the UK, Raj remarks that requiring patients to go through a primary/family doctor before being referred onward to a hospital is exactly where healthcare costs could be cut significantly.
 
-  - id: raj-shamani-01820
-    person: raj-shamani
-    source: raj-shamani-fo511-dr-bhaskar
-    type: observation
-    text: >
-      Closing the episode, Raj remarks that the conversation started and
-      is ending on the same note, referring back to the "dignity of labor"
-      theme Dr. Bhaskar raised earlier in his life story.
-    topic: episode-wrap
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:19:55]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote ("हमने इस तरह शुरुआत की थी और हम इस तरह खत्म कर रहे
-      हैं").
+    '
+  topic: healthcare-referral-system
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:39:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s brief interjection ("यहीं से आप काफी खर्च कम कर सकते हैं") inserted mid-explanation, prompting the guest to continue on family physicians.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01808
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: belief
+  text: 'On hearing that a single focused-ultrasound tremor treatment costs about ₹20 lakh and takes only about 5 minutes, Raj reacts that this is very expensive.
+
+    '
+  topic: healthcare-cost-perception
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:41:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01809
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: belief
+  text: 'Raj states his view that doctors are usually not entrepreneurs — they aren''t cut out to be CEOs, and they aren''t founders; that''s simply not what they are known for.
+
+    '
+  topic: doctors-as-entrepreneurs
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:48:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Said just before asking what motivated Dr. Bhaskar to take a loan and start his own hospital business.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01810
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: observation
+  text: 'Raj observes that it is very unusual for a doctor to take out a loan in order to start a business.
+
+    '
+  topic: doctors-as-entrepreneurs
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:48:10]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01811
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: belief
+  text: 'Raj proposes a counter-hypothesis to the idea that more surgical experience is always better: he suggests a doctor who has performed 30,000-40,000 surgeries may develop a fixed way of thinking about handling complex situations, whereas a newer doctor might grasp new technology and solve a problem differently and faster.
+
+    '
+  topic: surgeon-experience-vs-adaptability
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:57:45]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Posed as a pushback question to the guest''s point that huge case volume only helps outcomes.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01812
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: observation
+  text: 'Reacting to the figure of roughly 30,000 surgeries performed by Dr. Bhaskar, Raj remarks that this is a very large number.
+
+    '
+  topic: surgeon-experience
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:56:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote ("यह तो बहुत ज्यादा है").
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01813
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: example
+  text: 'As an illustrative example, Raj voices what a set-in-his-ways, older doctor resistant to new technology might say when presented with it: something like "I know how this works, don''t teach me — this is your new thing, I''ve seen this before."
+
+    '
+  topic: doctor-resistance-to-technology
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:59:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. ASR/attribution here is somewhat uncertain — Raj appears to be voicing a hypothetical stubborn doctor''s reaction rather than describing himself, in the middle of a question about whether experienced doctors welcome new technology.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01814
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: observation
+  text: 'Raj suggests that patients are now driving technology adoption by demanding specific procedures by name (e.g., robotic surgery), which forces doctors to go and learn the new technique.
+
+    '
+  topic: patient-technology-demand
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:00:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Phrasing is compressed/ASR-garbled at this point ("क्या मरीज मांग कर रहे हैं? हम्म। मुझे रोबोटिक सर्जरी की जरूरत है"), so the exact wording is uncertain even though the gist is clear.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01815
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: assertion
+  text: 'In asking about Dr. Bhaskar''s hospital-acquisition checklist, Raj states that Dr. Bhaskar''s group now has more than 25 hospitals across the country.
+
+    '
+  topic: guest-business-scale
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:51:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01816
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: assertion
+  text: 'Raj states, citing something he read about the guest, that over 25 years of operation Dr. Bhaskar''s organization has been able to retain 98% of its doctors.
+
+    '
+  topic: doctor-retention
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:07:11]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01817
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: assertion
+  text: 'Raj states that the health-cost-coverage scheme under discussion (referred to as Aarogyasri) was the first scheme of its kind, that Dr. Bhaskar started it together with the state''s then Chief Minister (referred to only as "Reddy" in the transcript), and confirms this was in 2007.
+
+    '
+  topic: aarogyasri-scheme-history
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=bRR9Hzi60YA&t=1779s
+    start_timestamp: 00:29:39
+    end_timestamp: 00:29:55
+  evidence:
+    excerpt: null
+  notes: '~[00:29:39]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The Chief Minister is named only as "Reddy" via ASR, with no fuller name given in this passage; a verifier should confirm the exact name against the source audio.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=bRR9Hzi60YA&t=1779s in-browser (English caption text check, exact/close match) at this point in the recording.'
+- id: raj-shamani-01818
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: assertion
+  text: 'As the premise of a question, Raj states that Dr. Bhaskar started a hospital in Afghanistan.
+
+    '
+  topic: afghanistan-venture
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:12:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Dr. Bhaskar''s own subsequent account (out of scope for this host-only pass) describes the venture starting as a diagnostic center rather than a full hospital, which a verifier may want to weigh against this framing.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01819
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: observation
+  text: 'Raj mentions that the last thing he asks every guest on the show these days is a fill-in-the-blank question: "India will develop only when ___."
+
+    '
+  topic: interview-format
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:18:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj describes this as a recurring closing question he now asks every guest.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
+- id: raj-shamani-01820
+  person: raj-shamani
+  source: raj-shamani-fo511-dr-bhaskar
+  type: observation
+  text: 'Closing the episode, Raj remarks that the conversation started and is ending on the same note, referring back to the "dignity of labor" theme Dr. Bhaskar raised earlier in his life story.
+
+    '
+  topic: episode-wrap
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:19:55]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote ("हमने इस तरह शुरुआत की थी और हम इस तरह खत्म कर रहे हैं").
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content did not clearly/confidently match this statement''s text, or wasn''t individually re-confirmed in this pass. Left as draft pending closer re-check.'
