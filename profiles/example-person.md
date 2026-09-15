@@ -4,4 +4,4 @@ _Generated automatically from this repo's `verified` statements only. Every line
 
 ## Opinions
 
-- TEMPLATE — placeholder statement text, not a real statement by anyone. — see `example-person-002` (example-person-interviewer-one-001)
+- TEMPLATE — placeholder statement text, not a real statement by anyone. — see `example-person-002` (TEMPLATE — replace with the real episode title)

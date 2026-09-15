@@ -4,7 +4,7 @@ title: Statement
 description: >
   One source-grounded statement extracted from one appearance. Validates
   each item in the `statements:` list of
-  sources/<person-slug>/<interviewer-slug>/statements.yaml.
+  sources/<person-slug>/<episode-slug>/statements.yaml.
 
   Two concerns are kept in separate objects on purpose, as a core
   project rule — do not collapse them:

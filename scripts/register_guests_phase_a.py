@@ -183,12 +183,19 @@ def build_person_index(people_dir: Path) -> tuple[dict[str, str], set[str]]:
     return index, ids
 
 
-def main() -> int:
-    people_dir = REPO_ROOT / "people"
-    sources_dir = REPO_ROOT / "sources"
+def main(repo_root: Path | None = None) -> int:
+    repo_root = repo_root or REPO_ROOT
+    people_dir = repo_root / "people"
+    sources_dir = repo_root / "sources"
     episodes_dir = sources_dir / "episodes"
 
     name_index, person_ids = build_person_index(people_dir)
+    people_by_id: dict[str, dict] = {}
+    for path in sorted(people_dir.glob("*.yaml")):
+        with path.open() as f:
+            data = yaml.safe_load(f) or {}
+        if data.get("id"):
+            people_by_id[data["id"]] = data
 
     episode_titles: dict[str, str] = {}
     for path in sorted(episodes_dir.glob("*.yaml")):
@@ -214,9 +221,30 @@ def main() -> int:
     for episode_id, title in episode_titles.items():
         registered = episode_people.get(episode_id, {})
         host_ids = {pid for pid, role in registered.items() if role == "host"}
-        host_names = set()
+        # Match against each host's actual name/aliases (and the individual
+        # words within them), not just their person-id slug -- a title's
+        # Ft. clause often refers to the host by a bare first name (e.g.
+        # "Nikhil" for host "Nikhil Kamath"), which would never match the
+        # host's full slug/name as a whole string.
+        host_full_forms: set[str] = set()
+        host_token_sets: list[set[str]] = []
         for pid in host_ids:
-            host_names.add(pid)
+            host_person = people_by_id.get(pid, {})
+            name_forms = []
+            if host_person.get("name"):
+                name_forms.append(host_person["name"])
+            for alias in host_person.get("aliases") or []:
+                name_forms.append(alias)
+            if not name_forms:
+                # No person record (or no name) found for this host id --
+                # fall back to the slug so we don't silently stop excluding.
+                name_forms.append(pid)
+            for form in name_forms:
+                normalized_form = normalize_name(form)
+                if not normalized_form:
+                    continue
+                host_full_forms.add(normalized_form)
+                host_token_sets.append(set(normalized_form.split()))
         candidates: list[tuple[str, str]] = list(extract_name_candidates_from_title(title))
 
         for person_dir in sorted(sources_dir.glob(f"*/{episode_id}")):
@@ -231,16 +259,22 @@ def main() -> int:
 
         for name, confidence in candidates:
             normalized = normalize_name(name)
-            if normalized in {normalize_name(h) for h in host_ids}:
+            if not normalized:
+                continue
+            normalized_words = set(normalized.split())
+            if normalized in host_full_forms or any(
+                normalized_words and normalized_words <= host_tokens
+                for host_tokens in host_token_sets
+            ):
                 continue
 
             existing_person_id = resolve_person(name, name_index)
+            resolved_to_existing = existing_person_id is not None
 
             if existing_person_id is not None:
                 if existing_person_id in registered:
                     continue
                 person_id = existing_person_id
-                matched_existing += 1
             else:
                 base_slug = slugify(name)
                 if not base_slug:
@@ -280,6 +314,8 @@ def main() -> int:
             )
             registered[person_id] = "guest"
             new_appearances += 1
+            if resolved_to_existing:
+                matched_existing += 1
 
     print(
         f"Phase A complete: {new_people} new stub people, {new_appearances} new "

@@ -144,6 +144,47 @@ never conflate them:
   as an ongoing, per-guest, per-episode queue, the same way host
   extraction has been.
 
+## Merging a duplicate stub person
+
+Phase A's heuristic works from episode titles and notes text alone, with
+no cross-episode identity resolution beyond exact name/alias matching.
+It will sometimes create two or more stub `people/*.yaml` records for
+what's actually the same real guest — for example, a title giving a
+short form like "Rajan A." and a note giving the full name "Rajan
+Anandan" produce two separate stubs, `people/rajan-a.yaml` and
+`people/rajan-anandan.yaml`, because neither string matches the other.
+This is deliberate: Phase A always prefers a false split (two stub
+records for one real person) over a false merge (silently attributing
+one person's statements to another), since a false merge is much
+harder to detect and undo later. Reconciling a false split back into
+one person is therefore a human judgment call, not something Phase A
+attempts automatically.
+
+To merge duplicate stubs once you've confirmed (by research) that they
+really are the same person:
+
+1. Pick the canonical record — prefer whichever stub has the more
+   complete/correct name (e.g. `rajan-anandan` over `rajan-a`).
+2. Add every other stub's `name` as an entry in the canonical record's
+   `aliases` list, so future Phase A runs resolve that name variant to
+   the canonical person automatically instead of creating a new stub.
+3. For each appearance the duplicate stub has, move its appearance
+   directory: rename `sources/<duplicate-slug>/<episode-slug>/` to
+   `sources/<canonical-slug>/<episode-slug>/`, and update that
+   directory's `metadata.yaml` (`person` and `id` fields) — and its
+   `statements.yaml`'s `person` field on each statement, if present —
+   to point at the canonical person.
+4. Delete the duplicate's `people/<duplicate-slug>.yaml` file and its
+   now-empty `sources/<duplicate-slug>/` directory.
+5. Delete the duplicate's generated `profiles/<duplicate-slug>.md`, if
+   one exists — it will not regenerate on its own once the person
+   record is gone.
+6. Run `python3 scripts/validate.py` to confirm nothing broke.
+
+`aliases` exists specifically to support this manual cleanup path, and
+to help future Phase A runs resolve the same name variant to the right
+person automatically next time.
+
 ## Regenerating derived artifacts
 
 Two generated files are never hand-edited, only regenerated:

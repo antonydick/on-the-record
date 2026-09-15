@@ -201,10 +201,11 @@ def render_profile_markdown(
     return "\n".join(lines)
 
 
-def main() -> None:
-    people_dir = REPO_ROOT / "people"
-    sources_dir = REPO_ROOT / "sources"
-    profiles_dir = REPO_ROOT / "profiles"
+def main(repo_root: Path | None = None) -> None:
+    repo_root = repo_root or REPO_ROOT
+    people_dir = repo_root / "people"
+    sources_dir = repo_root / "sources"
+    profiles_dir = repo_root / "profiles"
     profiles_dir.mkdir(exist_ok=True)
 
     episode_titles: dict[str, str] = {}
@@ -215,6 +216,25 @@ def main() -> None:
             episode_titles[data["id"]] = data["title"]
         if data.get("id") and data.get("published_date"):
             episode_dates[data["id"]] = data["published_date"]
+
+    # episode_titles/episode_dates above are keyed by *episode id*, but every
+    # lookup site in render_profile_markdown/evolving_topics looks things up
+    # by statement.get("source"), which is an *appearance id* (always
+    # "{person}-{episode}"). Build the appearance->episode mapping from the
+    # appearance records themselves, then re-key the title/date dicts by
+    # appearance id before handing them to the pure render functions.
+    episode_by_source: dict[str, str] = {}
+    for path in sorted(sources_dir.glob("*/*/metadata.yaml")):
+        data = load_yaml(path) or {}
+        if data.get("id") and data.get("episode"):
+            episode_by_source[data["id"]] = data["episode"]
+
+    titles_by_appearance = {
+        src: episode_titles.get(ep, ep) for src, ep in episode_by_source.items()
+    }
+    dates_by_appearance = {
+        src: episode_dates.get(ep, "") for src, ep in episode_by_source.items()
+    }
 
     statements_by_person: dict[str, list[dict]] = defaultdict(list)
     for path in sorted(sources_dir.glob("*/*/statements.yaml")):
@@ -230,7 +250,7 @@ def main() -> None:
         if not person_id:
             continue
         verified = filter_verified(statements_by_person.get(person_id, []))
-        markdown = render_profile_markdown(person, verified, episode_titles, episode_dates)
+        markdown = render_profile_markdown(person, verified, titles_by_appearance, dates_by_appearance)
         (profiles_dir / f"{person_id}.md").write_text(markdown)
 
     print(f"Wrote {len(list(people_dir.glob('*.yaml')))} profile(s) to profiles/.")

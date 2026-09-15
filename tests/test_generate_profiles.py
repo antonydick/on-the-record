@@ -1,8 +1,74 @@
 import sys
 from pathlib import Path
 
+import yaml
+
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 import generate_profiles as gp  # noqa: E402
+
+
+def _write_yaml(path: Path, data: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(yaml.safe_dump(data, sort_keys=False))
+
+
+def _write_person(repo_root: Path, person_id: str, name: str) -> None:
+    _write_yaml(
+        repo_root / "people" / f"{person_id}.yaml",
+        {
+            "id": person_id,
+            "name": name,
+            "credentials": "Some credentials.",
+            "bio": "Some bio.",
+        },
+    )
+
+
+def _write_episode(repo_root: Path, episode_id: str, title: str, published_date: str) -> None:
+    _write_yaml(
+        repo_root / "sources" / "episodes" / f"{episode_id}.yaml",
+        {
+            "id": episode_id,
+            "title": title,
+            "url": f"https://example.com/{episode_id}",
+            "platform": "youtube",
+            "published_date": published_date,
+            "format": "video",
+        },
+    )
+
+
+def _write_appearance(repo_root: Path, person_id: str, episode_id: str, role: str = "guest") -> str:
+    appearance_id = f"{person_id}-{episode_id}"
+    _write_yaml(
+        repo_root / "sources" / person_id / episode_id / "metadata.yaml",
+        {
+            "id": appearance_id,
+            "person": person_id,
+            "episode": episode_id,
+            "role": role,
+            "processing_status": "complete",
+        },
+    )
+    return appearance_id
+
+
+def _write_statements(repo_root: Path, person_id: str, episode_id: str, statements: list[dict]) -> None:
+    _write_yaml(
+        repo_root / "sources" / person_id / episode_id / "statements.yaml",
+        {"statements": statements},
+    )
+
+
+def _verified_verification() -> dict:
+    return {
+        "status": "verified",
+        "verified_at": "2026-01-01",
+        "verified_by": "someone",
+        "source_url": "https://example.com/clip",
+        "start_timestamp": "00:01:00",
+        "end_timestamp": "00:01:30",
+    }
 
 
 def make_statement(**overrides):
@@ -160,3 +226,85 @@ def test_render_profile_markdown_includes_evolution_and_references_sections():
     assert "Later stated" in md
     assert "## Relationships & references" in md
     assert "True Beacon" in md
+
+
+def test_main_renders_real_episode_title_not_appearance_id(tmp_path):
+    # Regression test for the bug where main() built episode_titles/
+    # episode_dates keyed by *episode id* while every lookup site keys by
+    # *appearance id* (statement["source"]), so titles/dates never resolved.
+    _write_person(tmp_path, "guest-one", "Guest One")
+    _write_episode(tmp_path, "episode-one", "The Real Episode Title", "2024-03-01")
+    _write_appearance(tmp_path, "guest-one", "episode-one")
+    _write_statements(
+        tmp_path,
+        "guest-one",
+        "episode-one",
+        [
+            {
+                "id": "guest-one-1",
+                "person": "guest-one",
+                "source": "guest-one-episode-one",
+                "type": "belief",
+                "text": "Some verified thing they said.",
+                "topic": "life",
+                "verification": _verified_verification(),
+            }
+        ],
+    )
+
+    gp.main(repo_root=tmp_path)
+
+    profile = (tmp_path / "profiles" / "guest-one.md").read_text()
+    assert "The Real Episode Title" in profile
+    assert "guest-one-episode-one" not in profile
+
+
+def test_main_renders_evolution_section_from_real_fixture_files(tmp_path):
+    # A second fixture proving evolving_topics() actually fires when data
+    # comes through main()'s real file-loading path (appearance id -> episode
+    # id -> title/date), not just the unit-level fixtures above which never
+    # exercise that join.
+    _write_person(tmp_path, "guest-two", "Guest Two")
+    _write_episode(tmp_path, "episode-a", "Episode A Title", "2020-01-01")
+    _write_episode(tmp_path, "episode-b", "Episode B Title", "2025-01-01")
+    _write_appearance(tmp_path, "guest-two", "episode-a")
+    _write_appearance(tmp_path, "guest-two", "episode-b")
+    _write_statements(
+        tmp_path,
+        "guest-two",
+        "episode-a",
+        [
+            {
+                "id": "guest-two-1",
+                "person": "guest-two",
+                "source": "guest-two-episode-a",
+                "type": "belief",
+                "text": "Early view on the topic.",
+                "topic": "careers",
+                "verification": _verified_verification(),
+            }
+        ],
+    )
+    _write_statements(
+        tmp_path,
+        "guest-two",
+        "episode-b",
+        [
+            {
+                "id": "guest-two-2",
+                "person": "guest-two",
+                "source": "guest-two-episode-b",
+                "type": "belief",
+                "text": "Later view on the topic.",
+                "topic": "careers",
+                "verification": _verified_verification(),
+            }
+        ],
+    )
+
+    gp.main(repo_root=tmp_path)
+
+    profile = (tmp_path / "profiles" / "guest-two.md").read_text()
+    assert "## Evolution" in profile
+    assert "Episode A Title" in profile
+    assert "Episode B Title" in profile

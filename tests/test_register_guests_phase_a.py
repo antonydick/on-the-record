@@ -1,8 +1,15 @@
 import sys
 from pathlib import Path
 
+import yaml
+
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "scripts"))
 import register_guests_phase_a as rg  # noqa: E402
+
+
+def _write_yaml(path: Path, data: dict) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    path.write_text(yaml.safe_dump(data, sort_keys=False))
 
 
 def test_extract_name_candidates_from_title_ft_clause():
@@ -125,3 +132,61 @@ def test_render_guest_appearance_yaml_round_trips():
     }
     parsed = yaml.safe_load(rg.render_guest_appearance_yaml(appearance))
     assert parsed == appearance
+
+
+def test_main_registers_guest_from_title_and_is_idempotent(tmp_path):
+    # Build a small fixture repo: one host person, one episode whose title
+    # has a "Ft. Someone Real" clause, and the host's own appearance record.
+    _write_yaml(
+        tmp_path / "people" / "host-person.yaml",
+        {
+            "id": "host-person",
+            "name": "Host Person",
+            "credentials": "Show host.",
+            "bio": "Hosts the show.",
+        },
+    )
+    _write_yaml(
+        tmp_path / "sources" / "episodes" / "ep1.yaml",
+        {
+            "id": "ep1",
+            "title": "Some Interesting Topic Ft. Someone Real | EP1 Host Person",
+            "url": "https://example.com/ep1",
+            "platform": "youtube",
+            "published_date": "2024-01-01",
+            "format": "video",
+        },
+    )
+    _write_yaml(
+        tmp_path / "sources" / "host-person" / "ep1" / "metadata.yaml",
+        {
+            "id": "host-person-ep1",
+            "person": "host-person",
+            "episode": "ep1",
+            "role": "host",
+            "processing_status": "pending",
+        },
+    )
+
+    result = rg.main(repo_root=tmp_path)
+    assert result == 0
+
+    person_files = {p.stem for p in (tmp_path / "people").glob("*.yaml")}
+    new_people = person_files - {"host-person"}
+    assert len(new_people) == 1
+    new_person_id = next(iter(new_people))
+
+    new_person = yaml.safe_load((tmp_path / "people" / f"{new_person_id}.yaml").read_text())
+    assert new_person["name"] == "Someone Real"
+    assert new_person["identity_confidence"] in {"likely", "uncertain"}
+
+    appearance_count_before = len(list((tmp_path / "sources").glob("*/*/metadata.yaml")))
+    people_count_before = len(list((tmp_path / "people").glob("*.yaml")))
+
+    # Re-running must be a no-op: no additional people or appearances.
+    rg.main(repo_root=tmp_path)
+
+    appearance_count_after = len(list((tmp_path / "sources").glob("*/*/metadata.yaml")))
+    people_count_after = len(list((tmp_path / "people").glob("*.yaml")))
+    assert appearance_count_after == appearance_count_before
+    assert people_count_after == people_count_before
