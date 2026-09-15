@@ -1,245 +1,211 @@
 statements:
-  - id: raj-shamani-03601
-    person: raj-shamani
-    source: raj-shamani-fo520-amit-kilhor
-    type: assertion
-    text: >
-      Introduces Amit Kilhor to the audience as a UPSC teacher and
-      content creator, saying Amit shared the "untold reality" of the
-      UPSC and IAS system that it's very important for everyone to know.
-    topic: guest-introduction
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is part of the cold-open teaser at the start
-      of the episode.
+- id: raj-shamani-03601
+  person: raj-shamani
+  source: raj-shamani-fo520-amit-kilhor
+  type: assertion
+  text: 'Introduces Amit Kilhor to the audience as a UPSC teacher and content creator, saying Amit shared the "untold reality" of the UPSC and IAS system that it''s very important for everyone to know.
 
-  - id: raj-shamani-03602
-    person: raj-shamani
-    source: raj-shamani-fo520-amit-kilhor
-    type: assertion
-    text: >
-      Says he personally uses Porter's two-wheeler delivery service,
-      notes it is available in more than 40 cities, and says Porter has
-      now launched a "Porter Scooter" with the same 20 kg carrying
-      capacity for goods that need extra space and care.
-    topic: sponsorship
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:01:29]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj's sponsor read for title sponsor
-      Porter.
+    '
+  topic: guest-introduction
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is part of the cold-open teaser at the start of the episode.
 
-  - id: raj-shamani-03603
-    person: raj-shamani
-    source: raj-shamani-fo520-amit-kilhor
-    type: assertion
-    text: >
-      Says that with Porter you never have to negotiate on price --
-      whatever rate the app shows is what you pay -- and tells viewers
-      to check the link in the description to learn more about title
-      sponsor Porter and its services.
-    topic: sponsorship
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:06]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Continuation of Raj's sponsor read for Porter.
 
-  - id: raj-shamani-03604
-    person: raj-shamani
-    source: raj-shamani-fo520-amit-kilhor
-    type: observation
-    text: >
-      Notes that in a pre-interview briefing, Amit told him the IAS is
-      not the "steel frame of India" but the "steel cage of India," and
-      asks him to explain why.
-    topic: bureaucracy-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:37]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Reveals Raj held a pre-interview briefing
-      conversation with Amit before recording.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, guest content, or garbled ASR. Left as draft pending closer re-check.'
+- id: raj-shamani-03602
+  person: raj-shamani
+  source: raj-shamani-fo520-amit-kilhor
+  type: assertion
+  text: 'Says he personally uses Porter''s two-wheeler delivery service, notes it is available in more than 40 cities, and says Porter has now launched a "Porter Scooter" with the same 20 kg carrying capacity for goods that need extra space and care.
 
-  - id: raj-shamani-03605
-    person: raj-shamani
-    source: raj-shamani-fo520-amit-kilhor
-    type: observation
-    text: >
-      Calls Amit's claim -- that this "steel cage" of bureaucracy has
-      kept India, the "golden bird," from being able to fly again -- a
-      huge statement, and presses him for the single best reason behind
-      it.
-    topic: bureaucracy-framing
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:05:26]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: sponsorship
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:01:29]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj''s sponsor read for title sponsor Porter.
 
-  - id: raj-shamani-03606
-    person: raj-shamani
-    source: raj-shamani-fo520-amit-kilhor
-    type: observation
-    text: >
-      Pushes back on Amit's claim that corruption in the IAS starts from
-      an officer's very first posting, saying it can't be that easy or
-      simple.
-    topic: corruption-skepticism
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:20:51]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Speaker attribution in this stretch of the
-      transcript is not clearly diarized; attributed to Raj based on his
-      recurring "aapne bola" (you said) framing device used elsewhere in
-      the episode.
 
-  - id: raj-shamani-03607
-    person: raj-shamani
-    source: raj-shamani-fo520-amit-kilhor
-    type: evidence
-    text: >
-      Asks whether raising IAS/IPS officers' salaries to exceptionally
-      high, market-matching levels would stop corruption, citing what he
-      describes as his own loose paraphrase of a statement by
-      Singapore's first Prime Minister that civil servants must be paid
-      at market rate or they will find corrupt ways to match market pay
-      themselves.
-    topic: civil-service-pay
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:59:25]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. Raj explicitly flags this as his own loose
-      paraphrase, not a direct quote, of Singapore's first PM (Lee Kuan
-      Yew, not named in the transcript).
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, guest content, or garbled ASR. Left as draft pending closer re-check.'
+- id: raj-shamani-03603
+  person: raj-shamani
+  source: raj-shamani-fo520-amit-kilhor
+  type: assertion
+  text: 'Says that with Porter you never have to negotiate on price -- whatever rate the app shows is what you pay -- and tells viewers to check the link in the description to learn more about title sponsor Porter and its services.
 
-  - id: raj-shamani-03608
-    person: raj-shamani
-    source: raj-shamani-fo520-amit-kilhor
-    type: assertion
-    text: >
-      Asks Amit whether there is a Prime Minister or President anywhere
-      in the world whom he particularly admires.
-    topic: admired-world-leaders
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:11:47]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
+    '
+  topic: sponsorship
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Continuation of Raj''s sponsor read for Porter.
 
-  - id: raj-shamani-03609
-    person: raj-shamani
-    source: raj-shamani-fo520-amit-kilhor
-    type: observation
-    text: >
-      Notes that Amit used the line "India is the most difficult country
-      in the world" and asks him why.
-    topic: india-most-difficult-country
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:14:43]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote.
 
-  - id: raj-shamani-03610
-    person: raj-shamani
-    source: raj-shamani-fo520-amit-kilhor
-    type: recommendation
-    text: >
-      Closes the episode by asking viewers to do three things: subscribe
-      to the channel so more valuable guests can be brought on, comment
-      with what they liked about the episode and which guests they'd
-      like to see next, and share the episode with someone whose life
-      could be positively changed by it.
-    topic: outro-cta
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:33:08]. Transcribed via YouTube Hindi auto-captions; text is a
-      close English translation of the original Hindi/Hinglish, not a
-      verbatim quote. This is Raj's standard end-of-episode call to
-      action.
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, guest content, or garbled ASR. Left as draft pending closer re-check.'
+- id: raj-shamani-03604
+  person: raj-shamani
+  source: raj-shamani-fo520-amit-kilhor
+  type: observation
+  text: 'Notes that in a pre-interview briefing, Amit told him the IAS is not the "steel frame of India" but the "steel cage of India," and asks him to explain why.
+
+    '
+  topic: bureaucracy-framing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:02:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Reveals Raj held a pre-interview briefing conversation with Amit before recording.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, guest content, or garbled ASR. Left as draft pending closer re-check.'
+- id: raj-shamani-03605
+  person: raj-shamani
+  source: raj-shamani-fo520-amit-kilhor
+  type: observation
+  text: 'Calls Amit''s claim -- that this "steel cage" of bureaucracy has kept India, the "golden bird," from being able to fly again -- a huge statement, and presses him for the single best reason behind it.
+
+    '
+  topic: bureaucracy-framing
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:05:26]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, guest content, or garbled ASR. Left as draft pending closer re-check.'
+- id: raj-shamani-03606
+  person: raj-shamani
+  source: raj-shamani-fo520-amit-kilhor
+  type: observation
+  text: 'Pushes back on Amit''s claim that corruption in the IAS starts from an officer''s very first posting, saying it can''t be that easy or simple.
+
+    '
+  topic: corruption-skepticism
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:20:51]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker attribution in this stretch of the transcript is not clearly diarized; attributed to Raj based on his recurring "aapne bola" (you said) framing device used elsewhere in the episode.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, guest content, or garbled ASR. Left as draft pending closer re-check.'
+- id: raj-shamani-03607
+  person: raj-shamani
+  source: raj-shamani-fo520-amit-kilhor
+  type: evidence
+  text: 'Asks whether raising IAS/IPS officers'' salaries to exceptionally high, market-matching levels would stop corruption, citing what he describes as his own loose paraphrase of a statement by Singapore''s first Prime Minister that civil servants must be paid at market rate or they will find corrupt ways to match market pay themselves.
+
+    '
+  topic: civil-service-pay
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:59:25]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj explicitly flags this as his own loose paraphrase, not a direct quote, of Singapore''s first PM (Lee Kuan Yew, not named in the transcript).
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, guest content, or garbled ASR. Left as draft pending closer re-check.'
+- id: raj-shamani-03608
+  person: raj-shamani
+  source: raj-shamani-fo520-amit-kilhor
+  type: assertion
+  text: 'Asks Amit whether there is a Prime Minister or President anywhere in the world whom he particularly admires.
+
+    '
+  topic: admired-world-leaders
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:11:47]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, guest content, or garbled ASR. Left as draft pending closer re-check.'
+- id: raj-shamani-03609
+  person: raj-shamani
+  source: raj-shamani-fo520-amit-kilhor
+  type: observation
+  text: 'Notes that Amit used the line "India is the most difficult country in the world" and asks him why.
+
+    '
+  topic: india-most-difficult-country
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:14:43]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, guest content, or garbled ASR. Left as draft pending closer re-check.'
+- id: raj-shamani-03610
+  person: raj-shamani
+  source: raj-shamani-fo520-amit-kilhor
+  type: recommendation
+  text: 'Closes the episode by asking viewers to do three things: subscribe to the channel so more valuable guests can be brought on, comment with what they liked about the episode and which guests they''d like to see next, and share the episode with someone whose life could be positively changed by it.
+
+    '
+  topic: outro-cta
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:33:08]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. This is Raj''s standard end-of-episode call to action.
+
+
+    Visual verification check (2026-09-15): checked nearby the noted timestamp; caption content was ambiguous, guest content, or garbled ASR. Left as draft pending closer re-check.'
