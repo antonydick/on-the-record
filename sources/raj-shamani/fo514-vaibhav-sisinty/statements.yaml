@@ -1,459 +1,400 @@
 statements:
-  - id: raj-shamani-02401
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: assertion
-    text: >
-      Raj says that he and Vaibhav together built a free, AI-focused
-      community that teaches AI in depth, for anyone who wants to learn
-      to fully utilize AI to make their work faster and better, with
-      the join link in the video description.
-    topic: ai-community-plug
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:02:48]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not
-      a verbatim quote. Standard host-read plug for the "Figuring Out
-      AI" community.
+- id: raj-shamani-02401
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: assertion
+  text: 'Raj says that he and Vaibhav together built a free, AI-focused community that teaches AI in depth, for anyone who wants to learn to fully utilize AI to make their work faster and better, with the join link in the video description.
 
-  - id: raj-shamani-02402
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: observation
-    text: >
-      Raj says he read a tweet by Vaibhav about Mark Zuckerberg,
-      describing a report that Zuckerberg is building an AI to do his
-      own job, and remarks that this means the CEO of one of the
-      world's most powerful companies is building his own AI so it can
-      take over his role, then asks Vaibhav what that means.
-    topic: zuckerberg-ai-job
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:03:23]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not
-      a verbatim quote.
+    '
+  topic: ai-community-plug
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=kKNoBH0iE1k&t=168s
+    start_timestamp: 00:02:48
+    end_timestamp: 00:03:05
+  evidence:
+    excerpt: null
+  notes: '~[00:02:48]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Standard host-read plug for the "Figuring Out AI" community.
 
-  - id: raj-shamani-02403
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: observation
-    text: >
-      Raj references an earlier tweet Vaibhav made about jobs being
-      replaced, noting that the tweet was actually about the
-      distinction between "task" and "purpose."
-    topic: task-vs-purpose-tweet
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:06:49]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not
-      a verbatim quote.
 
-  - id: raj-shamani-02404
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: observation
-    text: >
-      Partway through a philosophical discussion about AI and job
-      losses, Raj remarks that they had gone too philosophical,
-      apologizes, and redirects the conversation back to the earlier
-      topic of "observed exposure" and how many jobs in India might be
-      at risk, asking Vaibhav to reopen the chart he had shown earlier.
-    topic: episode-redirect
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[00:30:29]-[00:30:59]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=kKNoBH0iE1k&t=168s in-browser (caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02402
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: observation
+  text: 'Raj says he read a tweet by Vaibhav about Mark Zuckerberg, describing a report that Zuckerberg is building an AI to do his own job, and remarks that this means the CEO of one of the world''s most powerful companies is building his own AI so it can take over his role, then asks Vaibhav what that means.
 
-  - id: raj-shamani-02405
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: experience
-    text: >
-      Raj says he personally knows someone based in Bihar, India, who
-      works a remote job and earns around ₹30 crore per year.
-    topic: remote-job-bihar-earner
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[01:26:34]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not
-      a verbatim quote. The transcript has no explicit speaker labels;
-      this line is inferred to be Raj reacting to a remote-job search
-      Vaibhav was demoing live, but attribution to Raj rather than
-      Vaibhav is not fully certain.
+    '
+  topic: zuckerberg-ai-job
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:03:23]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02406
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: observation
-    text: >
-      Raj introduces a new closing segment for the show that he says he
-      wants to try doing in every episode, provisionally called the
-      "Countdown Clock": he gives the guest 60 seconds to pause and
-      think, then asks them to boil the entire episode down into three
-      key, highly actionable steps or insights for viewers.
-    topic: countdown-clock-format
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:19:42]-[02:20:41]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02407
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: experience
-    text: >
-      Raj says he is genuinely grateful for what he learns from these
-      episodes with Vaibhav, and that after every episode he sends the
-      recording to four or five of his employees, assigning each of
-      them a different part to fully go through and telling them that
-      doing so is now their job.
-    topic: gratitude-employee-homework
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:18:06]-[02:18:43]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02403
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: observation
+  text: 'Raj references an earlier tweet Vaibhav made about jobs being replaced, noting that the tweet was actually about the distinction between "task" and "purpose."
 
-  - id: raj-shamani-02408
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: experience
-    text: >
-      Raj says that after every episode with Vaibhav he spends his
-      entire next Saturday or Sunday applying what he learned; he
-      recalls that after a previous episode about building "skills," he
-      built nine skills over two days, including waking up at 7am one
-      Sunday and working on it from morning until night.
-    topic: weekend-skill-building
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:18:43]-[02:19:42]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
+    '
+  topic: task-vs-purpose-tweet
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:06:49]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02409
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: observation
-    text: >
-      Raj says that because of what he built after a previous episode,
-      tasks for his next three podcast episodes that used to take him
-      six hours each now take about ten minutes.
-    topic: workflow-time-savings
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:19:15]-[02:19:42]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02410
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: belief
-    text: >
-      Raj says he believes that, in the long run, applying what he is
-      learning from these AI-focused episodes will significantly
-      increase his revenue.
-    topic: long-term-revenue-belief
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:19:42]-[02:20:09]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02404
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: observation
+  text: 'Partway through a philosophical discussion about AI and job losses, Raj remarks that they had gone too philosophical, apologizes, and redirects the conversation back to the earlier topic of "observed exposure" and how many jobs in India might be at risk, asking Vaibhav to reopen the chart he had shown earlier.
 
-  - id: raj-shamani-02411
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: recommendation
-    text: >
-      Raj tells viewers that what they covered in this and the previous
-      episode counts as "deep" content, and asks for audience feedback
-      on whether they should keep doing this kind of deep-dive format
-      going forward, saying that if the response is positive they will
-      go even deeper.
-    topic: deep-content-feedback-request
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:16:05]-[02:16:38]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
+    '
+  topic: episode-redirect
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[00:30:29]-[00:30:59]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02412
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: recommendation
-    text: >
-      Raj proposes an alternative direction for a future episode:
-      instead of covering many topics broadly, going very deep into
-      just one specific area, such as how to go from zero to earning
-      significant money as a freelancer, or how to make money using one
-      particular AI tool, and asks viewers to say so in the comments if
-      they would want that.
-    topic: niche-deep-dive-proposal
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:16:38]-[02:17:40]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02413
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: belief
-    text: >
-      Raj says he believes the information being taught in these
-      episodes is the kind of thing only the top 0.1% of people have
-      access to or know about.
-    topic: top-0.1-percent-belief
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:18:06]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not
-      a verbatim quote.
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02405
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: experience
+  text: 'Raj says he personally knows someone based in Bihar, India, who works a remote job and earns around ₹30 crore per year.
 
-  - id: raj-shamani-02414
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: recommendation
-    text: >
-      Raj asks viewers to take notes with pen and paper while watching
-      the episode and to post those notes on Instagram or LinkedIn,
-      tagging both him and Vaibhav, so that everyone can learn from
-      each other's perspectives.
-    topic: audience-notes-request
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:29:43]-[02:30:37]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
+    '
+  topic: remote-job-bihar-earner
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[01:26:34]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The transcript has no explicit speaker labels; this line is inferred to be Raj reacting to a remote-job search Vaibhav was demoing live, but attribution to Raj rather than Vaibhav is not fully certain.
 
-  - id: raj-shamani-02415
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: assertion
-    text: >
-      Raj says that whichever viewer notes turn out to be good, he and
-      Vaibhav will feature them — with credit to the person who made
-      them — on the "Figuring Out AI" website, so that others can learn
-      from them too.
-    topic: feature-notes-on-website
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:30:37]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not
-      a verbatim quote.
 
-  - id: raj-shamani-02416
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: observation
-    text: >
-      Raj reflects at the end of the episode that it started slowly but
-      picked up pace, and says he doesn't know how many people will
-      watch it but that it was an incredible episode from which he
-      learned a lot.
-    topic: episode-reflection
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:28:43]-[02:29:17]. Transcribed via YouTube Hindi
-      auto-captions; text is a close English translation of the
-      original Hindi/Hinglish, not a verbatim quote.
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02406
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: observation
+  text: 'Raj introduces a new closing segment for the show that he says he wants to try doing in every episode, provisionally called the "Countdown Clock": he gives the guest 60 seconds to pause and think, then asks them to boil the entire episode down into three key, highly actionable steps or insights for viewers.
 
-  - id: raj-shamani-02417
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: recommendation
-    text: >
-      In his closing remarks, Raj tells viewers that subscribing to the
-      channel helps him bring better and more valuable guests onto the
-      podcast.
-    topic: outro-subscribe-request
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:31:03]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not
-      a verbatim quote. Standard closing segment; transcript is cut off
-      shortly after this point.
+    '
+  topic: countdown-clock-format
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=kKNoBH0iE1k&t=8382s
+    start_timestamp: 02:19:42
+    end_timestamp: 02:19:55
+  evidence:
+    excerpt: null
+  notes: '~[02:19:42]-[02:20:41]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
 
-  - id: raj-shamani-02418
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: recommendation
-    text: >
-      Raj asks viewers to comment on what they liked and didn't like
-      about the episode, so that similar mistakes are not repeated in
-      the future.
-    topic: outro-comment-feedback-request
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:31:03]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not
-      a verbatim quote.
 
-  - id: raj-shamani-02419
-    person: raj-shamani
-    source: raj-shamani-fo514-vaibhav-sisinty
-    type: recommendation
-    text: >
-      Raj asks viewers to suggest which guests they would like to see
-      brought back on the podcast.
-    topic: outro-guest-suggestion-request
-    verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
-    evidence:
-      excerpt: null
-    notes: >
-      ~[02:31:03]. Transcribed via YouTube Hindi auto-captions; text is
-      a close English translation of the original Hindi/Hinglish, not
-      a verbatim quote.
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=kKNoBH0iE1k&t=8382s in-browser (caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02407
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: experience
+  text: 'Raj says he is genuinely grateful for what he learns from these episodes with Vaibhav, and that after every episode he sends the recording to four or five of his employees, assigning each of them a different part to fully go through and telling them that doing so is now their job.
+
+    '
+  topic: gratitude-employee-homework
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:18:06]-[02:18:43]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02408
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: experience
+  text: 'Raj says that after every episode with Vaibhav he spends his entire next Saturday or Sunday applying what he learned; he recalls that after a previous episode about building "skills," he built nine skills over two days, including waking up at 7am one Sunday and working on it from morning until night.
+
+    '
+  topic: weekend-skill-building
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:18:43]-[02:19:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02409
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: observation
+  text: 'Raj says that because of what he built after a previous episode, tasks for his next three podcast episodes that used to take him six hours each now take about ten minutes.
+
+    '
+  topic: workflow-time-savings
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:19:15]-[02:19:42]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02410
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: belief
+  text: 'Raj says he believes that, in the long run, applying what he is learning from these AI-focused episodes will significantly increase his revenue.
+
+    '
+  topic: long-term-revenue-belief
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=kKNoBH0iE1k&t=8382s
+    start_timestamp: 02:19:42
+    end_timestamp: 02:20:00
+  evidence:
+    excerpt: null
+  notes: '~[02:19:42]-[02:20:09]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=kKNoBH0iE1k&t=8382s in-browser (caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02411
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: recommendation
+  text: 'Raj tells viewers that what they covered in this and the previous episode counts as "deep" content, and asks for audience feedback on whether they should keep doing this kind of deep-dive format going forward, saying that if the response is positive they will go even deeper.
+
+    '
+  topic: deep-content-feedback-request
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=kKNoBH0iE1k&t=8165s
+    start_timestamp: 02:16:05
+    end_timestamp: 02:16:20
+  evidence:
+    excerpt: null
+  notes: '~[02:16:05]-[02:16:38]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=kKNoBH0iE1k&t=8165s in-browser (caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02412
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: recommendation
+  text: 'Raj proposes an alternative direction for a future episode: instead of covering many topics broadly, going very deep into just one specific area, such as how to go from zero to earning significant money as a freelancer, or how to make money using one particular AI tool, and asks viewers to say so in the comments if they would want that.
+
+    '
+  topic: niche-deep-dive-proposal
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:16:38]-[02:17:40]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02413
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: belief
+  text: 'Raj says he believes the information being taught in these episodes is the kind of thing only the top 0.1% of people have access to or know about.
+
+    '
+  topic: top-0.1-percent-belief
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:18:06]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02414
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: recommendation
+  text: 'Raj asks viewers to take notes with pen and paper while watching the episode and to post those notes on Instagram or LinkedIn, tagging both him and Vaibhav, so that everyone can learn from each other''s perspectives.
+
+    '
+  topic: audience-notes-request
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:29:43]-[02:30:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02415
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: assertion
+  text: 'Raj says that whichever viewer notes turn out to be good, he and Vaibhav will feature them — with credit to the person who made them — on the "Figuring Out AI" website, so that others can learn from them too.
+
+    '
+  topic: feature-notes-on-website
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:30:37]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02416
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: observation
+  text: 'Raj reflects at the end of the episode that it started slowly but picked up pace, and says he doesn''t know how many people will watch it but that it was an incredible episode from which he learned a lot.
+
+    '
+  topic: episode-reflection
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:28:43]-[02:29:17]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Not individually re-confirmed in this pass (clustered near other verified closing-segment statements); left as draft pending a dedicated check.'
+- id: raj-shamani-02417
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: recommendation
+  text: 'In his closing remarks, Raj tells viewers that subscribing to the channel helps him bring better and more valuable guests onto the podcast.
+
+    '
+  topic: outro-subscribe-request
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=kKNoBH0iE1k&t=9063s
+    start_timestamp: 02:31:03
+    end_timestamp: 02:31:20
+  evidence:
+    excerpt: null
+  notes: '~[02:31:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Standard closing segment; transcript is cut off shortly after this point.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=kKNoBH0iE1k&t=9063s in-browser (caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02418
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: recommendation
+  text: 'Raj asks viewers to comment on what they liked and didn''t like about the episode, so that similar mistakes are not repeated in the future.
+
+    '
+  topic: outro-comment-feedback-request
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=kKNoBH0iE1k&t=9063s
+    start_timestamp: 02:31:03
+    end_timestamp: 02:31:25
+  evidence:
+    excerpt: null
+  notes: '~[02:31:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=kKNoBH0iE1k&t=9063s in-browser (caption text check, close match) at this point in the recording.'
+- id: raj-shamani-02419
+  person: raj-shamani
+  source: raj-shamani-fo514-vaibhav-sisinty
+  type: recommendation
+  text: 'Raj asks viewers to suggest which guests they would like to see brought back on the podcast.
+
+    '
+  topic: outro-guest-suggestion-request
+  verification:
+    status: verified
+    verified_at: '2026-09-15'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=kKNoBH0iE1k&t=9063s
+    start_timestamp: 02:31:03
+    end_timestamp: 02:31:30
+  evidence:
+    excerpt: null
+  notes: '~[02:31:03]. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote.
+
+
+    Verified 2026-09-15 by Antony Dick: watched https://www.youtube.com/watch?v=kKNoBH0iE1k&t=9063s in-browser (caption text check, close match) at this point in the recording.'
