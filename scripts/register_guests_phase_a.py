@@ -106,8 +106,15 @@ def extract_name_candidates_from_notes(notes: str) -> list[str]:
     match = SPEAKER_ATTRIBUTION_RE.search(notes or "")
     if not match:
         return []
+    block = match.group(1)
+    # "Cross-reference:" is this corpus's own convention for citing a
+    # *different* episode's guest for corroboration (e.g. "Cross-
+    # reference: ... nikhil-kamath-005 (Sam Altman)") -- never a guest
+    # of *this* episode. Drop it before scanning for parenthesized
+    # names so those cross-episode mentions aren't misattributed here.
+    block = block.split("Cross-reference:")[0]
     candidates: list[str] = []
-    for paren_group in PAREN_LIST_RE.findall(match.group(1)):
+    for paren_group in PAREN_LIST_RE.findall(block):
         for item in paren_group.split(","):
             name = item.split("/")[0].strip()
             words = name.split()

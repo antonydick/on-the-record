@@ -59,6 +59,21 @@ def test_extract_name_candidates_from_notes_no_attribution_block():
     assert rg.extract_name_candidates_from_notes("Just some ordinary notes.") == []
 
 
+def test_extract_name_candidates_from_notes_ignores_cross_reference_mentions():
+    # Real example shape (nikhil-kamath/nandan-nilekani statements.yaml):
+    # a "Cross-reference:" clause cites *other* episodes' guests for
+    # corroboration -- those aren't guests of *this* episode and must
+    # not be extracted as candidates here.
+    notes = (
+        "SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-029. "
+        "Cross-reference: extends the pattern seen in nikhil-kamath-005 "
+        "(Sam Altman) and nikhil-kamath-009 (Vinod Khosla), where he "
+        "describes ongoing, sustained research into specific investment "
+        "sectors/themes."
+    )
+    assert rg.extract_name_candidates_from_notes(notes) == []
+
+
 def test_normalize_name():
     assert rg.normalize_name("Nikhil Kamath") == "nikhil kamath"
     assert rg.normalize_name("Nikhil  Kamath (WTF)") == "nikhil kamath wtf"
