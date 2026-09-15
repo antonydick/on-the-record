@@ -1,1 +1,186 @@
-statements: []
+statements:
+  - id: nikhil-kamath-140
+    person: nikhil-kamath
+    source: nikhil-kamath-rishi-sunak-akshata-murty
+    type: experience
+    text: >
+      Gives a detailed account of his "Foundry" accelerator's first
+      cohort: run out of a house in Alibag (a 30-minute boat ride from
+      Mumbai), self-funded entirely by him, selected via a 45-minute AI
+      quiz that a few thousand applicants took, narrowed to 75 for a
+      four-day bootcamp and then to a first cohort of 25; participants
+      receive roughly $500,000 each to build one of 20 planned consumer
+      brands (examples given: a candy company, a toothpaste company, a
+      jeans company, a chocolate company); the cohort's average age is
+      28, mixing teenagers with people in their late 30s; many
+      participants took a leave of absence from Stanford, Yale, or
+      Wharton to join; and the program is being filmed as a seven-episode
+      TV series. Names Kishore Vaani and a person referred to as "Ronnie
+      Screwvala" as involved in leading it day-to-day, and says he
+      returned early from Alibag specifically to do this interview while
+      the cohort continued without him (including a candidate-selection
+      session that ran until 3am).
+    topic: business
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: 1:1 (joint) interview with close friends
+      Rishi Sunak and Akshata Murty, no diarization. Attribution
+      inferred from conversational role, not confirmed via video.
+      Cross-reference: substantially extends nikhil-kamath-079 (Brian
+      Armstrong episode) and nikhil-kamath-108 (MakeMyTrip x Taj
+      episode) on Foundry. The names "Kishore Vaani" and "Ronnie
+      Screwvala" are as transcribed by an imperfect auto-transcript
+      (the latter likely intends a similar-sounding real name, possibly
+      "Ronnie Screwvala") -- confirm exact names during verification.
+
+  - id: nikhil-kamath-141
+    person: nikhil-kamath
+    source: nikhil-kamath-rishi-sunak-akshata-murty
+    type: experience
+    text: >
+      Mentions he interviewed Akshata Murty's father, N.R. Narayana
+      Murthy (referred to as "Rishi's [father-in-law]"), a few years
+      earlier, off camera, for a Karnataka state government-related
+      event.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140.
+
+  - id: nikhil-kamath-142
+    person: nikhil-kamath
+    source: nikhil-kamath-rishi-sunak-akshata-murty
+    type: experience
+    text: >
+      Recounts attending the cremation of Kiran Mazumdar-Shaw's husband
+      John (in 2022) alongside Sudha Murthy (Akshata Murty's mother),
+      who told him a lengthy story there about the Hindu deity in
+      charge of crematoriums.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140. Touches on
+      a death in a close friend's family -- treat with care during
+      verification per SKILL.md guidance on sensitive content, though
+      John Mazumdar-Shaw's death is already public record.
+
+  - id: nikhil-kamath-143
+    person: nikhil-kamath
+    source: nikhil-kamath-rishi-sunak-akshata-murty
+    type: belief
+    text: >
+      Offers his own theory that South Indians, having historically
+      experienced less war and conflict than North Indians, are
+      culturally more inclined to "embrace the moment" -- drawing a
+      parallel to how people with a shorter life expectancy tend to
+      live more presently.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140.
+
+  - id: nikhil-kamath-144
+    person: nikhil-kamath
+    source: nikhil-kamath-rishi-sunak-akshata-murty
+    type: experience
+    text: >
+      Mentions he met financier Michael Milken and discussed Milken's
+      idea of giving every child born a financial endowment.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140.
+      Cross-reference: corroborates nikhil-kamath-063 (Ruchir Sharma
+      episode), which describes the same Michael Milken meeting in more
+      detail (a chance hallway encounter that turned into a multi-hour
+      conversation).
+
+  - id: nikhil-kamath-145
+    person: nikhil-kamath
+    source: nikhil-kamath-rishi-sunak-akshata-murty
+    type: experience
+    text: >
+      Says he recently hired someone who spends an hour or two with him
+      every day teaching him to code, starting with an open-source
+      Claude-based coding agent self-hosted on a Mac mini; says he has
+      done about a month of these daily lessons and is starting to feel
+      more comfortable "vibe coding," though he does not yet consider
+      himself skilled at writing detailed prompts.
+    topic: personal habits
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140. The coding
+      tool's name is garbled in the auto-transcript ("open claw") --
+      confirm the actual tool during verification rather than assuming.
+
+  - id: nikhil-kamath-146
+    person: nikhil-kamath
+    source: nikhil-kamath-rishi-sunak-akshata-murty
+    type: experience
+    text: >
+      Describes an ongoing close friendship with Rishi Sunak and
+      Akshata Murty, including socializing together in India over the
+      preceding year -- attending the IPL final in Mumbai with Rishi and
+      Akshata's father, and the Jaipur Literature Festival -- and
+      hosting them at his home for this interview/dinner, with mutual
+      plans to visit each other in Bangalore and Mumbai.
+    topic: relationships
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140.
