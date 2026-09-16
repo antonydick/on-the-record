@@ -1,0 +1,112 @@
+statements:
+  - id: raj-shamani-13812
+    person: raj-shamani
+    source: raj-shamani-fo491-syed-akbaruddin
+    type: observation
+    text: >
+      In the episode's cold open, Raj narrates that Syed Akbaruddin was
+      the official spokesperson of India's Ministry of External Affairs,
+      that he spent more than 30 years strengthening India's global
+      diplomacy, and that the episode breaks down whether the US and
+      China have been influencing India's decisions.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=5suNXiI1vjQ"
+      start_timestamp: "00:00:12"
+      end_timestamp: "00:00:34"
+    evidence:
+      excerpt: "External Affairs. >> China ... strengthening India's global diplomacy. China sees India's rise"
+    notes: >
+      ~[00:00:10]-[00:00:30] Transcribed via YouTube English
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. Unlike
+      most other episodes in this backlog sweep, this episode's spoken
+      language is English throughout, so English auto-captions were used
+      instead of Hindi/Hinglish ones.
+
+  - id: raj-shamani-13813
+    person: raj-shamani
+    source: raj-shamani-fo491-syed-akbaruddin
+    type: observation
+    text: >
+      Raj frames the episode by saying India is walking on a very thin
+      line between global pressures and unpredictable world leaders, and
+      that most importantly the episode asks where India stands today
+      globally and what things could become reasons for India's
+      downfall.
+    topic: episode-framing
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=5suNXiI1vjQ"
+      start_timestamp: "00:01:03"
+      end_timestamp: "00:01:45"
+    evidence:
+      excerpt: "on a very thin line between global pressures and unpredictable ... have to be more guarded and cautious. >> And most importantly, where does"
+    notes: >
+      ~[00:01:00]-[00:01:40] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13814
+    person: raj-shamani
+    source: raj-shamani-fo491-syed-akbaruddin
+    type: assertion
+    text: >
+      Before starting the episode, Raj says their goal is to take an
+      Indian podcast to a global level, and that as of today they need
+      20.8 million subscribers to get there — so if the channel has
+      provided any value, he asks viewers to subscribe, noting it's
+      completely free and takes less than a minute, and mentions the
+      audio experience of the episode is also available by following
+      the show on Spotify.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=5suNXiI1vjQ"
+      start_timestamp: "00:02:00"
+      end_timestamp: "00:02:35"
+    evidence:
+      excerpt: "to get there. So, if you have found anything valuable from"
+    notes: >
+      ~[00:02:00]-[00:02:40] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Near-identical wording (including the same 20.8-million figure) to
+      the appeal seen in fo493-mrityunjay-sharma, fo494-suyash-saraf and
+      fo496-arpit-agrawal, a reused script across episodes recorded
+      around the same period.
+
+  - id: raj-shamani-13815
+    person: raj-shamani
+    source: raj-shamani-fo491-syed-akbaruddin
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel right now so the show can bring better guests,
+      comment with feedback on what the show got right or wrong so it
+      can learn and create a better experience, and share the episode
+      with one person, since one conversation is enough to change
+      someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=5suNXiI1vjQ"
+      start_timestamp: "03:13:21"
+      end_timestamp: "03:14:13"
+    evidence:
+      excerpt: "Thank you so much for watching this episode till the end. Now you have to do three things. Number one, subscribe to this channel right now"
+    notes: >
+      ~[03:13:20]-[03:13:40] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard closing outro, "three things" framing, identical
+      structure to the outro seen in fo492-janhvi-kapoor,
+      fo493-mrityunjay-sharma, and other episodes from this period.
