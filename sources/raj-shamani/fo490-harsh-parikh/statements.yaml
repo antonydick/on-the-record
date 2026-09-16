@@ -1,0 +1,87 @@
+statements:
+  - id: raj-shamani-13816
+    person: raj-shamani
+    source: raj-shamani-fo490-harsh-parikh
+    type: assertion
+    text: >
+      Raj reads a sponsor mention saying that while there's plenty of
+      information about real estate, getting real advice is a
+      challenge, which is why buyers always feel unsure about their
+      decisions no matter how much research they do — and says that to
+      bridge this trust gap, Birla Estates, the Aditya Birla Group's
+      real estate arm, has started an initiative called Real Advice
+      that brings experts and real experiences onto a single platform
+      to help people make safer, better-informed decisions, and that
+      this episode is part of a special series done with them.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=-MzmomicG-w"
+      start_timestamp: "00:01:40"
+      end_timestamp: "00:02:20"
+    evidence:
+      excerpt: "बाइंग अ हाउस कि क्या हम सही डिसीजन ले रहे हैं शुड आई लुक ... जो आदित्य बिरला ग्रुप का एक रियलस्टेट आर्म है"
+    notes: >
+      ~[00:01:40]-[00:02:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote. Birla Estates "Real Advice" sponsor read.
+
+  - id: raj-shamani-13817
+    person: raj-shamani
+    source: raj-shamani-fo490-harsh-parikh
+    type: observation
+    text: >
+      Raj introduces the guest as Harsh Parikh, Partner at Khaitan &
+      Co., saying they will learn from him what the biggest myth in
+      real estate is, what the biggest mistakes people make when
+      choosing a builder are, and what 10-step legal checklist to
+      follow before buying a flat — and asks viewers to watch the
+      episode to the end and check the link in the description below
+      to learn more about Birla Estates and the Real Advice initiative.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=-MzmomicG-w"
+      start_timestamp: "00:02:20"
+      end_timestamp: "00:03:00"
+    evidence:
+      excerpt: "पार्टनर एट खेतान एंड को। और हम उनसे जानेंगे"
+    notes: >
+      ~[00:02:20]-[00:03:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13818
+    person: raj-shamani
+    source: raj-shamani-fo490-harsh-parikh
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel right now so the show can bring better guests,
+      comment with feedback on what the show got right or wrong so it
+      can learn and create a better experience, and share the episode
+      with one person, since one conversation is enough to change
+      someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=-MzmomicG-w"
+      start_timestamp: "01:00:18"
+      end_timestamp: "01:00:38"
+    evidence:
+      excerpt: "एपिसोड एंड तक देखने के लिए। अब आपको तीन चीजें करनी है। नंबर वन, अभी इस चैनल को"
+    notes: >
+      ~[01:00:20]-[01:00:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Standard closing outro, "three things" framing, identical
+      structure to the outro seen in fo491-syed-akbaruddin,
+      fo492-janhvi-kapoor, and other episodes from this period.
