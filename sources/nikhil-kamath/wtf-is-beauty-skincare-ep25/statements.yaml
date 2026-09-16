@@ -14,20 +14,26 @@ statements:
       industry that episode covered.
     topic: business
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=AdI_XWv-ZTk&t=836s"
+      start_timestamp: "13:56"
+      end_timestamp: "14:00"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: four-person panel (Nikhil hosting Inde Wild
-      founder Deepa, Bombay Shaving Company's Shaveen Bali, and a beauty
-      content creator/entrepreneur referred to as "Bhakti" tied to Tira),
-      no diarization in the auto-transcript. This statement is the host's
-      own framing of the show near the start of the episode.
+      founder Diipa, Bombay Shaving Company's Shantanu, and beauty
+      content creator/entrepreneur Bhakti tied to Tira -- names now
+      confirmed via speaker tags in the video's dense transcript), no
+      diarization in the earlier draft pass. This statement is the
+      host's own framing of the show near the start of the episode.
+      Confirmed via the video's dense transcript at 13:56-14:00: "We
+      don't have advertising or sponsorship or any of that. In fact, I
+      take money from people who are guests, and we do a charity
+      project at the end of it. So, it's the opposite of a capitalistic
+      venture."
 
   - id: nikhil-kamath-184
     person: nikhil-kamath
@@ -43,20 +49,27 @@ statements:
       "re-imagined old" ones.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=AdI_XWv-ZTk&t=2190s"
+      start_timestamp: "36:30"
+      end_timestamp: "36:53"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-183. Attributed to
       the host because it is framed as the lead-in to a question posed to
-      guest Deepa about whether the "re-imagined old" pattern matches Inde
+      guest Diipa about whether the "re-imagined old" pattern matches Inde
       Wild's own strategy (e.g. reviving the traditional "champi"/hair-oil
-      ritual), which she then answers.
+      ritual), which she then answers. Confirmed via the video's dense
+      transcript at 36:30-36:53: "We were ideating a jewellery brand
+      recently with lab-grown jewellery, lab-grown diamonds, and two
+      people we were consulting, Kishore and Santosh Biyani. They were
+      talking about how the youth is buying, not a new product
+      altogether, but they're buying re-imagined old." This confirms the
+      names as "Kishore and Santosh Biyani," correcting the draft's
+      garbled "Kishor" and "Santo Bani."
 
   - id: nikhil-kamath-185
     person: nikhil-kamath
@@ -71,19 +84,23 @@ statements:
       area smelled so bad he could not survive there.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=AdI_XWv-ZTk&t=5024s"
+      start_timestamp: "1:23:44"
+      end_timestamp: "1:24:17"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-183. Told in first
-      person ("I rented this place... I was not in town... he said this
-      area smells so bad") during a discussion of scent/fragrance as a
-      strong emotional trigger.
+      person during a discussion of scent/fragrance as a strong emotional
+      trigger. Confirmed via the video's dense transcript at
+      1:23:44-1:24:17: "Can I tell you a funny story? So, I rented this
+      place some time ago. And I've had a few house managers along the
+      way. One of them -- for three months of the year, the area smells
+      like dead fish... And he said this area smells so bad that he
+      can't survive... he had a very strong nose, yeah."
 
   - id: nikhil-kamath-186
     person: nikhil-kamath
@@ -101,18 +118,26 @@ statements:
       continue at the first signs of difficulty.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=AdI_XWv-ZTk&t=12806s"
+      start_timestamp: "3:33:26"
+      end_timestamp: "3:34:50"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-183. Stated in
-      first person in response to a guest's comment about typical VC fund
-      life cycles ("so we run all perpetual funds").
+      first person. Confirmed via the video's dense transcript at
+      3:33:26-3:34:50: "...At the first sign of failure, I'm noticing
+      this with a cohort of companies we invested in '21-'22. And
+      suddenly, founders are like, 'It's been three years, and nothing
+      is happening... not worth it'... but going in, know that this will
+      take 20 years at the very least to see the first signs of
+      something meaningful... Everyone promises eight-year life cycle,
+      it's 13-14 years. India is a country where you need 15-20 years to
+      find something meaningful. We run all perpetual funds... no fund
+      life."
 
   - id: nikhil-kamath-187
     person: nikhil-kamath
@@ -128,15 +153,20 @@ statements:
       room and potential for someone to build a large business here.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=AdI_XWv-ZTk&t=12945s"
+      start_timestamp: "3:35:45"
+      end_timestamp: "3:36:09"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-183. Offered as
-      his own closing takeaway from the episode ("as a investor strangely
-      enough...").
+      his own closing takeaway from the episode. Confirmed via the
+      video's dense transcript at 3:35:45-3:36:09: "And as an investor,
+      strangely enough, there aren't enough listed Indian players which
+      allow you allocation into this category... I see Foxtale and
+      d'you and Deconstruct and Pilgrim, indē wild, large-scale
+      businesses now. Look at Minimalist. They were, like, 3-4 years
+      old... crazy, very well done."
