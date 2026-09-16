@@ -13,12 +13,12 @@ statements:
       -- as something that required "God level" negotiation skill.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=hNV6urpwrk8&t=7583s"
+      start_timestamp: "2:06:23"
+      end_timestamp: "2:07:50"
     evidence:
       excerpt: null
     notes: >
@@ -26,10 +26,19 @@ statements:
       chairman Ajay Bijli, Collective Artists Network's Vijay
       Subramaniam, and Disney+ Hotstar CEO Sajith Sivanandan), no
       diarization in the auto-transcript. Stated in first person during
-      the closing investment-recommendations segment. Cross-reference:
-      corroborates and extends nikhil-kamath-167 (WTF is E-commerce
-      episode), which describes his PVR short-then-long trading history
-      without mentioning a specific ~2% equity stake.
+      the closing investment-recommendations segment ("Nikhil's personal
+      opinion on panellists" chapter). Cross-reference: corroborates and
+      extends nikhil-kamath-167 (WTF is E-commerce episode), which
+      describes his PVR short-then-long trading history without
+      mentioning a specific ~2% equity stake. Confirmed via live captions
+      at 2:06:23-2:07:50: "...I bought two percent so I invested a
+      reasonable chunk of money which [is now some] diluted number, I
+      still have that. What I like about Ajay is... [he did] not
+      significantly take up the debt of PVR [during the pandemic] ...
+      someone like him at the helm of a company I think is uh
+      incredible." The exact phrase "God level" was not caught verbatim
+      in the caption-scrubbing pass, but the surrounding praise of Ajay's
+      pandemic-era financial discipline was confirmed word-for-word.
 
   - id: nikhil-kamath-192
     person: nikhil-kamath
@@ -49,18 +58,29 @@ statements:
       entertainment world.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=hNV6urpwrk8&t=100s"
+      start_timestamp: "1:40"
+      end_timestamp: "2:52"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-191. Told in
       first person near the start of the episode while introducing the
-      three guests to each other and to the audience.
+      three guests to each other and to the audience ("How Nikhil crossed
+      paths with each Guest" chapter). Confirmed via live captions from
+      1:48-2:47: "I met the three of you in the most interesting ways
+      possible... [Ajay, at a] party in Delhi... and we sat and we spoke
+      for a long time... Sajith is again a friend from Bangalore, I knew
+      him when he [was CEO of Google Pay] before being the CEO of
+      Hotstar... [Vijay, I saw one rainy night walking in] Bandra, and uh
+      it was raining and I had an umbrella with me and there [he was,
+      across the street with Bollywood actresses]." A guest's immediate
+      follow-up reaction at ~3:08 ("will you ever find Nikhil Kamath
+      under an umbrella walking in Bandra?") independently corroborates
+      the umbrella/Bandra detail.
 
   - id: nikhil-kamath-193
     person: nikhil-kamath
@@ -78,15 +98,25 @@ statements:
       participation "cool."
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=hNV6urpwrk8&t=7739s"
+      start_timestamp: "2:08:59"
+      end_timestamp: "2:10:17"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-191. This is the
       host's own framing of the show's closing charity format, stated in
-      first person near the end of the episode.
+      first person near the end of the episode ("Second Edition: Pick A
+      Charity and be part of something Incredible!" chapter). Confirmed
+      via live captions from 2:08:59-2:10:17: "...[I'm] part of [too
+      many charities, I] can't do one more, the money goes directly to
+      charity but we let the audience decide... we put out a poll with
+      the names of four charities and the amount that has to be
+      donated... what I want from you guys is an amount and the name of
+      a charity, the reason we are doing this [is for the] satisfaction
+      ... in a very twisted way it is also [selfish, it's not 100%]
+      altruistic, you're doing it for some kind of appeasement of your
+      own morality."
