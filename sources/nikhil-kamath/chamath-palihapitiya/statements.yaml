@@ -16,25 +16,36 @@ statements:
       roughly $50 million outcomes, as results of the program.
     topic: philanthropy
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=hAgqDdPgA3g&t=94s"
+      start_timestamp: "1:34"
+      end_timestamp: "2:47"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Chamath
-      Palihapitiya), no diarization. Attribution inferred from
-      conversational role, not confirmed via video. Cross-reference:
-      compare against nikhil-kamath-079 (Brian Armstrong episode), which
-      describes a differently-detailed program called "Foundry"
-      ($500k per founder, cohorts of 20-25, consumer companies, founders
-      living together) -- during verification, determine whether these
-      are the same initiative described inconsistently, or genuinely
-      distinct programs (this one reads as closer to the "WTFund" this
-      notebook/podcast is named after).
+      Palihapitiya), confirmed via the video's dense transcript at
+      1:34-2:47: "No ads, no sponsorship, nothing. In fact, I make my
+      guests give money to a charity I like and I donate with them and
+      we match it... so we have a grant programme... it is giving money
+      directly to young kids in India who want to start a business but
+      don't have startup capital... No, no equity, nothing, it's just a
+      grant... they don't have to pay us back... How many people do you
+      put through this programme? A dozen kids every couple of
+      months... Yes, a couple, like there's a pet protein company
+      called Pawsible which is now worth maybe 40-50 million. There
+      have been like three, four, 50 million kind of outcomes." This
+      confirms the company name is "Pawsible," not "Posible" as
+      guessed in the draft. Cross-reference: compare against
+      nikhil-kamath-079 (Brian Armstrong episode), which describes a
+      differently-detailed program called "Foundry" ($500k per founder,
+      cohorts of 20-25, consumer companies, founders living together)
+      -- these still read as distinct programs (this one is the
+      podcast's own closing grant segment; "Foundry" is described
+      elsewhere as a separate structured initiative), not reconciled
+      further in this pass.
 
   - id: nikhil-kamath-084
     person: nikhil-kamath
@@ -50,16 +61,28 @@ statements:
       conversation in person.
     topic: business
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=hAgqDdPgA3g&t=3822s"
+      start_timestamp: "1:03:42"
+      end_timestamp: "1:04:30"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-083.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-083. This exact
+      line is also used as a cold-open teaser at 0:47-1:06, but the full
+      conversational context is here, near the end of the interview.
+      Confirmed via the video's dense transcript at 1:03:42-1:04:30:
+      "The last question... I've been fascinated with the idea of
+      building a social media outfit out of India. A Indian teenager
+      today spends, like somebody I heard say earlier today, six hours
+      on their cell phone, 'cause data is cheap, and five out of six of
+      those hours are spent on American companies... Give me advice
+      from your experience of building All In, being at Facebook, and
+      also having a personal brand... Is there an opportunity to build
+      a social media outfit that could appeal to young people in
+      India?"
 
   - id: nikhil-kamath-085
     person: nikhil-kamath
@@ -72,16 +95,21 @@ statements:
       posture the US was taking there.
     topic: travel
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=hAgqDdPgA3g&t=1969s"
+      start_timestamp: "32:49"
+      end_timestamp: "33:52"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-083.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-083. Confirmed
+      via the video's dense transcript at 32:49-33:52: "Like I was
+      telling you last night at Davos, I was seeing how the Europeans
+      were reacting to what the Americans were saying... I suspect if I
+      was a European leader and I was sitting there in Davos, I would
+      be really upset with some of the decisions that I have made."
 
   - id: nikhil-kamath-086
     person: nikhil-kamath
@@ -97,16 +125,20 @@ statements:
       behavior rather than genuine innovation.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=hAgqDdPgA3g&t=3410s"
+      start_timestamp: "56:50"
+      end_timestamp: "57:30"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-083. Confirms
-      involvement with a private equity fund reviewing Indian
-      companies -- worth cross-referencing against other episodes and
-      public record during verification.
+      involvement with a private equity fund reviewing Indian companies.
+      Confirmed via the video's dense transcript at 56:50-57:30: "...I'll
+      give you an example in India. When our private equity fund... when
+      I look at companies, data centres have gotten to such a point
+      that most old-school real estate companies in India today have
+      begun to claim they're data centre companies and not real estate
+      companies. Again, a sign of worrying times ahead, in my opinion."
