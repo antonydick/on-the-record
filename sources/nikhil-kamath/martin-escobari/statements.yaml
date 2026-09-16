@@ -10,12 +10,12 @@ statements:
       mortality and giving away wealth within one's lifetime.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=SPLFyVyTI1A&t=1761s"
+      start_timestamp: "29:21"
+      end_timestamp: "29:21"
     evidence:
       excerpt: null
     notes: >
@@ -24,9 +24,13 @@ statements:
       with recurring guest Arian/Aryan and, later, additional dinner
       guests Florian Brandt and "Andy"/Anirudh), no diarization.
       Attribution inferred from conversational role and content, not
-      confirmed via video. Cross-reference: consistent with
-      nikhil-kamath-097 (Howard Marks episode, also age 39, published
-      2026-05-04, close in time to this episode's 2026-05-28 date).
+      confirmed via video. Confirmed via the video's dense transcript at
+      29:21: "But most people don't come to terms with mortality in a
+      way. Like, maybe I'm wrong. I'm 39 now," and again at 43:17: "And
+      I'll ask you what makes sense from a 39 because I still don't want
+      to say 40." Cross-reference: consistent with nikhil-kamath-097
+      (Howard Marks episode, also age 39, published 2026-05-04, close in
+      time to this episode's 2026-05-28 date).
 
   - id: nikhil-kamath-120
     person: nikhil-kamath
@@ -40,18 +44,23 @@ statements:
       Portuguese/Spanish.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=SPLFyVyTI1A&t=2258s"
+      start_timestamp: "37:38"
+      end_timestamp: "37:55"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-119. Second-hand
       (asserted about Nikhil by Martin, not stated by Nikhil himself in
-      the first person) -- confirm independently during verification.
+      the first person). Confirmed via the video's dense transcript at
+      37:38-37:55: "...28 years together. How long did you date before
+      you were married? -- Three years. -- I know you're not married.
+      -- Yeah... I'm a voice from the future. Maybe I need to learn
+      Spanish. Do you know someone? -- I recommend Portuguese, but you
+      can also learn Spanish."
 
   - id: nikhil-kamath-121
     person: nikhil-kamath
@@ -68,12 +77,12 @@ statements:
       having invested heavily in India.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=SPLFyVyTI1A&t=4055s"
+      start_timestamp: "1:07:35"
+      end_timestamp: "1:08:30"
     evidence:
       excerpt: null
     notes: >
@@ -82,6 +91,18 @@ statements:
       Armstrong episode), where he similarly favors a large, cheap
       Indian IT-services company over an expensive US AI company; this
       statement adds much more specific portfolio-allocation detail.
+      Confirmed via the video's dense transcript at 1:07:35-1:08:30:
+      "When I allocate money, because I'm all-in on India -- also
+      because I made whatever little money I have from that country --
+      I draw the extrapolation that at some point we'll be a $10
+      trillion economy... And I'm kind of rebalancing my portfolio to
+      reflect that in a manner where, strangely enough, my biggest
+      allocation soon will be IT services and banking. Because of the
+      moats these industries sit on, it's the most counter-intuitive
+      thing to invest in, in an AI-first world. Somehow for India, I
+      feel like it makes sense, and I can buy these companies at like
+      12 times, 14, 15 times -- very well-run large companies, very
+      defensible."
 
   - id: nikhil-kamath-122
     person: nikhil-kamath
@@ -95,20 +116,26 @@ statements:
       his age as 41.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=SPLFyVyTI1A&t=4327s"
+      start_timestamp: "1:12:07"
+      end_timestamp: "1:12:36"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-119. Anthropic's
-      CEO is Dario Amodei, a trained biologist -- likely who is meant
-      here, but confirm during verification rather than assuming, and
-      check whether a corresponding episode/source exists or should be
-      added to this dataset.
+      CEO Dario Amodei is confirmed by name in the transcript (a
+      corresponding episode already exists in this dataset -- see
+      sources/nikhil-kamath/dario-amodei). Confirmed via the video's
+      dense transcript at 1:12:07-1:12:36: "I interviewed the Anthropic
+      guy last month. He's fantastic, Dario, he's fantastic, one of my
+      favorite people in the world... He's a biologist, he's an
+      idealist, he's built an amazing company... he's such a humble,
+      idealistic person, and young, he's 41." (Martin then mistakenly
+      says "he's your age," to which Nikhil clarifies his own age is
+      39, not Dario's.)
 
   - id: nikhil-kamath-123
     person: nikhil-kamath
@@ -121,16 +148,20 @@ statements:
       some from Brazil.
     topic: travel
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=SPLFyVyTI1A&t=14s"
+      start_timestamp: "0:14"
+      end_timestamp: "0:21"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-119.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-119. Confirmed
+      via the video's dense transcript at 0:14-0:21: "What did you do in
+      New York before the Martin Escobari interview? -- I caught up with
+      some kids from Columbia University. Eclectic kids, some from
+      Brazil, some from a bunch of really interesting different places."
 
   - id: nikhil-kamath-124
     person: nikhil-kamath
@@ -144,16 +175,21 @@ statements:
       -- says the idea resonated with him.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=SPLFyVyTI1A&t=2328s"
+      start_timestamp: "38:48"
+      end_timestamp: "39:12"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-119. Vague on
       context (who this person is, in what setting) -- do not
-      over-interpret as a romantic disclosure; confirm context during
-      verification.
+      over-interpret as a romantic disclosure. Confirmed via the video's
+      dense transcript at 38:48-39:12: "Someone said this to me
+      recently, a very young Indian lady. She said, you'll have
+      scattered memories, nor would you have anyone to remind you of
+      them, because you then won't know who you made that memory with.
+      Which kind of appealed to me. I would go to dinner with her
+      again." (A guest then jokes about Nikhil marrying her.)
