@@ -13,12 +13,12 @@ statements:
       deal with that uncertainty again is what made buying make sense.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=LqSEfz4YUFA&t=4335s"
+      start_timestamp: "1:12:15"
+      end_timestamp: "1:13:00"
     evidence:
       excerpt: null
     notes: >
@@ -26,7 +26,15 @@ statements:
       Group's Irfan Razack, Brigade Group's Nirupa Shankar, and Embassy/
       WeWork India's Karan Virwani), no diarization in the auto-
       transcript. Stated in first person after Irfan directly calls him
-      out as a "convert" for having bought a house.
+      out as a "convert" for having bought a house ("Renting, Buying,
+      Flipping Houses" chapter). Confirmed via live captions at
+      1:12:15-1:13:00: "[You] bought a house, yeah, how come you're a
+      convert, you always said you wouldn't buy a [house]?... no, so the
+      thing with renting of all... the house, like I had to move out of
+      this house, whereas maybe I would have liked to [continue living
+      there]... [the uncertainty/lack of] value of having to move felt
+      like it made sense to buy [a] house, yeah, and I think that's
+      the..."
 
   - id: nikhil-kamath-220
     person: nikhil-kamath
@@ -42,20 +50,30 @@ statements:
       know when the stock market might correct.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=LqSEfz4YUFA&t=4396s"
+      start_timestamp: "1:13:16"
+      end_timestamp: "1:13:49"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-219. Stated in
       first person during a discussion of real estate versus other asset
-      classes. Cross-reference: consistent with his stated gold
-      investment history in nikhil-kamath-171 (WTF is Finance Ep 4) and
-      other episodes.
+      classes, immediately following nikhil-kamath-219 in the same
+      "Renting, Buying, Flipping Houses" chapter. Cross-reference:
+      consistent with his stated gold investment history in
+      nikhil-kamath-171 (WTF is Finance Ep 4) and other episodes.
+      Confirmed via live captions at 1:13:16-1:13:49: "[Guest: don't you
+      think buying a home adds to the] financial strength, security,
+      balance sheet of an individual? [Nikhil:] I feel like something
+      like gold can give [me] that... real estate, as I told you in the
+      beginning itself, it is illiquid, at times it can just disappear
+      immediately, but it is an illiquid asset." The specific word
+      "virtual" for his stock-market wealth was not caught verbatim in
+      this pass, but the core content (illiquidity dislike, preference
+      for gold as a hedge) is confirmed word-for-word.
 
   - id: nikhil-kamath-221
     person: nikhil-kamath
@@ -74,17 +92,28 @@ statements:
       had not researched it.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=LqSEfz4YUFA&t=10502s"
+      start_timestamp: "2:55:02"
+      end_timestamp: "2:55:55"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-219. Told in
       first person while asking the panel to react to this friend's
-      thesis. The friend's name is almost certainly mis-transcribed by
-      the auto-transcript -- verify the actual identity before treating
-      as confirmed.
+      thesis ("Future of the Commercial Real Estate Culture" chapter).
+      Confirmed via live captions at 2:55:02-2:55:55: "...before, I have
+      this friend, his name is Marcel Areno... plus he's on my Gates
+      pledge thing, he's a philanthropist as well. I was in the US
+      [recently, had dinner with him] which is like 100 kilometers from
+      California, let's say, and he made this case for [shorting
+      commercial real estate]... he hadn't done enough research [on
+      India] but definitely parts of America, parts [of China, in] a
+      manner that people pricing properties have not taken cognizance
+      [of changed work culture]." The name "Marcel Areno" is confirmed
+      as spoken/captioned exactly this way -- still likely a mis-hearing
+      or unusual transliteration of the real investor's name (a live
+      Giving Pledge signatory), but this is what the video itself says;
+      no further identity confirmation was attempted this pass.
