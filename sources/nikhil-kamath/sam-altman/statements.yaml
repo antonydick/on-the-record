@@ -13,7 +13,7 @@ statements:
       discussed on that call.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -26,7 +26,18 @@ statements:
       Altman), no diarization in the transcript. Attribution inferred
       from conversational role and subject matter (referring to a
       private call with Altman as interviewer, not interviewee) rather
-      than confirmed via video. Verify before moving past draft.
+      than confirmed via video. This pass checked the video's
+      officially-chaptered investing/economics-adjacent sections
+      ("Does AGI Make Capital Obsolete?" ~25:44, "Marginal Utility & the
+      Fate of Wrappers" ~28:25, "Is Contrarian Thinking an Edge?"
+      ~34:15) via live captions without finding this specific "private
+      call about sectors for the next decade" remark; the 45-minute
+      episode is heavily focused on AI/philosophy topics rather than
+      Nikhil's own investing habits, so this may be a brief aside
+      outside the sampled windows. This video's transcript panel also
+      failed to load across multiple attempts (including a fresh page
+      reload) in this session. Left at reviewed rather than forcing an
+      unconfirmed timestamp.
 
   - id: nikhil-kamath-006
     person: nikhil-kamath
@@ -38,7 +49,7 @@ statements:
       work -- roughly once a month.
     topic: work-habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -48,8 +59,12 @@ statements:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-005 -- inferred
-      from conversational role, not confirmed via video. Verify before
-      moving past draft.
+      from conversational role, not confirmed via video. Not located in
+      this pass; this video's transcript panel failed to load across
+      multiple attempts, and this kind of brief meta-remark about
+      podcasting cadence is difficult to locate via chapter-based live
+      caption sampling in a 45-minute video without a specific topical
+      anchor. Left at reviewed.
 
   - id: nikhil-kamath-007
     person: nikhil-kamath
@@ -62,7 +77,7 @@ statements:
       a meeting with Harvey (the AI legal-tech company).
     topic: work-habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -72,5 +87,11 @@ statements:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-005 -- inferred
-      from conversational role, not confirmed via video. Verify before
-      moving past draft.
+      from conversational role, not confirmed via video. Checked the
+      "Building on GPT-5: Skills & Science Applications" chapter
+      (~07:09/429s) via live captions since Harvey (legal AI) fits that
+      applications discussion -- found Nikhil asking Sam about
+      "low-hanging fruits" to look at around 7:20 (440s), but the
+      preceding SF/NY travel and Harvey-meeting framing itself was not
+      located in the sampled window. This video's transcript panel also
+      failed to load across multiple attempts. Left at reviewed.
