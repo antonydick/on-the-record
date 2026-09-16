@@ -9,12 +9,12 @@ statements:
       years, i.e. since around age 17.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=nGpir4oUfJI&t=1709s"
+      start_timestamp: "28:29"
+      end_timestamp: "28:37"
     evidence:
       excerpt: null
     notes: >
@@ -24,11 +24,15 @@ statements:
       biography in this transcript, e.g. a twin sister and an
       NCPA-opera childhood, was not independently verified -- and Zepto
       co-founders Aadit Palicha and Kaivalya Vohra), no diarization.
-      Attribution inferred from conversational role, not confirmed via
-      video. Cross-reference: consistent with nikhil-kamath-101 (Kiran
-      Mazumdar-Shaw episode, age 36, published 2023-07-22) and
-      nikhil-kamath-154 (Social Media panel, also age 36, published
-      2023-04-19) -- this episode published 2023-09-20.
+      Attribution inferred from conversational role and self-identifying
+      content, not diarized video. Confirmed via the video's dense
+      transcript at 28:29-28:37: "I've been doing the same job I do
+      today, I'm 36, as a trader for 19 years -- I was just thinking
+      about it when you were introducing yourself, I've had the same job
+      for how old you guys are." Cross-reference: consistent with
+      nikhil-kamath-101 (Kiran Mazumdar-Shaw episode, age 36, published
+      2023-07-22) and nikhil-kamath-154 (Social Media panel, also age
+      36, published 2023-04-19) -- this episode published 2023-09-20.
 
   - id: nikhil-kamath-160
     person: nikhil-kamath
@@ -45,18 +49,26 @@ statements:
       1.5 crore rupees of capex per center.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=nGpir4oUfJI&t=4381s"
+      start_timestamp: "1:13:01"
+      end_timestamp: "1:15:14"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159.
-
-  - id: nikhil-kamath-161
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. Confirmed
+      via the video's dense transcript at 1:13:01-1:15:14: "I've been an
+      investor in PVR for a long, long time... in India broadly there
+      are 9,000 screens, about 2,000 of them happen to be multiplex
+      screens, the access to a multiplex in America is something like
+      for every 30 to 40 people there's one multiplex... we started a
+      company to set up theaters in tier-2, tier-3 towns... each theater
+      two screens, 60 and 40 tickets at about 150 rupees, in between the
+      two screens there would be like a grocery store, community-center
+      kind of a concept, at 60-70% occupancy, one and a half crore capex
+      per center."
     person: nikhil-kamath
     source: nikhil-kamath-wtf-is-next-gen-thinking-ep10
     type: experience
@@ -67,22 +79,25 @@ statements:
       11-12.
     topic: family
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=nGpir4oUfJI&t=4818s"
+      start_timestamp: "1:20:09"
+      end_timestamp: "1:20:18"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. Given the
-      large age gap with Nikhil (36 at the time), this is likely a
-      different sibling from his brother and Zerodha co-founder Nithin
-      Kamath (referenced separately and by name later in this same
-      episode, see nikhil-kamath-162) -- treat as a distinct family
-      detail requiring careful confirmation during verification rather
-      than assuming it refers to Nithin.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. Confirmed
+      via the video's dense transcript at 1:20:09-1:20:18, in a
+      discussion of the age kids get onto Instagram: "...my brother's
+      15, I think he got onto Instagram probably like 11 or 12 -- yeah,
+      he lives in Dubai, TikTok is not banned in Dubai so it's like
+      heavy and this trend will continue, yeah." As anticipated, given
+      the ~21-year age gap with Nikhil (36 at the time), this is a
+      distinct, much younger sibling from his brother and Zerodha
+      co-founder Nithin Kamath, who is referenced separately and by name
+      later in this same episode (see nikhil-kamath-162).
 
   - id: nikhil-kamath-162
     person: nikhil-kamath
@@ -100,19 +115,29 @@ statements:
       constitution.
     topic: business
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=nGpir4oUfJI&t=7121s"
+      start_timestamp: "1:58:41"
+      end_timestamp: "1:58:56"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. A
-      specific, checkable business/biography timeline claim (Kamath
-      Associates founding, ~16 years before a 2023-09-20 recording) --
-      confirm exact dates during verification.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. A specific,
+      checkable business/biography timeline claim confirmed via the
+      video's dense transcript at 1:58:41-1:58:56: "...this is an old
+      journey, right, like when I started trading full-time I was 17,
+      when we started working together full-time we started a company
+      called Kat[h] Associates, which is what, 16 years ago now, and
+      we've been on this journey for so long, along the way we've had
+      lawyers, we've had constitutions, we've had many ups and downs,
+      but the one thing we've never had is anyone outside..." (auto-
+      transcript garbles "Kamath Associates" as "Kat Associates"). The
+      division-of-labor detail (he handles markets/investing, Nithin
+      handles people/broking) was not caught verbatim within the
+      sampled window, but the founding timeline, lawyers/constitution,
+      and no-outside-investors claims are confirmed word-for-word.
 
   - id: nikhil-kamath-163
     person: nikhil-kamath
@@ -128,16 +153,26 @@ statements:
       reflection.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=nGpir4oUfJI&t=6924s"
+      start_timestamp: "1:55:24"
+      end_timestamp: "1:55:40"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. Confirmed
+      via the video's dense transcript at 1:55:24-1:55:40: "...when you
+      dream, right, when you have vivid dreams you only remember them
+      for the first 10 minutes that you're awake, yeah, so I did this
+      like a habit, I was reading some school of psychology, so I would
+      wake up every morning and write down my dreams in the first 5
+      minutes even if I woke up at 4:00am, I would write it down, the
+      crazy thing is even in your dreams there is a pattern." The
+      "writing a book he will never publish" detail was not caught
+      verbatim within the sampled window, but the dream-journaling habit
+      is confirmed word-for-word.
 
   - id: nikhil-kamath-164
     person: nikhil-kamath
@@ -151,16 +186,22 @@ statements:
       to think through plans and decisions.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=nGpir4oUfJI&t=6964s"
+      start_timestamp: "1:56:04"
+      end_timestamp: "1:56:12"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. Confirmed
+      via the video's dense transcript at 1:56:04-1:56:12: "...Sundays
+      we just, I just like sit in the office and I'm surrounded by
+      whiteboards and that's it, like I have nothing to do, like for
+      like 12 hours I do that, I'm a pen-and-paper kind of person, I
+      plan -- I mean not personally but I'll plan like where do I want
+      to, like what do I want to do."
 
   - id: nikhil-kamath-165
     person: nikhil-kamath
@@ -175,16 +216,27 @@ statements:
       fleeting, followed by a need to chase something new.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=nGpir4oUfJI&t=6841s"
+      start_timestamp: "1:54:01"
+      end_timestamp: "1:54:51"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-159. Sensitive
-      personal/psychological content -- treat with particular care
-      during verification and do not present as a clinical diagnosis or
-      settled fact, per SKILL.md guidance on sensitive content.
+      personal/psychological content -- treated with care, confirmed
+      directly against the recording rather than presented as a
+      clinical diagnosis. Confirmed via the video's dense transcript at
+      1:54:01-1:54:51: "...I've not had a sense of self-worth, and
+      nothing makes me happy beyond a fleeting minute, really, it's hot
+      for a minute and then I need something else to chase, something
+      new to do, something big -- you don't have that like long-term
+      fulfillment after everything that you've built? -- really, I
+      don't, and I'm 10 years down the journey, and I can tell you this,
+      that it won't come from anything you do outside or any other
+      person, but from you going back to your childhood... I'll tell you
+      the thing with therapists... I've been to a few, and the problem
+      with therapy is nine out of 10 are horrible, like they're
+      terrible, they suck."
