@@ -12,7 +12,7 @@ statements:
       coffee daily and feels unwell without having two cups a day.
     topic: personal life
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -26,7 +26,13 @@ statements:
       fourth guest, Anish, a photographer-turned-beverage entrepreneur),
       no diarization in the auto-transcript. Stated in first person during
       a discussion of the craft-beverage/coffee category as an investment
-      area.
+      area. Located to the general area of the "Waves of Coffee - Shift
+      to Coffee" chapter (~58:09/3489s per the video description) via
+      live captions -- confirmed the surrounding discussion is about
+      specialty coffee and buying from Blue Tokai -- but this specific
+      "didn't drink coffee three years ago, green tea/microplastics" line
+      was not located within the sampled window. This video's transcript
+      panel also failed to load in this session. Left at reviewed.
 
   - id: nikhil-kamath-195
     person: nikhil-kamath
@@ -42,7 +48,7 @@ statements:
       investor."
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -53,7 +59,16 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-194. Stated in
       first person in response to a direct question about which
-      quick-commerce company he would invest in.
+      quick-commerce company he would invest in. Located precisely to
+      the "Is Quick Commerce Sustainable in India?" chapter
+      (2:31:59/9119s per the video description) via live captions --
+      confirmed extensive discussion of quick-commerce sustainability
+      and a direct question to Nikhil about which company he'd buy
+      (~2:40:00/9600-9650s: "what did you buy... would you [buy]
+      Zepto...") but the specific "EBITDA multiple/conservative
+      investor" phrasing was not caught verbatim within the sampled
+      window. This video's transcript panel also failed to load in this
+      session. Left at reviewed.
 
   - id: nikhil-kamath-196
     person: nikhil-kamath
@@ -73,7 +88,7 @@ statements:
       price premium is within about 5%.
     topic: worldview
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -86,7 +101,11 @@ statements:
       first person. Cross-reference: consistent with his established
       pattern of Davos/WEF attendance noted in other episodes' notes
       (e.g. nikhil-kamath-167's PVR statement references Davos in an
-      earlier episode).
+      earlier episode; also see the verified Davos statements in the
+      chamath-palihapitiya and yuval-noah-harari episodes from the same
+      general period). Not located in this pass -- no obvious single
+      chapter fits this topic in a 3h25m episode, and this video's
+      transcript panel failed to load in this session. Left at reviewed.
 
   - id: nikhil-kamath-197
     person: nikhil-kamath
@@ -101,7 +120,7 @@ statements:
       related to AI.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -116,4 +135,11 @@ statements:
       this dataset). The "Perplexity guy" collaboration is a new,
       unverified claim -- the specific project and person (likely
       Perplexity AI founder Aravind Srinivas, who has a separate episode
-      in this dataset) should be confirmed during verification.
+      in this dataset) should be confirmed. Located to the general area
+      of the "Beverage Industry as an Investor | Effects of Tech
+      Advancements" chapter (3:14:59/11699s per the video description)
+      via live captions -- confirmed an LLM/tech-outlook discussion in
+      this window (guests asking Nikhil about his investment rationale
+      and outlook on the space) but did not catch the specific Yann
+      LeCun/"Perplexity guy" line verbatim. This video's transcript
+      panel also failed to load in this session. Left at reviewed.
