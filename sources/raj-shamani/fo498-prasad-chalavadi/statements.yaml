@@ -1,0 +1,114 @@
+statements:
+  - id: raj-shamani-13001
+    person: raj-shamani
+    source: raj-shamani-fo498-prasad-chalavadi
+    type: observation
+    text: >
+      Raj introduces today's guest by saying he did the opposite of the
+      usual advice (build profits first, then a team, then scale): he
+      hired real people on day one with zero sales, started with a
+      small shop in his basement without any funding, and today owns a
+      1600-crore business empire. Raj names him as Durga Prasad
+      Chalavadi, founder and managing director of SSKL.
+    topic: guest-introduction
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:01:55]-[00:02:16] No YouTube captions were available for this
+      video (confirmed via the player's "Subtitles/closed captions
+      unavailable" state and repeated yt-dlp caption-download failures);
+      transcribed instead from a locally downloaded audio track using
+      local faster-whisper (base model, English output despite
+      Hindi/Hinglish source audio — language detected as Hindi at 97%
+      confidence by the model, but much of its output text reads as an
+      English paraphrase/translation rather than a verbatim
+      transcript). Treat wording as an approximate paraphrase, not a
+      verbatim quote, more so than the usual YouTube auto-caption
+      notes elsewhere in this corpus.
+
+  - id: raj-shamani-13002
+    person: raj-shamani
+    source: raj-shamani-fo498-prasad-chalavadi
+    type: assertion
+    text: >
+      Raj frames the episode as covering what the demand looks like for
+      Gen Z, why profit matters more than cash flow for a business, and
+      how AI and physical retail stores can grow a business further,
+      and tells viewers to check the link in the description to learn
+      more about SSKL.
+    topic: episode-framing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:19]-[00:02:41] No YouTube captions were available for this
+      video; transcribed from local audio via faster-whisper (see note
+      on raj-shamani-13001 for caveats about this episode's transcript
+      reliability).
+
+  - id: raj-shamani-13003
+    person: raj-shamani
+    source: raj-shamani-fo498-prasad-chalavadi
+    type: observation
+    text: >
+      Raj frames the conversation as a masterclass for a young
+      entrepreneur wanting to enter an organized business sector,
+      saying they'll try to build it out step by step from before the
+      guest even started his business, in a way that's more nuanced.
+    topic: episode-framing
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[00:02:55]-[00:03:14] No YouTube captions were available for this
+      video; transcribed from local audio via faster-whisper (see note
+      on raj-shamani-13001 for caveats about this episode's transcript
+      reliability).
+
+  - id: raj-shamani-13004
+    person: raj-shamani
+    source: raj-shamani-fo498-prasad-chalavadi
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      and says they have three things to do: subscribe to the channel
+      so the show can bring better guests, comment on what the show did
+      right or wrong so it can learn from the feedback and create a
+      better experience, and share the episode with one person, since
+      one conversation is enough to change someone's life.
+    topic: audience-engagement
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: >
+      ~[01:28:31]-[01:29:02] No YouTube captions were available for this
+      video; transcribed from local audio via faster-whisper. This
+      passage's English wording is close to verbatim/standard across
+      the corpus's other episode outros, giving higher confidence than
+      the rest of this episode's transcript despite the general
+      caveats noted on raj-shamani-13001.
