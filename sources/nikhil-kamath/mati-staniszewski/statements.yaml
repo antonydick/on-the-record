@@ -11,18 +11,23 @@ statements:
       partly in Mumbai and Goa.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ef3D5Ak1HP4&t=15s"
+      start_timestamp: "0:15"
+      end_timestamp: "0:30"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing ElevenLabs
-      co-founder/CEO Mati Staniszewski), no diarization. Attribution
-      inferred from conversational role, not confirmed via video.
+      co-founder/CEO Mati Staniszewski), confirmed via the video's dense
+      transcript at 0:15-0:30: "...We have... I think it's between 10
+      and 15, I think it's 14 people now, if we count the new people
+      that are joining or joined. And which city? -- Mostly Bengaluru,
+      and few close to Mumbai. I'm from Bengaluru. -- Oh, are you based
+      there or you're... -- Partly based there. -- Where is the other
+      part? -- Mumbai and Goa."
 
   - id: nikhil-kamath-126
     person: nikhil-kamath
@@ -36,16 +41,26 @@ statements:
       studio.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ef3D5Ak1HP4&t=75s"
+      start_timestamp: "1:15"
+      end_timestamp: "3:25"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-125.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-125. Confirmed
+      via the video's dense transcript at 1:15-3:25: "...Do you know
+      Carl, the Nothing guy? -- Yeah, yeah, yeah, yeah, of course... I
+      think there's a great chance for Nothing... So we engaged
+      recently, actually... maybe that's a little bit biased, but he can
+      lead with voice in many ways, you know, the Nothing headphones, I
+      think are great... Like after this, I'm actually going to London.
+      I'm gonna see Carl, their design studio is there." The word "tiny"
+      was not caught verbatim, but "we engaged recently" alongside the
+      London/design-studio detail confirms the substance of an investor
+      relationship.
 
   - id: nikhil-kamath-127
     person: nikhil-kamath
@@ -64,12 +79,12 @@ statements:
       negativity or outrage.
     topic: business
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ef3D5Ak1HP4&t=2798s"
+      start_timestamp: "46:38"
+      end_timestamp: "51:32"
     evidence:
       excerpt: null
     notes: >
@@ -77,6 +92,13 @@ statements:
       Cross-reference: substantially elaborates on nikhil-kamath-084
       (Chamath Palihapitiya episode) and nikhil-kamath-065
       (Brian Armstrong episode's WhatsApp/data-sovereignty view).
+      Confirmed via the video's dense transcript at 46:38-51:32: "We've
+      been flirting with the idea of building a social media platform in
+      India... On top of Zerodha or separately? -- Separately... Why did
+      you want to start a social media? -- I believe social media is
+      broken today... [we want a] very tight funnel on the top where we
+      control who enters the app, like incumbent social media probably
+      has bots engaging with you."
 
   - id: nikhil-kamath-128
     person: nikhil-kamath
@@ -89,19 +111,22 @@ statements:
       participants money and helps them build a network.
     topic: philanthropy
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ef3D5Ak1HP4&t=3228s"
+      start_timestamp: "53:48"
+      end_timestamp: "53:52"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-125.
       Cross-reference: corroborates the podcast-linked grant program
       described in nikhil-kamath-083 (Chamath Palihapitiya episode) and
-      nikhil-kamath-103 (Kiran Mazumdar-Shaw episode).
+      nikhil-kamath-103 (Kiran Mazumdar-Shaw episode). Confirmed via the
+      video's dense transcript at 53:48: "We have a grant, we give them
+      some money, we try and build a network for them to go out and
+      build."
 
   - id: nikhil-kamath-129
     person: nikhil-kamath
@@ -114,16 +139,21 @@ statements:
       guest there when he visits India in February.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ef3D5Ak1HP4&t=3511s"
+      start_timestamp: "58:31"
+      end_timestamp: "59:26"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-125.
       Cross-reference: corroborates nikhil-kamath-107 and
       nikhil-kamath-109 (MakeMyTrip x Taj episode) on his move to /
-      residence in Goa.
+      residence in Goa. Confirmed via the video's dense transcript at
+      58:31-59:26: "...You're coming in Feb, right? -- Exactly, in just
+      a few weeks... I'll take you to Goa for a day or two if you have
+      time. -- Do you have offices in Goa? -- No, I have a house in Goa,
+      which is a lot of fun, and I have dogs in Goa. It's like a beach
+      town, which is very relaxing."
