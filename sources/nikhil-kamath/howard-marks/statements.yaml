@@ -12,7 +12,7 @@ statements:
       business from the bottom up.
     topic: business
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -23,7 +23,14 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Howard
       Marks), no diarization. Attribution inferred from conversational
-      role, not confirmed via video.
+      role, not confirmed via video. This video's transcript panel
+      failed to load in this session, and live captions were unreliable
+      (a fresh reload broke the DOM caption container query, requiring
+      a fallback to get_page_text). Scrubbed the opening ~90 seconds
+      densely -- found active back-and-forth about market risk/downside
+      ("is the chance of a downside zero?", "most of these are, like,
+      conversations") rather than a clean audience-framing statement.
+      Left at reviewed rather than forcing an unconfirmed timestamp.
 
   - id: nikhil-kamath-096
     person: nikhil-kamath
@@ -36,7 +43,7 @@ statements:
       references having interviewed roughly a year earlier.
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -48,7 +55,11 @@ statements:
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-095. Likely
       refers to Nicolai Tangen, CEO of Norges Bank Investment
       Management, but the name is transcribed only as "Nikolai" --
-      confirm identity during verification rather than assuming.
+      confirm identity rather than assuming. Not located in this pass --
+      this video's transcript panel failed to load and live captions
+      were unreliable in this session; a 1h43m episode makes a
+      full-text search infeasible via manual scrubbing alone. Left at
+      reviewed.
 
   - id: nikhil-kamath-097
     person: nikhil-kamath
@@ -63,7 +74,7 @@ statements:
       20 to 30 years.
     topic: biography
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -74,7 +85,10 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-095. A direct,
       specific age statement -- cross-reference against any other
-      episode stating his age or birth year during verification.
+      episode stating his age or birth year. Not located in this pass --
+      checked around the "Where we are today" chapter (~28:38/1718s) via
+      live captions without a match, and this video's transcript panel
+      failed to load. Left at reviewed.
 
   - id: nikhil-kamath-098
     person: nikhil-kamath
@@ -89,7 +103,7 @@ statements:
       similar himself.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -98,7 +112,9 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-095.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-095. Not located
+      in this pass -- this video's transcript panel failed to load and
+      live captions were unreliable in this session. Left at reviewed.
 
   - id: nikhil-kamath-099
     person: nikhil-kamath
@@ -112,7 +128,7 @@ statements:
       approach to distressed debt.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -121,4 +137,9 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-095.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-095. Checked
+      around the "Distressed bonds and excess returns" chapter
+      (~57:14/3434s per the video description, given the explicit
+      Taleb-vs-distressed-debt framing) but live captions were empty at
+      the sampled points and this video's transcript panel failed to
+      load. Left at reviewed.
