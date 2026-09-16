@@ -11,22 +11,29 @@ statements:
       talking to Brian Armstrong (though he isn't fully sure he will).
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=p8O6SFwXqok&t=30s"
+      start_timestamp: "0:30"
+      end_timestamp: "1:04"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Coinbase
       CEO Brian Armstrong; his friend Hardik and an aide referred to as
       Arian join partway through), no diarization. Attribution inferred
-      from conversational role, not confirmed via video. Cross-reference:
-      corroborates and extends nikhil-kamath-058 (never personally
-      bought Bitcoin, from the Ruchir Sharma episode) to crypto assets
-      more broadly.
+      from conversational role and the opening framing, not diarized
+      video (this video's transcript panel repeatedly failed to load;
+      confirmed via live captions instead). Confirmed via live captions
+      at 0:30-1:04: "Everything from Bitcoins, blockchains, Solana,
+      Ethereum... I'm no expert in these, but I've always wondered
+      what... and today is probably a good day to find out. I am a
+      critic, I have never bought any of these, ever... I don't know if
+      I'll remain a critic after this, but I suspect I will." Cross-
+      reference: corroborates and extends nikhil-kamath-058 (never
+      personally bought Bitcoin, from the Ruchir Sharma episode) to
+      crypto assets more broadly.
 
   - id: nikhil-kamath-073
     person: nikhil-kamath
@@ -40,7 +47,7 @@ statements:
       need it to get a business started.
     topic: philanthropy
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -49,7 +56,15 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072. Not located
+      in this pass -- checked the "Income inequality and making everyone
+      a capitalist" (5:12) and "Creating entrepreneurs and India's fear
+      of failure" (1:01:42) chapters via live captions, and confirmed
+      the adjacent Foundry/entrepreneurship discussion (see
+      nikhil-kamath-079), but did not catch this specific
+      climate-giving/seed-capital philanthropy aside verbatim; this
+      video's transcript panel also failed to load repeatedly. Left at
+      reviewed.
 
   - id: nikhil-kamath-074
     person: nikhil-kamath
@@ -65,7 +80,7 @@ statements:
       socially destabilizing.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -74,7 +89,11 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072. Not located
+      in this pass -- this video's transcript panel failed to load
+      repeatedly, and live-caption scrubbing around the early
+      inequality-themed chapters did not surface this specific
+      childhood-book anecdote. Left at reviewed.
 
   - id: nikhil-kamath-075
     person: nikhil-kamath
@@ -89,21 +108,25 @@ statements:
       Indian government had good reason to be wary of enabling one.
     topic: business
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=p8O6SFwXqok&t=1875s"
+      start_timestamp: "31:15"
+      end_timestamp: "31:40"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
-      Cross-reference: corroborates nikhil-kamath-064 (Ruchir Sharma
-      episode), where he mentions researching a rupee/gold-backed
-      stablecoin for remittances -- this statement adds that the
-      exploration dates back roughly two years and was shelved over the
-      lack of an off-ramp.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Confirmed via live captions at 31:15-31:40,
+      immediately after discussing India's ~$150 billion/year remittance
+      market: "I tried for a little while, a couple of years ago... the
+      problem is there were no off-ramps back then in India." Cross-
+      reference: corroborates nikhil-kamath-064 (Ruchir Sharma episode),
+      where he mentions researching a rupee/gold-backed stablecoin for
+      remittances -- this statement adds that the exploration dates back
+      roughly two years and was shelved over the lack of an off-ramp.
 
   - id: nikhil-kamath-076
     person: nikhil-kamath
@@ -118,16 +141,24 @@ statements:
       how much gold Indian families accumulate over generations.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=p8O6SFwXqok&t=2118s"
+      start_timestamp: "35:18"
+      end_timestamp: "35:43"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Confirmed via live captions at 35:18-35:43:
+      "People have, say, 10, 20, 30 different pieces of jewellery...
+      and in return for that you get a coin backed by gold... you can
+      also tokenise gold, you can tokenise stocks... you can tokenise
+      treasuries, bonds..." The specific "local custody/clearing-house
+      center" wording was not caught verbatim, but the core
+      jewelry-deposit-for-a-gold-backed-coin mechanism is confirmed.
 
   - id: nikhil-kamath-077
     person: nikhil-kamath
@@ -141,7 +172,7 @@ statements:
       psychological, sentiment-driven approach to trading crypto.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -150,7 +181,12 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072. Not located
+      in this pass -- this video's transcript panel failed to load
+      repeatedly, and live-caption scrubbing around the crypto-trading
+      and leverage-focused chapters (e.g. "India's crypto adoption and
+      the leverage wipeout," 1:08:16) did not surface the specific
+      fundamentals-vs-Hardik contrast verbatim. Left at reviewed.
 
   - id: nikhil-kamath-078
     person: nikhil-kamath
@@ -162,7 +198,7 @@ statements:
       conversation and set up a number of companies there.
     topic: biography
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -173,7 +209,10 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072. Timeline
       detail worth cross-referencing against other episodes and public
-      record during verification.
+      record during verification. Not located in this pass -- this
+      video's transcript panel failed to load repeatedly, and this
+      brief biographical aside was not caught during live-caption
+      scrubbing. Left at reviewed.
 
   - id: nikhil-kamath-079
     person: nikhil-kamath
@@ -187,18 +226,25 @@ statements:
       while building consumer companies.
     topic: business
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=p8O6SFwXqok&t=3800s"
+      start_timestamp: "1:03:20"
+      end_timestamp: "1:03:31"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072. A specific,
-      checkable claim about a named program -- confirm details (name,
-      cohort size, funding amount, cadence) during verification.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Confirmed via live captions at 1:03:20-1:03:31:
+      "I tried to copy Y Combinator and start our own version in
+      India... every, like, six months... we give about 20-25 kids...
+      half a million dollars each." The "live together in a house"
+      detail was not caught verbatim within the sampled window but is
+      independently corroborated by nikhil-kamath-140 (Rishi
+      Sunak/Akshata Murty episode), which describes this same Foundry
+      program's Alibag residential accelerator in detail.
 
   - id: nikhil-kamath-080
     person: nikhil-kamath
@@ -212,16 +258,23 @@ statements:
       (e.g. on fractionalizing shares) to Robinhood's in the US.
     topic: business
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=p8O6SFwXqok&t=4930s"
+      start_timestamp: "1:22:10"
+      end_timestamp: "1:22:25"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Confirmed via live captions at 1:22:10-1:22:25:
+      "sort of trying to do protectionism, you know... We've been
+      discount brokers... for about 18 years now." The explicit
+      Robinhood comparison was not caught verbatim within the sampled
+      window, but the discount-broker/18-years/regulatory-protectionism
+      content is confirmed.
 
   - id: nikhil-kamath-081
     person: nikhil-kamath
@@ -235,19 +288,25 @@ statements:
       "energy as the unit of transaction."
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=p8O6SFwXqok&t=5110s"
+      start_timestamp: "1:25:10"
+      end_timestamp: "1:25:40"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072. The
-      friend's name is garbled in the auto-transcript (rendered as
-      "Mickey Mala") -- needs confirmation via video during
-      verification rather than being assumed.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Confirmed via live captions at 1:25:10-1:25:40:
+      "So, whenever I see Micky... He made a very nice argument for
+      it... [it] is a unit equivalent to something, but some form of
+      energy." Confirms the friend's first name as "Micky" (auto-
+      transcript elsewhere garbles this as "Mickey Mala") and the
+      energy-as-unit-of-transaction argument; the specific PE-investor/
+      San-Francisco/early-Coinbase-investor biographical details were
+      not caught verbatim within the sampled window.
 
   - id: nikhil-kamath-082
     person: nikhil-kamath
@@ -261,16 +320,24 @@ statements:
       are justified even though he thinks AI itself has real use cases.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=p8O6SFwXqok&t=5350s"
+      start_timestamp: "1:29:10"
+      end_timestamp: "1:29:21"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072.
-      Cross-reference: consistent in spirit with Ruchir Sharma's AI-
-      bubble skepticism discussed in the nikhil-kamath-ruchir-sharma
-      episode, though this is Nikhil's own independently stated view.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-072 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Confirmed via live captions at 1:29:10-1:29:21:
+      "I don't see the reason to pay the multiples... I mean, right now,
+      the demand for intelligence seems to be unlimited," reflecting his
+      stated valuation skepticism while acknowledging real AI use cases.
+      The specific "short a basket... profitable within five years"
+      framing was not caught verbatim within the sampled window, but the
+      core valuation-skepticism content is confirmed. Cross-reference:
+      consistent in spirit with Ruchir Sharma's AI-bubble skepticism
+      discussed in the nikhil-kamath-ruchir-sharma episode, though this
+      is Nikhil's own independently stated view.
