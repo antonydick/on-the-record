@@ -12,24 +12,29 @@ statements:
       16-17.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=8uFOBdle3WY&t=1041s"
+      start_timestamp: "17:21"
+      end_timestamp: "18:03"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing YouTube
-      CEO Neal Mohan), no diarization. Attribution inferred from
-      conversational role, not confirmed via video. Cross-reference: this
-      episode is published 2025-05-24, between nikhil-kamath-101 (age 36,
-      Kiran Mazumdar-Shaw episode, published 2023-07-22) and
+      CEO Neal Mohan), confirmed via the video's dense transcript at
+      17:21-18:03: "So, Neal, I'm 38 years old. I have grown up in
+      India, largely in Bangalore. So my relationship with content went
+      from watching Hindi TV serials, growing up, on TV, on traditional
+      broadcast TV, to cricket, and then maybe getting my first personal
+      device or a medium to consume content when I was 16 or 17 years
+      old... to where I sit today." Cross-reference: this episode is
+      published 2025-05-24, between nikhil-kamath-101 (age 36, Kiran
+      Mazumdar-Shaw episode, published 2023-07-22) and
       nikhil-kamath-097/119 (age 39, Howard Marks/Martin Escobari
       episodes, published 2026-05). The 36 -> 38 -> 39 progression
       across these publish dates is internally consistent with a single
-      birth year and is a useful anchor for verification.
+      birth year, now backed by direct verification of this instance.
 
   - id: nikhil-kamath-131
     person: nikhil-kamath
@@ -42,16 +47,21 @@ statements:
       broadcast news, other platforms, and Netflix.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=8uFOBdle3WY&t=1522s"
+      start_timestamp: "25:22"
+      end_timestamp: "25:38"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130. Confirmed
+      via the video's dense transcript at 25:22-25:38: "Now, to them, if
+      me at 38, let's say today I spend 30% of my time on YouTube -- 30%
+      of my free time on social media, and the balance on broadcast news
+      and the other platforms and Netflix and everything, where should
+      these people focus on building?"
 
   - id: nikhil-kamath-132
     person: nikhil-kamath
@@ -66,16 +76,21 @@ statements:
       unconscious association between YouTube and learning.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=8uFOBdle3WY&t=3560s"
+      start_timestamp: "59:20"
+      end_timestamp: "59:29"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130. Confirmed
+      via the video's dense transcript at 59:20-59:29: "When I turn on a
+      screen, my TV, and I watch Netflix, I feel like I'm doing
+      something wrong... but when I turn on my TV and I watch YouTube,
+      very subconsciously, I feel like I'm doing something right. I
+      don't know how to describe this."
 
   - id: nikhil-kamath-133
     person: nikhil-kamath
@@ -90,16 +105,24 @@ statements:
       Netflix for entertainment.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=8uFOBdle3WY&t=3684s"
+      start_timestamp: "1:01:24"
+      end_timestamp: "1:01:56"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130. Confirmed
+      via the video's dense transcript at 1:01:24-1:01:56: "So five
+      years ago when I turned on YouTube, it was to play songs... that
+      position in my mind somehow has been lost to Spotify. Now when I
+      think of a song, I go to Spotify. When I think of
+      entertainment-entertainment, I go to Netflix... Why do you feel
+      that way about music? -- I don't know, it's just how I use it...
+      I didn't have Spotify six, seven years ago, and also I'm not the
+      generic Indian user."
 
   - id: nikhil-kamath-134
     person: nikhil-kamath
@@ -112,13 +135,16 @@ statements:
       Minister.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=8uFOBdle3WY&t=3945s"
+      start_timestamp: "1:05:45"
+      end_timestamp: "1:05:50"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-130. Confirmed
+      via the video's dense transcript at 1:05:45: "No, I'm participating
+      in some round table with the PM." (Neal replies "Oh, nice," and
+      Nikhil adds "I think I'll probably see you there.")
