@@ -14,7 +14,7 @@ statements:
       India-first consumption brands and the energy transition space.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -27,7 +27,19 @@ statements:
       Kriti Sanon, musician Badshah, and cricketer KL Rahul), no
       diarization in the auto-transcript. Stated in first person while
       answering a question about what he looks for before investing in a
-      company.
+      company. Likely located within the "Entrepreneurs & The Next Big
+      Thing" chapter (starting 1:50:13 of the 2:41:31 video per the
+      video description), which contains Nikhil's own investing
+      discussion with Badshah -- this pass's sparse "key moments"
+      transcript recovered an adjacent line at 1:51:05 ("If I were to
+      ask you to invest... two and a half to three crores, blindly on a
+      business...") from the same exchange, suggesting this statement
+      falls in the same few minutes. Live captions did not render for
+      this video in this browsing session (the CC button reported
+      "Subtitles/closed captions unavailable" across a fresh page reload
+      and repeated seek attempts), so the exact wording and timestamp
+      could not be pinned down. Left at reviewed rather than forcing an
+      unconfirmed timestamp.
 
   - id: nikhil-kamath-215
     person: nikhil-kamath
@@ -41,7 +53,7 @@ statements:
       building something in the energy transition space.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -52,7 +64,9 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-214. Stated in
       first person in the same discussion as nikhil-kamath-214, about his
-      current investing/business-building plans.
+      current investing/business-building plans -- same "Entrepreneurs &
+      The Next Big Thing" chapter location estimate and same live-caption
+      failure applies. Left at reviewed.
 
   - id: nikhil-kamath-216
     person: nikhil-kamath
@@ -66,7 +80,7 @@ statements:
       bucket for the past 10-20 years.
     topic: personal life
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -78,5 +92,10 @@ statements:
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-214. Stated in
       first person during a discussion of Indian luxury/premium brands
       ("this shirt I'm wearing is from this guy called 1111... I love his
-      story"). Brand name is auto-transcribed and unconfirmed -- verify
-      spelling/identity during verification.
+      story"). Brand name is auto-transcribed and unconfirmed. Unlike
+      nikhil-kamath-214/215, this pass could not narrow down even a
+      likely chapter -- no keyword search of the sparse "key moments"
+      transcript (shirt/dye/sustainab/1111/bucket/brand/wearing) returned
+      a match, and live captions did not render for this video in this
+      browsing session despite repeated attempts. Left at reviewed with
+      the brand name and identity still unconfirmed.
