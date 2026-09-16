@@ -1,0 +1,88 @@
+statements:
+  - id: raj-shamani-13842
+    person: raj-shamani
+    source: raj-shamani-fo481-dr-k
+    type: recommendation
+    text: >
+      Before starting the episode, Raj asks viewers to subscribe,
+      saying the more they subscribe the better and more valuable
+      guests the show will be able to bring.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=R878NxqapRA"
+      start_timestamp: "00:03:28"
+      end_timestamp: "00:03:40"
+    evidence:
+      excerpt: "please subscribe us because the more you subscribe us, the"
+    notes: >
+      ~[00:03:20]-[00:03:40] Transcribed via YouTube auto-captions
+      (freshly fetched and consolidated from the raw VTT for this
+      episode, not yet human-reviewed for transcription quality). This
+      episode's captions were already rendered in translated Hindi
+      prose rather than Hindi/Hinglish transliteration, unlike most
+      other episodes in this backlog sweep. Text is a close English
+      rendering, not a verbatim quote. Brief appeal variant, without
+      the 20.8-million-subscriber figure used elsewhere this period.
+
+  - id: raj-shamani-13843
+    person: raj-shamani
+    source: raj-shamani-fo481-dr-k
+    type: observation
+    text: >
+      Raj introduces the guest as someone who has succeeded in
+      understanding the most complex machine on Earth, the human
+      brain — a Harvard-trained psychiatrist and former monk who has
+      devoted his career to helping people gain control of their
+      minds — Dr. K, founder of HealthyGamer, who has reached more
+      than 5 million people, saying they will discuss why parents
+      emphasize survival over happiness, whether winning in this
+      competitive world truly requires harmful traits, and how the
+      most successful people are often running from their oldest
+      wounds.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=R878NxqapRA"
+      start_timestamp: "00:03:40"
+      end_timestamp: "00:04:10"
+    evidence:
+      excerpt: "who teaches you how to win when everything is going against you. ... toxic traits to win in this competitive world, and how the most successful"
+    notes: >
+      ~[00:03:40]-[00:04:20] Transcribed via YouTube auto-captions; text
+      is a close English rendering, not a verbatim quote.
+
+  - id: raj-shamani-13844
+    person: raj-shamani
+    source: raj-shamani-fo481-dr-k
+    type: assertion
+    text: >
+      Raj reads a sponsor mention for the ASUS ExpertBook P Series,
+      saying it is up to 25% faster than standard business machines and
+      has high-performance H-series processors and cooling systems that
+      can handle the heaviest workloads without interruption, that
+      their call center is open 9am-9pm Monday to Saturday, and that
+      on-site warranty is available in 15,500 pin codes; he asks
+      viewers to watch the episode to the end and check the Flipkart
+      link in the description to learn more.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=R878NxqapRA"
+      start_timestamp: "00:04:20"
+      end_timestamp: "00:05:00"
+    evidence:
+      excerpt: "call center from 9:00 a.m. to 9:00 p.m. Monday to Saturday, and on-site warranty"
+    notes: >
+      ~[00:04:20]-[00:05:00] Transcribed via YouTube auto-captions; text
+      is a close English rendering, not a verbatim quote. ASUS
+      ExpertBook P Series sponsor read, matching the pattern of other
+      ASUS-sponsored episodes from this period, though with different
+      specific claims (25% faster, call center hours, on-site warranty
+      pin codes) than the durability-focused reads seen elsewhere.
