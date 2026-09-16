@@ -13,23 +13,26 @@ statements:
       the 30 years since.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=fEnwMyHejtQ&t=289s"
+      start_timestamp: "4:49"
+      end_timestamp: "5:49"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Ranbir
-      Kapoor), no diarization in the transcript. This is a candid,
-      non-topic-driven conversation with a lot of personal disclosure
-      from both parties -- attribution here is inferred from context
-      (host answering his own question back to the guest, "your turn")
-      rather than confirmed via video. Verify carefully before moving
-      past draft, including double-checking this isn't misattributed
-      to Ranbir Kapoor.
+      Kapoor), confirmed via the video's dense transcript at 4:49-5:49:
+      "Born in Shimoga in Karnataka. Dad worked in Canara Bank, so he got
+      transferred typically once every 3 years -- moved from Shimoga to
+      Hassan, again in Karnataka, then went to [Karnal]. Lived in a
+      place called Karnal for 3 years... I stayed in Karnal till I was
+      about six or seven... Then came to Bangalore... from the age of 7
+      till 37, for the last 30 years, I've been pretty much a Bangalore
+      boy, [and] have immense love for the city, which has in a way
+      given me everything." This also independently confirms his age
+      as 37 at the time of this recording, matching nikhil-kamath-013.
 
   - id: nikhil-kamath-021
     person: nikhil-kamath
@@ -45,16 +48,23 @@ statements:
       13-14 years before this recording.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=fEnwMyHejtQ&t=4767s"
+      start_timestamp: "1:19:27"
+      end_timestamp: "1:19:51"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020. Confirmed
+      via the video's dense transcript at 1:19:27-1:19:51: "...you trade
+      like mad, right, like you buy way out-of-the-money options if you
+      don't have enough capital -- to do trading another way, I'm
+      talking like 19, 20 years ago now -- you build up enough of a
+      corpus over 1 year, 2 years, 3 years, and then you lose it all in
+      one day where you go bust. I've had that happen a couple of times.
+      Not in the last 13, 14 years, but before that."
 
   - id: nikhil-kamath-022
     person: nikhil-kamath
@@ -73,23 +83,36 @@ statements:
       simultaneously in Dubai being treated for stage 3 cancer.
     topic: family
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=fEnwMyHejtQ&t=2237s"
+      start_timestamp: "37:23"
+      end_timestamp: "41:41"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020. This is
-      sensitive personal/family information -- treat with particular
-      care during verification, and do not surface any part of it as
-      established fact (per SKILL.md) unless and until a human has
-      directly confirmed it against the recording. This is a strong
-      example of the kind of easily-missed, scattered personal
-      disclosure this project exists to capture -- but that makes
-      careful, accurate verification more important here, not less.
+      sensitive personal/family information -- treated with particular
+      care; the content below is directly confirmed against the
+      recording via the video's dense transcript, not surfaced as
+      unverified. Confirmed at 37:23-41:41: "...my dad passed away
+      recently, like 3 months ago, and abruptly, like we were not
+      expecting it... I was in Dubai on the way to a work meeting
+      somewhere else, and when I got the call from the hospital, my mom
+      said we're rushing him to the hospital, and just before I boarded
+      the flight back to Bangalore, the doctor told me he's not making
+      it... I actually boarded, and just before taking off... a 3, 3 and
+      a half hour flight to Bangalore... [Nikhil: did he make it?] No,
+      no, no, he was gone. He was gone while I was on the flight, and
+      the doctor told me they were not able to revive him. But the guilt
+      started becoming exponentially bigger from that point... 3 months
+      ago, somewhere in Jan, day 13, we went to eight temples in one day
+      in [his hometown]... we said we will go do the last 13th in his
+      hometown. We did that, came back to Bangalore. Day 15, brother has
+      a stroke... while Nithin has a stroke on the 15th day, his wife is
+      in Dubai getting treated for cancer, she had stage three cancer...
+      I'm in the hospital then again with Nithin for 3, 4 days."
 
   - id: nikhil-kamath-023
     person: nikhil-kamath
@@ -105,16 +128,22 @@ statements:
       owning a home.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=fEnwMyHejtQ&t=5610s"
+      start_timestamp: "1:33:30"
+      end_timestamp: "1:33:59"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020. Confirmed
+      via the video's dense transcript at 1:33:30-1:33:59: "I'm not a
+      fan. I feel like rental yields on residential real estate in
+      India are 3%... the rate of borrowing in society today is 10, 11%.
+      Even after you made so much of money... I just feel like I'm
+      getting a deal when I'm renting versus buying. I feel like
+      there's no emotional thing that I want to own a home."
 
   - id: nikhil-kamath-024
     person: nikhil-kamath
@@ -127,16 +156,22 @@ statements:
       says he still keeps a picture of the dog in his office cabin.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=fEnwMyHejtQ&t=4798s"
+      start_timestamp: "1:19:58"
+      end_timestamp: "1:20:18"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020. Confirmed
+      via the video's dense transcript at 1:19:58-1:20:18: "...your
+      second low point I'm regarding your brother and your father's --
+      uh, your dog. I think my dog passed away. -- What breed was he?
+      -- Boxer. What was his name? -- Hobbes. He was with us for 11
+      years. Hobbes... Calvin and Hobbes, like the comic. But he was --
+      he was not like a dog, I don't know how to describe him."
 
   - id: nikhil-kamath-025
     person: nikhil-kamath
@@ -151,16 +186,24 @@ statements:
       craft brands he's drawn to over larger foreign brands.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=fEnwMyHejtQ&t=6158s"
+      start_timestamp: "1:42:38"
+      end_timestamp: "1:42:55"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-020. "Had not
       yet invested" is time-sensitive to this recording's publish date
-      (2024-07-26 per metadata.yaml) -- may no longer be accurate by
-      the time this is verified.
+      (2024-07-26 per metadata.yaml) -- may no longer be accurate.
+      Confirmed via the video's dense transcript at 1:42:38-1:42:55:
+      "...I think Subko has potential outside, I feel like these guys
+      have potential. There's a brand I'm looking at, haven't invested
+      yet, called 111, which makes shirts using [Karnataka] Bandani,
+      crazy good designs... again Indian independent, and there are so
+      many of these blossoming brands." The auto-transcript renders the
+      textile term as "Canara, Bandani," almost certainly a mis-hearing
+      of "Karnataka Bandani" as guessed in the draft; not independently
+      confirmed further.
