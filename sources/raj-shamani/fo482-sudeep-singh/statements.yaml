@@ -1,0 +1,84 @@
+statements:
+  - id: raj-shamani-13839
+    person: raj-shamani
+    source: raj-shamani-fo482-sudeep-singh
+    type: observation
+    text: >
+      Raj introduces the guest as UN peacekeeper and geopolitics
+      commentator Major Sudeep Singh, saying they discussed everything
+      from Israel's secret operations to the Strait of Hormuz, and how
+      dangerous all of this is going to be for the global economy.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=YN16_b04Xd0"
+      start_timestamp: "00:00:42"
+      end_timestamp: "00:01:02"
+    evidence:
+      excerpt: "आज हमारे गेस्ट हैं यूएन पीसकीपर और जिओपॉलिटिक्स"
+    notes: >
+      ~[00:00:40]-[00:01:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13840
+    person: raj-shamani
+    source: raj-shamani-fo482-sudeep-singh
+    type: assertion
+    text: >
+      Before starting the episode, Raj says their goal is to take an
+      Indian podcast to a global level, and that as of today they need
+      20.8 million subscribers to get there — so if the channel has
+      provided any value, he asks viewers to subscribe, noting it's
+      completely free and costs nothing, and mentions the audio
+      experience of the episode is also available by following the
+      show on Spotify.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=YN16_b04Xd0"
+      start_timestamp: "00:03:08"
+      end_timestamp: "00:03:40"
+    evidence:
+      excerpt: "आज का एपिसोड स्टार्ट करने से पहले ... पर लेके जाना। एंड एज ऑफ टुडे हमें वहां पहुंचने के लिए 20.8 मिलियन सब्सक्राइबर्स"
+    notes: >
+      ~[00:03:00]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Near-identical wording (including the same 20.8-million
+      figure) to the appeal seen in fo491-syed-akbaruddin,
+      fo493-mrityunjay-sharma, and other episodes from this period.
+
+  - id: raj-shamani-13841
+    person: raj-shamani
+    source: raj-shamani-fo482-sudeep-singh
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel right now so the show can bring better guests,
+      comment with feedback on what the show got right or wrong so it
+      can learn and create a better experience, and share the episode
+      with one person, since one conversation is enough to change
+      someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=YN16_b04Xd0"
+      start_timestamp: "02:07:38"
+      end_timestamp: "02:08:00"
+    evidence:
+      excerpt: "अभी इस चैनल को सब्सक्राइब कर लो क्योंकि जितना आप सब्सक्राइब करोगे"
+    notes: >
+      ~[02:07:40]-[02:08:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Standard closing outro, "three things" framing, identical
+      structure to the outro seen in fo491-syed-akbaruddin and other
+      episodes from this period.
