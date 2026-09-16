@@ -10,7 +10,7 @@ statements:
       broader electric-vehicle grid ecosystem.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -21,7 +21,11 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing World Bank
       President Ajay Banga), no diarization. Attribution inferred from
-      conversational role, not confirmed via video.
+      conversational role, not confirmed via video. This video's
+      transcript panel failed to load in this session. Live captions
+      were scrubbed across the opening minutes ("AJ's career journey
+      across industries" chapter) without locating this specific
+      green-energy investing framing. Left at reviewed.
 
   - id: nikhil-kamath-068
     person: nikhil-kamath
@@ -34,7 +38,7 @@ statements:
       himself does not have kids.
     topic: family
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -44,9 +48,15 @@ statements:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-067. Personal/
-      family detail -- treat with particular care during verification
-      and do not surface as settled fact until independently confirmed,
-      per SKILL.md guidance on sensitive content.
+      family detail -- treat with particular care and do not surface as
+      settled fact until independently confirmed. Located to the general
+      area of the "Demographic dividend becoming freight train" chapter
+      (~42:00/2520s per the video description) via live captions --
+      confirmed the surrounding discussion is about joblessness among
+      young people, consistent with the "fewer people having children"
+      framing, but did not catch the specific "I don't have kids" line
+      verbatim. This video's transcript panel also failed to load.
+      Left at reviewed.
 
   - id: nikhil-kamath-069
     person: nikhil-kamath
@@ -60,7 +70,7 @@ statements:
       was always from a communist country.
     topic: travel
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -69,7 +79,10 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-067.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-067. Not located
+      in this pass -- no obvious chapter for a personal Central Park
+      anecdote in a macroeconomics-focused interview, and this video's
+      transcript panel failed to load. Left at reviewed.
 
   - id: nikhil-kamath-070
     person: nikhil-kamath
@@ -86,7 +99,7 @@ statements:
       holds.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -98,6 +111,12 @@ statements:
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-067. This is a
       stated investment thesis/opinion, not a disclosed transaction --
       should not be read as confirmation of an actual current holding.
+      Checked the "Energy security and nuclear opportunities" chapter
+      (~1:03:00/3780s per the video description) via live captions --
+      confirmed relevant energy/AI-compute-adjacent discussion in this
+      window but did not catch the specific Moore's-Law/Indian-IT-stock
+      analogy verbatim. This video's transcript panel also failed to
+      load. Left at reviewed.
 
   - id: nikhil-kamath-071
     person: nikhil-kamath
@@ -109,7 +128,7 @@ statements:
       about the bank's jobs-related research and data.
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -120,5 +139,6 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-067. The
       colleague's name is garbled in the auto-transcript (rendered as
-      "Tanir") -- needs confirmation via video during verification
-      rather than being assumed.
+      "Tanir") -- needs confirmation via video rather than being
+      assumed. Not located in this pass; this video's transcript panel
+      failed to load. Left at reviewed.
