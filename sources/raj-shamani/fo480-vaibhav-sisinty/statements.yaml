@@ -1,0 +1,84 @@
+statements:
+  - id: raj-shamani-13845
+    person: raj-shamani
+    source: raj-shamani-fo480-vaibhav-sisinty
+    type: observation
+    text: >
+      Raj introduces the guest as Vaibhav Sisinty, founder of
+      GrowthSchool, saying he has upskilled millions of people in AI
+      and has also deeply integrated AI into his own business, and
+      that in this episode they will learn which are the best AI
+      tools among Claude, Gemini, ChatGPT and others, and how to build
+      a full business plan end-to-end using AI.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=keEi0LoZwL0"
+      start_timestamp: "00:03:15"
+      end_timestamp: "00:03:40"
+    evidence:
+      excerpt: "इंटीग्रेट भी किया है। आज हम उनसे जानेंगे बेस्ट एi टूल्स"
+    notes: >
+      ~[00:03:00]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13846
+    person: raj-shamani
+    source: raj-shamani-fo480-vaibhav-sisinty
+    type: assertion
+    text: >
+      Raj says he's personally very interested in learning AI because
+      of how fast the world is changing, and that's why he and
+      GrowthSchool are building an AI-focused community called
+      "Figuring Out AI" where Vaibhav and other industry experts will
+      teach AI in depth, inviting viewers who want to fully utilize AI
+      to join the community for free via the link in the description.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=keEi0LoZwL0"
+      start_timestamp: "00:03:38"
+      end_timestamp: "00:04:00"
+    evidence:
+      excerpt: "पर्सनली एआई सीखने में बहुत इंटरेस्ट है बिकॉज़ द वे वर्ल्ड इज चेंजिंग। इसीलिए"
+    notes: >
+      ~[00:03:40]-[00:04:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Promotion of the show's own "Figuring Out AI" community,
+      not a third-party sponsor.
+
+  - id: raj-shamani-13847
+    person: raj-shamani
+    source: raj-shamani-fo480-vaibhav-sisinty
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel right now so the show can bring better guests,
+      comment with feedback on what the show got right or wrong so it
+      can learn and create a better experience, and share the episode
+      with one person, since one conversation is enough to change
+      someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=keEi0LoZwL0"
+      start_timestamp: "02:18:00"
+      end_timestamp: "02:18:20"
+    evidence:
+      excerpt: "अभी इस चैनल को सब्सक्राइब कर लो क्योंकि जितना आप"
+    notes: >
+      ~[02:18:00]-[02:18:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Standard closing outro, "three things" framing, identical
+      structure to the outro seen in fo482-sudeep-singh and other
+      episodes from this period.
