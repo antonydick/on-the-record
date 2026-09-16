@@ -10,7 +10,7 @@ statements:
       Sapiens as his first exposure to Harari's work.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -25,7 +25,15 @@ statements:
       conversational role, not confirmed via video. This episode is a
       long philosophical/geopolitical discussion with very little
       personal disclosure from Nikhil -- extraction here is
-      correspondingly sparse.
+      correspondingly sparse. Live captions were scrubbed across the
+      opening ~0:00-1:40 (before the interview settles into Yuval's
+      "History is shaped by the human imagination" answer at 1:20) but
+      this fan/Sapiens framing remark was not located there, and this
+      video's transcript panel failed to load in this session. Note
+      also that part of the video's opening is licensed WEF footage
+      (per the description's credit, 0:18-0:29), which may affect where
+      Nikhil's own framing remarks fall relative to the official
+      chapter markers. Left at reviewed.
 
   - id: nikhil-kamath-151
     person: nikhil-kamath
@@ -37,7 +45,7 @@ statements:
       describe an AI chatbot as their girlfriend or boyfriend.
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -46,7 +54,16 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-150.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-150. Checked the
+      "AI taking over religion's authority" chapter (~28:19/1699s per
+      the video description) and surrounding minutes (1650-1910s) via
+      live captions -- found Yuval discussing AI-generated religious
+      content ("created by AI and spread by AI missionaries") and
+      reflecting on friendship ("a good friend can change your mind in
+      a way that almost nobody else can"), both thematically adjacent,
+      but did not locate Nikhil's own chatbot-girlfriend/boyfriend
+      anecdote specifically. This video's transcript panel also failed
+      to load in this session. Left at reviewed.
 
   - id: nikhil-kamath-152
     person: nikhil-kamath
@@ -59,7 +76,7 @@ statements:
       leaders).
     topic: travel
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -71,4 +88,13 @@ statements:
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-150.
       Cross-reference: consistent with nikhil-kamath-085 (Chamath
       Palihapitiya episode), which also references Nikhil attending
-      Davos.
+      Davos, and with this episode's own framing (recorded at the World
+      Economic Forum in Davos per the video description). Not
+      independently pinned to a specific timestamp in this pass --
+      checked the "Geopolitics, power, and losing trust" chapter
+      (~9:33/573s) via live captions without finding an explicit
+      self-reference to being at Davos, and this video's transcript
+      panel failed to load in this session. Left at reviewed; the
+      episode's Davos setting itself is well-established by the
+      description and title, but the specific spoken self-reference
+      was not located.
