@@ -10,18 +10,21 @@ statements:
       agency in India, and mentions having spent time in their office.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=QT2FGbR0nIM&t=2330s"
+      start_timestamp: "38:50"
+      end_timestamp: "38:58"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Ted
-      Sarandos), no diarization. Attribution inferred from
-      conversational role, not confirmed via video.
+      Sarandos), confirmed via the video's dense transcript at
+      38:50-38:58: "But I actually, funnily enough, have a small
+      partnership in a talent management agency here called Collective.
+      I think it's the largest in India. I have spent some time in
+      their office. I haven't learnt much."
 
   - id: nikhil-kamath-035
     person: nikhil-kamath
@@ -35,18 +38,25 @@ statements:
       as "AJ" who runs the company.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=QT2FGbR0nIM&t=2537s"
+      start_timestamp: "42:17"
+      end_timestamp: "42:37"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-034. "AJ" is
-      not fully identified in the transcript -- worth confirming full
-      name during verification.
+      confirmed to be "Ajay" (i.e. Ajay Bijli of PVR, corroborating
+      nikhil-kamath-188/191 from other episodes), not a separate
+      unidentified person. Confirmed via the video's dense transcript
+      at 42:17-42:37: "...there's, again, another friend of mine called
+      Ajay. I was an investor in that company for a while. Runs the...
+      it used to be the largest chain, but now they've combined to
+      become the only chain of multiplexes in the country. It's called
+      PVR and INOX together. So whenever me and Ajay catch up, I'm
+      always asking him, 'What is next for the theatre business?'"
 
   - id: nikhil-kamath-036
     person: nikhil-kamath
@@ -61,17 +71,19 @@ statements:
       efforts and his brokerage business (Zerodha).
     topic: work-habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=QT2FGbR0nIM&t=3534s"
+      start_timestamp: "58:54"
+      end_timestamp: "59:37"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-034. This
       statement is about the source material itself (the podcast's own
-      business model) rather than about an external topic -- still
-      subject to the same verification requirement as any other
-      statement before being treated as fact.
+      business model) rather than about an external topic. Confirmed
+      via the video's dense transcript at 58:54-59:37: "We don't have
+      ads. We don't have sponsors. It's largely like a charity project
+      around entrepreneurship in India... So we have maybe ten, 20
+      different things which are parallelly running at any time."
