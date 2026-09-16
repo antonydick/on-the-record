@@ -1,0 +1,110 @@
+statements:
+  - id: raj-shamani-13835
+    person: raj-shamani
+    source: raj-shamani-fo483-vivek-agrawal
+    type: assertion
+    text: >
+      Raj reads a sponsor mention for Porter Packers & Movers, saying
+      shifting homes is a very stressful process from packing things to
+      safely getting them to the new home, which is why he relies on
+      Porter Packers & Movers who take full responsibility for the
+      shifting — safe proper packing, smooth professional loading and
+      unloading, and their trained partners take care of everything
+      from unpacking to assembly — noting that over 1.3 million
+      families have trusted their 4.8+ rated service.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=ZOU-ekl1H9M"
+      start_timestamp: "00:03:00"
+      end_timestamp: "00:03:20"
+    evidence:
+      excerpt: "घर शिफ्ट करना बहुत ही स्ट्रेसफुल प्रोसेस होता है। सामान पैक करने"
+    notes: >
+      ~[00:03:00]-[00:03:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote. Porter Packers & Movers sponsor read, matching the pattern
+      seen in fo484-narendra-singh-thakur.
+
+  - id: raj-shamani-13836
+    person: raj-shamani
+    source: raj-shamani-fo483-vivek-agrawal
+    type: observation
+    text: >
+      Raj introduces the guest as crime journalist and author Vivek
+      Agrawal, someone who has deeply understood and studied India's
+      underworld, saying in this episode they will learn how fake
+      currency circulation works, how gangs operate in slums around the
+      world, how the black economy works, and the reality of the
+      rivalry between Dawood Ibrahim and Rehman Dakait.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=ZOU-ekl1H9M"
+      start_timestamp: "00:03:38"
+      end_timestamp: "00:04:00"
+    evidence:
+      excerpt: "ऐसे इंसान जिन्होंने इंडिया के अंडरवर को डीपली समझा और स्टडी किया है। क्राइम"
+    notes: >
+      ~[00:03:20]-[00:04:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13837
+    person: raj-shamani
+    source: raj-shamani-fo483-vivek-agrawal
+    type: recommendation
+    text: >
+      Raj says this episode is delivered by their title sponsor Porter,
+      asks viewers to watch it to the end, and mentions the link to
+      learn more about Porter is in the description below.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=ZOU-ekl1H9M"
+      start_timestamp: "00:04:00"
+      end_timestamp: "00:04:20"
+    evidence:
+      excerpt: "एंड टू नो मोर अबाउट पोर्टर, क्लिक द लिंक इन द डिस्क्रिप्शन बिलो।"
+    notes: >
+      ~[00:04:00]-[00:04:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Title-sponsor mention immediately following the guest
+      introduction, distinct from the earlier Porter Packers & Movers
+      product-specific sponsor read (raj-shamani-13835).
+
+  - id: raj-shamani-13838
+    person: raj-shamani
+    source: raj-shamani-fo483-vivek-agrawal
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel right now so the show can bring more valuable guests,
+      comment telling him what they learned from the episode and which
+      guest they want to see brought on next for insightful
+      conversations, and share the episode with one person since one
+      conversation is enough to change someone's entire life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=ZOU-ekl1H9M"
+      start_timestamp: "01:30:29"
+      end_timestamp: "01:31:00"
+    evidence:
+      excerpt: "है तब तक ये काम नहीं होगा। थैंक यू सो मच। थैंक यू। ... अभी के अभी इस चैनल को सब्सक्राइब कर लो क्योंकि जितना आप सब्सक्राइब करेंगे उतने"
+    notes: >
+      ~[01:30:20]-[01:31:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Combined variant of the standard closing outro, wording
+      identical to fo484-narendra-singh-thakur's outro.
