@@ -1,0 +1,108 @@
+statements:
+  - id: raj-shamani-13825
+    person: raj-shamani
+    source: raj-shamani-fo486-rajat-kandhari
+    type: assertion
+    text: >
+      Raj says everyone wants healthy skin, and that's why they've
+      brought a special series called "Advancing Skin Health for Every
+      Skin Story" with sensitive-skin expert Cetaphil, noting that in
+      the last episode of this series they talked about skincare
+      trends.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=mGpaIjdRDdw"
+      start_timestamp: "00:01:16"
+      end_timestamp: "00:01:36"
+    evidence:
+      excerpt: "स्किन स्टोरी विद सेंसिटिव स्किन एक्सपर्ट सेटाफिल।"
+    notes: >
+      ~[00:01:00]-[00:01:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote. Cetaphil "Advancing Skin Health" sponsored series intro.
+
+  - id: raj-shamani-13826
+    person: raj-shamani
+    source: raj-shamani-fo486-rajat-kandhari
+    type: observation
+    text: >
+      Raj introduces the guest as Dr. Rajat Kandhari, MBBS, MD in
+      Dermatology, an experienced dermatologist, saying they will learn
+      from him what skin boosters are, what effect they have on skin,
+      at what age they should be done, whether they're painful, how
+      much they cost, how often they need to be repeated, how fillers
+      differ from skin boosters, and whether stopping boosters makes
+      skin look worse with stretch marks, dullness, and dehydration.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=mGpaIjdRDdw"
+      start_timestamp: "00:01:32"
+      end_timestamp: "00:01:58"
+    evidence:
+      excerpt: "बूस्टर्स क्या होते हैं? और इनका स्किन पर क्या इफेक्ट होता है? किस ... स्ट्रेच मार्क्स, डलनेस, डिहाइड्रेटेड स्किन। क्या यह सब सॉल्व हो सकता है? अगर"
+    notes: >
+      ~[00:01:20]-[00:02:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13827
+    person: raj-shamani
+    source: raj-shamani-fo486-rajat-kandhari
+    type: recommendation
+    text: >
+      Raj says if viewers want healthy glowing skin or just want to
+      better understand their skin, this episode is for them, and asks
+      them to watch it to the end and comment telling him what they
+      learned from the episode.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=mGpaIjdRDdw"
+      start_timestamp: "00:01:58"
+      end_timestamp: "00:02:20"
+    evidence:
+      excerpt: "आपने इस एपिसोड से क्या सीखा।"
+    notes: >
+      ~[00:02:00]-[00:02:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13828
+    person: raj-shamani
+    source: raj-shamani-fo486-rajat-kandhari
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel so the show can bring more valuable guests, comment
+      telling him what they liked or disliked about the episode so
+      mistakes aren't repeated and which guests they want to see so he
+      can bring them on and provide more value, and share the episode
+      with one person since one conversation is enough to change
+      someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=mGpaIjdRDdw"
+      start_timestamp: "01:05:06"
+      end_timestamp: "01:05:26"
+    evidence:
+      excerpt: "देखने के लिए। अब आपको तीन चीजें करनी है। सबसे पहले इस चैनल को सब्सक्राइब"
+    notes: >
+      ~[01:05:00]-[01:05:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Combined variant of the standard closing outro — merges the
+      "feedback on the episode" item with the "guest suggestions" item
+      seen separately in fo487-tanay-tiwari and fo489-mukul-singh-chauhan.
