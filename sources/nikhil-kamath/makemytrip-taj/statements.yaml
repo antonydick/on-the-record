@@ -11,7 +11,7 @@ statements:
       with travelers increasingly choosing Sri Lanka instead.
     topic: biography
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -32,6 +32,13 @@ statements:
       difficulty of speaker attribution in this format, statements from
       this episode were extracted far more conservatively than usual --
       most of the multi-hour discussion was not attributed at all.
+      Located to the general area of the "Mass Tourism vs Luxury
+      Tourism in Goa" chapter (1:30:46/5446s per the video description)
+      via live captions -- confirmed extensive Goa tourism discussion in
+      this window but did not catch this specific personal
+      grew-up/moved-there/Sri-Lanka-comparison line verbatim. This
+      video's transcript panel also failed to load in this session.
+      Left at reviewed.
 
   - id: nikhil-kamath-108
     person: nikhil-kamath
@@ -44,7 +51,7 @@ statements:
       Setu bridge many times to get there.
     topic: business
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -57,7 +64,13 @@ statements:
       Cross-reference: corroborates and localizes nikhil-kamath-079
       (Brian Armstrong episode), which describes "Foundry" as a
       Y Combinator-style accelerator in India -- this places it (or at
-      least a campus/cohort of it) specifically in Alibag.
+      least a campus/cohort of it) specifically in Alibag. Located to
+      the "Alibaug's Potential & the Homestay Business" chapter
+      (1:58:44/7124s per the video description) via live captions --
+      confirmed extensive Alibaug real-estate/hospitality discussion in
+      this window but did not catch the specific "Foundry"/Atal Setu
+      line verbatim. This video's transcript panel also failed to load
+      in this session. Left at reviewed.
 
   - id: nikhil-kamath-109
     person: nikhil-kamath
@@ -70,7 +83,7 @@ statements:
       time at his house in Goa; Nikhil does not contest this.
     topic: biography
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -82,8 +95,10 @@ statements:
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-107. This
       statement is technically second-hand (asserted about Nikhil by an
       unidentified guest, not stated by Nikhil himself), so confidence
-      is lower than a direct first-person statement -- confirm
-      independently during verification.
+      is lower than a direct first-person statement. Not located in this
+      pass -- likely near the same Alibaug/Goa discussion as
+      nikhil-kamath-107/108, but this video's transcript panel failed to
+      load and a full-text search was not possible. Left at reviewed.
 
   - id: nikhil-kamath-110
     person: nikhil-kamath
@@ -99,12 +114,12 @@ statements:
       similar effort to India.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=8RsrifYHZeI&t=8825s"
+      start_timestamp: "2:26:55"
+      end_timestamp: "2:27:45"
     evidence:
       excerpt: null
     notes: >
@@ -112,7 +127,12 @@ statements:
       Cross-reference: reinforces the close personal relationship with
       Nandan Nilekani implied elsewhere (e.g. nikhil-kamath-096's
       Norwegian-fund-friend context and the general "Nandan is our
-      favorite person" aside in the Ruchir Sharma episode).
+      favorite person" aside in the Ruchir Sharma episode). Confirmed
+      via live captions at 2:26:55-2:27:45 ("Nandan Nilekani & the Shift
+      to Hotel Branding" chapter): "...he's been there, done that...
+      Not Switzerland. Where? -- We were in the US somewhere... He's
+      trying to tokenise [asset classes]... Doing it in India only [is
+      the interest]."
 
   - id: nikhil-kamath-111
     person: nikhil-kamath
@@ -127,7 +147,7 @@ statements:
       and "have-nots" who increasingly don't want to cross paths.
     topic: travel
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -138,5 +158,9 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-107. Venue
       names are approximated from a garbled auto-transcript ("Shea
-      Margo," "Maison Estel") -- confirm exact names during
-      verification.
+      Margo," "Maison Estel") -- confirm exact names. Not located in
+      this pass -- likely near "What It Takes to Run an Asset-Light
+      Hotel Brand" (2:34:40) or "India's Mid-Range Hotel Opportunity"
+      (1:16:37) given the membership-club/hospitality-exclusivity theme,
+      but this video's transcript panel failed to load and a full-text
+      search was not possible in this 3h21m episode. Left at reviewed.
