@@ -1,0 +1,88 @@
+statements:
+  - id: raj-shamani-13829
+    person: raj-shamani
+    source: raj-shamani-fo485-khan-sir
+    type: observation
+    text: >
+      In the episode's cold open, Raj narrates that Khan Sir, one of
+      the most loved teachers of India, is back, and that in this
+      episode Khan Sir discussed the Donald Trump and Epstein files
+      connection along with sharing insights on the geopolitics between
+      global powers like the US, Israel, China, India, and Russia that
+      are important to understand in today's time.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=VAtgcFtqIqw"
+      start_timestamp: "00:00:18"
+      end_timestamp: "00:00:42"
+    evidence:
+      excerpt: "कब्जा हो गया तो पूरा कब्जा। ये दो लॉबीज यूज़ किए। इस एपिसोड में खान ... इंडिया और रशिया जैसे ग्लोबल पावर्स के बीच चल रही जिओपॉलिटिक्स पर ऐसी"
+    notes: >
+      ~[00:00:10]-[00:00:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13830
+    person: raj-shamani
+    source: raj-shamani-fo485-khan-sir
+    type: assertion
+    text: >
+      Raj reads a sponsor mention for Porter, saying that when you need
+      to send or receive something and it's hard to find the right
+      option, especially for smaller items, Porter's two-wheelers can
+      easily handle up to 20 kg — and the best part is that the price
+      shown on the app is the final price, so you don't have to
+      negotiate rates and their partners will never ask for extra cash,
+      letting you focus on your work tension-free while a reliable
+      expert carries your item; he mentions the link is in the
+      description to learn more.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=VAtgcFtqIqw"
+      start_timestamp: "00:02:43"
+      end_timestamp: "00:03:03"
+    evidence:
+      excerpt: "इसीलिए आई सजेस्ट पोर्टर इनके टू व्हीलर्स कैन इजीली हैंडल अप टू 20 kg एंड द बेस्ट"
+    notes: >
+      ~[00:02:20]-[00:03:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Porter two-wheeler delivery sponsor read, matching the
+      pattern of other Porter-sponsored episodes noted earlier in this
+      backlog sweep.
+
+  - id: raj-shamani-13831
+    person: raj-shamani
+    source: raj-shamani-fo485-khan-sir
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel so the show can keep bringing valuable guests,
+      comment telling him what they liked about the episode and which
+      guests they want to see brought onto the podcast, and share the
+      episode with one person since one conversation can change
+      someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=VAtgcFtqIqw"
+      start_timestamp: "01:37:29"
+      end_timestamp: "01:38:00"
+    evidence:
+      excerpt: "लिए। अब आपको पता है आपको तीन चीजें करनी है। सबसे पहले इस चैनल को सब्सक्राइब कर"
+    notes: >
+      ~[01:37:20]-[01:38:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Combined variant of the standard closing outro — merges the
+      "feedback on the episode" item with the "guest suggestions" item,
+      matching the pattern seen in fo486-rajat-kandhari.
