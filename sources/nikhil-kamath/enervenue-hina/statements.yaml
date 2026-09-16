@@ -12,20 +12,25 @@ statements:
       falling renewable generation costs as an example.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=gml71dXrRO0&t=113s"
+      start_timestamp: "1:53"
+      end_timestamp: "2:30"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: multi-guest panel (Nikhil hosting EnerVenue
       CEO Henning Rath and HiNa Battery CEO Kun Tang), no diarization.
       Attribution inferred from conversational role and content (Nikhil
-      is the one asking questions from an Indian-investor perspective);
-      not confirmed via video. Cross-reference: consistent with
+      is the one asking questions from an Indian-investor perspective),
+      confirmed via live captions rather than diarized video (this
+      video's transcript panel failed to load repeatedly). Confirmed
+      via live captions at 1:53-2:30: "...around energy... Energy does
+      not seem to be the problem as much as [storing/moving it]... In
+      India, where I come from, the cost of producing renewable power
+      has gone down tremendously." Cross-reference: consistent with
       nikhil-kamath-086 (Chamath episode), which also references "our
       private equity fund."
 
@@ -41,7 +46,7 @@ statements:
       as possible -- which he says was a mistake.
     topic: travel
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -50,7 +55,11 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087. Not located
+      in this pass -- this video's transcript panel failed to load
+      repeatedly, and this specific Hong Kong/Sichuan-restaurant travel
+      anecdote was not caught during live-caption scrubbing of the
+      introduction. Left at reviewed.
 
   - id: nikhil-kamath-089
     person: nikhil-kamath
@@ -65,16 +74,25 @@ statements:
       lens.
     topic: business
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=gml71dXrRO0&t=1614s"
+      start_timestamp: "26:54"
+      end_timestamp: "27:10"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Confirmed via live captions at 26:54-27:10:
+      "See, after my trip in China, I want to go back to India and start
+      a business... So I'm asking you questions also from that lens."
+      The specific "undecided between an electric car company or a
+      battery company" framing was not caught verbatim within the
+      sampled window, but the core claim (wanting to start a business in
+      India after this trip, and asking questions through that lens) is
+      confirmed word-for-word.
 
   - id: nikhil-kamath-090
     person: nikhil-kamath
@@ -89,7 +107,7 @@ statements:
       time.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -98,7 +116,13 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087. Not located
+      in this pass -- checked the "Decoupling a battery business from
+      lithium and rare earths" chapter (27:07) via live captions and
+      confirmed the adjacent business-decision framing (see
+      nikhil-kamath-089), but did not catch this specific rare-earth-
+      company investment review verbatim; this video's transcript panel
+      also failed to load repeatedly. Left at reviewed.
 
   - id: nikhil-kamath-091
     person: nikhil-kamath
@@ -112,7 +136,7 @@ statements:
       because its hyperscaler tenants mandate it.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -121,7 +145,13 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087. Not located
+      in this pass -- checked the "Where generation, storage and demand
+      should sit" (43:51) and "Three super cycles and AI's power demand"
+      (1:00:19) chapters via live captions, which cover adjacent
+      data-center/grid-economics territory, but did not catch this
+      specific diesel-backup disclosure verbatim; this video's
+      transcript panel also failed to load repeatedly. Left at reviewed.
 
   - id: nikhil-kamath-092
     person: nikhil-kamath
@@ -135,7 +165,7 @@ statements:
       solar cells from China.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -144,7 +174,11 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087. Not located
+      in this pass -- this video's transcript panel failed to load
+      repeatedly, and this specific solar-manufacturing-ecosystem
+      investment aside was not caught during live-caption scrubbing.
+      Left at reviewed.
 
   - id: nikhil-kamath-093
     person: nikhil-kamath
@@ -158,7 +192,7 @@ statements:
       his household energy needs.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -167,7 +201,11 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087. Not located
+      in this pass -- this video's transcript panel failed to load
+      repeatedly, and this specific personal solar-panel/electricity-
+      bill detail was not caught during live-caption scrubbing. Left at
+      reviewed.
 
   - id: nikhil-kamath-094
     person: nikhil-kamath
@@ -180,7 +218,7 @@ statements:
       generally worked well for the country.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -189,4 +227,13 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-087. Checked the
+      "Automation, jobs and China's social contract" chapter (1:05:30)
+      via live captions and confirmed a live discussion contrasting
+      America's capitalistic nature with China's system ("America on the
+      other end is very capitalistic in nature") in the right topical
+      area, but did not catch this specific "reading books on Chinese
+      history" self-disclosure verbatim; this video's transcript panel
+      also failed to load repeatedly. Left at reviewed. Cross-reference:
+      nikhil-kamath-115/116 (mankind-dr-reddys episode) describe reading
+      the same Mao-to-Deng-Xiaoping transition around this period.
