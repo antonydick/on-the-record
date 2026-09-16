@@ -10,32 +10,28 @@ statements:
       there.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=y5Ewu8wYgqM&t=3487s"
+      start_timestamp: "58:07"
+      end_timestamp: "58:49"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Aravind
-      Srinivas), no diarization. Attribution inferred from
-      conversational role, not confirmed via video. Cross-reference:
-      corroborates nikhil-kamath-037 (Christopher Luxon episode), which
-      makes the same claim -- two independent extractions agreeing is a
-      useful signal but not itself verification. Content confirmed
-      present in the source via NotebookLM transcript search (exact
-      line: "i'm actually in Dubai cuz I came to watch the match this is
-      my hotel room in Dubai," with Nikhil discussing the match result
-      shortly after) but the exact video timestamp was NOT pinned down
-      in this pass -- searched roughly 0:45 through 45:31 of the 2:16:30
-      video via YouTube captions without locating this specific
-      exchange; it's likely somewhere in the small-talk/backstory
-      portion (first ~10 minutes) given the "still follow cricket"
-      framing, but a future pass should resume the search there (or try
-      requesting a longer transcript excerpt from NotebookLM) rather
-      than repeating this one from scratch.
+      Srinivas), confirmed via the video's dense transcript at
+      58:07-58:49: "...what did I do? You still follow cricket? -- Uh,
+      yeah, I do. Yeah, I followed the match on Sunday. -- I'm actually
+      in Dubai cuz I came to watch the match. This is my hotel room in
+      Dubai. -- Oh, cool. -- It was good. It was 99.99% Indian support
+      and 0.01% New Zealand... I mean, like, I was pretty disappointed
+      in the last three or four times we lost in the semi-final or the
+      final. So, I was really hoping that India wins this time. So,
+      that was awesome." Cross-reference: corroborates nikhil-kamath-037
+      (Christopher Luxon episode), which makes the same claim -- two
+      independent extractions agreeing is a useful signal, now backed
+      by direct verification here.
 
   - id: nikhil-kamath-039
     person: nikhil-kamath
