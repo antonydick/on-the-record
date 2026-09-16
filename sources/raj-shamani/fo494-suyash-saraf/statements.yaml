@@ -1,0 +1,116 @@
+statements:
+- id: raj-shamani-13601
+  person: raj-shamani
+  source: raj-shamani-fo494-suyash-saraf
+  type: observation
+  text: 'Raj introduces today''s guest as Suyash Saraf, founder and CEO of Dot & Key skincare and Hyperscale Ventures.
+
+    '
+  topic: guest-introduction
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=q1hvfs-VL5U&t=12s
+    start_timestamp: 00:00:12
+    end_timestamp: 00:00:20
+  evidence:
+    excerpt: null
+  notes: '~[00:00:00]-[00:00:20] Transcribed via YouTube Hindi/Hinglish auto-captions (freshly fetched and consolidated from the raw VTT for this episode, not yet human-reviewed for transcription quality); text is a close English rendering, not a verbatim quote.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=q1hvfs-VL5U&t=12s in-browser. Caption reads ''आने वाले हैं खाली बीपीसी के। आज हमारे साथ हैं सुयश सराफ'' matching the guest''s name exactly.
+
+    '
+- id: raj-shamani-13602
+  person: raj-shamani
+  source: raj-shamani-fo494-suyash-saraf
+  type: assertion
+  text: 'Raj frames the episode as covering marketing, brand building, and powerful insights that can help viewers build their next 100-crore brand.
+
+    '
+  topic: episode-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=q1hvfs-VL5U&t=17s
+    start_timestamp: 00:00:17
+    end_timestamp: 00:00:25
+  evidence:
+    excerpt: null
+  notes: '~[00:00:20]-[00:00:40] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=q1hvfs-VL5U&t=17s in-browser. Caption reads ''इस एपिसोड में हम बात करेंगे मार्केटिंग, ब्रांड बिल्डिंग और कुछ'' matching the statement.
+
+    '
+- id: raj-shamani-13603
+  person: raj-shamani
+  source: raj-shamani-fo494-suyash-saraf
+  type: assertion
+  text: 'Before starting the episode, Raj says their goal is to take an Indian podcast to a global level, and that as of today they need 20.8 million subscribers to get there — so if the channel has provided any value, he asks viewers to subscribe, noting it''s completely free and costs nothing, and mentions the audio experience of the episode is also available by following the show on Spotify.
+
+    '
+  topic: subscriber-goal-appeal
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=q1hvfs-VL5U&t=108s
+    start_timestamp: 00:01:48
+    end_timestamp: 00:02:00
+  evidence:
+    excerpt: null
+  notes: '~[00:01:40]-[00:02:20] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote. Near-identical wording (including the same 20.8-million figure) to the appeal seen in fo496-arpit-agrawal, suggesting a reused script across episodes recorded around the same period.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=q1hvfs-VL5U&t=108s in-browser. Caption reads ''है कि एक इंडियन पॉडकास्ट को ग्लोबल लेवल पर ले जाना। एंड'' matching the statement''s opening.
+
+    '
+- id: raj-shamani-13604
+  person: raj-shamani
+  source: raj-shamani-fo494-suyash-saraf
+  type: observation
+  text: 'Raj frames the conversation as a masterclass for someone young who wants to start a brand, structured around the full journey of building a brand, scaling a brand, and then selling a brand.
+
+    '
+  topic: episode-framing
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=q1hvfs-VL5U&t=149s
+    start_timestamp: 00:02:29
+    end_timestamp: 00:02:40
+  evidence:
+    excerpt: null
+  notes: '~[00:02:20]-[00:02:40] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=q1hvfs-VL5U&t=149s in-browser. Caption reads ''समबडी हु इज यंग राइट नाउ वांट टू स्टार्ट अ ब्रांड। ओके बिल्ड अ ब्रांड'' matching the masterclass framing exactly.
+
+    '
+- id: raj-shamani-13605
+  person: raj-shamani
+  source: raj-shamani-fo494-suyash-saraf
+  type: recommendation
+  text: 'In his closing outro, Raj thanks viewers for watching the episode to the end and says they have three things to do: subscribe to the channel right now so the show can bring better guests, comment with feedback on what the show got right or wrong so it can learn and create a better experience, and share the episode with one person, since one conversation is enough to change someone''s life.
+
+    '
+  topic: audience-engagement
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=q1hvfs-VL5U&t=5529s
+    start_timestamp: 01:32:09
+    end_timestamp: 01:32:25
+  evidence:
+    excerpt: null
+  notes: '~[01:32:00]-[01:32:40] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote. Standard closing outro, "three things" framing.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=q1hvfs-VL5U&t=5529s in-browser. Caption reads ''थैंक यू सो मच ये एपिसोड एंड तक देखने के लिए अब आपको तीन चीजें करनी'' matching the outro.
+
+    '
