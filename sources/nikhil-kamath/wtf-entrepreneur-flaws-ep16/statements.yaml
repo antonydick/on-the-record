@@ -14,7 +14,7 @@ statements:
       outside investors and no dilution.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -37,7 +37,19 @@ statements:
       Manish Poddar/Rare Rabbit before the interview segment begins,
       which is stylistically distinct (third-person framing of the guest,
       "we started researching the company") from the guests' own
-      first-person life narratives.
+      first-person life narratives. Located to the "Introduction to Rare
+      Rabbit" chapter, which the video description's official timestamps
+      place at 1:13:50 of the 4:14:42 video
+      (https://www.youtube.com/watch?v=FPV5fAkqyBs&t=4430s) -- this is
+      the host's spoken segue directly preceding "1:15:01 A biodata was
+      created around the time of my marriage," the first line recovered
+      from this pass's caption search, so the content fits squarely
+      between the chapter marker and that line. Live captions for this
+      video did not render in this browsing session despite repeated
+      attempts (toggling the CC button, reloading, seeking within the
+      chapter), so the exact wording could not be checked against a
+      verbatim transcript. Left at reviewed rather than forcing an
+      unconfirmed timestamp.
 
   - id: nikhil-kamath-179
     person: nikhil-kamath
@@ -55,7 +67,7 @@ statements:
       for me."
     topic: personal life
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -69,7 +81,18 @@ statements:
       recap/summary segment, offered in direct response to and contrast
       with Ritesh Agarwal's own account of hiding difficulties from his
       leadership team, with Ritesh then asking Nikhil "how do you look at
-      it" before Nikhil's compartmentalizing answer.
+      it" before Nikhil's compartmentalizing answer. Based on the video
+      description's official chapter list, this most likely falls within
+      "04:03:00 - Advice to Entrepreneur to Find Right Opportunity" (the
+      general reflective wrap-up chapter that follows Ritesh's own
+      low-days/vulnerability discussion at "03:40:35 - What helped Ritesh
+      deal with low days?" and precedes the closing "04:12:00 - WTF Fund"
+      segment) -- but this pass's caption search only recovered sparse
+      "key moments" transcript entries that stop at 3:57:01, well short
+      of this chapter, and live captions did not render in this browsing
+      session despite repeated attempts. The chapter attribution here is
+      inferred from the episode's narrative structure rather than
+      confirmed against the video directly. Left at reviewed.
 
   - id: nikhil-kamath-180
     person: nikhil-kamath
@@ -88,7 +111,7 @@ statements:
       segments for influencers and for EV-sector charities.
     topic: personal life
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -100,4 +123,12 @@ statements:
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-178. This is the
       show's recurring closing format, proposed and narrated in first
       person by the host ("we'll all uh commit a certain amount of
-      money... should we do 20 lakhs each").
+      money... should we do 20 lakhs each"). Located to the "04:12:00 -
+      WTF Fund" chapter per the video description's official timestamps
+      (https://www.youtube.com/watch?v=FPV5fAkqyBs&t=14720s), consistent
+      with the recurring closing pay-it-forward format confirmed at
+      timestamp in every other episode processed this session. This
+      pass's sparse "key moments" transcript search stopped at 3:57:01,
+      short of this chapter, and live captions did not render in this
+      browsing session despite repeated attempts, so the exact wording
+      was not checked against a verbatim transcript. Left at reviewed.

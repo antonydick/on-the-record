@@ -1,0 +1,185 @@
+statements:
+- id: raj-shamani-12001
+  person: raj-shamani
+  source: raj-shamani-fo562-david-sinclair
+  type: recommendation
+  text: 'Raj asks viewers to subscribe to the channel, saying the more subscribers the show has, the better and bigger guests they can bring on and provide better facilities for, giving viewers more value through these conversations.
+
+    '
+  topic: subscriber-appeal
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=gfCg5srOjN0&t=141s
+    start_timestamp: 00:02:21
+    end_timestamp: 00:02:28
+  evidence:
+    excerpt: null
+  notes: '~[00:02:20] Transcribed via YouTube Hindi auto-captions (freshly fetched and consolidated from the raw VTT for this episode, not yet human-reviewed for transcription quality); text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Standard recurring subscribe appeal.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=gfCg5srOjN0&t=141s in-browser. Caption (original English audio) reads ''you to subscribe to our channel. The more subscribers we have, the better and [bigger guests we can bring]'' matching the statement.
+
+    '
+- id: raj-shamani-12002
+  person: raj-shamani
+  source: raj-shamani-fo562-david-sinclair
+  type: assertion
+  text: 'Raj says the full audio experience of the show is also available on Spotify, and invites listeners to follow the show there and hear new episodes.
+
+    '
+  topic: podcast-distribution
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=gfCg5srOjN0&t=151s
+    start_timestamp: 00:02:31
+    end_timestamp: 00:02:36
+  evidence:
+    excerpt: null
+  notes: '~[00:02:20]-[00:02:40] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Immediately follows the subscribe appeal in the same block.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=gfCg5srOjN0&t=151s in-browser. Caption reads ''available on Spotify where you can follow us and listen to the new [episodes]'' matching the statement verbatim.
+
+    '
+- id: raj-shamani-12003
+  person: raj-shamani
+  source: raj-shamani-fo562-david-sinclair
+  type: assertion
+  text: 'Raj asks the guest to introduce himself for anyone watching for the first time who doesn''t know who he is, explaining what he does and why they should listen to him for the next hour, and notes that most people watching this particular episode probably already know who the guest is.
+
+    '
+  topic: guest-introduction
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=gfCg5srOjN0&t=164s
+    start_timestamp: 00:02:44
+    end_timestamp: 00:02:50
+  evidence:
+    excerpt: null
+  notes: '~[00:02:40]-[00:03:00] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Standard episode-opening guest-introduction ask.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=gfCg5srOjN0&t=164s in-browser. Caption reads ''If someone''s watching you for the first time, okay, and they have no clue who [you are]'' matching the statement''s framing.
+
+    '
+- id: raj-shamani-12004
+  person: raj-shamani
+  source: raj-shamani-fo562-david-sinclair
+  type: assertion
+  text: 'Raj asks the guest directly whether he thinks there is a "pharma mafia" actively working against him, i.e. large pharmaceutical companies that don''t want him to succeed because it would hurt their business.
+
+    '
+  topic: pharma-industry-pushback
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=gfCg5srOjN0&t=6289s
+    start_timestamp: 01:44:49
+    end_timestamp: 01:44:53
+  evidence:
+    excerpt: null
+  notes: '~[01:45:00] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. The ASR transcript renders the key word as "किसान" (farmer) throughout this passage, but given the surrounding context is entirely about pharmaceutical-industry competitors, drug patents, and rival longevity companies, this is almost certainly a mis-transcription of "फार्मा" (pharma); verifier should confirm the actual word said in the recording. Speaker turn inferred from context (host posing a provocative framing question, guest responding at length).
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=gfCg5srOjN0&t=6289s in-browser. Caption reads ''Do you think there''s a farmer mafia?'' matching the statement (the original English auto-caption itself renders the key word as "farmer", confirming this is a genuine ASR artifact on both language tracks rather than a Hindi-translation-only quirk — almost certainly meant as "pharma").
+
+    '
+- id: raj-shamani-12005
+  person: raj-shamani
+  source: raj-shamani-fo562-david-sinclair
+  type: observation
+  text: 'Raj poses his standard closing question, which he says is one he asks every guest: "What is the cost of being David Sinclair?"
+
+    '
+  topic: cost-of-being-question
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=gfCg5srOjN0&t=8521s
+    start_timestamp: 02:22:01
+    end_timestamp: 02:22:07
+  evidence:
+    excerpt: null
+  notes: '~[02:22:00] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj explicitly frames this as a recurring closing question he asks every guest, matching the same "cost of being [name]" framing seen in several other episodes — high confidence in the attribution.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=gfCg5srOjN0&t=8521s in-browser. Caption reads ''which I ask all my guests which is what is the cost'' matching the signature closing question verbatim.
+
+    '
+- id: raj-shamani-12006
+  person: raj-shamani
+  source: raj-shamani-fo562-david-sinclair
+  type: experience
+  text: 'Raj says he first got introduced to the guest''s work through his own podcast: one guest first mentioned him and they ended up discussing things the guest had written in his book, then another guest also referenced him in a talk, and by the third mention Raj wondered what was going on — and became very impressed by the guest''s work as a result.
+
+    '
+  topic: guest-discovery-story
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=gfCg5srOjN0&t=8641s
+    start_timestamp: 02:24:01
+    end_timestamp: 02:24:21
+  evidence:
+    excerpt: null
+  notes: '~[02:24:00] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Raj''s closing remark explaining how he came to know of David Sinclair''s work, said directly after thanking the guest.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=gfCg5srOjN0&t=8641s in-browser. Caption reads ''...ended up talking about the stuff that you have written in the book... Oh that''s interesting. Yeah. And I was so fascinated. Thank you for doing this. It''s a pleasure to host you.'' matching the statement.
+
+    '
+- id: raj-shamani-12007
+  person: raj-shamani
+  source: raj-shamani-fo562-david-sinclair
+  type: belief
+  text: 'After the guest compliments his teaching style and says this isn''t a podcast about advertising but about learning for his listeners, Raj agrees and says that learning is the whole goal of the show.
+
+    '
+  topic: podcast-purpose
+  verification:
+    status: draft
+    verified_at: null
+    verified_by: null
+    source_url: null
+    start_timestamp: null
+    end_timestamp: null
+  evidence:
+    excerpt: null
+  notes: '~[02:24:20] Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Speaker turn inferred from context — the guest''s compliment is addressed to Raj by name ("Raj, I appreciate you") a few lines earlier in the same exchange — but the transcript has no diarization and the short back-and-forth agreement lines are not cleanly separated; moderate confidence only.
+
+
+    Visual verification check (2026-09-16): checked the closing exchange closely between the guest-discovery-story statement (~08:44:00 real time) and the outro (~08:66:00 real time) across several re-checks; this narrow window contains ''And I was so fascinated. Thank you for doing this. It''s a pleasure to host you.'' followed shortly by ''now. >> Yes, exactly.'' but never a clean, isolatable caption moment matching this statement''s specific wording. Left as draft pending closer re-check; may be a transcript mis-placement.
+
+    '
+- id: raj-shamani-12008
+  person: raj-shamani
+  source: raj-shamani-fo562-david-sinclair
+  type: recommendation
+  text: 'In his closing outro, Raj thanks viewers for watching the episode to the end and asks them to comment with what they liked or didn''t like about the episode and which guests they''d like to see on the show, saying this feedback helps him improve every episode.
+
+    '
+  topic: audience-feedback
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=gfCg5srOjN0&t=8666s
+    start_timestamp: 02:24:26
+    end_timestamp: 02:24:40
+  evidence:
+    excerpt: null
+  notes: '~[02:24:40]-end. Transcribed via YouTube Hindi auto-captions; text is a close English translation of the original Hindi/Hinglish, not a verbatim quote. Standard closing outro used across episodes of this show.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=gfCg5srOjN0&t=8666s in-browser. Caption reads ''Thank you for watching this episode till the end. We would love to know what...'' matching the outro.
+
+    '
