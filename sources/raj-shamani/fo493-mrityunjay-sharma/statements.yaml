@@ -1,0 +1,152 @@
+statements:
+  - id: raj-shamani-13801
+    person: raj-shamani
+    source: raj-shamani-fo493-mrityunjay-sharma
+    type: observation
+    text: >
+      Raj introduces the guest as Mrityunjay Sharma, a politician,
+      entrepreneur, and author known for telling the reality of every
+      state.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=7B9ouInLN9E"
+      start_timestamp: "00:00:21"
+      end_timestamp: "00:00:41"
+    evidence:
+      excerpt: "मृत्युंजय शर्मा एक पॉलिटिशियन,"
+    notes: >
+      ~[00:00:20]-[00:00:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13802
+    person: raj-shamani
+    source: raj-shamani-fo493-mrityunjay-sharma
+    type: assertion
+    text: >
+      Before starting the episode, Raj says their goal is to take an
+      Indian podcast to a global level, and that as of today they need
+      20.8 million subscribers to get there — so if the channel has
+      provided any value, he asks viewers to subscribe, noting it's
+      completely free and costs nothing, and mentions the audio
+      experience of the episode is also available by following the
+      show on Spotify.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=7B9ouInLN9E"
+      start_timestamp: "00:02:15"
+      end_timestamp: "00:02:35"
+    evidence:
+      excerpt: "आज का एपिसोड स्टार्ट करने से पहले मेरी आप लोगों से एक रिक्वेस्ट ... चाहिए। तो अगर हमारे चैनल ने आपको थोड़ी भी वैल्यू प्रोवाइड करी है तो प्लीज"
+    notes: >
+      ~[00:02:00]-[00:02:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Near-identical wording (including the same 20.8-million
+      figure) to the appeal seen in fo494-suyash-saraf and
+      fo496-arpit-agrawal, a reused script across episodes recorded
+      around the same period.
+
+  - id: raj-shamani-13803
+    person: raj-shamani
+    source: raj-shamani-fo493-mrityunjay-sharma
+    type: belief
+    text: >
+      Raj tells the guest that every time he comes on to discuss a
+      state and fully decode its history, he genuinely likes it, and
+      that he feels he learns more about the history of India's states
+      from these conversations than he ever read in his school
+      textbooks — adding that he thinks they should do this for every
+      state, one state at a time.
+    topic: state-series-value
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=7B9ouInLN9E"
+      start_timestamp: "00:02:55"
+      end_timestamp: "00:03:15"
+    evidence:
+      excerpt: "उनकी हिस्ट्री पैदा आई रियली लाइक दैट आई फील आई जेनुइनली एंड आई एम टू से दिस"
+    notes: >
+      ~[00:03:00]-[00:03:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13804
+    person: raj-shamani
+    source: raj-shamani-fo493-mrityunjay-sharma
+    type: observation
+    text: >
+      Raj says this is their third state in the series, West Bengal.
+    topic: state-series-tracking
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=7B9ouInLN9E"
+      start_timestamp: "00:03:35"
+      end_timestamp: "00:03:50"
+    evidence:
+      excerpt: "एव्री स्टेट [हंसी] वन ... वेस्ट बंगाल क्या टेल मी लेट्स स्टार्ट फ्रॉम दिस लाइक"
+    notes: >
+      ~[00:03:40] Transcribed via YouTube Hindi/Hinglish auto-captions;
+      text is a close English rendering, not a verbatim quote.
+
+  - id: raj-shamani-13805
+    person: raj-shamani
+    source: raj-shamani-fo493-mrityunjay-sharma
+    type: belief
+    text: >
+      At the close of the interview, Raj says the next state in the
+      series will be Assam, that he thinks this could become an iconic
+      series for young people in the country like him, and that the
+      earlier Bihar episode in the series was exceptionally good.
+    topic: state-series-value
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=7B9ouInLN9E"
+      start_timestamp: "02:20:00"
+      end_timestamp: "02:20:36"
+    evidence:
+      excerpt: "आएंगे आई पिक बिकॉज आई थिंक जस्ट दैट वन सीरीज ... यंग पीपल लाइक मी। [संगीत] वो एक आइकॉनिक सीरीज ... जिस तरीके से आप समझाते हो बहुत अच्छा है। लाइक आई रियली लाइक बिहार वाज़ एक्सेप्शनली"
+    notes: >
+      ~[02:20:00]-[02:20:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13806
+    person: raj-shamani
+    source: raj-shamani-fo493-mrityunjay-sharma
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel right now so the show can bring better guests,
+      comment with feedback on what the show got right or wrong so it
+      can learn and create a better experience, and share the episode
+      with one person, since one conversation is enough to change
+      someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=7B9ouInLN9E"
+      start_timestamp: "02:20:37"
+      end_timestamp: "02:21:26"
+    evidence:
+      excerpt: "थैंक यू सो मच ये एपिसोड एंड तक देखने के लिए। अब आपको तीन चीजें करनी है। नंबर वन"
+    notes: >
+      ~[02:20:40]-[02:21:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Standard closing outro, "three things" framing.
