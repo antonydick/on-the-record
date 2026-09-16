@@ -1,0 +1,139 @@
+statements:
+- id: raj-shamani-12601
+  person: raj-shamani
+  source: raj-shamani-fo499-vaibhav-sisinty
+  type: experience
+  text: 'Raj says this episode blew his mind — by the end of it, viewers will realize that the work which used to take 10 people on his team, he can now do alone in minutes, and the opportunity to make money has become much clearer to him after recording this podcast.
+
+    '
+  topic: ai-episode-personal-impact
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=7fsb6ZESyzE&t=121s
+    start_timestamp: 00:02:01
+    end_timestamp: 00:02:18
+  evidence:
+    excerpt: null
+  notes: '~[00:02:00]-[00:02:20] Transcribed via YouTube Hindi/Hinglish auto-captions (freshly fetched and consolidated from the raw VTT for this episode, not yet human-reviewed for transcription quality); text is a close English rendering, not a verbatim quote. Raj''s framing of the episode, addressed directly to viewers.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=7fsb6ZESyzE&t=121s in-browser. Caption reads ''यह हमारा नेक्स्ट एपिसोड है फिगरिंग आउट एआई का विद वैभव... माइंड। क्योंकि यह एपिसोड खत्म होते-होते आपको पता चलेगा शायद मैं मेरा... पॉडकास्ट के बाद बहुत क्लियर हो गई है'' matching the statement.
+
+    '
+- id: raj-shamani-12602
+  person: raj-shamani
+  source: raj-shamani-fo499-vaibhav-sisinty
+  type: observation
+  text: 'Raj says that he and Vaibhav have started a community called "Figuring Out AI," linked in the description, for people who want to learn more AI tools and stay updated on what''s happening in the AI world, and that it''s completely free to join.
+
+    '
+  topic: figuring-out-ai-community
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=7fsb6ZESyzE&t=151s
+    start_timestamp: 00:02:31
+    end_timestamp: 00:02:38
+  evidence:
+    excerpt: null
+  notes: '~[00:02:20]-[00:02:40] and ~[00:05:00]-[00:05:20] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote. Community announcement repeated a couple of times in the episode''s opening.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=7fsb6ZESyzE&t=151s in-browser. Caption reads ''सो वैभव एंड मी वी हैव स्टार्टेड... एआई जिसकी लिंक डिस्क्रिप्शन में है'' matching the Figuring Out AI community announcement.
+
+    '
+- id: raj-shamani-12603
+  person: raj-shamani
+  source: raj-shamani-fo499-vaibhav-sisinty
+  type: observation
+  text: 'Raj says that this time they tried a new format where Vaibhav teaches him live and does things for him, so that everyone watching can grab pen and paper and follow along step by step as something is built from zero in the AI world — this episode isn''t Q&A, it''s "build in public," and if anyone likes the idea they built, they''re welcome to steal it.
+
+    '
+  topic: episode-format
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=7fsb6ZESyzE&t=157s
+    start_timestamp: 00:02:37
+    end_timestamp: 00:02:56
+  evidence:
+    excerpt: null
+  notes: '~[00:02:40]-[00:03:00] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote. Raj explaining the episode''s departure from the show''s usual interview format.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=7fsb6ZESyzE&t=157s in-browser. Caption reads ''और इस बार हमने एक नया फॉर्मेट... कि कैसे जीरो से चीजें बनाते हैं। दिस इज बिल्ड इन पब्लिक।'' matching the statement.
+
+    '
+- id: raj-shamani-12604
+  person: raj-shamani
+  source: raj-shamani-fo499-vaibhav-sisinty
+  type: experience
+  text: 'Raj says that over the past five hours, Vaibhav technically taught him how to make his podcast research 10x better using just AI — turning work that would normally take six or seven people into something he can get done in an hour — and that this whole framework is included in the end section of the podcast for anyone who wants to learn it and steal it for their own use.
+
+    '
+  topic: ai-podcast-research-framework
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=7fsb6ZESyzE&t=221s
+    start_timestamp: 00:03:41
+    end_timestamp: 00:03:46
+  evidence:
+    excerpt: null
+  notes: '~[00:03:20]-[00:04:20] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote. Raj''s personal account of what he learned during the 5-hour recording session with Vaibhav.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=7fsb6ZESyzE&t=221s in-browser. Caption reads ''करते हैं वो मैं एक घंटे में कैसे करवा सकता हूं एआई से और वो पूरी स्किल'' matching the six-seven-people/one-hour framing.
+
+    '
+- id: raj-shamani-12605
+  person: raj-shamani
+  source: raj-shamani-fo499-vaibhav-sisinty
+  type: belief
+  text: 'Raj says he does this podcast and conversation with Vaibhav every month specifically so he can keep learning what''s going on in the AI world, and that given how much is happening, he thinks he needs to do this more often — maybe every 15-20 days.
+
+    '
+  topic: recurring-ai-conversations
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=7fsb6ZESyzE&t=263s
+    start_timestamp: 00:04:23
+    end_timestamp: 00:04:33
+  evidence:
+    excerpt: null
+  notes: '~[00:04:20]-[00:05:00] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote. Raj reflecting on the cadence of his recurring AI-focused conversations with Vaibhav Sisinty (this is at least the third such episode in the corpus, after fo514 and fo557).
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=7fsb6ZESyzE&t=263s in-browser. Caption reads ''बाई द वे, यह पॉडकास्ट और यह कॉन्वर्सेशन मैं वैभव... 15-20 दिन में करना चाहिए। बिकॉज़ इतनी सारी चीजें हो रही है। इट्स इनक्रेडिबल'' matching the statement.
+
+    '
+- id: raj-shamani-12606
+  person: raj-shamani
+  source: raj-shamani-fo499-vaibhav-sisinty
+  type: recommendation
+  text: 'In his closing outro, Raj thanks viewers for watching the episode to the end and says they have three things to do: subscribe to the channel right now so the show can bring better guests, comment with feedback on what the show got right or wrong so it can learn and improve, and (per the standard third item) share the episode with someone.
+
+    '
+  topic: audience-engagement
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=7fsb6ZESyzE&t=7981s
+    start_timestamp: 02:13:01
+    end_timestamp: 02:13:15
+  evidence:
+    excerpt: null
+  notes: '~[02:13:00]-[02:13:20] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote. Standard closing outro; the exact wording of the third item was not fully captured in this transcript pass and should be confirmed during verification.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=7fsb6ZESyzE&t=7981s in-browser. Caption reads ''जितना आप सब्सक्राइब करोगे उतने ही बेहतर हम गेस्ट ला पाएंगे आपके लिए। नंबर टू'' matching the outro.
+
+    '
