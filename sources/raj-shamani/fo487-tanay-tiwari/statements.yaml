@@ -1,0 +1,87 @@
+statements:
+  - id: raj-shamani-13822
+    person: raj-shamani
+    source: raj-shamani-fo487-tanay-tiwari
+    type: observation
+    text: >
+      In the episode's cold open, Raj narrates that Tanay Tiwari, one of
+      the most loved cricket commentators, is back, and that in this
+      episode he explains how IPL auctions happen, how captaincy is
+      decided, and shares some IPL secrets that every cricket fan wants
+      to know — adding that cricket fans should not miss this episode.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=t0ZYA4-_XCs"
+      start_timestamp: "00:00:30"
+      end_timestamp: "00:00:44"
+    evidence:
+      excerpt: "वन ऑफ़ द मोस्ट लव्ड क्रिकेट कमेंटेटर्स तने ... के कुछ ऐसे सीक्रेट्स भी बताए, जो हर क्रिकेट फैन जानना चाहता है। अगर आप एक"
+    notes: >
+      ~[00:00:20]-[00:00:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13823
+    person: raj-shamani
+    source: raj-shamani-fo487-tanay-tiwari
+    type: assertion
+    text: >
+      Raj reads a sponsor mention for the ASUS ExpertBook P Series
+      laptop, saying its business laptops can easily handle rough usage
+      because they pass 24 out of 28 US military-grade tests, and that
+      the biggest plus point is that its top panel can withstand up to
+      30 kg of pressure — so when a laptop is this resilient and strong,
+      you can travel without any stress, and mentions it's available on
+      Flipkart via the link in the description.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=t0ZYA4-_XCs"
+      start_timestamp: "00:02:26"
+      end_timestamp: "00:03:00"
+    evidence:
+      excerpt: "हो जाए। इसीलिए आई सजेस्ट दी Asus एक्सपर्ट ... मिलिट्री ग्रेड टेस्ट पास करते हैं। एंड द बिगेस्ट प्लस पॉइंट इज दैट इसका टॉप पैनल"
+    notes: >
+      ~[00:02:20]-[00:03:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. ASUS ExpertBook P Series sponsor read, matching the pattern
+      of other ASUS-sponsored episodes from this period (e.g.
+      fo489-mukul-singh-chauhan), though with different specific claims
+      (30kg top-panel pressure rating here vs. general durability there).
+
+  - id: raj-shamani-13824
+    person: raj-shamani
+    source: raj-shamani-fo487-tanay-tiwari
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel so the show can keep bringing valuable guests,
+      comment telling him which other guests they want to see on the
+      podcast so he can bring them on and ask the questions viewers
+      want asked, and share the episode with one person since one
+      conversation is enough to change someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=t0ZYA4-_XCs"
+      start_timestamp: "01:29:58"
+      end_timestamp: "01:30:18"
+    evidence:
+      excerpt: "तरह और ज्यादा वैल्युएबल गेस्ट आपके लिए लेके आ पाए।"
+    notes: >
+      ~[01:30:00]-[01:30:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Variant of the standard closing outro seen elsewhere in
+      this backlog sweep (identical wording to fo489-mukul-singh-chauhan's
+      outro) — item two here asks for guest suggestions rather than
+      feedback on what the show did right or wrong.
