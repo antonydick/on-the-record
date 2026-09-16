@@ -9,7 +9,7 @@ statements:
       previously met Vinod Khosla and his family before this interview.
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -22,7 +22,15 @@ statements:
       Khosla), no diarization in the transcript. Attribution inferred
       from conversational role (Khosla addressing Nikhil directly about
       "your family," referencing a shared community) rather than
-      confirmed via video. Verify before moving past draft.
+      confirmed via video. Live captions were scrubbed densely across
+      the opening 0:00-1:44 (intro through Vinod's first substantive
+      answer) without locating this Giving Pledge/family reference --
+      the intro appears to be mostly a title montage without dialogue
+      until the greeting at 1:12 ("Hi, Vinod, thank you for doing
+      this"), after which the conversation moves directly into Vinod's
+      early life. This video's transcript panel also failed to load in
+      this session. Left at reviewed rather than forcing an unconfirmed
+      timestamp.
 
   - id: nikhil-kamath-009
     person: nikhil-kamath
@@ -41,21 +49,28 @@ statements:
       one-off remark.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=O7O204wD82s&t=3947s"
+      start_timestamp: "1:05:47"
+      end_timestamp: "1:06:24"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-008 -- inferred
-      from conversational role, not confirmed via video. Verify before
-      moving past draft. Cross-reference with nikhil-kamath-005 is based
-      on textual similarity across two independently-extracted sources,
-      not a confirmed link -- worth checking both together during
-      verification.
+      from conversational role, not confirmed via video, but content
+      confirmed via live captions at 1:05:47-1:06:24 ("Speculation vs
+      Adaptation" chapter): "...trying to come up with a thesis of what
+      sectors might do better [than others as this change in the world
+      happens]... some of the things that we've been digging data up
+      around... [people are having fewer kids] than they're having or
+      were having 10 years ago... when people have more time and
+      discretionary spending power... so, speculative businesses might
+      do better." Cross-reference with nikhil-kamath-005 (Sam Altman
+      episode) remains based on textual similarity across two
+      independently-extracted sources, not a confirmed direct link, but
+      is now backed by direct verification of this instance.
 
   - id: nikhil-kamath-010
     person: nikhil-kamath
@@ -71,16 +86,21 @@ statements:
       adoption in the current cycle.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=O7O204wD82s&t=4108s"
+      start_timestamp: "1:08:28"
+      end_timestamp: "1:08:56"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-008 -- inferred
       from conversational role ("I have a personal question," "I bet on
-      everything from..."), not confirmed via video. Verify before
-      moving past draft.
+      everything from..."), not confirmed via video, but content
+      confirmed via live captions at 1:08:28-1:08:56 ("Will All Mobility
+      Be Electric?" chapter): "For the last couple of years, I had come
+      up... and I bet on everything from scooter companies to a car,
+      truck, bus... [Guest:] Do you agree with that thesis that all
+      vehicle[s will go electric]?... [Nikhil:] But the adoption to EV
+      in this last cycle seems to be slowing down."
