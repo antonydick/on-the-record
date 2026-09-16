@@ -8,21 +8,23 @@ statements:
       Says he records this podcast once a month.
     topic: work-habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ckNEdxQ0Tc0&t=44s"
+      start_timestamp: "0:44"
+      end_timestamp: "1:00"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: 1:1 interview, no diarization. Attribution
-      inferred from conversational role (host framing the show format)
-      rather than confirmed via video. Corroborates nikhil-kamath-006
-      from the Sam Altman episode, which makes the same "once a month"
-      claim -- two independent extractions agreeing is a useful signal
-      but not itself a verification; still check against the recording.
+      SPEAKER ATTRIBUTION: 1:1 interview, confirmed via the video's
+      dense transcript at 0:44-1:00: "...there's no better person to
+      learn from, so we do this once in a month, Bill, and uh we
+      primarily cater to the young entrepreneur in India -- the idea is
+      to get really good people on the show..." Corroborates
+      nikhil-kamath-006 from the Sam Altman episode, which makes the
+      same "once a month" claim -- now backed by direct verification
+      of this instance.
 
   - id: nikhil-kamath-012
     person: nikhil-kamath
@@ -35,19 +37,25 @@ statements:
       Bangalore and all friends of his.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ckNEdxQ0Tc0&t=91s"
+      start_timestamp: "1:31"
+      end_timestamp: "1:48"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-011. "The year
       before this recording" is relative to this episode's publish date
-      (2024-06-14 per metadata.yaml) -- convert to an absolute year
-      during verification rather than assuming which year was meant.
+      (2024-06-14 per metadata.yaml), so "last year" as spoken points to
+      2023. Confirmed via the video's dense transcript at 1:31-1:48:
+      "...joined Bill's [pledge] last year... the one thing I want to
+      clarify is a lot of Indians, when they hear about an Indian
+      sign[ing] on to the pledge -- I think there's four of us, right,
+      we're all from Bangalore and all of us are friends -- people
+      somehow assume that the money is going out of India... it's
+      actually not the case."
 
   - id: nikhil-kamath-013
     person: nikhil-kamath
@@ -58,18 +66,21 @@ statements:
       States his age as 37 at the time of this recording.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ckNEdxQ0Tc0&t=414s"
+      start_timestamp: "6:54"
+      end_timestamp: "6:58"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-011. Useful as a
-      timeline anchor (episode published 2024-06-14 per metadata.yaml)
-      if confirmed -- gives an approximate birth year once verified.
+      timeline anchor (episode published 2024-06-14 per metadata.yaml),
+      implying a birth year of roughly 1986-1987. Confirmed via the
+      video's dense transcript at 6:54: "...in that sense, and me as a
+      37-year-old who's starting on this path, how do I think about
+      this?"
 
   - id: nikhil-kamath-014
     person: nikhil-kamath
@@ -83,12 +94,12 @@ statements:
       Foundation.
     topic: philanthropy
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=ckNEdxQ0Tc0&t=116s"
+      start_timestamp: "1:56"
+      end_timestamp: "12:58"
     evidence:
       excerpt: null
     notes: >
@@ -100,4 +111,11 @@ statements:
       statement -- Nikhil describing Rainmatter as "our foundation" in
       a clean 1:1 setting -- suggests it may be a joint initiative
       rather than solely his brother Nithin's, which is worth
-      reconsidering when verifying the Ep #6 material.
+      reconsidering when verifying the Ep #6 material. Confirmed via
+      the video's dense transcript in two separate places: the Gates
+      Foundation collaboration at 1:56-2:05 ("...the Gates Foundation,
+      who I worked with in the past, we've done a school project
+      together, we're doing something around malnutrition together...")
+      and the Rainmatter mention at 12:50-12:58 ("...so we have a
+      foundation, Bill, which does work around clim[ate], it's called
+      Rainmatter...").
