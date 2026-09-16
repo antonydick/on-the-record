@@ -9,22 +9,24 @@ statements:
       lunch with team members in their early 20s.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=YY7J1pHfSyY&t=2057s"
+      start_timestamp: "34:17"
+      end_timestamp: "34:33"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: 1:1 interview, no diarization. Attribution
-      inferred from conversational role, not confirmed via video.
-      Cross-reference: nikhil-kamath-013 (Bill Gates Ep #1, published
-      2024-06-14) has him stating his age as 37; this episode published
-      2025-04-10 has him at 38 -- consistent with a birthday in that
-      ~10-month window. Worth checking both together during
-      verification to help pin down an approximate birth date.
+      SPEAKER ATTRIBUTION: 1:1 interview, confirmed via the video's
+      dense transcript at 34:17-34:33: "So, I engaged every emotion to
+      drive myself in my 20s... So, I was having lunch with my team
+      today. A bunch of them are 21, 23, 24. And even at 38, I'm so
+      disconnected from how they think. Their version of reality, in a
+      way." Cross-reference: nikhil-kamath-013 (Bill Gates Ep #1,
+      published 2024-06-14) has him stating his age as 37; this episode
+      published 2025-04-10 has him at 38 -- consistent with a birthday
+      in that ~10-month window, now backed by direct verification.
 
   - id: nikhil-kamath-016
     person: nikhil-kamath
@@ -36,17 +38,21 @@ statements:
       year.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=YY7J1pHfSyY&t=2355s"
+      start_timestamp: "39:15"
+      end_timestamp: "39:23"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-015. Extends
-      nikhil-kamath-012 (Giving Pledge membership, from Ep #1).
+      nikhil-kamath-012 (Giving Pledge membership, from Ep #1). Confirmed
+      via the video's dense transcript at 39:15-39:23: "Thank you, Bill.
+      Thank you for doing this. And I think I'm seeing you next year.
+      Going to see you? You're coming to the giving pledge? -- It's
+      always fun to see you there."
 
   - id: nikhil-kamath-017
     person: nikhil-kamath
@@ -62,16 +68,24 @@ statements:
       more money and wanting to give it away.
     topic: motivation
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=YY7J1pHfSyY&t=1674s"
+      start_timestamp: "27:58"
+      end_timestamp: "28:17"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-015.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-015. Confirmed
+      via the video's dense transcript at 27:58-28:17: "...when I was to
+      think about what drives me deeply, in the beginning, I think it
+      was just money. I feel like I didn't have money, I wanted money.
+      Because of my conditioning, my years growing up looking at the
+      people around me with money, they looked happy. I think money
+      transitioned into relatively more power, jealousy, insecurity,
+      seeking validation, and different drivers for different parts of
+      my life."
 
   - id: nikhil-kamath-018
     person: nikhil-kamath
@@ -84,16 +98,22 @@ statements:
       in preparation for this interview.
     topic: work-habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=YY7J1pHfSyY&t=141s"
+      start_timestamp: "2:21"
+      end_timestamp: "2:39"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-015.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-015. Confirmed
+      via the video's dense transcript at 2:21-2:39: "...we met recently
+      in Switzerland and I asked you many things off camera. So, I spent
+      the last week reading Source Code. It took me a long time, I read
+      much slower than you, I presume. It took me 14-15 hours. So, my
+      time in the car, on my flight, in all my travels, and before going
+      to bed has been Source Code."
 
   - id: nikhil-kamath-019
     person: nikhil-kamath
@@ -107,17 +127,20 @@ statements:
       at an AI lab) to get direct exposure to the field.
     topic: work-habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=YY7J1pHfSyY&t=2372s"
+      start_timestamp: "39:32"
+      end_timestamp: "39:40"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-015. This
-      exchange happens in informal post-interview banter, which may
-      affect how literally it should be taken -- flag for the verifier
-      to note tone, not just content, when checking against the
-      recording.
+      exchange happens in informal post-interview banter, immediately
+      after Nikhil thanks Bill and they discuss meeting again at the
+      Giving Pledge -- tone is light/half-joking, consistent with the
+      draft's framing. Confirmed via the video's dense transcript at
+      39:32-39:40: "Actually I wanted to ask you some advice. So, I am
+      seeking that I am losing out on the whole AI world. So, I want to
+      take some job somewhere in the US or an internship, unpaid one."
