@@ -12,12 +12,12 @@ statements:
       owners involved in this trend are personal friends of his.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=WMRO9dvD5T0&t=3180s"
+      start_timestamp: "53:00"
+      end_timestamp: "54:00"
     evidence:
       excerpt: null
     notes: >
@@ -25,8 +25,14 @@ statements:
       Pharma's Rajiv Juneja and Dr. Reddy's G.V. Prasad), no
       diarization. Attribution inferred from conversational role and
       content, not confirmed via video. The second hospital-IPO name is
-      garbled in the auto-transcript ("money pulse") -- confirm during
-      verification rather than guessing which company this refers to.
+      garbled in the auto-transcript ("money pulse") -- not confirmed
+      further. Confirmed via live captions at 53:00-54:00 ("Whether
+      hospital roll-up valuations are justified" chapter): "...They're
+      buying many small hospitals, aggregating them... if you buy a
+      hospital individually [versus as part of a chain]... how do you
+      see that business?" -- confirms the core PE/hospital-aggregation
+      topic, though the specific "Max" and personal-friends framing was
+      not caught verbatim in this pass.
 
   - id: nikhil-kamath-113
     person: nikhil-kamath
@@ -38,7 +44,7 @@ statements:
       magnesium, a sleep aid, and omega-3.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -47,7 +53,10 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112. Not located
+      in this pass -- no obvious chapter for a brief personal supplement
+      list, and this video's transcript panel failed to load. Left at
+      reviewed.
 
   - id: nikhil-kamath-114
     person: nikhil-kamath
@@ -62,7 +71,7 @@ statements:
       landlord collecting rent for shelf placement.
     topic: biography
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -73,9 +82,13 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112. A
       surprising, specific, and checkable biographical claim not
-      mentioned elsewhere in this dataset -- confirm carefully during
-      verification given the difficulty of speaker attribution in this
-      episode's fast, cross-talking exchanges.
+      mentioned elsewhere in this dataset -- confirm carefully given the
+      difficulty of speaker attribution in this episode's fast,
+      cross-talking exchanges. Checked the "Rajeev Juneja's path from
+      medical-store apprentice" chapter (4:27/267s) via live captions,
+      but that segment is Rajeev's own story, not Nikhil's -- this
+      statement's location was not narrowed down further, and this
+      video's transcript panel failed to load. Left at reviewed.
 
   - id: nikhil-kamath-115
     person: nikhil-kamath
@@ -87,7 +100,7 @@ statements:
       amazed by the innovation ecosystem he saw there.
     topic: travel
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -98,7 +111,11 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112.
       Cross-reference: consistent with the China trip discussed in the
-      nikhil-kamath-enervenue-hina episode.
+      nikhil-kamath-enervenue-hina episode. Checked the "How China built
+      a pharma-innovation ecosystem in a decade" chapter (1:03:21/3801s)
+      via live captions but did not catch this specific personal-trip
+      aside verbatim; this video's transcript panel also failed to load.
+      Left at reviewed.
 
   - id: nikhil-kamath-116
     person: nikhil-kamath
@@ -110,7 +127,7 @@ statements:
       transition from Mao Zedong to Deng Xiaoping in China.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -124,7 +141,10 @@ statements:
       nikhil-kamath-094 (EnerVenue x HiNa episode), where he describes
       reading "a bunch of books on Chinese history" including this same
       Mao-to-Deng transition -- strong same-period corroboration across
-      two independently recorded episodes.
+      two independently recorded episodes. Likely in the same
+      "How China built a pharma-innovation ecosystem" chapter area as
+      nikhil-kamath-115, but not independently located in this pass;
+      this video's transcript panel failed to load. Left at reviewed.
 
   - id: nikhil-kamath-117
     person: nikhil-kamath
@@ -141,21 +161,29 @@ statements:
       recurring clicking sound in his right knee.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=WMRO9dvD5T0&t=6957s"
+      start_timestamp: "1:55:57"
+      end_timestamp: "1:58:20"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112. Personal
-      health content -- treat with particular care during verification
-      and do not present as medical advice or settled fact; note that
-      the guests explicitly point out these treatments (stem cells,
-      polynucleotide injections) are not FDA-approved / evidence-backed
-      for the uses discussed.
+      health content -- treated with particular care; confirmed directly
+      against the recording rather than presented as medical advice or
+      settled fact, and the guests explicitly point out these treatments
+      are not FDA-approved / evidence-backed for the uses discussed.
+      Confirmed via live captions at 1:55:57-1:58:20 ("Stem cells and
+      peptides, separating therapy from hype" chapter): "Now tell me,
+      what are stem cells, peptides?... Stem cells are when newly born
+      children, they have them in the umbilical cord... [Nikhil, on his
+      own treatment:] In Dubai also... [Guest:] But again, it's still
+      not medically proven." The "salmon sperm DNA" polynucleotide and
+      paddle/tennis-elbow/knee-clicking details were not caught verbatim
+      within the sampled window, but the core stem-cell/umbilical-cord/
+      Dubai/not-medically-proven content is confirmed.
 
   - id: nikhil-kamath-118
     person: nikhil-kamath
@@ -167,7 +195,7 @@ statements:
       in starting a business around GLP-1 weight-loss drugs.
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -176,4 +204,11 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-112. Located to
+      the general area of the "Where a young founder can enter the
+      GLP-1 wave" chapter (2:15:07/8107s per the video description) via
+      live captions -- confirmed extensive GLP-1/weight-loss business
+      discussion in this window ("What if I find two fat people who
+      became thin?") but did not catch the specific "ten of my friends"
+      line verbatim. This video's transcript panel also failed to load.
+      Left at reviewed.
