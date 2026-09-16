@@ -1,0 +1,80 @@
+statements:
+  - id: raj-shamani-13819
+    person: raj-shamani
+    source: raj-shamani-fo489-mukul-singh-chauhan
+    type: observation
+    text: >
+      In the episode's cold open, Raj narrates that Mukul Singh Chauhan
+      is one of the most fearless voices exposing India's drug reality.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=FOShWdqVbeI"
+      start_timestamp: "00:00:10"
+      end_timestamp: "00:00:20"
+    evidence:
+      excerpt: "मुकुल सिंह चौहान वन ऑफ द मोस्ट फियरलेस वॉइसेस एक्सपोजिंग इंडियास"
+    notes: >
+      ~[00:00:10]-[00:00:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13820
+    person: raj-shamani
+    source: raj-shamani-fo489-mukul-singh-chauhan
+    type: assertion
+    text: >
+      Raj reads a sponsor mention for the ASUS ExpertBook P Series
+      laptop, saying it can easily handle any kind of rough usage
+      because it passes 24 out of 28 US military-grade tests, that its
+      best feature is its military-grade durability so users don't
+      need to fear damaging it, and that it's available on Flipkart via
+      the link in the description.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=FOShWdqVbeI"
+      start_timestamp: "00:02:40"
+      end_timestamp: "00:03:20"
+    evidence:
+      excerpt: "चाहे ऑफिस का वर्क लोड हो या ट्रैवल का हेक्टिक स्केड्यूल। ... नो मैटर हाउ टफ एंड बिजी द सिचुएशन गेट्स। जब आपका टेक रिलायबल"
+    notes: >
+      ~[00:02:40]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. ASUS ExpertBook P Series sponsor read, matching the pattern
+      of other ASUS-sponsored episodes from this period.
+
+  - id: raj-shamani-13821
+    person: raj-shamani
+    source: raj-shamani-fo489-mukul-singh-chauhan
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel so the show can keep bringing valuable guests,
+      comment telling him which other guests they want to see on the
+      podcast so he can bring them on and ask the questions viewers
+      want asked, and share the episode with one person since one
+      conversation is enough to change someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=FOShWdqVbeI"
+      start_timestamp: "01:43:23"
+      end_timestamp: "01:43:43"
+    evidence:
+      excerpt: "करनी है। नंबर वन इस चैनल को सब्सक्राइब कर लो ताकि हम इसी तरह और ज्यादा"
+    notes: >
+      ~[01:43:20]-[01:43:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Variant of the standard closing outro seen elsewhere in
+      this backlog sweep — item two here asks for guest suggestions
+      rather than feedback on what the show did right or wrong.
