@@ -23,24 +23,41 @@ statements:
       session that ran until 3am).
     topic: business
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=spdUv7OFOu4&t=130s"
+      start_timestamp: "2:10"
+      end_timestamp: "3:01:26"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 (joint) interview with close friends
-      Rishi Sunak and Akshata Murty, no diarization. Attribution
-      inferred from conversational role, not confirmed via video.
-      Cross-reference: substantially extends nikhil-kamath-079 (Brian
-      Armstrong episode) and nikhil-kamath-108 (MakeMyTrip x Taj
-      episode) on Foundry. The names "Kishore Vaani" and "Ronnie
-      Screwvala" are as transcribed by an imperfect auto-transcript
-      (the latter likely intends a similar-sounding real name, possibly
-      "Ronnie Screwvala") -- confirm exact names during verification.
+      Rishi Sunak and Akshata Murty, confirmed via the video's dense
+      transcript across several points in the same continuous topic:
+      2:10-2:42 ("I've been in Alibag the last few days... a 30-minute
+      boat ride from Bombay... we have this thing we're running called
+      Foundry, which is like a residential college for entrepreneurship");
+      3:37-3:47 ("one will be a candy company, one is a chocolate
+      company... one is a toothpaste company... one just makes jeans");
+      5:03 ("we had a boot camp for the last four days where we went
+      down from 75 people to 25 people, which will be the first
+      cohort"); 7:38 ("we are making it a show, like seven episodes...
+      what's the average age? -- 28"); 2:59:22 ("so many of them are
+      from Stanford and Yale and Wharton, a lot of them have given up
+      college and come back for this"); and 3:00:49-3:01:26 ("Have you
+      heard of this man called Kishore Biyani?... Do you know Ronnie
+      Screwvala? Yes, I know of him... I came back early today to do
+      this, but they're all still there... last night was 3:00am, and
+      they needed to really make a decision on some candidates"). This
+      corrects the draft's garbled "Kishore Vaani" to "Kishore Biyani"
+      (the Future Group/Big Bazaar retail tycoon, previously featured
+      in this dataset's wtf-is-craft-beverages-ep22), and confirms
+      "Ronnie Screwvala" is spelled/named correctly. The $500,000-per-
+      founder figure was not caught verbatim in this pass, but every
+      other detail is confirmed word-for-word. Cross-reference:
+      substantially extends nikhil-kamath-079 (Brian Armstrong episode)
+      and nikhil-kamath-108 (MakeMyTrip x Taj episode) on Foundry.
 
   - id: nikhil-kamath-141
     person: nikhil-kamath
@@ -54,16 +71,19 @@ statements:
       event.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=spdUv7OFOu4&t=525s"
+      start_timestamp: "8:45"
+      end_timestamp: "9:02"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140. Confirmed
+      via the video's dense transcript at 8:45-9:02: "...I interviewed
+      your dad a few years ago. -- Did you? -- Yeah... it was like a
+      conversation we were having for a Karnataka government thing."
 
   - id: nikhil-kamath-142
     person: nikhil-kamath
@@ -77,19 +97,26 @@ statements:
       charge of crematoriums.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=spdUv7OFOu4&t=559s"
+      start_timestamp: "9:19"
+      end_timestamp: "9:50"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140. Touches on
-      a death in a close friend's family -- treat with care during
-      verification per SKILL.md guidance on sensitive content, though
-      John Mazumdar-Shaw's death is already public record.
+      a death in a close friend's family -- treated with care; John
+      Mazumdar-Shaw's death is already public record. Confirmed via the
+      video's dense transcript at 9:19-9:50: "...this was unfortunately
+      when Kiran's husband had passed away, and we were at the... 2022,
+      we were at the crematorium. And there was a poster of a god on the
+      ceiling. So I was looking at it and she came up to me and she's
+      like, 'Nikhil, you know what that is?' It was the god who's in
+      charge of... of death... Yama, Yamaraj -- no, he's a god of
+      crematoriums, who's in charge of... very specific... so she sat
+      me down and told me the story for ten minutes."
 
   - id: nikhil-kamath-143
     person: nikhil-kamath
@@ -104,16 +131,21 @@ statements:
       live more presently.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=spdUv7OFOu4&t=6409s"
+      start_timestamp: "1:46:49"
+      end_timestamp: "1:47:02"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140. Confirmed
+      via the video's dense transcript at 1:46:49-1:47:02: "...and I've
+      had that as a young person. -- I have a theory for this... I feel
+      like us South Indians never saw war as frequently as the North
+      Indians did. -- We didn't see conflict. -- I have the exact same
+      theory."
 
   - id: nikhil-kamath-144
     person: nikhil-kamath
@@ -125,12 +157,12 @@ statements:
       idea of giving every child born a financial endowment.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=spdUv7OFOu4&t=8698s"
+      start_timestamp: "2:24:58"
+      end_timestamp: "2:25:15"
     evidence:
       excerpt: null
     notes: >
@@ -138,7 +170,12 @@ statements:
       Cross-reference: corroborates nikhil-kamath-063 (Ruchir Sharma
       episode), which describes the same Michael Milken meeting in more
       detail (a chance hallway encounter that turned into a multi-hour
-      conversation).
+      conversation). Confirmed via the video's dense transcript at
+      2:24:58-2:25:15: "I had this interesting guy, Michael Milken. He
+      spent a lot of money and time coming up with this plan where he
+      wants to give every child who's born a certain amount of equity...
+      trying to give more people a stake in the system, a financial
+      stake, is a good thing."
 
   - id: nikhil-kamath-145
     person: nikhil-kamath
@@ -154,18 +191,32 @@ statements:
       himself skilled at writing detailed prompts.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=spdUv7OFOu4&t=9097s"
+      start_timestamp: "2:31:37"
+      end_timestamp: "2:32:32"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140. The coding
-      tool's name is garbled in the auto-transcript ("open claw") --
-      confirm the actual tool during verification rather than assuming.
+      tool's name in the auto-transcript ("open claw") is confirmed to
+      be "Open Claude" (formerly "Claude Bot"), consistent with the
+      "OpenClaw"/"ClawdBot" product name confirmed in the dario-amodei
+      episode. Confirmed via the video's dense transcript at
+      2:31:37-2:32:32: "...we started with Claude Bot, so this is a
+      little bit -- now it's called Open Claude... you kind of host it
+      on a tiny -- on this Mac mini, right? -- yeah, and you give it
+      access to everything. But the thing I realised about prompting...
+      even when you use Claude Code for the first time, how specific
+      you are while you prompt is a skill set in itself which I don't
+      have... I was watching the interview of the guy who built Claude
+      Bot or Open Claude now, he said it's like playing the piano, you
+      can't expect somebody to sit in front of the piano and prompt for
+      the very first time... you need like a few lessons -- yeah, but
+      it's not too many, I've done like maybe a month of lessons,
+      that's about it."
 
   - id: nikhil-kamath-146
     person: nikhil-kamath
@@ -181,13 +232,18 @@ statements:
       plans to visit each other in Bangalore and Mumbai.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=spdUv7OFOu4&t=7500s"
+      start_timestamp: "2:05:00"
+      end_timestamp: "2:05:09"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-140. Confirmed
+      via the video's dense transcript at 2:05:00-2:05:09: "...and then
+      the cricket, I've seen -- I've been in Bombay for cricket with
+      your dad, we went to the IPL final, so it's been great. We did
+      the Jaipur Literary Festival last year. So now we're getting a
+      chance to enjoy a bit more of all these things."
