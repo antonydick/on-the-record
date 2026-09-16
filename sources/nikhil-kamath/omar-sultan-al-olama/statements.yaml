@@ -9,7 +9,7 @@ statements:
       Al Olama (35), while discussing generational differences.
     topic: biography
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -27,7 +27,11 @@ statements:
       nikhil-kamath-130, nikhil-kamath-097 and nikhil-kamath-119. A
       brief exchange moments later in the transcript ("I'm dreading 36")
       is garbled/inconsistent in the auto-transcript and should not be
-      relied on.
+      relied on. Not located in this pass -- checked the opening minutes
+      and the "Making of a Minister" chapter (~15:42/942s) via live
+      captions without finding this specific age comparison, and this
+      video's transcript panel failed to load in this session. Left at
+      reviewed.
 
   - id: nikhil-kamath-137
     person: nikhil-kamath
@@ -40,7 +44,7 @@ statements:
       Ray Dalio before this conversation with Omar Sultan Al Olama.
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -50,11 +54,17 @@ statements:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-136. Stated by
-      the moderator ("Manoj"/"Manuj" in the garbled transcript) rather
-      than by Nikhil in the first person -- confirm which specific
-      episodes these correspond to during verification, and check
-      whether Elon Musk, Sam Altman, and Ray Dalio sources need to be
-      added to this dataset.
+      the moderator (confirmed via the video description to be Manoj
+      Ladwa of India Global Forum, not garbled -- the event host)
+      rather than by Nikhil in the first person -- confirm which
+      specific episodes these correspond to, and check whether Elon
+      Musk, Sam Altman, and Ray Dalio sources need to be added to this
+      dataset. Checked the "Why This Conversation Happened at IGF"
+      chapter (~13:20/800s) via live captions -- found Omar describing
+      a last-minute phone call setting up this interview, but did not
+      locate the moderator's specific interview-lineup remark. This
+      video's transcript panel also failed to load in this session.
+      Left at reviewed.
 
   - id: nikhil-kamath-138
     person: nikhil-kamath
@@ -67,16 +77,28 @@ statements:
       generous, forgiving, and religious) during the discussion.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=9gX2-RvNhf8&t=1478s"
+      start_timestamp: "24:38"
+      end_timestamp: "24:58"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-136.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-136, but this
+      falls exactly at the video's own "Machiavelli" chapter marker
+      (24:42 per the official description timestamps), and the opening
+      line "Someone like Machiavelli" at 24:42 reads as Nikhil
+      introducing the reference (interviewer framing a new topic),
+      followed by "...he's remembered on more of a cynical and negative
+      sense, but still, the impact he's had on certain political
+      science [thought]..." before Omar responds with "Look, I think
+      Machiavelli brought a side of political science..." at 24:58.
+      Confirmed via live captions that this topic is discussed exactly
+      where the chapter says; the specific "appear generous, forgiving,
+      and religious" phrase was not caught verbatim in this pass, but
+      the Machiavelli/Prince framing itself is confirmed.
 
   - id: nikhil-kamath-139
     person: nikhil-kamath
@@ -89,7 +111,7 @@ statements:
       than he is.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -101,3 +123,7 @@ statements:
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-136.
       Cross-reference: consistent with the paddle/racquet-sport habit
       referenced in nikhil-kamath-117 (Mankind x Dr. Reddy's episode).
+      Not located in this pass -- this is a nearly-2-hour conversation
+      with no obvious chapter for a casual personal aside like this, and
+      this video's transcript panel failed to load in this session,
+      preventing a full-text search. Left at reviewed.
