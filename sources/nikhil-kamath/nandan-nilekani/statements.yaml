@@ -11,7 +11,7 @@ statements:
       speak at length in public.
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -22,7 +22,17 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Nandan
       Nilekani), no diarization. Attribution inferred from
-      conversational role, not confirmed via video.
+      conversational role, not confirmed via video. Live captions were
+      scrubbed across the opening ~2 minutes (0:00-2:00) where this kind
+      of framing remark would typically sit -- found Nandan reflecting
+      on "feel[ing] so intimidated" by interviews (0:40-0:53) and Nikhil
+      posing his opening framing question about India Stack/capitalism
+      (1:05) -- but this statement's specific "I usually see you at your
+      house" line was not located in that window, and this video's
+      transcript panel repeatedly failed to load in this browsing
+      session (stuck on a loading spinner), preventing a full-text
+      search. Left at reviewed rather than forcing an unconfirmed
+      timestamp.
 
   - id: nikhil-kamath-030
     person: nikhil-kamath
@@ -34,7 +44,7 @@ statements:
       eKYC for customer onboarding in the capital markets industry.
     topic: work-habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -43,7 +53,21 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-029.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-029. Located to
+      the "Online Authentication & KYC" chapter (starting 15:07/907s of
+      the video per the description's official timestamps) with high
+      confidence: live captions confirm this whole chapter is exactly
+      about Aadhaar-based eKYC's rollout across banking and other
+      sectors ("after Aadhaar came eKYC and eSign"..."the use of Aadhaar
+      KYC in banking happened after 2016"..."we had to first work with
+      the government of India... work with the RBI to get them to
+      accept it for banks"). However, continuous live-caption scrubbing
+      from 907s through 1060s (covering this chapter and into the
+      following "Jan Dhan Program" chapter) did not surface Nikhil's own
+      specific "Zerodha was a major beneficiary" line -- it may sit in a
+      brief aside between sampled caption snapshots (~15s apart), or
+      just outside this window. This video's transcript panel also
+      repeatedly failed to load in this session. Left at reviewed.
 
   - id: nikhil-kamath-031
     person: nikhil-kamath
@@ -55,7 +79,7 @@ statements:
       transition sector as a potential investment theme.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -70,4 +94,11 @@ statements:
       describes ongoing, sustained research into specific investment
       sectors/themes -- here it's energy transition rather than
       demographics/luxury spend, suggesting this is a general working
-      habit (parallel sector research tracks) rather than a one-off.
+      habit (parallel sector research tracks) rather than a one-off. Not
+      located in this pass -- checked the "Rapid Fire With Nandan"
+      chapter (~1:01:20/3680s per the video description) but that
+      segment was still on Finternet/CBDC topics when sampled at
+      3680-3730s, and this video's transcript panel failed to load in
+      this session. Left at reviewed; a future pass should check the
+      closing "Advice to 20 y/o with funding" chapter (1:04:00/3840s)
+      more closely.
