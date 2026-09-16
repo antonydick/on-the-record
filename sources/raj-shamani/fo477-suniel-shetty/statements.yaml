@@ -1,0 +1,85 @@
+statements:
+  - id: raj-shamani-13854
+    person: raj-shamani
+    source: raj-shamani-fo477-suniel-shetty
+    type: assertion
+    text: >
+      Raj reads a sponsor mention saying that to bridge the real estate
+      investment gap, Birla Estates started an initiative called Real
+      Advice to help people understand the world of real estate by
+      bringing experts and real experiences onto a single platform for
+      safer, better-informed decisions, and that this is a special
+      series done with Birla Estates.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=usmu9LUPhfw"
+      start_timestamp: "00:03:10"
+      end_timestamp: "00:03:30"
+    evidence:
+      excerpt: "by bringing experts and real experiences on a single platform safe or better"
+    notes: >
+      ~[00:03:00]-[00:03:40] Transcribed via YouTube English
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote.
+      Unlike most other episodes in this backlog sweep, this episode is
+      spoken entirely in English, so English auto-captions were used
+      instead of Hindi/Hinglish ones. Birla Estates "Real Advice"
+      sponsor read, matching the pattern seen in fo490-harsh-parikh.
+
+  - id: raj-shamani-13855
+    person: raj-shamani
+    source: raj-shamani-fo477-suniel-shetty
+    type: observation
+    text: >
+      Raj introduces the guest as a superstar with decades in the
+      industry and almost 140 films, saying in this episode they will
+      learn how his weakest point is being a father and being unable
+      to handle his children's issues, along with his real estate
+      investment and home-buying strategies; he asks viewers to watch
+      the episode to the end and check the link in the description to
+      learn more about the Birla Estates Real Advice initiative.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=usmu9LUPhfw"
+      start_timestamp: "00:03:35"
+      end_timestamp: "00:04:00"
+    evidence:
+      excerpt: "children's issues taunt almost 140 films"
+    notes: >
+      ~[00:03:40]-[00:04:20] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13856
+    person: raj-shamani
+    source: raj-shamani-fo477-suniel-shetty
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel, comment with feedback, and share the episode with
+      one person.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=usmu9LUPhfw"
+      start_timestamp: "01:32:50"
+      end_timestamp: "01:33:20"
+    evidence:
+      excerpt: "And number three, ... I'll see you next time. Until then, keep figuring out"
+    notes: >
+      ~[01:32:40]-[01:33:36] Transcribed via YouTube English
+      auto-captions; the consolidated transcript cuts off mid-outro
+      ("Thank you so much. Number one. Number two, please comment.") at
+      the point the source VTT ends, so the exact closing wording will
+      be confirmed directly from on-screen captions during verification
+      rather than from the transcript excerpt alone. Standard closing
+      outro pattern seen throughout this backlog sweep.
