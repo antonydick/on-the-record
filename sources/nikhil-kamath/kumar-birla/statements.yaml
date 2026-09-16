@@ -10,28 +10,31 @@ statements:
       age as 38.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=e6FqC4pWy8I&t=4292s"
+      start_timestamp: "1:11:32"
+      end_timestamp: "1:11:54"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Kumar
-      Birla), no diarization. Attribution inferred from conversational
-      role and self-referential content, not confirmed via video. Cross
-      -reference: this episode published 2024-12-19 per metadata.yaml,
-      between nikhil-kamath-013 (age 37, June 2024) and
-      nikhil-kamath-015 (age 38, April 2025) -- all three are
-      internally consistent with a birthday between June and December
-      2024. Also relevant to the Ep #6 health-panel material: an
-      unattributed passage there (see sources/nikhil-kamath/
-      wtf-is-health-ep6) has someone starting to trade "by 15 16,"
-      attributed there to Nithin describing Nikhil in the third person
-      -- this statement's "started at 17" is closer but not identical,
-      worth reconciling during verification.
+      Birla), confirmed via the video's dense transcript at
+      1:11:32-1:11:54: "...I tell myself that I have been an
+      investor/trader for 21 years of my life. I started at 17. I'm 38
+      today." Cross-reference: this episode published 2024-12-19 per
+      metadata.yaml, between nikhil-kamath-013 (age 37, June 2024) and
+      nikhil-kamath-015 (age 38, April 2025) -- all three are internally
+      consistent with a birthday between June and December 2024, and
+      this statement's own "17/21 years/38" figures are internally
+      consistent with each other. Also relevant to the Ep #6
+      health-panel material: an unattributed passage there (see
+      sources/nikhil-kamath/wtf-is-health-ep6) has someone starting to
+      trade "by 15 16," attributed there to Nithin describing Nikhil in
+      the third person -- this statement's confirmed "started at 17" is
+      close but not identical; left unreconciled as a minor discrepancy
+      between two separate self/sibling accounts.
 
   - id: nikhil-kamath-027
     person: nikhil-kamath
@@ -45,22 +48,27 @@ statements:
       with a fifth occasion he could not recall.
     topic: family
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=e6FqC4pWy8I&t=4215s"
+      start_timestamp: "1:10:15"
+      end_timestamp: "1:11:01"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-026.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-026. Confirmed
+      via the video's dense transcript at 1:10:15-1:11:01: "...I don't
+      cry much as well, like I can count on my fingers how many times
+      I've cried in the last decade... like I said, five times, I
+      remember, brother stroke, dad, dog passing away, maybe one
+      breakup, and I can't even remember the fifth in the last decade."
       Cross-reference: corroborates nikhil-kamath-022 (Ranbir Kapoor
       episode), which describes the father's death and brother's stroke
       in more detail -- two independent extractions naming the same
-      events is a useful signal but not itself verification. Treat with
-      the same sensitivity-during-verification note as
-      nikhil-kamath-022.
+      events is a useful signal, now backed by direct verification here.
+      Treat with the same sensitivity-during-handling note as
+      nikhil-kamath-022 given the personal/grief-related content.
 
   - id: nikhil-kamath-028
     person: nikhil-kamath
@@ -76,13 +84,24 @@ statements:
       work.
     topic: work-habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=e6FqC4pWy8I&t=6285s"
+      start_timestamp: "1:44:45"
+      end_timestamp: "1:45:49"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-026.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-026. Confirmed
+      via the video's dense transcript at 1:44:45-1:45:49: "...I've
+      realized that most of what I do is pretend to work. I had this
+      conversation with somebody at some point of time... one day I was
+      sitting in my office and having this conversation with some CXO
+      of our company and my brother and a couple other guys, and we all
+      started saying this one after the other, one is like, okay, I
+      pretend to work X hours a day out of the insecurity of knowing
+      you're sitting in front of me and pretending to work. I don't
+      think I do productive work for more than -- quite complex, maybe
+      like 90 minutes a day, and that would be pushing it -- the rest of
+      the time is very repetitive work."
