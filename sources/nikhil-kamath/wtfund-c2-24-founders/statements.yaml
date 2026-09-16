@@ -19,12 +19,12 @@ statements:
       WTFund is meant to be "the first arm of support."
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=yFyIBKK361E&t=432s"
+      start_timestamp: "7:12"
+      end_timestamp: "8:20"
     evidence:
       excerpt: null
     notes: >
@@ -35,7 +35,14 @@ statements:
       specific to the fund itself ("we give a 20 lakh grant," "we have
       rights... to invest further," "our job... as investors"), matching
       his established role as WTFund's founder/host across this episode
-      and the main WTF interview series.
+      and the main WTF interview series. Confirmed via live captions at
+      7:12-8:20 ("About WTFund" chapter): "...part of the WTF fund that
+      while we give a 20 lakh grant, we also [retain the right to invest
+      further] down the line as they raise further... the aim of [this]
+      to market readiness, and to get them prepared for a further
+      [raise]... [we look at two things,] one is the kind of sectors
+      that they can enter... in India, where is the support? We are the
+      first arm of support."
 
   - id: nikhil-kamath-228
     person: nikhil-kamath
@@ -55,12 +62,12 @@ statements:
       money despite the number of players that have scaled.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=yFyIBKK361E&t=1715s"
+      start_timestamp: "28:35"
+      end_timestamp: "29:10"
     evidence:
       excerpt: null
     notes: >
@@ -70,7 +77,13 @@ statements:
       bit of experience that I have as an investor in some of these
       coffee brands") from the panel's questioner, addressed directly to
       the beverage-brand founders being interviewed, consistent with his
-      host/investor role throughout.
+      host/investor role throughout. Confirmed via live captions at
+      28:35-29:10 (during the "drnk" Q&A): "...[in]vest, and you account
+      for real estate to cost of cup... buying a coffee or a slushy or a
+      matcha and walking the streets, so your [economics don't
+      translate]... scaled, so as I -- I -- I do get a point of the
+      comparative, but that's why I think [it's very complicated and
+      nuanced]."
 
   - id: nikhil-kamath-229
     person: nikhil-kamath
@@ -86,7 +99,7 @@ statements:
       founders' own brand could similarly benefit from.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -98,7 +111,14 @@ statements:
       SPEAKER ATTRIBUTION: same format/caveat as nikhil-kamath-227-228.
       Attributed to Nikhil as a continuation of the same questioner's
       turn giving the beverage founders market feedback, stated in first
-      person ("I was looking at this non-alcoholic beer brand").
+      person ("I was looking at this non-alcoholic beer brand"). Located
+      to the same "drnk" Q&A segment as nikhil-kamath-228 (roughly
+      28:00-32:00 of the video) via live captions -- confirmed extensive
+      surrounding discussion of the drinks category (coffee-shop
+      economics, community building, product accessibility) but did not
+      catch the specific non-alcoholic beer brand mention verbatim
+      within the sampled window. This video's transcript panel also
+      failed to load in this session. Left at reviewed.
 
   - id: nikhil-kamath-230
     person: nikhil-kamath
@@ -112,12 +132,12 @@ statements:
       making friends with the kind of people he later wished he had.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=yFyIBKK361E&t=4438s"
+      start_timestamp: "1:13:58"
+      end_timestamp: "1:14:05"
     evidence:
       excerpt: null
     notes: >
@@ -125,4 +145,8 @@ statements:
       episode. Attributed to Nikhil as the session's closing remarks
       immediately following the final founder's pitch and directly
       addressed to "the WTF fund team" and "this cohort," matching his
-      role as host throughout.
+      role as host throughout. Confirmed via live captions at
+      1:13:58-1:14:05 ("Onto the next" chapter): "...I think this has
+      been a great cohort, you guys are so incredibly impressive, I wish
+      I was friends [with people like you at your] age, and I didn't
+      make the friends with the people [I later wished I had]."
