@@ -16,12 +16,12 @@ statements:
       US, UK, and South Korea.
     topic: economics
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=-HkBwSazZsM&t=8525s"
+      start_timestamp: "2:22:05"
+      end_timestamp: "2:22:37"
     evidence:
       excerpt: null
     notes: >
@@ -32,7 +32,16 @@ statements:
       ("being a stock trader 19 years full-time has taught me...") and is
       shortly afterward directly addressed by another panelist as "is this
       idealistic Nikhil" -- both anchor this extended monologue (spanning
-      capitalism/UBI/tax views) to Nikhil specifically.
+      capitalism/UBI/tax views) to Nikhil specifically. Confirmed via the
+      video's dense transcript at 2:22:05-2:22:37: "Being a stock trader
+      19 years full-time has taught me [the] expectation is productivity
+      goes up across the world, across the board, UBI comes into play...
+      UBI brings some kind of equanimity across the world... I think
+      capitalism works relative to everything else we've seen, but the
+      version of capitalism we have probably has to [change]." Property
+      tax detail corroborated separately at 2:23:53-2:24:18: "...property
+      tax is the best thing that will happen in India... as much as two
+      percent of the value of your property every year."
 
   - id: nikhil-kamath-170
     person: nikhil-kamath
@@ -51,20 +60,33 @@ statements:
       collapse in the US.
     topic: finance
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=-HkBwSazZsM&t=8395s"
+      start_timestamp: "2:19:55"
+      end_timestamp: "2:20:56"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-169 -- this passage
       is part of the same continuous finance-focused block, immediately
-      following the SVB discussion and preceding the "stock trader 19
-      years" self-identification, and another panelist's jab afterward
-      ("you like the central bank") is consistent with addressing Nikhil.
+      preceding the "stock trader 19 years" self-identification. Confirmed
+      via the video's dense transcript at 2:19:55-2:20:56: "...long dated
+      paper in India works the same way, we call them G-Secs, government
+      securities... [it] hasn't hit us as much because we have gone from
+      five percent to four and a half percent to like six and a half
+      percent, which is like a twenty-thirty percent change; if a rate of
+      change event like that occurs and six percent becomes 12, 15, 20...
+      for everybody holding G-Secs, they will be marked-to-market -- and
+      everybody has G-Secs, banks, brokers, insurance companies, everybody
+      -- I think this is something the government should probably not
+      consider as cash today... say you're buying a stock, you buy 100
+      rupees worth of Infosys, to get full margin from that stock you
+      need to bring in 100 rupees of cash to create a pledge and get full
+      margin; today G-Sec is considered as cash, I think that's a
+      systemic risk... SVB, exactly as [that] can happen here, it's just
+      the rate of change is not the same."
 
   - id: nikhil-kamath-171
     person: nikhil-kamath
@@ -82,17 +104,30 @@ statements:
       gold buying.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=-HkBwSazZsM&t=8463s"
+      start_timestamp: "2:11:03"
+      end_timestamp: "2:11:36"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-169; part of the
-      same continuous finance monologue block.
+      same continuous finance monologue block. Confirmed via the video's
+      dense transcript at 2:10:39-2:11:36: "...I think the number was 500
+      billion, something like half a trillion, was the amount of gold
+      weight imported in the last couple of years, and to negate this the
+      government said we will start gold bonds -- invest in [the]
+      sovereign gold bond to negate the impact on the fiscal deficit that
+      we are having -- but it's a pity that we don't have gold, because
+      traditionally we did... right now we're right next to the only gold
+      mine we have, KGF... a lot of central banks across the world, from
+      China to Russia... are starting to hold gold." The specific detail
+      of personally buying gold during zero-rate conditions and losing
+      money as rates rose was not caught verbatim in this excerpt, but
+      the broader gold/fiscal-deficit/KGF/Sovereign-Gold-Bond content is
+      confirmed word-for-word.
 
   - id: nikhil-kamath-172
     person: nikhil-kamath
@@ -107,18 +142,24 @@ statements:
       method if a large enough population had to become self-sufficient.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=-HkBwSazZsM&t=7645s"
+      start_timestamp: "2:07:25"
+      end_timestamp: "2:07:56"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-169. The JP Nagar,
       Bangalore location is consistent with Nikhil's known Bangalore base
-      (Zerodha's headquarters).
+      (Zerodha's headquarters). Confirmed via the video's dense transcript
+      at 2:07:25-2:07:56: "...I think for food the best answer is not
+      using the mediums you're used to but something like hydroponics...
+      we'll have to figure out how to farm in a smaller space -- you can
+      actually, so in my house in JP Nagar, on the terrace, we have a --
+      what would I say -- 400 square feet, 500 square feet hydroponic
+      farm, [and] it easily produces enough for the family."
 
   - id: nikhil-kamath-173
     person: nikhil-kamath
@@ -140,19 +181,32 @@ statements:
       going to be okay."
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=-HkBwSazZsM&t=7693s"
+      start_timestamp: "2:08:13"
+      end_timestamp: "2:09:06"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-169. This block
       is prompted by another panelist directly asking why "the white
-      collar elites in India" might turn to extremes, with the response
-      given in first person ("my strategy is very simple...").
+      collar elites in India" might turn to extremes. Confirmed via the
+      video's dense transcript at 2:08:13-2:09:06: "...the law is
+      overburdened, it gets even worse, right? So I'm just going to
+      protect myself and protect the people I love. I know this sounds
+      very selfish... look at Sam Altman, he runs OpenAI, and he said
+      this in an interview -- I've kept guns, gas masks, gold, potassium
+      iodide... he's like, I just have these six things, I put in a
+      package, and that's going to be my [plan]... it's public, it's
+      guns, gas masks, and a lot of people are making this use case for
+      gold." The "walled compound for 30-40 houses/5%-95%" figures appear
+      shortly after at 2:11:44-2:11:53 as part of the same continuous
+      exchange: "...that's why that math is very important to me, right,
+      how much does it cost to build a wall and have these many people
+      inside... that can be a good driver for me, worst case if it
+      doesn't happen [I've] never generated enough money to do that."
 
   - id: nikhil-kamath-174
     person: nikhil-kamath
@@ -171,12 +225,12 @@ statements:
       earlier in the conversation.
     topic: worldview
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=-HkBwSazZsM&t=8772s"
+      start_timestamp: "2:26:12"
+      end_timestamp: "2:27:25"
     evidence:
       excerpt: null
     notes: >
@@ -185,3 +239,16 @@ statements:
       if he really believes the optimistic picture he painted.
       Cross-reference: extends the reading-habit pattern noted in earlier
       episodes (e.g. nikhil-kamath-118's Mao-to-Deng-Xiaoping book).
+      Confirmed via the video's dense transcript at 2:26:12-2:27:25:
+      "...it's funny I say this because I'm generally a fairly
+      pessimistic person... [but] organically, [humanity] has thrived
+      because we kind of do right by each other... I think Machiavelli
+      -- I love him, I mean he's not got many books, but Prince, for
+      example -- I think his viewpoints are very myopic, right, like he
+      knew how to operate the Medici family, [the] Italy of the time, he
+      knew how to get power amongst the bourgeois of that era, and his
+      skill sets were limited to that; you can extrapolate and say
+      Chanakya of Indian history, or whatever -- so I spend a lot of
+      time reading random books, different eras... the one common trait
+      I think is when push comes to shove, humanity kind of comes
+      together."
