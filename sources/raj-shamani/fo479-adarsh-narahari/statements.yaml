@@ -1,0 +1,82 @@
+statements:
+  - id: raj-shamani-13848
+    person: raj-shamani
+    source: raj-shamani-fo479-adarsh-narahari
+    type: observation
+    text: >
+      Raj introduces the guest as Adarsh Narahari, MD and founder of
+      Primus Senior Living and Marzi, saying he has studied countries
+      like Japan, Costa Rica, and Greece where people live healthy and
+      happy lives up to 90-100 years, and learned that longevity isn't
+      just about medical care but also community, purpose, and
+      independence.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=D3Fekckw9S0"
+      start_timestamp: "00:02:30"
+      end_timestamp: "00:03:00"
+    evidence:
+      excerpt: "इंडिया में सीनियर लिविंग एक ऐसा टॉपिक है जिसके बारे में लोग बात ही नहीं करते हैं ... कंट्रीज को स्टडी की है। जहां लोग 90 टू 100 इयर्स तक"
+    notes: >
+      ~[00:02:20]-[00:03:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13849
+    person: raj-shamani
+    source: raj-shamani-fo479-adarsh-narahari
+    type: recommendation
+    text: >
+      Raj says in this conversation they will learn how to increase
+      parents' health span, how loneliness affects mortality in
+      elders, and what senior living should actually mean, and asks
+      viewers to watch the episode to the end and check the link in
+      the description to learn more about Primus Senior Living.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=D3Fekckw9S0"
+      start_timestamp: "00:03:15"
+      end_timestamp: "00:03:40"
+    evidence:
+      excerpt: "लोनलीनेस मोटलिटी को कैसे इफेक्ट करती है और सीनियर लिविंग का"
+    notes: >
+      ~[00:03:00]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13850
+    person: raj-shamani
+    source: raj-shamani-fo479-adarsh-narahari
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel right now so the show can bring better guests,
+      comment with feedback on what the show got right or wrong so it
+      can learn and create a better experience, and share the episode
+      with one person, since one conversation is enough to change
+      someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=D3Fekckw9S0"
+      start_timestamp: "01:32:15"
+      end_timestamp: "01:32:40"
+    evidence:
+      excerpt: "प्लीज कमेंट में हमें बताइए कि हमने क्या गलत किया और क्या अच्छा किया ताकि"
+    notes: >
+      ~[01:32:20]-[01:32:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Standard closing outro, "three things" framing, identical
+      structure to the outro seen in fo480-vaibhav-sisinty and other
+      episodes from this period.
