@@ -18,18 +18,27 @@ statements:
       background.
     topic: work-habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=68ylaeBbdsg&t=1364s"
+      start_timestamp: "22:44"
+      end_timestamp: "24:15"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Dario
-      Amodei), no diarization. Attribution inferred from conversational
-      role, not confirmed via video.
+      Amodei), confirmed via live captions at 22:44-24:15 ("Using Claude
+      personally, AI knowing you" chapter): "So, in my own journey, I'm
+      -- and I'm not a programmer, I don't have a background in coding
+      -- [hired a developer] just to, like, push me to sit for a couple
+      of hours a day [teaching me]... like the fear of missing out on
+      how the world is changing... and then I started using Claude Code
+      to write simple programs, basically to research stock markets and
+      stuff like that... And then I went into ClawdBot, which is now
+      OpenClaw... and now I chat with it and I try and move files from
+      A to B." Confirms the "open claw"/"ClawdBot" (now OpenClaw)
+      product name and its file-management use.
 
   - id: nikhil-kamath-043
     person: nikhil-kamath
@@ -40,7 +49,7 @@ statements:
       Mentions investing in an Indian data center business.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -49,7 +58,15 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-042.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-042. Checked the
+      "India's role and IT partnerships" chapter (~37:05/2225s per the
+      video description) via live captions from 2205-2500s -- this
+      whole segment is Dario discussing Anthropic's India strategy (IT
+      services companies, systems integration, human relevance as AI
+      capability grows) without an obvious aside about Nikhil's own data
+      center investment. This video's transcript panel also failed to
+      load in this session. Left at reviewed rather than forcing an
+      unconfirmed timestamp.
 
   - id: nikhil-kamath-044
     person: nikhil-kamath
@@ -62,7 +79,7 @@ statements:
       stem-cell infusions.
     topic: health
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -72,6 +89,10 @@ statements:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-042. This is
-      personal medical information -- treat with particular care during
-      verification, and do not surface as established fact (per
-      SKILL.md) unless directly confirmed against the recording.
+      personal medical information -- treat with particular care, and
+      do not surface as established fact unless directly confirmed
+      against the recording. Not located in this pass -- the opening
+      ~30 seconds appear to be a title montage without dialogue (a
+      common pattern in this show), and this video's transcript panel
+      failed to load in this session, so a full-text search was not
+      possible. Left at reviewed.
