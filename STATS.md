@@ -5,21 +5,21 @@ by hand — changes will be overwritten on the next push to main._
 
 ## People
 
-- Total: 105
+- Total: 106
 
 ## Sources (appearances)
 
-- Total: 258
-  - pending: 112
+- Total: 260
+  - pending: 113
   - extracted: 6
-  - in_review: 109
+  - in_review: 110
   - complete: 31
 
 ## Statements
 
-- Total: 1697
+- Total: 1700
   - draft: 1047
   - unverified: 0
   - reviewed: 71
-  - verified: 578
+  - verified: 581
   - rejected: 1

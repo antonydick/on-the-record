@@ -1,0 +1,87 @@
+statements:
+  - id: raj-shamani-13851
+    person: raj-shamani
+    source: raj-shamani-fo478-shreya-ghoshal
+    type: assertion
+    text: >
+      Raj reads a sponsor mention for the ASUS ExpertBook P Series,
+      saying it's built for professionals and made for durability — its
+      top panel can withstand up to 30 kg of weight and it passes 24
+      out of 28 military-grade tests — and mentions their call center
+      is open 9am-9pm Monday to Saturday with on-site warranty in over
+      15,500 pin codes so work never stops.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=gC8hO8fyFGk"
+      start_timestamp: "00:03:18"
+      end_timestamp: "00:03:40"
+    evidence:
+      excerpt: "हैं Asus एक्सपर्ट बुक P सीरीज लैपटॉप बिल्ड ... एंड अप टू 15,500 प्लस पिन कोड्स विथ ऑन साइड वारंटी ताकि आपका"
+    notes: >
+      ~[00:03:00]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote. ASUS ExpertBook P Series sponsor read, matching the
+      durability claims (30kg top panel, 24/28 military-grade tests)
+      seen in fo487-tanay-tiwari.
+
+  - id: raj-shamani-13852
+    person: raj-shamani
+    source: raj-shamani-fo478-shreya-ghoshal
+    type: observation
+    text: >
+      Raj introduces the guest as Shreya Ghoshal, saying she has more
+      than 3,000 songs, hundreds of hits, and five National Awards, and
+      is one of the biggest icons in music that everyone grew up
+      listening to, and that in this conversation they will learn why
+      she feels she has never done her best work, about her experiences
+      on world tours, and why opportunities for female artists in India
+      are so limited; he asks viewers to watch the episode to the end
+      and check the Flipkart link in the description to learn more
+      about the ASUS ExpertBook P Series.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=gC8hO8fyFGk"
+      start_timestamp: "00:03:52"
+      end_timestamp: "00:04:20"
+    evidence:
+      excerpt: "बड़े हुए हैं और आज ये म्यूजिक की वन ऑफ द बिगेस्ट आइकॉन्स हैं। श्रेया घोषाल। इस"
+    notes: >
+      ~[00:03:40]-[00:04:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote.
+
+  - id: raj-shamani-13853
+    person: raj-shamani
+    source: raj-shamani-fo478-shreya-ghoshal
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel so the show can bring more valuable guests and ask
+      them the questions viewers want asked, comment telling him which
+      other guests they want to see on the podcast, and share the
+      episode with one person since one conversation is enough to
+      change someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=gC8hO8fyFGk"
+      start_timestamp: "02:19:40"
+      end_timestamp: "02:20:00"
+    evidence:
+      excerpt: "इस चैनल को सब्सक्राइब कर लो ताकि हम इसी तरह और ज्यादा वैल्युएबल गेस्ट आपके"
+    notes: >
+      ~[02:19:40]-[02:20:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Combined variant of the standard closing outro, wording
+      identical to fo487-tanay-tiwari's outro.
