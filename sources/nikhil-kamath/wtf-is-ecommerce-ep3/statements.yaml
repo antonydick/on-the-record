@@ -14,21 +14,33 @@ statements:
       paying 200-300 rupees, changing the real-estate and revenue math.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=UKag4LVAEdU&t=5533s"
+      start_timestamp: "1:32:13"
+      end_timestamp: "1:33:08"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: multi-guest panel (Nikhil hosting Kishore
       Biyani of Future Group, Vidit Aatrey of Meesho, and Sujeet Kumar
-      of Udaan), no diarization. Attribution inferred from
-      conversational role, not confirmed via video. The second coffee
-      chain's name is garbled in the auto-transcript ("hotti copy,"
-      likely "Hatti Kaapi") -- confirm during verification.
+      of Udaan). Confirmed via the video's dense professional captions
+      ("Subtitled by Clockwork Captions") at 1:32:13-1:33:08: "Coffee is
+      one of the by-product of whatever other activities you are doing.
+      I agree with you 100%. I'm also a small investor with him in Third
+      Wave, Hatti Kaapi, and a couple of coffee places. When I was
+      reviewing coffee chains, and I was trying to do it as objectively
+      as I could, the difference between the West and India is, in the
+      West, people are going into a coffee shop to actually drink
+      coffee. The culture of buying a coffee and walking, especially in
+      New York, is such a big thing that the financials work out for
+      them. Here if you sell a coffee at Rs 200-300 and people have to
+      sit there two hours to consume it, and you have to pay for the
+      real estate, the numbers, you look at it from a different light,
+      altogether." This confirms the second chain's name is indeed
+      "Hatti Kaapi" (the draft's garbled auto-transcript guess was
+      correct).
 
   - id: nikhil-kamath-167
     person: nikhil-kamath
@@ -50,19 +62,34 @@ statements:
       company).
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=UKag4LVAEdU&t=4901s"
+      start_timestamp: "1:21:41"
+      end_timestamp: "1:24:25"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-166.
+      SPEAKER ATTRIBUTION: multi-guest panel, confirmed via dense
+      captions showing "[Nikhil]" speaker tags in this exchange.
       Cross-reference: extends nikhil-kamath-160 (Next Gen Thinking
       episode), which mentions the PVR investment and his own
-      tier-2/3 multiplex venture more briefly.
+      tier-2/3 multiplex venture more briefly. Confirmed via the video's
+      dense professional captions at 1:21:41-1:24:25: "I remember you
+      owned a bit of multiplexes. I still have. I have reduced my
+      shareholding, I have about 2%... My tryst with multiplex companies
+      started many years ago... maybe six or seven years ago, pre-
+      pandemic, I had a very bearish outlook of them. I shorted them to
+      begin with when PVR was at 1,300 bucks, 1,400 bucks... it was in
+      court that people will be allowed to bring outside food and water,
+      and drink it inside the multiplex and eat it. And food as an
+      income source for multiplexes is really high, as high as 40-45%...
+      the relevance of multiplex will go up... [when] I talk to somebody
+      who is the CEO of Hotstar... But then, I talked to somebody like a
+      UFO Movies, which is also another company I have invested in.
+      There I start to think, the number of screens available, the
+      density of screens in India is still, like, much, much lower."
 
   - id: nikhil-kamath-168
     person: nikhil-kamath
@@ -79,16 +106,39 @@ statements:
       the "Line" linear-city megaproject.
     topic: relationships
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-16"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=UKag4LVAEdU&t=2088s"
+      start_timestamp: "34:48"
+      end_timestamp: "36:34"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-166.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-166; the
+      narration is unlabeled in the captions for its first few lines but
+      continues seamlessly into explicitly "[Nikhil]"-tagged lines later
+      in the same exchange (e.g. "[Nikhil] In one project. They're
+      spending $3 trillion on that NEOM"), and the trip is corroborated
+      by nikhil-kamath-156 (Social Media panel episode) as Nikhil's own.
       Cross-reference: the same Riyadh trip (villa project, described
-      elsewhere as "Rosan") is referenced in nikhil-kamath-156 (Social
-      Media panel episode), corroborating both the timing and details.
+      elsewhere as "Rosan") is referenced in nikhil-kamath-156,
+      corroborating both the timing and details -- this pass's dense
+      captions confirm the project's real name is "Roshn," not "Rosan."
+      Confirmed via the video's dense professional captions at
+      34:48-36:34: "We'll talk about a friend of ours, okay, first...
+      February, yeah. February, we went to Riyadh. We were there for one
+      entire week. And one very nice gentleman invited us to his house
+      for dinner and his family, his name was Haani Mohammad... So we
+      made a group of friends, and we went to Riyadh for a week. And we
+      met people in different departments, in business, in government,
+      all of that. The scale of the projects they are doing is madness.
+      ...called Roshn. You know how many villas they're building? --
+      Forty-five thousand... In one project. They're spending $3
+      trillion on that NEOM. -- [Sujeet] It's a line city. They call it
+      Line." Note the trip is described here as with "a group of
+      friends" rather than exclusively Sujeet, consistent with the
+      episode's panel setting, but Sujeet is present and participates in
+      the same exchange (correcting the "Line" city detail), and the
+      close, frequent-travel friendship with him is independently
+      established by the statement's own text and by nikhil-kamath-156.
