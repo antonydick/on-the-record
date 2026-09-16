@@ -51,7 +51,7 @@ statements:
       gold.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -65,9 +65,19 @@ statements:
       "I hold a lot of gold I for a long time have kept 10% of my asset
       base in gold," preceded by "...can't print it you create more of
       it and then it also in order to hold its..." -- likely a
-      gold-vs-fiat-currency comparison). Exact video timestamp NOT
-      pinned in this pass -- checked the Bitcoin/gold-bonds discussion
-      around 25:00-27:00 (chapters "Bitcoin, stable..." and "What
-      actually...") without a match; a future pass should try scrubbing
-      that same general region more finely, or elsewhere in the
-      1:12:45 runtime, rather than restarting from 0:00.
+      gold-vs-fiat-currency comparison). Exact video timestamp still NOT
+      pinned after two separate passes: the first checked 25:00-27:00
+      without a match; this second pass scrubbed live captions
+      continuously from 24:30 through 28:42 (the "Bitcoin, stablecoins &
+      why Ray remains cautious" and "What actually counts as a store of
+      wealth" chapters, per the video description's official
+      timestamps) and confirmed this is Ray Dalio's own extended answer
+      throughout (Bitcoin/stablecoin properties, government monitoring
+      of transactions, asset liquidity/risk, leading into the real
+      estate/taxation chapter) without ever surfacing Nikhil's "10% of
+      my asset base in gold" line. The line may sit just outside this
+      window, or in a brief aside not caught by the ~13-second sampling
+      interval used. Left at reviewed rather than forcing an unconfirmed
+      timestamp; a future pass should try the video's transcript panel
+      directly (it failed to load in this session, stuck on a spinner)
+      or NotebookLM's own timestamp citation if available.
