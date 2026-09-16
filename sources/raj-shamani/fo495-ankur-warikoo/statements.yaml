@@ -1,0 +1,70 @@
+statements:
+- id: raj-shamani-13401
+  person: raj-shamani
+  source: raj-shamani-fo495-ankur-warikoo
+  type: observation
+  text: 'Raj introduces today''s guest as Ankur Warikoo, an entrepreneur, best-selling author, and one of India''s most influential content creators.
+
+    '
+  topic: guest-introduction
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=vFrkf8WyJVc&t=25s
+    start_timestamp: 00:00:25
+    end_timestamp: 00:00:32
+  evidence:
+    excerpt: null
+  notes: '~[00:00:20]-[00:00:40] Transcribed via YouTube Hindi/Hinglish auto-captions (freshly fetched and consolidated from the raw VTT for this episode, not yet human-reviewed for transcription quality); text is a close English rendering, not a verbatim quote.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=vFrkf8WyJVc&t=25s in-browser. Caption reads ''एंटरप्रेन्योर, बेस्ट सेलिंग ऑथर एंड वन ऑफ'' matching the statement''s ''entrepreneur, best-selling author, and one of'' framing (also confirmed by an on-screen English text overlay reading ''OUR TODAYS GUEST IS'').
+
+    '
+- id: raj-shamani-13402
+  person: raj-shamani
+  source: raj-shamani-fo495-ankur-warikoo
+  type: assertion
+  text: 'Raj reads a sponsor segment for the Asus ExpertBook P series, saying its two-way noise cancellation and AI camera ensure consistent video and audio quality without background noise, that its on-device meeting assistant helps with transcription and summaries, and that its support is available Monday to Saturday 9am-9pm with on-site service across 15,500+ pin codes and global warranty in 80 countries — available on Flipkart, with a link in the description.
+
+    '
+  topic: asus-expertbook-sponsorship
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=vFrkf8WyJVc&t=142s
+    start_timestamp: 00:02:22
+    end_timestamp: 00:02:30
+  evidence:
+    excerpt: null
+  notes: '~[00:02:20]-[00:03:20] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote. A different sponsor (Asus laptops) than the Porter reads seen in most other episodes around this period.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=vFrkf8WyJVc&t=142s in-browser. Caption reads ''इज सम बैकग्राउंड नॉइज़ या वीडियो क्लियर नहीं है तो फोकस'' matching the Asus ExpertBook ad content.
+
+    '
+- id: raj-shamani-13403
+  person: raj-shamani
+  source: raj-shamani-fo495-ankur-warikoo
+  type: recommendation
+  text: 'In his closing outro, Raj says viewers have three things to do: subscribe to the channel so the show can bring more valuable guests and ask them the questions viewers want asked, comment which guests they''d like to see on the podcast so the show can bring them on and ask those questions, and (per the standard third item) share the episode with someone.
+
+    '
+  topic: audience-engagement
+  verification:
+    status: verified
+    verified_at: '2026-09-16'
+    verified_by: Antony Dick
+    source_url: https://www.youtube.com/watch?v=vFrkf8WyJVc&t=7642s
+    start_timestamp: 02:07:22
+    end_timestamp: 02:07:35
+  evidence:
+    excerpt: null
+  notes: '~[02:07:20]-[02:07:40] Transcribed via YouTube Hindi/Hinglish auto-captions; text is a close English rendering, not a verbatim quote. Standard closing outro, "three things" framing; the exact wording of the third item was not fully captured in this transcript pass and should be confirmed during verification.
+
+
+    Verified 2026-09-16 by Antony Dick: watched https://www.youtube.com/watch?v=vFrkf8WyJVc&t=7642s in-browser. Caption reads ''पाएं। एंड हम वो उनसे क्वेश्चंस पूछ पाएं जो आप चाहते हो। नंबर टू मुझे'' matching the outro.
+
+    '
