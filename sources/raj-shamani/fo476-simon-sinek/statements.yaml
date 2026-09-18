@@ -1,0 +1,90 @@
+statements:
+  - id: raj-shamani-13857
+    person: raj-shamani
+    source: raj-shamani-fo476-simon-sinek
+    type: assertion
+    text: >
+      Before starting the episode, Raj says their goal is to make an
+      Indian podcast reach world number one, and that as of today they
+      need 20.8 million subscribers to get there — so if the channel
+      has provided any value, he asks viewers to subscribe, noting it's
+      free and takes less than a minute, and promises in return to keep
+      bringing bigger and better guests to make the conversation more
+      valuable.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=etgQjtdNEtc"
+      start_timestamp: "00:03:23"
+      end_timestamp: "00:03:45"
+    evidence:
+      excerpt: "we are on a mission to make an Indian podcast reach ... of today, we need 20.8 million subscribers to get there. So, if you"
+    notes: >
+      ~[00:03:20]-[00:04:00] Transcribed via YouTube English
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. This
+      episode is spoken entirely in English, so English auto-captions
+      were used instead of Hindi/Hinglish ones. Variant of the
+      20.8-million-subscriber appeal seen elsewhere this period, here
+      framed as reaching "world number one" rather than a "global
+      level."
+
+  - id: raj-shamani-13858
+    person: raj-shamani
+    source: raj-shamani-fo476-simon-sinek
+    type: observation
+    text: >
+      Raj introduces the guest as Simon Sinek, saying he has delivered
+      one of the most watched TED Talks ever, has authored global
+      bestsellers translated into multiple languages, and whose
+      frameworks have been adopted by top leaders, Fortune 500
+      companies, and military leaders worldwide; he says in this
+      episode they discussed why trust is collapsing everywhere, why
+      Gen Z already feels behind, whether love and ambition can
+      coexist, and whether Simon would do anything differently, and
+      asks viewers to watch the episode to the end and share their key
+      takeaways in the comments.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=etgQjtdNEtc"
+      start_timestamp: "00:04:03"
+      end_timestamp: "00:05:00"
+    evidence:
+      excerpt: "Sinek. He has delivered one of the most watched TED Talks"
+    notes: >
+      ~[00:04:00]-[00:05:00] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13859
+    person: raj-shamani
+    source: raj-shamani-fo476-simon-sinek
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to comment what the show did right so
+      it can keep doing that, what it did wrong so it doesn't repeat
+      mistakes, and suggestions for the next guest, and asks them to
+      share the episode with at least one person since one conversation
+      is enough to give someone ideas to change their life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=etgQjtdNEtc"
+      start_timestamp: "01:35:38"
+      end_timestamp: "01:36:00"
+    evidence:
+      excerpt: "all did we do right so that we can improve"
+    notes: >
+      ~[01:35:40]-[01:36:00] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro — merges the
+      "feedback on the episode" item with the "guest suggestions" item,
+      matching the pattern seen in fo486-rajat-kandhari.
