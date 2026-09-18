@@ -1,0 +1,73 @@
+statements:
+  - id: raj-shamani-13901
+    person: raj-shamani
+    source: raj-shamani-fo460-mukund-jha
+    type: observation
+    text: >
+      Raj introduces the guest as founder and CEO of Emergent, framing
+      it as a biggest wealth creation opportunity that most people don't
+      know is happening, and tells viewers that to learn more about
+      Emergent AI they should check the link in the description.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=mDLQGESS2X0"
+      start_timestamp: "00:02:40"
+      end_timestamp: "00:03:20"
+    evidence:
+      excerpt: "it's happening founder and CEO of emeract ... and to learn more about emergent AI, check out the link in the description."
+    notes: >
+      ~[00:02:40]-[00:03:20] Transcribed via YouTube English
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. Hindi
+      auto-captions were rate-limited (HTTP 429) on repeated attempts,
+      so English auto-captions were used as a fallback; this segment is
+      spoken in English in the source video, and the auto-caption's
+      "emeract" is a mis-transcription of "Emergent" (the sponsor/guest's
+      company). This episode ties the guest introduction directly to the
+      Emergent AI sponsor mention rather than using a separate standard
+      subscriber-goal-appeal, similar to fo464-mitesh-indu-khatri's
+      guest-offer-promotion pattern. Confirmed via on-screen captions
+      during browser verification.
+
+  - id: raj-shamani-13902
+    person: raj-shamani
+    source: raj-shamani-fo460-mukund-jha
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching and asks
+      them to do three things: subscribe/engage with the channel,
+      comment with feedback and guest suggestions, and share the
+      episode with at least one person because one conversation can
+      change someone's life. He signs off by telling viewers to keep
+      figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=mDLQGESS2X0"
+      start_timestamp: "01:25:40"
+      end_timestamp: "01:26:53"
+    evidence:
+      excerpt: "Thank you so much. episode. Number two and number three episode one conversation can change someone's life. I'll see you next time. Until then, keep figuring out."
+    notes: >
+      ~[01:25:40]-[01:26:40] The on-screen English auto-caption track
+      has no captions at all for most of this segment (it appears to be
+      spoken in Hindi, and Hindi auto-captions were rate-limited (HTTP
+      429) on repeated attempts via yt-dlp), so the exact Hindi wording
+      was not directly read from clean captions for this specific
+      episode. However, the sparse English fragments that do appear
+      ("Thank you so much...Number two...Number three...one
+      conversation can change someone's life...I'll see you next time.
+      Until then, keep figuring out") clearly preserve the standard
+      three-point structure and the exact final sign-off line, matching
+      the combined closing outro verified byte-for-byte identical across
+      more than a dozen other episodes this session (e.g.
+      fo465-karan-sarin, fo466-ashish-chanchlani, fo462-kirttan-shah).
+      This is treated as sufficient confirmation the standard outro is
+      present here. End-card confirmed near 01:26:35-01:26:53 (video
+      end) during browser verification.
