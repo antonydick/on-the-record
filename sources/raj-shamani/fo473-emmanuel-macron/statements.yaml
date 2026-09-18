@@ -1,0 +1,110 @@
+statements:
+  - id: raj-shamani-13866
+    person: raj-shamani
+    source: raj-shamani-fo473-emmanuel-macron
+    type: recommendation
+    text: >
+      Raj says he and his team are trying really hard to make sure
+      India's voice reaches the world stage, and asks that if viewers
+      have ever gotten value from the channel, they should subscribe,
+      noting it's free and takes only a second, and that the more
+      people subscribe, the better the chances of getting guests like
+      the one on today's show.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=9QXCkMTbrSk"
+      start_timestamp: "00:04:25"
+      end_timestamp: "00:05:00"
+    evidence:
+      excerpt: "Me and my team we're trying really hard and"
+    notes: >
+      ~[00:04:20]-[00:05:00] Transcribed via YouTube English
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. This
+      episode is spoken entirely in English, so English auto-captions
+      were used instead of Hindi/Hinglish ones.
+
+  - id: raj-shamani-13867
+    person: raj-shamani
+    source: raj-shamani-fo473-emmanuel-macron
+    type: observation
+    text: >
+      Raj introduces the guest as President of the French Republic
+      Emmanuel Macron, noting this is his first ever podcast in the
+      world and that it's happening for the first time on the Figuring
+      Out show; he says they discussed the India-France relationship,
+      Macron's relationship with America and world leaders, what Europe
+      is trying to do differently, and how India can become a strategic
+      partner in a world heading toward multipolarity.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=9QXCkMTbrSk"
+      start_timestamp: "00:04:50"
+      end_timestamp: "00:05:20"
+    evidence:
+      excerpt: "Emmanuel Macron. It's his first ever podcast in the world. This for the first ... and France relationship. We've spoken about his relationship"
+    notes: >
+      ~[00:05:00]-[00:06:00] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13868
+    person: raj-shamani
+    source: raj-shamani-fo473-emmanuel-macron
+    type: recommendation
+    text: >
+      Raj says that beyond the honor, he sees this conversation as a
+      responsibility, because when someone like President Macron sits
+      down with them it's an opportunity to talk about India and show
+      the world where India stands, and thanks viewers for being part
+      of this journey, asking them to follow the show on Spotify for
+      the audio experience of the podcast.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=9QXCkMTbrSk"
+      start_timestamp: "00:05:55"
+      end_timestamp: "00:06:15"
+    evidence:
+      excerpt: "get the president's and global leaders' ... Well, thank you so much to for doing this and agreeing to do your first podcast with us."
+    notes: >
+      ~[00:06:00]-[00:06:20] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13869
+    person: raj-shamani
+    source: raj-shamani-fo473-emmanuel-macron
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to comment what the show did right so it
+      can keep doing that, what it did wrong so it doesn't repeat
+      mistakes, and suggestions for the next guest, asks them to share
+      the episode with at least one person since one conversation is
+      enough to give someone ideas to change their life, and reminds
+      them not to forget to subscribe to the channel.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=9QXCkMTbrSk"
+      start_timestamp: "00:39:40"
+      end_timestamp: "00:40:05"
+    evidence:
+      excerpt: "improve and keep doing that better, and what all did we do wrong"
+    notes: >
+      ~[00:39:40]-[00:40:00] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro (matching the
+      wording seen in fo475-joe-dispenza and fo476-simon-sinek), with
+      an added explicit "don't forget to subscribe" line at the very
+      end.
