@@ -17,12 +17,12 @@ statements:
       grid/transformer-efficiency companies.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=lJ3Wt-ng1Ls&t=4356s"
+      start_timestamp: "1:12:36"
+      end_timestamp: "1:14:05"
     evidence:
       excerpt: null
     notes: >
@@ -42,7 +42,15 @@ statements:
       allocation) matches details already established in this corpus from
       multiple other episodes (e.g. cross-referenced "19-20 years
       full-time trading" self-identification statements in other
-      sources).
+      sources). Confirmed via live captions (this video's transcript
+      panel failed to load) at 1:12:36-1:14:05: "trading is not subject
+      to anything... We've been doing sector thesis of all the
+      sectors... So what sector do you think? What were the top three?...
+      What is leading right now?... We did, last year, a whole bunch of
+      solar panel companies,". The specific "Naman's team" name and the
+      full battery/EV/grid-transformer list were not caught verbatim
+      within the sampled window, but the sector-thesis methodology and
+      the solar-panel/energy-transition investment claim are confirmed.
 
   - id: nikhil-kamath-232
     person: nikhil-kamath
@@ -61,12 +69,12 @@ statements:
       for two hours a day — is something he would personally enjoy.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=lJ3Wt-ng1Ls&t=4300s"
+      start_timestamp: "1:11:40"
+      end_timestamp: "1:11:57"
     evidence:
       excerpt: null
     notes: >
@@ -74,7 +82,14 @@ statements:
       nikhil-kamath-231. Attributed to Nikhil as part of the same
       continuous personal-question exchange with a founder, in first
       person ("I do take a bunch of supplements," "legacy is for others,
-      longevity is for myself").
+      longevity is for myself"). Confirmed via live captions (this
+      video's transcript panel failed to load) at 1:11:40-1:11:57:
+      "Legacy, why do you believe in longevity,... Because if the quality
+      of my life ten years from now can be better..." The specific
+      supplements/cold-plunge/sauna/padel details and the "5-10 years
+      max" legacy framing were not caught verbatim within the sampled
+      window, but the core legacy-vs-longevity distinction and its stated
+      rationale are confirmed.
 
   - id: nikhil-kamath-233
     person: nikhil-kamath
@@ -91,19 +106,29 @@ statements:
       a half to three hours without a break.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=lJ3Wt-ng1Ls&t=4585s"
+      start_timestamp: "1:16:25"
+      end_timestamp: "1:16:48"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
       Attributed to Nikhil as part of the same continuous personal
       exchange, in first person ("I got a speech coach a few years ago,"
-      "he flies down, lives with me for a week").
+      "he flies down, lives with me for a week"). Confirmed via live
+      captions (this video's transcript panel failed to load) at
+      1:16:25-1:16:48: "He's a pain in the ass, but he's also
+      brilliant... If you can do a course in storytelling... He'll make
+      me sit and he'll give me a book,... and if you ask him what should
+      I write about, he'll say anything." The specific name "Michael,"
+      the "Virtuoso" company name, his Israeli/US-politicians background,
+      and the "2.5-3 hours without a break" detail were not caught
+      verbatim within the sampled window, but the core coaching
+      relationship (storytelling focus, sitting him down, taking away
+      distractions, making him write) is confirmed.
 
   - id: nikhil-kamath-234
     person: nikhil-kamath
@@ -121,19 +146,27 @@ statements:
       smartest people in India."
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=lJ3Wt-ng1Ls&t=4110s"
+      start_timestamp: "1:08:30"
+      end_timestamp: "1:08:46"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
       Attributed to Nikhil as a direct first-person answer ("every year
       on my birthday we have this big summit...") to a founder's question
-      of whether he celebrates his birthday.
+      of whether he celebrates his birthday. Confirmed via live captions
+      (this video's transcript panel failed to load) at 1:08:30-1:08:46:
+      "Yeah. Every year, on my birthday, we have this big summit... We
+      book a big, fancy place, 100 people sit and have debates... And
+      it's a fun day." The specific "under age 45," "150 smartest people
+      in India," and no-cameras/phones details were not caught verbatim
+      within the sampled window, but the core annual birthday-summit
+      claim (large venue, ~100 people, debates) is confirmed word-for-
+      word.
 
   - id: nikhil-kamath-235
     person: nikhil-kamath
@@ -149,12 +182,12 @@ statements:
       possibly a few more given that he monitors his health.
     topic: personal life
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=lJ3Wt-ng1Ls&t=3550s"
+      start_timestamp: "59:10"
+      end_timestamp: "59:40"
     evidence:
       excerpt: null
     notes: >
@@ -165,7 +198,13 @@ statements:
       same personal exchange as the other statements pulled from this
       episode. Cross-reference: consistent with the recording's early-2026
       publish date and Nikhil's previously established birth-year range
-      in this corpus.
+      in this corpus. Confirmed via live captions (this video's
+      transcript panel failed to load) at 59:10-59:40: "I'm 39 years
+      old... And then, while I was thinking about it, at 39, an average
+      Indian lives to 73,... In 34 New Years,... I only probably have
+      like ten, if I were to be pushing it." This confirms the age (39),
+      life-expectancy figure (73), the "34 New Year's" total, and the "10
+      good ones" estimate all word-for-word.
 
   - id: nikhil-kamath-236
     person: nikhil-kamath
@@ -179,7 +218,7 @@ statements:
       close.
     topic: personal life
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -191,7 +230,12 @@ statements:
       SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
       Attributed to Nikhil as the interviewer questioning the diagnostics
       founders, stated in first person ("I have met a few doctors
-      recently... cuz somebody in my family had it").
+      recently... cuz somebody in my family had it"). Checked the
+      "Astraeus Innovus - Preventive Cancer Screening" (10:22) and
+      "Turocrates AI" (18:45) chapters via live captions and confirmed
+      the surrounding cancer-diagnostics discussion, but did not catch
+      this specific personal breast-cancer disclosure verbatim; this
+      video's transcript panel also failed to load. Left at reviewed.
 
   - id: nikhil-kamath-237
     person: nikhil-kamath
@@ -206,7 +250,7 @@ statements:
       carry rather than adding another wearable.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -219,7 +263,12 @@ statements:
       Attributed to Nikhil as a personal investment disclosure ("there is
       a cell phone manufacturer we [are] investors in") made while
       questioning the earbuds-startup founders, consistent with his
-      investor/host role throughout.
+      investor/host role throughout. Checked the "AntiMattr - Voice-First
+      Computing" chapter (26:35) via live captions and confirmed the
+      surrounding voice-interface/earbuds discussion, but did not catch
+      this specific cell-phone-manufacturer investment disclosure
+      verbatim; this video's transcript panel also failed to load. Left
+      at reviewed.
 
   - id: nikhil-kamath-238
     person: nikhil-kamath
@@ -232,7 +281,7 @@ statements:
       attends a Krishnamurti-affiliated school.
     topic: personal life
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -244,7 +293,13 @@ statements:
       SPEAKER ATTRIBUTION: same format and caveat as nikhil-kamath-231.
       Attributed to Nikhil in first person ("my nephew goes to his
       school... I've read his speeches") during a philosophy discussion
-      with a founder.
+      with a founder. Checked the "Schools of Psychology" chapter
+      (1:05:35) via live captions and confirmed an active
+      philosophy/psychology-schools discussion there ("We are not born
+      narcissistic, per se"; "I think everyone from Freud, Jung, they all
+      fall in that school"), but did not catch this specific Krishnamurti
+      self-disclosure verbatim; this video's transcript panel also failed
+      to load. Left at reviewed.
 
   - id: nikhil-kamath-239
     person: nikhil-kamath
@@ -257,7 +312,7 @@ statements:
       with a few people from there.
     topic: personal life
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -270,4 +325,9 @@ statements:
       Attributed to Nikhil in first person ("I lived in Haryana... I went
       to Dal Singh Public School in Karnal") responding to a founder from
       a Haryana Jat family who asked about marriage pressure; stated as a
-      personal childhood biographical fact.
+      personal childhood biographical fact. This appears to be part of
+      the same marriage-pressure exchange confirmed for nikhil-kamath-235
+      (around 59:10, live captions), but this specific Haryana/Dal Singh
+      Public School/Karnal detail was not independently caught verbatim
+      within the sampled window, and this video's transcript panel failed
+      to load. Left at reviewed.
