@@ -1,0 +1,79 @@
+statements:
+  - id: raj-shamani-13924
+    person: raj-shamani
+    source: raj-shamani-fo451-navneet-arora
+    type: observation
+    text: >
+      Raj introduces the guest as Dr. Navneet Arora, and says the
+      episode will cover why weather changes cause fever, what the safe
+      dosage of painkillers is, and how fever affects the brain.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=pZB9Y3OHL1w"
+      start_timestamp: "00:00:40"
+      end_timestamp: "00:01:00"
+    evidence:
+      excerpt: "हमारे गेस्ट है डॉक्टर नवनीत अरोरा। आज हम उनसे जानेंगे वेदर चेंज होने से फीवर"
+    notes: >
+      ~[00:00:40]-[00:01:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13925
+    person: raj-shamani
+    source: raj-shamani-fo451-navneet-arora
+    type: recommendation
+    text: >
+      Early in the episode, Raj asks viewers to subscribe to the channel
+      so the show can keep making insightful and better podcasts, and
+      mentions that the full audio experience of the show is available on
+      Spotify.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=pZB9Y3OHL1w"
+      start_timestamp: "00:01:20"
+      end_timestamp: "00:01:40"
+    evidence:
+      excerpt: "इंसाइटफुल और बेहतर पॉडकास्ट बनाते रहें। एंड इस पूरे शो का ऑडियो एक्सपीरियंस"
+    notes: >
+      ~[00:01:20]-[00:01:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Wording matches the standard subscriber-goal-appeal seen in
+      fo465-karan-sarin.
+
+  - id: raj-shamani-13926
+    person: raj-shamani
+    source: raj-shamani-fo451-navneet-arora
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=pZB9Y3OHL1w"
+      start_timestamp: "01:17:20"
+      end_timestamp: "01:18:00"
+    evidence:
+      excerpt: "और वैल्युएबल गेस्ट हम ला पाएंगे आपके लिए। नंबर टू मुझे कमेंट्स में बताओ इस एपिसोड"
+    notes: >
+      ~[01:17:20]-[01:18:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro (subscribe +
+      feedback/guest-suggestion + share), plus the "keep figuring out"
+      sign-off, wording near-identical to fo465-karan-sarin's outro.
