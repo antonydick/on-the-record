@@ -1,0 +1,82 @@
+statements:
+  - id: raj-shamani-13955
+    person: raj-shamani
+    source: raj-shamani-fo439-sowmay-jain
+    type: observation
+    text: >
+      Raj introduces the episode's guest as Sowmay Jain, Founder of
+      Upsurge Labs and Bhindi AI, and co-founder of Instadapp, and tells
+      viewers that if they are curious to see how AI can actually do
+      things for them, they should check out the link in the
+      description.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=RMAux-sD1bA"
+      start_timestamp: "00:02:20"
+      end_timestamp: "00:03:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "investment future economy found according to..."
+    notes: >
+      ~[00:02:20]-[00:03:00] Transcribed via YouTube English
+      auto-captions (Hindi captions were rate-limited by YouTube for this
+      episode; freshly fetched and consolidated from the raw VTT, not yet
+      human-reviewed for transcription quality). This segment is Raj's
+      Hindi-language narrated intro/guest-introduction voiceover, and the
+      English auto-caption machine-translation of it came through very
+      heavily garbled (e.g. "episode guest Jen founder of Upsurge Labs
+      Bindi AI or co-founder of Instadrypto investment future economy
+      found according to Bitcoin"). The statement text here is grounded
+      primarily in the episode's official YouTube description ("our
+      guest is Sowmay Jain, Founder of Upsurge Labs, Bhindi, and
+      Co-founder of Instadapp"), which independently confirms the
+      guest's name, spelling, and credentials; the garbled caption only
+      corroborates that a guest-introduction/sponsor-link narration
+      segment exists at this timestamp, not its exact wording. Text is a
+      paraphrase, not a verbatim quote. Verified via on-screen YouTube
+      caption at video timestamp ~155s, confirming the segment location
+      (caption text matches the garbled transcript exactly, corroborating
+      timestamp placement rather than exact wording).
+
+  - id: raj-shamani-13956
+    person: raj-shamani
+    source: raj-shamani-fo439-sowmay-jain
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks the guest, then tells viewers to
+      do three things, ending with sharing the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=RMAux-sD1bA"
+      start_timestamp: "01:15:00"
+      end_timestamp: "01:15:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "Thank you so much. Number [...gap...] One conversation can change someone's life. I'll see you next time. Until then, keep figuring out"
+    notes: >
+      ~[01:15:00]-[01:15:40] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      The English auto-caption machine-translation of this segment (also
+      originally Hindi) is garbled and drops the middle content ("Thank
+      you so much. Number two. [gap] and number three episode. One
+      conversation can change someone's life. I'll see you next time.
+      Until then, keep figuring out"), consistent with the standard
+      three-numbered-ask closing outro (subscribe + feedback/guest-
+      suggestion + share) seen across many other episodes this project
+      (e.g. fo442-runjhun-sharma, fo440-sandeep-ghosh). Using the
+      "bracketing" technique: the clearly-legible start ("Thank you so
+      much. Number", confirmed on-screen at ~4517s) and end ("One
+      conversation can change someone's life. I'll see you next
+      time. Until", confirmed on-screen at ~4550s, with a caption gap
+      confirmed at ~4538s) of this segment match the standard outro
+      pattern exactly, so the missing middle (asks one and two) is
+      inferred from that extremely consistent cross-episode wording
+      rather than independently verified word-for-word; this is
+      disclosed honestly here rather than presented as a verbatim
+      transcription.
