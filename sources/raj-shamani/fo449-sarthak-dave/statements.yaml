@@ -1,0 +1,78 @@
+statements:
+  - id: raj-shamani-13930
+    person: raj-shamani
+    source: raj-shamani-fo449-sarthak-dave
+    type: observation
+    text: >
+      Raj introduces the guest as Dr. Sarthak Dave, an MD psychiatrist
+      who helps people understand their deepest emotional patterns.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=483owj7dzIw"
+      start_timestamp: "00:00:40"
+      end_timestamp: "00:01:00"
+    evidence:
+      excerpt: "डॉक्टर सार्थक दवे। एमडी साइकेट्रिस्ट जो लोगों को उनके सबसे गहरे इमोशनल पैटर्न"
+    notes: >
+      ~[00:00:40]-[00:01:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13931
+    person: raj-shamani
+    source: raj-shamani-fo449-sarthak-dave
+    type: recommendation
+    text: >
+      Early in the episode, Raj asks viewers to subscribe to the channel
+      so the show can keep making insightful and better podcasts, and
+      mentions that the full audio experience of the show is available on
+      Spotify.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=483owj7dzIw"
+      start_timestamp: "00:02:20"
+      end_timestamp: "00:02:40"
+    evidence:
+      excerpt: "एंड इस पूरे शो का ऑडियो एक्सपीरियंस स्पॉटिफाई पे अवेलेबल है जहां पे आप हमें"
+    notes: >
+      ~[00:02:20]-[00:02:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Wording matches the standard subscriber-goal-appeal seen in
+      fo465-karan-sarin.
+
+  - id: raj-shamani-13932
+    person: raj-shamani
+    source: raj-shamani-fo449-sarthak-dave
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=483owj7dzIw"
+      start_timestamp: "01:36:40"
+      end_timestamp: "01:37:20"
+    evidence:
+      excerpt: "में बताओ इस एपिसोड में आपको क्या अच्छा लगा और क्या गंदा लगा ताकि हम वो"
+    notes: >
+      ~[01:36:40]-[01:37:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro (subscribe +
+      feedback/guest-suggestion + share), plus the "keep figuring out"
+      sign-off, wording near-identical to fo465-karan-sarin's outro.
