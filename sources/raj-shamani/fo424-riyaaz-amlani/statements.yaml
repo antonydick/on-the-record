@@ -1,0 +1,87 @@
+statements:
+  - id: raj-shamani-13992
+    person: raj-shamani
+    source: raj-shamani-fo424-riyaaz-amlani
+    type: observation
+    text: >
+      Raj introduces the guest as Riyaaz Amlani, the man behind Social
+      and owner of more than 80 restaurants in India, saying he now runs
+      an 800-crore restaurant empire, and says they will learn how to
+      start a restaurant business, how much investment it takes, and how
+      to build a long-lasting legacy restaurant brand.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=w_tIdr0X2NY"
+      start_timestamp: "00:00:20"
+      end_timestamp: "00:00:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "आज के हमारे गेस्ट थे रियाज अमलानी द मैन बिहाइंड सोशल और इंडिया..."
+    notes: >
+      ~[00:00:20]-[00:00:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote.
+      Verified via on-screen YouTube caption at video timestamp ~33s,
+      matching exactly.
+
+  - id: raj-shamani-13993
+    person: raj-shamani
+    source: raj-shamani-fo424-riyaaz-amlani
+    type: recommendation
+    text: >
+      Early in the episode, Raj asks viewers to subscribe to the channel
+      so the show can keep making insightful and better podcasts, and
+      mentions that the full audio experience of the show is available on
+      Spotify.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=w_tIdr0X2NY"
+      start_timestamp: "00:02:00"
+      end_timestamp: "00:02:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "आगे बढ़ने से पहले इस चैनल को सब्सक्राइब कर लीजिए..."
+    notes: >
+      ~[00:02:00]-[00:02:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Wording matches the standard subscriber-goal-appeal seen in
+      fo442-runjhun-sharma and fo433-pooja-makhija almost verbatim.
+      Verified via on-screen YouTube caption at video timestamp ~122s,
+      matching exactly.
+
+  - id: raj-shamani-13994
+    person: raj-shamani
+    source: raj-shamani-fo424-riyaaz-amlani
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=w_tIdr0X2NY"
+      start_timestamp: "01:27:40"
+      end_timestamp: "01:28:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...सो आई वाज दैट फ्रेंड। थैंक यू सो मच ये एपिसोड एंड तक देखने के लिए..."
+    notes: >
+      ~[01:27:40]-[01:28:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share), plus the "keep figuring out" sign-off, wording
+      near-identical to fo442-runjhun-sharma's and fo425-arshad-warsi's
+      outros. Verified via on-screen YouTube caption at video timestamp
+      ~5271s, matching exactly.
