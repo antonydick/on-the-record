@@ -1,0 +1,96 @@
+statements:
+  - id: raj-shamani-13998
+    person: raj-shamani
+    source: raj-shamani-fo422-lakshya-lalwani
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for Porter, the episode's title
+      sponsor, saying that before the festival season people expect
+      holidays and relaxation, but once festivals arrive chaos begins,
+      especially for businesses that need to send hampers to clients and
+      deliver goods to customers while also spending time at home, and
+      that this is when a reliable logistics partner is needed, which is
+      why he recommends Porter, whose two-wheelers can easily and safely
+      move small items to any corner of the city, offering affordable
+      and business-friendly service to keep customers stress-free, and
+      directs viewers to check the link in the description to know more.
+    topic: sponsor-read
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=pt6HbNMxUdk"
+      start_timestamp: "00:02:00"
+      end_timestamp: "00:02:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...क्लाइंट्स को हैंपर्स भेजने हैं। कस्टमर्स को सामान पहुंचाना है और फिर इन..."
+    notes: >
+      ~[00:02:00]-[00:02:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. This
+      is a distinct Porter sponsor-read variant framed around the
+      festival season and business hampers/deliveries, separate from
+      the other Porter claim-sets previously catalogued in this corpus.
+      Verified via on-screen YouTube caption at video timestamp ~145s,
+      matching exactly.
+
+  - id: raj-shamani-13999
+    person: raj-shamani
+    source: raj-shamani-fo422-lakshya-lalwani
+    type: observation
+    text: >
+      Raj introduces the guest as Lakshya, a boy from a middle-class
+      home in Delhi with big dreams, who started his journey in TV
+      serials, earning up to 30 lakh a month before taking the step of
+      leaving his comfort zone to pursue lead roles in films, saying his
+      journey is one of belief, courage, and full trust in his dreams,
+      and urges viewers to watch till the end and comment on what they
+      learned from the episode.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=pt6HbNMxUdk"
+      start_timestamp: "00:02:40"
+      end_timestamp: "00:03:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...डिस्क्रिप्शन टू नो मोर। और अब बात करते हैं हमारे..."
+    notes: >
+      ~[00:02:40]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Verified via on-screen YouTube caption at video timestamp ~177s,
+      matching exactly.
+
+  - id: raj-shamani-14000
+    person: raj-shamani
+    source: raj-shamani-fo422-lakshya-lalwani
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=pt6HbNMxUdk"
+      start_timestamp: "01:58:20"
+      end_timestamp: "01:58:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...लिए। अब आपको पता है आपको तीन चीजें करनी है। सबसे पहले इस चैनल..."
+    notes: >
+      ~[01:58:20]-[01:58:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share), plus the "keep figuring out" sign-off, wording
+      near-identical to fo442-runjhun-sharma's and fo424-riyaaz-amlani's
+      outros. Verified via on-screen YouTube caption at video timestamp
+      ~7103s, matching exactly.
