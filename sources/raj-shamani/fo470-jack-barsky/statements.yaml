@@ -1,0 +1,76 @@
+statements:
+  - id: raj-shamani-13874
+    person: raj-shamani
+    source: raj-shamani-fo470-jack-barsky
+    type: observation
+    text: >
+      Raj introduces the guest as Jack Barsky, a former KGB spy who
+      lived in the US under a false identity during the Cold War and
+      who later reinvented himself as an author and business leadership
+      adviser.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=Pkk7pGFfxxQ"
+      start_timestamp: "00:00:16"
+      end_timestamp: "00:00:40"
+    evidence:
+      excerpt: "greatest politician who ever lived. But with regard to the past, Putin ... leadership adviser."
+    notes: >
+      ~[00:00:20]-[00:00:40] Transcribed via YouTube English
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. This
+      episode is spoken entirely in English, so English auto-captions
+      were used instead of Hindi/Hinglish ones.
+
+  - id: raj-shamani-13875
+    person: raj-shamani
+    source: raj-shamani-fo470-jack-barsky
+    type: recommendation
+    text: >
+      Raj says he wants viewers to enjoy this episode the way he did,
+      and tells them there are more episodes coming, so they should
+      keep supporting the show and hit the subscribe button right now.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=Pkk7pGFfxxQ"
+      start_timestamp: "00:03:18"
+      end_timestamp: "00:03:40"
+    evidence:
+      excerpt: "the way I did. And I just want to tell you that there are more episodes coming."
+    notes: >
+      ~[00:03:20]-[00:03:40] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13876
+    person: raj-shamani
+    source: raj-shamani-fo470-jack-barsky
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to comment what the show did right so it
+      can keep doing that, what it did wrong so it doesn't repeat
+      mistakes, and suggestions for the next guest, and asks them to
+      share the episode with at least one person who will get some
+      insights.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=Pkk7pGFfxxQ"
+      start_timestamp: "03:16:30"
+      end_timestamp: "03:16:50"
+    evidence:
+      excerpt: "Thank you so much for watching this podcast till the end."
+    notes: >
+      ~[03:16:20]-[03:16:40] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro, wording identical
+      to fo473-emmanuel-macron's outro.
