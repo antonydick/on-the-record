@@ -1,0 +1,100 @@
+statements:
+  - id: raj-shamani-13960
+    person: raj-shamani
+    source: raj-shamani-fo437-rakesh-maria
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for Porter, the episode's title
+      sponsor, saying that these days every task needs planning and
+      reliability, whether running a business or sending something daily,
+      and that safely delivering goods is a common struggle for
+      everyone. He says he personally uses Porter, whose two-wheelers
+      handle items up to 20 kg, and that they have now launched a
+      scooter category with extra space and extra care, perfect for
+      businesses that want stress-free and trustworthy delivery, and
+      directs viewers to the link in the description for more
+      information.
+    topic: sponsor-read
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=PZBBDdlA5uA"
+      start_timestamp: "00:02:20"
+      end_timestamp: "00:03:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...चला रहे हो या डेली काम करने के लिए सामान भेजना हो!..."
+    notes: >
+      ~[00:02:20]-[00:03:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. This
+      is a fourth distinct Porter sponsor-read claim-set (two-wheelers
+      up to 20 kg plus a new Scooter category), separate from the
+      two-wheeler/three-wheeler/truck logistics variant in
+      fo443-dinesh-agarwal, the Packers & Movers variant in
+      fo454-saurabh-mukherjea, and the 9/10/14/17-foot truck variant in
+      fo438-vikas-divyakirti, now catalogued in this corpus. Verified via
+      on-screen YouTube caption at video timestamp ~158s, matching
+      exactly.
+
+  - id: raj-shamani-13961
+    person: raj-shamani
+    source: raj-shamani-fo437-rakesh-maria
+    type: observation
+    text: >
+      Raj introduces the guest as Rakesh Maria, police officer and
+      former Police Commissioner of Mumbai, who solved major terror
+      attacks like the 1993 Mumbai blasts, personally interrogated Ajmal
+      Kasab face-to-face, and has seen Mumbai's underworld from the
+      inside. He says they will learn how Jalees Ansari planned 51 bomb
+      blasts, why meeting Kasab made Maria feel he should be killed
+      directly, whether the underworld is still active in India today,
+      and the underworld's full background and origin story, and urges
+      viewers to watch till the end and comment on the most insightful
+      thing they saw in the episode.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=PZBBDdlA5uA"
+      start_timestamp: "00:03:00"
+      end_timestamp: "00:03:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...राकेश मारिया। पुलिस ऑफिसर एंड फॉर्मर पुलिस कमिश्नर ऑफ मुंबई।..."
+    notes: >
+      ~[00:03:00]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Verified via on-screen YouTube caption at video timestamp ~200s,
+      matching exactly.
+
+  - id: raj-shamani-13962
+    person: raj-shamani
+    source: raj-shamani-fo437-rakesh-maria
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can keep bringing valuable guests, comment on
+      what they liked about the episode and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=PZBBDdlA5uA"
+      start_timestamp: "01:52:20"
+      end_timestamp: "01:52:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...है। सबसे पहले इस चैनल को सब्सक्राइब कर..."
+    notes: >
+      ~[01:52:20]-[01:52:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share), wording near-identical to
+      fo438-vikas-divyakirti's and fo442-runjhun-sharma's outros.
+      Verified via on-screen YouTube caption at video timestamp ~6760s,
+      matching exactly.
