@@ -1,0 +1,84 @@
+statements:
+  - id: raj-shamani-13860
+    person: raj-shamani
+    source: raj-shamani-fo475-joe-dispenza
+    type: recommendation
+    text: >
+      Raj says so many people spend their precious time watching these
+      conversations every single day, which keeps him and his whole
+      team motivated to be better and do better, and asks that if any
+      conversation or episode has made viewers' lives even slightly
+      better, they should subscribe to the channel, noting it's free
+      and costs nothing but means everything to them.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=90lLQVZe2Nc"
+      start_timestamp: "00:02:40"
+      end_timestamp: "00:03:20"
+    evidence:
+      excerpt: "watching these conversations on our podcast"
+    notes: >
+      ~[00:02:40]-[00:03:20] Transcribed via YouTube English
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. This
+      episode is spoken entirely in English, so English auto-captions
+      were used instead of Hindi/Hinglish ones. Brief appeal variant,
+      without the 20.8-million-subscriber figure used elsewhere this
+      period.
+
+  - id: raj-shamani-13861
+    person: raj-shamani
+    source: raj-shamani-fo475-joe-dispenza
+    type: observation
+    text: >
+      Raj introduces the guest as Dr. Joe Dispenza, the man who proved
+      that thoughts can heal the body, saying he has healed many
+      diseases, helped people walk again, trained people around the
+      world, and researches neuroscience with various institutions to
+      understand what the mind can do, and says that by the end of the
+      episode viewers will understand why they've been stuck and how
+      to turn their life around.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=90lLQVZe2Nc"
+      start_timestamp: "00:03:40"
+      end_timestamp: "00:04:20"
+    evidence:
+      excerpt: "exactly how. Our today's guest ... He has healed so many diseases. He has helped so many people walk again. He's"
+    notes: >
+      ~[00:03:20]-[00:04:20] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13862
+    person: raj-shamani
+    source: raj-shamani-fo475-joe-dispenza
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to comment what the show did right so
+      it can keep doing that, what it did wrong so it doesn't repeat
+      mistakes, and suggestions for the next guest, and asks them to
+      share the episode with at least one person since one conversation
+      is enough to give someone insights.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=90lLQVZe2Nc"
+      start_timestamp: "03:02:42"
+      end_timestamp: "03:03:05"
+    evidence:
+      excerpt: "Thank you so much for watching"
+    notes: >
+      ~[03:02:40]-[03:03:00] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro, wording identical
+      to fo476-simon-sinek's outro.
