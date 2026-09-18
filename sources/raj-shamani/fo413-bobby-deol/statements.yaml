@@ -1,0 +1,100 @@
+statements:
+  - id: raj-shamani-14020
+    person: raj-shamani
+    source: raj-shamani-fo413-bobby-deol
+    type: observation
+    text: >
+      Raj introduces the guest as an actor who went from being one of the
+      biggest rising stars to years of silence and rejection, facing
+      addiction, self-doubt, and embarrassment, with people thinking he
+      could disappear, but who instead made a massive comeback with
+      back-to-back hits: Bobby Deol. He says the episode will cover what
+      it was like growing up in a family where every member was already a
+      star, why his parents were so overprotective of him, his bond with
+      his brother Sunny Deol, the pressure of carrying a celebrity family
+      tag, why he lost out on films and why talent agencies, producers,
+      and directors were hesitant to work with him, his struggles with
+      alcohol, and how he slowly made his way back, piece by piece.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=tstLK-hNqwI"
+      start_timestamp: "00:01:40"
+      end_timestamp: "00:02:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...जहां पे उनको बहुत एडिक्शन का सामना करना पड़ा सेल्फ डाउट एंबरेसमेंट एंड बहुत से लो..."
+    notes: >
+      ~[00:01:40]-[00:02:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. Verified via
+      on-screen YouTube caption at video timestamp ~130s, matching
+      exactly.
+
+  - id: raj-shamani-14021
+    person: raj-shamani
+    source: raj-shamani-fo413-bobby-deol
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for the ASUS ExpertBook business
+      laptops, saying that in life or business, pressure is the real
+      test, which is why you need tools that don't break when things get
+      intense, and that ASUS ExpertBook business laptops are built
+      exactly for that: they pass 24 out of 28 military-grade durability
+      tests, the top panel can handle up to 30kg of pressure, and the
+      keyboard is spill-resistant and tested for over 1 crore keypresses,
+      calling it "tough, pressure-proof, and built for people who can
+      handle pressure to succeed daily," and directing viewers to watch
+      the episode till the end and get the best deals on the ASUS
+      ExpertBook only on Flipkart during the Big Billion Days, with the
+      link in the description.
+    topic: sponsor-read
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=tstLK-hNqwI"
+      start_timestamp: "00:03:00"
+      end_timestamp: "00:03:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...ऑफ 28 मिलिट्री ग्रेड ड्यूरेबिलिटी टेस्ट। द टॉप पैनल्स कैन हैंडल अप टू 30 केजीस ऑफ..."
+    notes: >
+      ~[00:03:00]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Matches the established ASUS ExpertBook "30kg-panel / 24-of-28-
+      military-tests" sponsor-read variant exactly, adding a Flipkart Big
+      Billion Days deals CTA. Verified via on-screen YouTube caption at
+      video timestamp ~190s, matching exactly.
+
+  - id: raj-shamani-14022
+    person: raj-shamani
+    source: raj-shamani-fo413-bobby-deol
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests and
+      ask the questions viewers want answered, comment on what other
+      guests they would like to see on the podcast, and share the episode
+      with at least one person whose life could see a positive change,
+      saying one conversation is enough to change someone's life. He
+      signs off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=tstLK-hNqwI"
+      start_timestamp: "01:58:00"
+      end_timestamp: "01:58:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...लिए। अब आपको तीन चीजें करनी है। नंबर वन इस चैनल को सब्सक्राइब कर लो ताकि हम..."
+    notes: >
+      ~[01:58:00]-[01:58:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + guest-suggestion +
+      share) plus the "keep figuring out" sign-off, wording near-identical
+      to other recent episodes' outros. Verified via on-screen YouTube
+      caption at video timestamp ~7084s, matching exactly.
