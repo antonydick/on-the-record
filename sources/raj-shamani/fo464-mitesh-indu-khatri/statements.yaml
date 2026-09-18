@@ -1,0 +1,85 @@
+statements:
+  - id: raj-shamani-13890
+    person: raj-shamani
+    source: raj-shamani-fo464-mitesh-indu-khatri
+    type: observation
+    text: >
+      Raj introduces the guests by saying they trained the mindset of
+      Harmanpreet Kaur, captain of India's World Cup-winning women's
+      cricket team, have worked with 300+ Fortune 500 companies, and
+      have run training programs in more than 25 countries globally. He
+      names them as Mitesh and Indu Khatri, India's most trusted Law of
+      Attraction coaches and national bestselling authors, and notes they
+      have been frequent guests on the podcast before.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=WKpGfM1VJn8"
+      start_timestamp: "00:02:00"
+      end_timestamp: "00:02:40"
+    evidence:
+      excerpt: "आज के हमारे गेस्ट ने इंडिया की जो वर्ल्ड कप विनिंग वुमस ... मितेश एंड इंदु खत्री इंडियास मोस्ट ट्रस्टेड लॉ ऑफ़ अट्रैक्शन कोचेस एंड नेशनल बेस्ट सेलिंग ऑथर्स"
+    notes: >
+      ~[00:02:00]-[00:02:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13891
+    person: raj-shamani
+    source: raj-shamani-fo464-mitesh-indu-khatri
+    type: recommendation
+    text: >
+      Raj tells viewers that if they want to learn the techniques and
+      tools discussed to achieve their relationship and life goals, the
+      link is in the description, and notes that although such courses
+      and tools are usually very expensive, the guests have given
+      viewers this link for free because they are viewers of the show.
+    topic: guest-offer-promotion
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=WKpGfM1VJn8"
+      start_timestamp: "00:02:40"
+      end_timestamp: "00:03:00"
+    evidence:
+      excerpt: "हेल्प करी टू विन द वर्ल्ड कप। तो अगर आपको भी वो टेक्निक सीखनी है और वो ... यूजुअली यह कोर्स एंड टूल्स बहुत एक्सपेंसिव होते हैं। बट क्योंकि आप हमारे"
+    notes: >
+      ~[00:02:40]-[00:03:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      This episode substitutes the usual early subscriber-goal-appeal
+      with a promotion of the guests' own free course/tools link, rather
+      than a standard "subscribe to the channel" ask.
+
+  - id: raj-shamani-13892
+    person: raj-shamani
+    source: raj-shamani-fo464-mitesh-indu-khatri
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=WKpGfM1VJn8"
+      start_timestamp: "02:11:40"
+      end_timestamp: "02:12:40"
+    evidence:
+      excerpt: "थैंक यू सो मच यू मेड अस आल्सो प्राउड ... और वैल्युएबल गेस्ट हम ला पाएंगे आपके लिए। नंबर टू मुझे कमेंट्स में बताओ इस एपिसोड"
+    notes: >
+      ~[02:11:40]-[02:12:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro (subscribe +
+      feedback/guest-suggestion + share), plus the "keep figuring out"
+      sign-off, wording near-identical to fo465-karan-sarin's outro.
