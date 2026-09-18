@@ -9,7 +9,7 @@ statements:
       nearing 40 years old.
     topic: biography
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -22,7 +22,10 @@ statements:
       Sharma), no diarization. Attribution inferred from conversational
       role, not confirmed via video. Cross-reference during verification
       against any other episode where Nikhil states his age or birth
-      year to corroborate.
+      year to corroborate. Not located in this pass -- this video's
+      transcript panel failed to load repeatedly, and manually scrubbing
+      a ~3-hour episode for a brief passing-mention near the end was not
+      feasible within a reasonable number of attempts. Left at reviewed.
 
   - id: nikhil-kamath-054
     person: nikhil-kamath
@@ -36,7 +39,7 @@ statements:
       high-minded career path.
     topic: family
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -47,7 +50,12 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. Family
       detail -- treat with care during verification per SKILL.md
-      guidance on sensitive/family content.
+      guidance on sensitive/family content. Checked the "Early life &
+      formative years" chapter (2:45) via live captions, but that
+      segment covers Ruchir's own early life/family (his father's
+      transferable government job), not Nikhil's; this specific
+      grandfather/IAS detail was not located, and this video's
+      transcript panel also failed to load. Left at reviewed.
 
   - id: nikhil-kamath-055
     person: nikhil-kamath
@@ -62,16 +70,25 @@ statements:
       what shows up in software-services export figures.
     topic: technology
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=lTCzIDITaac&t=8215s"
+      start_timestamp: "2:16:55"
+      end_timestamp: "2:17:30"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Confirmed via live captions at 2:16:55-2:17:30:
+      "there is no accurate depiction of how much money,... Instagram,
+      Twitter, et cetera have, the highest user base is India... it's so
+      hard to tax that or to tariff that, right?" The specific platform
+      list (WhatsApp/YouTube/Netflix) and "hours a day" framing were not
+      caught verbatim within the sampled window, but the core claim
+      (India is the largest user base for these American platforms, and
+      this represents an uncounted/untaxed value transfer) is confirmed.
 
   - id: nikhil-kamath-056
     person: nikhil-kamath
@@ -85,19 +102,26 @@ statements:
       trend of Indians becoming more consumer-patriotic.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=lTCzIDITaac&t=8315s"
+      start_timestamp: "2:18:35"
+      end_timestamp: "2:18:48"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. The specific
-      brand names mentioned are unclear/garbled in the auto-transcript
-      and should be confirmed via video during verification rather than
-      assumed.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). The specific brand names mentioned in the draft
+      are unclear/garbled in the auto-transcript and were not
+      independently confirmed. Confirmed via live captions at
+      2:18:35-2:18:48: "I think India is on that path where everybody is
+      getting more patriotic... I'm a big champion of 'buy Indian brands
+      only'... I don't know when that line is crossed," -- confirming
+      the consumer-patriotism framing and personal buy-Indian preference
+      word-for-word, though the specific shirts/footwear brand examples
+      were not caught verbatim within the sampled window.
 
   - id: nikhil-kamath-057
     person: nikhil-kamath
@@ -110,7 +134,7 @@ statements:
       he says he has followed for a long time.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -119,7 +143,11 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. Not located
+      in this pass -- this video's transcript panel failed to load
+      repeatedly, and manually scrubbing a ~3-hour episode for this
+      specific personal gold-allocation disclosure was not feasible
+      within a reasonable number of attempts. Left at reviewed.
 
   - id: nikhil-kamath-058
     person: nikhil-kamath
@@ -131,7 +159,7 @@ statements:
       crypto, he has never personally purchased Bitcoin.
     topic: investing
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -140,7 +168,12 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. Checked the
+      "Regulation, crypto & blockchain" chapter (33:50) via live captions
+      and confirmed active crypto/bitcoin-adjacent regulatory discussion
+      there, but did not catch this specific "never personally bought
+      Bitcoin" self-disclosure verbatim; this video's transcript panel
+      also failed to load. Left at reviewed.
 
   - id: nikhil-kamath-059
     person: nikhil-kamath
@@ -153,7 +186,7 @@ statements:
       its board, working closely with the people who run it.
     topic: business
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -164,7 +197,12 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. A
       verifiable, checkable public-role claim -- confirm via GIFT
-      City's own board disclosures during verification.
+      City's own board disclosures during verification. Checked the
+      "FDI & how India can boost growth" chapter (1:57:28) via live
+      captions and confirmed adjacent finance-hub/FDI discussion, but
+      did not catch this specific GIFT City board-membership disclosure
+      verbatim; this video's transcript panel also failed to load. Left
+      at reviewed.
 
   - id: nikhil-kamath-060
     person: nikhil-kamath
@@ -178,7 +216,7 @@ statements:
       and SEBI turnover fees.
     topic: business
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -189,7 +227,11 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. A specific
       business-economics claim about Zerodha -- worth checking against
-      any public statements/filings during verification.
+      any public statements/filings during verification. Not located in
+      this pass -- this video's transcript panel failed to load
+      repeatedly, and manually scrubbing a ~3-hour episode for this
+      specific fee-economics claim was not feasible within a reasonable
+      number of attempts. Left at reviewed.
 
   - id: nikhil-kamath-061
     person: nikhil-kamath
@@ -204,7 +246,7 @@ statements:
       needs to find a way to curtail it.
     topic: business
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -213,7 +255,12 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. Checked the
+      "Does India need a dogecoin?" chapter (56:55) via live captions
+      (this segment discusses the US "Department of Government
+      Efficiency," not dabba trading specifically), but did not catch
+      this specific dabba-trading disclosure verbatim; this video's
+      transcript panel also failed to load. Left at reviewed.
 
   - id: nikhil-kamath-062
     person: nikhil-kamath
@@ -225,7 +272,7 @@ statements:
       of the prediction-market platforms Kalshi and Polymarket.
     topic: business
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -234,7 +281,11 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. Not located
+      in this pass -- this video's transcript panel failed to load
+      repeatedly, and manually scrubbing a ~3-hour episode for this
+      specific Kalshi/Polymarket-founders anecdote was not feasible
+      within a reasonable number of attempts. Left at reviewed.
 
   - id: nikhil-kamath-063
     person: nikhil-kamath
@@ -249,7 +300,7 @@ statements:
       mobility and Milken's ideas on child trust funds.
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -258,7 +309,14 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. Not located
+      in this pass -- this video's transcript panel failed to load
+      repeatedly, and manually scrubbing a ~3-hour episode for this
+      specific Michael Milken anecdote was not feasible within a
+      reasonable number of attempts. Left at reviewed. Cross-reference:
+      corroborated in more detail by nikhil-kamath-144
+      (rishi-sunak-akshata-murty episode, verified), which describes the
+      same Milken meeting and his child-equity-endowment idea.
 
   - id: nikhil-kamath-064
     person: nikhil-kamath
@@ -274,16 +332,28 @@ statements:
       such a product from being built domestically.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=lTCzIDITaac&t=2195s"
+      start_timestamp: "36:35"
+      end_timestamp: "36:53"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Confirmed via live captions at 36:35-36:53:
+      "When we speak about regulation,... if I were to come into
+      something like crypto, blockchain, stablecoins in India, we don't
+      want a stablecoin which is backed by the US dollar." The specific
+      1% TDS obstacle and the gold-plus-rupee backing mechanism were not
+      caught verbatim within the sampled window, but the core claim
+      (researching a non-dollar-backed, India-oriented stablecoin) is
+      confirmed. Cross-reference: consistent with nikhil-kamath-075
+      (Brian Armstrong episode), which describes the same exploration as
+      dating back roughly two years and shelved over the lack of an
+      off-ramp.
 
   - id: nikhil-kamath-065
     person: nikhil-kamath
@@ -298,7 +368,7 @@ statements:
       tech platforms.
     topic: technology
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -307,7 +377,13 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. Checked the
+      "American tech & patriotism" chapter (2:18:28) via live captions,
+      where the adjacent consumer-patriotism/data-transfer statements
+      (nikhil-kamath-055, nikhil-kamath-056) were confirmed, but did not
+      catch this specific WhatsApp/China-alternative argument verbatim
+      within the sampled window; this video's transcript panel also
+      failed to load. Left at reviewed.
 
   - id: nikhil-kamath-066
     person: nikhil-kamath
@@ -320,7 +396,7 @@ statements:
       good friend of his.
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -329,4 +405,8 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-053. Not located
+      in this pass -- this video's transcript panel failed to load
+      repeatedly, and manually scrubbing a ~3-hour episode for this
+      specific Prannoy Roy/annual-trends-segment aside was not feasible
+      within a reasonable number of attempts. Left at reviewed.
