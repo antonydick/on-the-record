@@ -1,0 +1,94 @@
+statements:
+  - id: raj-shamani-14006
+    person: raj-shamani
+    source: raj-shamani-fo419-manvir-bhatia
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for Circle DNA, saying that every
+      year 1.4 million people in India are diagnosed with cancer, and
+      that according to research, 30 to 50% of cases are preventable
+      through early awareness and lifestyle changes, and that Circle
+      DNA's advanced DNA test, based on NGS technology with 99.9%
+      accuracy, gives more than 500 health reports across 20-plus
+      categories including cancer risk, heart health, mental health,
+      fitness, sleep, skin, and digestion, and directs viewers to the
+      link in the description, mentioning that using code "RAJ" at
+      circledna.com gives a 40% discount.
+    topic: sponsor-read
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=ixNpmM5FdlE"
+      start_timestamp: "00:01:20"
+      end_timestamp: "00:02:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...एंड लाइफस्टाइल चेंजेस। बट व्हाट इफ आई टोल्ड यू कि आप अपने फ्यूचर हेल्थ..."
+    notes: >
+      ~[00:01:20]-[00:02:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote.
+      Verified via on-screen YouTube caption at video timestamp ~85s,
+      matching exactly.
+
+  - id: raj-shamani-14007
+    person: raj-shamani
+    source: raj-shamani-fo419-manvir-bhatia
+    type: observation
+    text: >
+      Raj introduces the guest as Dr. Manvir Bhatia, a senior neurologist
+      and one of India's top sleep specialists, saying the episode will
+      cover what good sleep means and how to achieve it, whether
+      sleeping pills and melatonin are safe, what sleep apnea is, why
+      people snore, which diseases can result from insufficient sleep,
+      and whether pillows and mattresses affect sleep quality, and urges
+      viewers to watch till the end and comment on what they learned
+      from the episode.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=ixNpmM5FdlE"
+      start_timestamp: "00:02:00"
+      end_timestamp: "00:02:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...न्यूरोलॉजिस्ट एंड इंडिया की टॉप स्लीप स्पेशलिस्ट। इस एपिसोड में हम उनसे..."
+    notes: >
+      ~[00:02:00]-[00:02:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Verified via on-screen YouTube caption at video timestamp ~140s,
+      matching exactly.
+
+  - id: raj-shamani-14008
+    person: raj-shamani
+    source: raj-shamani-fo419-manvir-bhatia
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=ixNpmM5FdlE"
+      start_timestamp: "01:20:40"
+      end_timestamp: "01:21:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...थैंक यू सो मच यह एपिसोड एंड तक देखने के लिए। अब आपको तीन चीजें करनी है। सबसे..."
+    notes: >
+      ~[01:20:40]-[01:21:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share), plus the "keep figuring out" sign-off, wording
+      near-identical to fo442-runjhun-sharma's and fo421-utkarsh-dave's
+      outros. Verified via on-screen YouTube caption at video timestamp
+      ~4848s, matching exactly.
