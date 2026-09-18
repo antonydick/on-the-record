@@ -1,0 +1,96 @@
+statements:
+  - id: raj-shamani-14066
+    person: raj-shamani
+    source: raj-shamani-fo397-avadh-ojha
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for Porter, saying that when getting
+      something delivered the biggest stress is whether the delivery
+      partner is reliable, whether the item will be safe, and how it
+      will be tracked, which is why he uses Porter, whose verified
+      delivery partners can always be depended on for reliability and
+      psychological safety, and mentions that Porter has now launched
+      "Scooter" for small deliveries that need extra space and extra
+      care, such as bakery cake boxes, hardware shop items, or office
+      documents, delivering them safely across the city, and directs
+      viewers to click the link in the description to learn more.
+    topic: sponsor-read
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=N7Q_56f39MQ"
+      start_timestamp: "00:02:00"
+      end_timestamp: "00:02:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...और भी ज्यादा बढ़ जाता है। इसीलिए आई यूज पोर्टर..."
+    notes: >
+      ~[00:02:00]-[00:02:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. Closely matches
+      the previously catalogued Porter "two-wheelers 20kg + Scooter
+      category" variant (fo437), reusing the "Scooter" product name for
+      small/careful deliveries. Verified via on-screen YouTube caption at
+      video timestamp ~130s, matching exactly.
+
+  - id: raj-shamani-14067
+    person: raj-shamani
+    source: raj-shamani-fo397-avadh-ojha
+    type: observation
+    text: >
+      Raj introduces the guest as Avadh Ojha, a teacher and motivational
+      speaker who understands how to hold power by understanding systems
+      and use psychology to get things done, saying the episode will
+      cover what matters more between love and power, how a 20-year-old
+      can build power, when India will become a superpower, how the
+      Indian society's mindset developed, and what mindset is needed to
+      become psychologically dangerous, urging viewers to watch till the
+      end and comment on what they learned from the episode.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=N7Q_56f39MQ"
+      start_timestamp: "00:02:40"
+      end_timestamp: "00:03:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...सकते हैं और साइकोलॉजी यूज करके अपना काम कैसे करवा सकते हैं। आज हमने..."
+    notes: >
+      ~[00:02:40]-[00:03:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Verified via on-screen YouTube caption at video timestamp ~165s,
+      matching exactly.
+
+  - id: raj-shamani-14068
+    person: raj-shamani
+    source: raj-shamani-fo397-avadh-ojha
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring more valuable guests, comment on
+      what they liked about the episode and which guests they would like
+      to see on the podcast, and share the episode with at least one
+      person who could get a positive change in their life from it,
+      saying one conversation can change someone's life. He signs off by
+      telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=N7Q_56f39MQ"
+      start_timestamp: "01:26:20"
+      end_timestamp: "01:27:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...लिए। अब आपको पता है आपको तीन चीजें करनी है। सबसे पहले इस चैनल को सब्सक्राइब कर..."
+    notes: >
+      ~[01:26:20]-[01:27:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share) plus the "keep figuring out" sign-off, wording
+      near-identical to other recent episodes' outros. Verified via
+      on-screen YouTube caption at video timestamp ~5184s, matching
+      exactly.
