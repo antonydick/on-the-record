@@ -1,0 +1,98 @@
+statements:
+  - id: raj-shamani-14012
+    person: raj-shamani
+    source: raj-shamani-fo416-yashasvi-jaiswal
+    type: observation
+    text: >
+      Raj introduces the guest by recounting that at age 11 a boy came to
+      Mumbai to play cricket and used to live in a tent, doing odd jobs
+      like selling pani puri after practice, and that today, at age 23,
+      he is India's opener: Yashasvi Jaiswal. He says the episode will
+      cover how childhood visualization techniques helped him get to play
+      for Team India, how being from a humble background led people to
+      insult him, why the Under-19 World Cup was a turning point in his
+      career, how he balances self-belief and aggression, and how he
+      developed such a resilient mindset and hunger that nothing besides
+      his game matters to him.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=lmjQ4ymSqnw"
+      start_timestamp: "00:02:20"
+      end_timestamp: "00:03:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...जैसी ऑड जॉब्स करता था और आज 23 इयर्स की ऐज में वो इंडिया के ओपनर हैं।..."
+    notes: >
+      ~[00:02:20]-[00:03:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. Verified via
+      on-screen YouTube caption at video timestamp ~150s, matching
+      exactly.
+
+  - id: raj-shamani-14013
+    person: raj-shamani
+    source: raj-shamani-fo416-yashasvi-jaiswal
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for the ASUS ExpertBook business
+      laptops, saying that just as hunger is necessary to win in life and
+      cricket, hunger in business only works when you have reliable tools
+      that can keep up with your pace, which is why professionals choose
+      ASUS ExpertBook laptops built for very-fast durability: they pass
+      24 out of 28 military-grade durability tests, the top panel can
+      handle up to 30kg of pressure, and the keyboard is spill-resistant
+      and tested for over 1 crore keypresses, directing viewers to check
+      the link in the description to learn more about the ASUS
+      ExpertBook built for very-fast business.
+    topic: sponsor-read
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=lmjQ4ymSqnw"
+      start_timestamp: "00:03:00"
+      end_timestamp: "00:03:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...मोर अबाउट द Asus एक्सपर्ट बुक बिल्ड फॉर वरी फ्री बिज़नेस, चेक आउट द लिंक इन..."
+    notes: >
+      ~[00:03:00]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Matches the established ASUS ExpertBook "30kg-panel / 24-of-28-
+      military-tests" sponsor-read variant, including the "keys tested 1
+      crore times" detail also seen in fo425-*, and closely matching
+      fo429-* and fo457-*. Verified via on-screen YouTube caption at video
+      timestamp ~215s, matching exactly.
+
+  - id: raj-shamani-14014
+    person: raj-shamani
+    source: raj-shamani-fo416-yashasvi-jaiswal
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests and
+      ask the questions viewers want answered, comment on what other
+      guests they would like to see on the podcast, and share the episode
+      with at least one person whose life could see a positive change,
+      saying one conversation is enough to change someone's life. He
+      signs off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=lmjQ4ymSqnw"
+      start_timestamp: "01:36:20"
+      end_timestamp: "01:37:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...सब्सक्राइब कर लो ताकि हम इसी तरह और ज्यादा वैल्यूुएबल गेस्ट आपके लिए..."
+    notes: >
+      ~[01:36:20]-[01:37:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + guest-suggestion +
+      share) plus the "keep figuring out" sign-off, wording near-identical
+      to other recent episodes' outros. Verified via on-screen YouTube
+      caption at video timestamp ~5786s, matching exactly.
