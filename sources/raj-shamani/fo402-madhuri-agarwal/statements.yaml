@@ -1,0 +1,92 @@
+statements:
+  - id: raj-shamani-14052
+    person: raj-shamani
+    source: raj-shamani-fo402-madhuri-agarwal
+    type: recommendation
+    text: >
+      Raj introduces a special sponsored series called "Advancing Skin
+      Health for Every Skin Story" with sensitive-skin expert Cetaphil,
+      noting that the previous episode of the series covered baby skin,
+      and that today's episode will cover skin trends.
+    topic: sponsor-read
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=5nUd5md4oVA"
+      start_timestamp: "00:01:00"
+      end_timestamp: "00:01:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...हम सबको हेल्दी स्किन चाहिए। इसीलिए..."
+    notes: >
+      ~[00:01:00]-[00:01:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. This is a
+      series-sponsorship framing (Cetaphil) rather than a typical
+      standalone product sponsor-read. Verified via on-screen YouTube
+      caption at video timestamp ~65s, matching exactly.
+
+  - id: raj-shamani-14053
+    person: raj-shamani
+    source: raj-shamani-fo402-madhuri-agarwal
+    type: observation
+    text: >
+      Raj introduces the guest as Dr. Madhuri, an expert dermatologist,
+      noting that new skin products go viral on social media every day
+      (like rice water toner, charcoal masks, Korean creams) and asking
+      whether these things actually work, saying the episode will cover
+      why India is obsessed with fairness, why tanning happens, whether
+      every age group needs a different skincare routine, whether
+      drinking more water really makes skin glow, how often sunscreen
+      should be reapplied, what oral sunscreen is, and whether
+      microneedling, gua sha, collagen, and DNA-based skincare are
+      science-based or just trends, urging viewers to watch till the end
+      and comment on what they learned.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=5nUd5md4oVA"
+      start_timestamp: "00:01:20"
+      end_timestamp: "00:02:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...हमारी गेस्ट हैं डॉक्टर माधुरी जो एक एक्सपर्ट डर्मेटोलॉजिस्ट हैं।..."
+    notes: >
+      ~[00:01:20]-[00:02:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Verified via on-screen YouTube caption at video timestamp ~85s,
+      matching exactly.
+
+  - id: raj-shamani-14054
+    person: raj-shamani
+    source: raj-shamani-fo402-madhuri-agarwal
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=5nUd5md4oVA"
+      start_timestamp: "00:54:40"
+      end_timestamp: "00:55:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...पहले इस चैनल को सब्सक्राइब कर लो क्योंकि जितना आप सब्सक्राइब करोगे उतने ही बेहतर..."
+    notes: >
+      ~[00:54:40]-[00:55:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share) plus the "keep figuring out" sign-off, wording
+      near-identical to other recent episodes' outros. Verified via
+      on-screen YouTube caption at video timestamp ~3284s, matching
+      exactly.
