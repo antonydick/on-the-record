@@ -1,0 +1,68 @@
+statements:
+  - id: raj-shamani-13953
+    person: raj-shamani
+    source: raj-shamani-fo440-sandeep-ghosh
+    type: observation
+    text: >
+      Raj introduces the episode by saying they will uncover the hidden
+      realities, hacks and myths of the credit card world, safety systems
+      like tokenisation, the travel-rewards points game, and how
+      beneficial or risky a cashless, credit-driven economy really is,
+      then introduces the guest as Sandeep Ghosh, Group Country Manager
+      of Visa India and South Asia, saying they will learn about the
+      system behind cards and the essential things every user should
+      know before every swipe, and urges viewers to watch till the end.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=AuNT4Oq4UG4"
+      start_timestamp: "00:01:40"
+      end_timestamp: "00:02:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...आज के हमारे गेस्ट हैं संदीप घोष, ग्रुप कंट्री मैनेजर, वीजा, इंडिया एंड साउथ एशिया..."
+    notes: >
+      ~[00:01:40]-[00:02:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote.
+      Episode description independently confirms Sandeep Ghosh's title
+      as Group Country Manager, Visa India and South Asia. No separate
+      subscriber-goal-appeal segment was found in this episode's
+      intro — this sponsor-tie-in episode moves directly from cold open
+      to guest introduction without a standalone subscribe ask, so none
+      is drafted here. Verified via on-screen YouTube caption at video
+      timestamp ~135s, matching exactly.
+
+  - id: raj-shamani-13954
+    person: raj-shamani
+    source: raj-shamani-fo440-sandeep-ghosh
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=AuNT4Oq4UG4"
+      start_timestamp: "01:43:20"
+      end_timestamp: "01:43:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...इस चैनल को सब्सक्राइब कर लो क्योंकि जितना आप सब्सक्राइब करोगे उतने ही बेहतर और वैल्यूुएबल गेस्ट हम ला पाएंगे आपके लिए..."
+    notes: >
+      ~[01:43:20]-[01:43:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share) plus the "keep figuring out" sign-off, wording
+      near-identical to fo442-runjhun-sharma's and fo465-karan-sarin's
+      outros. Verified via on-screen YouTube caption at video timestamp
+      ~6210s, matching exactly.
