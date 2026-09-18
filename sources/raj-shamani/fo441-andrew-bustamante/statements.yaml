@@ -1,0 +1,93 @@
+statements:
+  - id: raj-shamani-13950
+    person: raj-shamani
+    source: raj-shamani-fo441-andrew-bustamante
+    type: recommendation
+    text: >
+      Early in the episode, Raj asks viewers who found the episode
+      worthwhile to hit the subscribe button, saying that a single
+      subscribe helps the show a lot, and thanks viewers for their
+      support so far.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=K-Q4r37XgVw"
+      start_timestamp: "00:03:40"
+      end_timestamp: "00:04:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...that subscribe button because one subscribe helps us a lot. Thank you so much for helping us till now."
+    notes: >
+      ~[00:03:40]-[00:04:00] Transcribed via YouTube English
+      auto-captions (this episode's cold-open/intro narration is in
+      English throughout, since the guest is an English-speaking former
+      CIA officer; freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. Verified via
+      on-screen YouTube caption at video timestamp ~230s, matching
+      exactly.
+
+  - id: raj-shamani-13951
+    person: raj-shamani
+    source: raj-shamani-fo441-andrew-bustamante
+    type: observation
+    text: >
+      Raj introduces the episode by telling viewers they will find out
+      the truth about America's geopolitical strategy from former CIA
+      agent Andrew Bustamante, who served in the CIA and has worked on
+      operations related to how the CIA makes and breaks countries and
+      what its real agenda is, and urges viewers to watch the episode to
+      the end.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=K-Q4r37XgVw"
+      start_timestamp: "00:04:20"
+      end_timestamp: "00:04:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...and raising. Is all of this true or not? In today's episode, we'll find out with former CIA agent Andrew Bamante, who has served in the CIA, the world's biggest intelligence agency..."
+    notes: >
+      ~[00:04:20]-[00:04:40] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      The auto-caption renders the guest's surname phonetically as
+      "Bamante"; the episode title and web research (Bing search
+      confirming "Shadow Cell" by Andrew Bustamante, former CIA officer
+      and EverydaySpy co-founder) confirm "Bustamante" as the correct
+      spelling. Verified via on-screen YouTube caption at video timestamp
+      ~262s, matching exactly.
+
+  - id: raj-shamani-13952
+    person: raj-shamani
+    source: raj-shamani-fo441-andrew-bustamante
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to comment on what the show did right and
+      wrong so it can improve and avoid repeating mistakes, suggest who
+      they want to see as the next guest, and share the episode with at
+      least one person, saying one conversation can give someone enough
+      ideas to change their life. He signs off by telling viewers to keep
+      figuring out and to subscribe to the channel.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=K-Q4r37XgVw"
+      start_timestamp: "02:29:00"
+      end_timestamp: "02:29:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...please let us know in the comments what all did we do right so that we can improve and keep doing that better and what all did we do wrong so that we never repeat it..."
+    notes: >
+      ~[02:29:00]-[02:29:20] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro (feedback +
+      guest-suggestion + share), plus the "keep figuring out" and
+      "subscribe" sign-off, wording near-identical in structure to the
+      standard Hindi-language outro seen across many other episodes this
+      project (e.g. fo442-runjhun-sharma), delivered here in English.
+      Verified via on-screen YouTube caption at video timestamp ~8945s,
+      matching exactly.
