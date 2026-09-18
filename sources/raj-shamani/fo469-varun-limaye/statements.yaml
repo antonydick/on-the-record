@@ -1,0 +1,62 @@
+statements:
+  - id: raj-shamani-13877
+    person: raj-shamani
+    source: raj-shamani-fo469-varun-limaye
+    type: observation
+    text: >
+      Raj introduces the guest as Varun Limaye, co-founder of Mesa School
+      of Business, noting his background as a senior product manager and
+      his MBA from a top business school, his work building tech sessions
+      in over 300 districts across India for children without access to
+      traditional resources, and his co-founding of what Raj describes as
+      Asia's first startup-focused business school.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=J2GKwMI_J_I"
+      start_timestamp: "00:02:40"
+      end_timestamp: "00:03:20"
+    evidence:
+      excerpt: "वरुण लिमए। कोफाउंडर ऑफ मेसा स्कूल ऑफ बिनेस इस कॉन्वर्सेशन ... एंड देन ही कोफाउंडेड ... जिनके पास ट्रेडिशनल रिसोर्सेज का एक्सेस नहीं होता"
+    notes: >
+      ~[00:02:40]-[00:03:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. Some proper nouns
+      in the raw auto-caption (e.g. the prior employer/school names) are
+      garbled and were not repeated verbatim in this paraphrase. On-screen
+      captions at 00:02:40 and 00:03:10 confirmed the Amazon/CATL,
+      MBA, 300+ district tech-sessions, and "co-founder of Mesa School
+      of Business" details.
+
+  - id: raj-shamani-13878
+    person: raj-shamani
+    source: raj-shamani-fo469-varun-limaye
+    type: recommendation
+    text: >
+      In his closing outro, Raj asks viewers to do three things: subscribe
+      to the channel so the show can bring better and more valuable
+      guests, comment on what they liked and disliked about the episode so
+      the show can avoid repeating mistakes, suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=J2GKwMI_J_I"
+      start_timestamp: "01:29:40"
+      end_timestamp: "01:30:36"
+    evidence:
+      excerpt: "देखने के लिए अब अब आपको तीन चीजें करनी है। सबसे पहले इस ... [संगीत]"
+    notes: >
+      ~[01:29:40]-[01:30:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro (subscribe +
+      feedback/guest-suggestion + share), plus the "keep figuring out"
+      sign-off. On-screen captions confirmed at 01:29:44 and end-card
+      music/credits confirmed near 01:30:20-01:30:36 (video end).
