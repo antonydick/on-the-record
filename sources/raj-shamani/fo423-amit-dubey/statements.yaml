@@ -1,0 +1,103 @@
+statements:
+  - id: raj-shamani-13995
+    person: raj-shamani
+    source: raj-shamani-fo423-amit-dubey
+    type: observation
+    text: >
+      Raj introduces the guest as Amit Dubey, one of India's top cyber
+      security experts, saying he will explain how a simple phone call
+      can let someone hack an account, what Facebook tracks from a
+      phone, how a single OTP can compromise an entire financial system,
+      how Gmail can be hacked through a phone call, whether Aadhaar card
+      details can be misused, and how quantum computing will change the
+      face of future cyberattacks.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=3fsfXa-x1k8"
+      start_timestamp: "00:02:00"
+      end_timestamp: "00:02:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "आज के हमारे गेस्ट हैं अमित..."
+    notes: >
+      ~[00:02:00]-[00:02:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote.
+      Verified via on-screen YouTube caption at video timestamp ~120s,
+      matching exactly.
+
+  - id: raj-shamani-13996
+    person: raj-shamani
+    source: raj-shamani-fo423-amit-dubey
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for the ASUS ExpertBook P Series,
+      saying that after this conversation it's clear digital safety is a
+      necessity, not a luxury, because a careless click can shake an
+      entire business's foundation, which is why he genuinely finds these
+      laptops different: they are built for professionals for whom data
+      is everything, with built-in ransomware protection, authentic
+      Windows OS with BitLocker encryption support plus 8-digit password
+      protection so data never leaks even if the laptop is stolen, and a
+      self-healing BIOS with 5 years of security updates that repairs
+      itself even if attacked, plus a free McAfee Plus Premium antivirus
+      subscription worth ₹3,900 for one year, calling it a laptop that
+      offers not just performance but peace of mind, and directs viewers
+      to check out the ASUS ExpertBook P Series, available on Flipkart,
+      via the link in the description.
+    topic: sponsor-read
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=3fsfXa-x1k8"
+      start_timestamp: "00:02:20"
+      end_timestamp: "00:03:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...क्लिक पूरी बिजनेस फाउंडेशन हिला सकता है। इसीलिए मुझे Asus के एक्सपर्ट बुक पी..."
+    notes: >
+      ~[00:02:20]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      This is a fifth distinct ASUS ExpertBook sponsor-read claim-set
+      (built-in ransomware protection, BitLocker encryption, 8-digit
+      password protection, self-healing BIOS with 5-year security
+      updates, free McAfee Plus Premium worth ₹3,900), separate from
+      the 25%-faster/call-center-hours, 30kg-panel/24-of-28-military-
+      tests, 50+ TOPS NPU/Copilot+ AI, and on-device meeting assistant
+      variants previously catalogued in this corpus, now added to the
+      catalogue. Verified via on-screen YouTube caption at video
+      timestamp ~162s, matching exactly.
+
+  - id: raj-shamani-13997
+    person: raj-shamani
+    source: raj-shamani-fo423-amit-dubey
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring more valuable guests and ask the
+      questions viewers want answered, comment on which other guests they
+      want to see on the podcast, and share the episode with at least one
+      person, saying one conversation is enough to bring a positive
+      change to someone's life. He signs off by telling viewers to keep
+      figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=3fsfXa-x1k8"
+      start_timestamp: "01:54:40"
+      end_timestamp: "01:55:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...डन। थैंक यू सो मच ये एपिसोड एंड तक देखने के लिए।..."
+    notes: >
+      ~[01:54:40]-[01:55:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + guest-suggestion +
+      share), wording near-identical in structure to fo429-nawazuddin-
+      siddiqui's and fo424-riyaaz-amlani's outros. Verified via on-screen
+      YouTube caption at video timestamp ~6893s, matching exactly.
