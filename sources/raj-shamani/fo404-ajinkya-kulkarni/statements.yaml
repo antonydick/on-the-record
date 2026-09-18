@@ -1,0 +1,91 @@
+statements:
+  - id: raj-shamani-14046
+    person: raj-shamani
+    source: raj-shamani-fo404-ajinkya-kulkarni
+    type: observation
+    text: >
+      Raj introduces the guest as Ajinkya Kulkarni, co-founder and CEO of
+      Wint Wealth, saying the episode will cover whether it's more
+      possible to make more money in India or in the US, how much income
+      one should have before starting to invest, and whether to focus on
+      active or passive income for wealth creation.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=8OgwKBiDu5w"
+      start_timestamp: "00:00:20"
+      end_timestamp: "00:00:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...जब आईपीओ होते हैं। आज के एपिसोड में हमारे गेस्ट..."
+    notes: >
+      ~[00:00:20]-[00:00:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. This episode has
+      no separate third-party product sponsor-read; the guest's own
+      company, Wint Wealth, is credited in the episode title but is not
+      pitched via a distinct sponsor-read segment in the source audio.
+      Verified via on-screen YouTube caption at video timestamp ~25s,
+      matching exactly.
+
+  - id: raj-shamani-14047
+    person: raj-shamani
+    source: raj-shamani-fo404-ajinkya-kulkarni
+    type: recommendation
+    text: >
+      Partway through the episode, Raj asks viewers to subscribe to the
+      channel so the show can keep making more insightful and better
+      podcasts, and mentions that the full audio experience of the show
+      is available on Spotify, where viewers can follow the show.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=8OgwKBiDu5w"
+      start_timestamp: "00:01:20"
+      end_timestamp: "00:01:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...आगे बढ़ने से पहले इस चैनल को सब्सक्राइब कर लीजिए ताकि हम आपके लिए इसी..."
+    notes: >
+      ~[00:01:20]-[00:01:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      This mid-episode subscribe-and-Spotify-follow plug is the only
+      promotional interjection besides the standard closing outro,
+      matching the pattern seen in several other recent episodes.
+      Verified via on-screen YouTube caption at video timestamp ~85s,
+      matching exactly.
+
+  - id: raj-shamani-14048
+    person: raj-shamani
+    source: raj-shamani-fo404-ajinkya-kulkarni
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=8OgwKBiDu5w"
+      start_timestamp: "01:12:40"
+      end_timestamp: "01:13:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...जितना आप सब्सक्राइब करोगे उतने ही बेहतर और वैल्यूुएबल गेस्ट हम ला पाएंगे आपके..."
+    notes: >
+      ~[01:12:40]-[01:13:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share) plus the "keep figuring out" sign-off, wording
+      near-identical to other recent episodes' outros. Verified via
+      on-screen YouTube caption at video timestamp ~4364s, matching
+      exactly.
