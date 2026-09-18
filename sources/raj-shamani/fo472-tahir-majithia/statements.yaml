@@ -1,0 +1,60 @@
+statements:
+  - id: raj-shamani-13870
+    person: raj-shamani
+    source: raj-shamani-fo472-tahir-majithia
+    type: observation
+    text: >
+      Raj introduces the guest as Tahir Majithia, founder of Prime
+      Capital Real Estate, saying that in this conversation they will
+      learn whether investing in the Dubai market right now is a good
+      decision, which areas in Dubai will see the most growth, how to
+      check a developer's credibility, and how to secure rental income
+      from an investment; he asks viewers to watch the entire episode
+      to the end and check the link in the description to learn more
+      about Tahir and his work.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=mAqdcwQi3tg"
+      start_timestamp: "00:02:40"
+      end_timestamp: "00:03:20"
+    evidence:
+      excerpt: "प्रॉफिटेबल है या सिर्फ एक हाइप? इस मार्केट के रियल ... प्राइम कैपिटल रियल स्टेट। इस कॉन्वर्सेशन में हम जानेंगे"
+    notes: >
+      ~[00:02:40]-[00:03:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote. No distinct sponsor read identified in this episode's
+      transcript.
+
+  - id: raj-shamani-13871
+    person: raj-shamani
+    source: raj-shamani-fo472-tahir-majithia
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel right now so the show can bring better and more
+      valuable guests, comment telling him what they liked or disliked
+      about the episode so mistakes aren't repeated and which guests
+      they want to see brought back on the podcast, and share the
+      episode with one person since one conversation can change
+      someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=mAqdcwQi3tg"
+      start_timestamp: "01:36:32"
+      end_timestamp: "01:37:00"
+    evidence:
+      excerpt: "लिए। अब आपको तीन चीजें करनी है। सबसे पहले इस चैनल"
+    notes: >
+      ~[01:36:20]-[01:37:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Combined variant of the standard closing outro, wording
+      identical to fo474-snigdha-poonam's outro.
