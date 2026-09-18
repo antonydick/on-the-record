@@ -1,0 +1,82 @@
+statements:
+  - id: raj-shamani-13887
+    person: raj-shamani
+    source: raj-shamani-fo465-karan-sarin
+    type: observation
+    text: >
+      Raj introduces the guest as Karan Sarin, author of a book titled
+      "Sick Nation," a researcher, and a certified metabolic health
+      coach.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=nJmkZMv85Cw"
+      start_timestamp: "00:00:20"
+      end_timestamp: "00:00:40"
+    evidence:
+      excerpt: "आज के हमारे गेस्ट है करन सरन सिक नेशन बुक के ऑथर, एक रिसर्चर और एक सर्टिफाइड मेटाबॉलिक हेल्थ कोच"
+    notes: >
+      ~[00:00:20]-[00:00:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. The auto-caption
+      renders the book title phonetically as "सिक नेशन", interpreted here
+      as "Sick Nation" pending further confirmation of the exact spelling.
+
+  - id: raj-shamani-13888
+    person: raj-shamani
+    source: raj-shamani-fo465-karan-sarin
+    type: recommendation
+    text: >
+      Early in the episode, Raj asks viewers to subscribe to the channel
+      so the show can keep making insightful and better podcasts, and
+      mentions that the full audio experience of the show is available on
+      Spotify.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=nJmkZMv85Cw"
+      start_timestamp: "00:02:20"
+      end_timestamp: "00:02:40"
+    evidence:
+      excerpt: "आगे बढ़ने से पहले इस चैनल को सब्सक्राइब कर लीजिए ताकि हम आपके लिए इसी तरह से और इंसाइटफुल और बेहतर पडकास्ट बनाते रह"
+    notes: >
+      ~[00:02:20]-[00:02:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Wording matches the standard subscriber-goal-appeal seen in
+      fo466-ashish-chanchlani.
+
+  - id: raj-shamani-13889
+    person: raj-shamani
+    source: raj-shamani-fo465-karan-sarin
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=nJmkZMv85Cw"
+      start_timestamp: "01:36:40"
+      end_timestamp: "01:37:20"
+    evidence:
+      excerpt: "थैंक यू सो मच यह एपिसोड एंड तक देखने के लिए। अब आपको तीन चीजें करनी है ... लो क्योंकि जितना आप सब्स्क्राइब करोगे उतने ही बेहतर और वैल्यूएबल"
+    notes: >
+      ~[01:36:40]-[01:37:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro (subscribe +
+      feedback/guest-suggestion + share), plus the "keep figuring out"
+      sign-off, wording near-identical to fo466-ashish-chanchlani's
+      outro. End-card confirmed near 01:37:20-01:37:30 (video end).
