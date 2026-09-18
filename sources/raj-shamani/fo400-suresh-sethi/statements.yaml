@@ -1,0 +1,70 @@
+statements:
+  - id: raj-shamani-14058
+    person: raj-shamani
+    source: raj-shamani-fo400-suresh-sethi
+    type: observation
+    text: >
+      Raj introduces the guest as Suresh Sethi, Managing Director and CEO
+      of Protean eGov Technologies, whose company works on the
+      foundations of India's major digital infrastructure like Aadhaar,
+      saying the episode will answer whether documents kept in DigiLocker
+      are secure, how Aadhaar can be misused, and whether people can be
+      tracked through DigiYatra, and asks viewers to share the episode
+      with their whole family because being aware of digital identity and
+      data privacy is important for everyone, and to visit Protean's
+      website (mentioned in the description) to learn more about the
+      company.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=mbCsdfd-N4E"
+      start_timestamp: "00:01:20"
+      end_timestamp: "00:02:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...आधार कार्ड का मिसयूज कैसे हो सकता है? Dजी यात्रा..."
+    notes: >
+      ~[00:01:20]-[00:02:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. Combines the
+      guest-introduction and the sponsor/company-promotion CTA into a
+      single statement because the guest's own company (Protean) is this
+      episode's sponsor and both were delivered as one continuous
+      narration in the source, matching the pattern used for
+      fo420-pankaj-balani/Delta Exchange and fo415-guru-n-reddy/
+      Continental Hospitals. Verified via on-screen YouTube caption at
+      video timestamp ~100s, matching exactly.
+
+  - id: raj-shamani-14059
+    person: raj-shamani
+    source: raj-shamani-fo400-suresh-sethi
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=mbCsdfd-N4E"
+      start_timestamp: "00:59:20"
+      end_timestamp: "01:00:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...जितना आप सब्सक्राइब करोगे उतने ही बेहतर और वैल्यूुएबल गेस्ट हम ला पाएंगे..."
+    notes: >
+      ~[00:59:20]-[01:00:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share) plus the "keep figuring out" sign-off, wording
+      near-identical to other recent episodes' outros. Verified via
+      on-screen YouTube caption at video timestamp ~3564s, matching
+      exactly.
