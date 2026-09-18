@@ -9,17 +9,17 @@ by hand — changes will be overwritten on the next push to main._
 
 ## Sources (appearances)
 
-- Total: 307
-  - pending: 137
+- Total: 309
+  - pending: 138
   - extracted: 2
-  - in_review: 137
+  - in_review: 138
   - complete: 31
 
 ## Statements
 
-- Total: 1762
+- Total: 1765
   - draft: 1012
   - unverified: 0
   - reviewed: 90
-  - verified: 659
+  - verified: 662
   - rejected: 1

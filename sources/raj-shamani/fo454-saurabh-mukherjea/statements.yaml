@@ -1,0 +1,88 @@
+statements:
+  - id: raj-shamani-13916
+    person: raj-shamani
+    source: raj-shamani-fo454-saurabh-mukherjea
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for Porter Packers and Movers,
+      saying they handle full house shifting including packing,
+      loading, moving and unloading with trained partners, offer
+      multi-layer packing for extra safety, and that over 1 million
+      families have trusted Porter, which has a 4.8+ rating and is one
+      of India's most trusted house-shifting partners. He calls Porter
+      the episode's title sponsor and tells viewers to click the link
+      in the description to know more.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=P0o7gaxED3w"
+      start_timestamp: "00:02:40"
+      end_timestamp: "00:03:40"
+    evidence:
+      excerpt: "पोर्टर पर भरोसा किया है। और 4.8 प्लस रेटिंग के साथ यह इंडिया"
+    notes: >
+      ~[00:02:40]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. This
+      is the Porter "Packers & Movers" sponsor-read pattern (distinct
+      from the two-wheeler delivery Porter variant) previously
+      catalogued in this corpus.
+
+  - id: raj-shamani-13917
+    person: raj-shamani
+    source: raj-shamani-fo454-saurabh-mukherjea
+    type: observation
+    text: >
+      Raj introduces the guest as Saurabh Mukherjea, founder of
+      Marcellus Investment Managers and one of the most influential
+      long-term equity investors, and says the episode will cover 2026
+      money trends, the impact of Trump's politics globally, the state
+      of the Indian economy, and changing patterns among Gen Z and gig
+      income.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=P0o7gaxED3w"
+      start_timestamp: "00:03:40"
+      end_timestamp: "00:04:40"
+    evidence:
+      excerpt: "लॉन्ग टर्म इक्विटी इन्वेस्टर्स। हम उनसे जानेंगे 2026 के मनी ट्रेंड्स के बारे"
+    notes: >
+      ~[00:03:40]-[00:04:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13918
+    person: raj-shamani
+    source: raj-shamani-fo454-saurabh-mukherjea
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel right now so the show can bring more valuable and better
+      guests, comment on what they learned from the episode and which
+      guest they want to see next, and share the episode with at least
+      one person because one conversation is enough to change someone's
+      whole life. He signs off by telling viewers to keep figuring out
+      until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=P0o7gaxED3w"
+      start_timestamp: "02:25:40"
+      end_timestamp: "02:26:20"
+    evidence:
+      excerpt: "ही वैल्युएबल और बेहतर गेस्ट हम आपके लिए ला पाएंगे। नंबर टू अभी"
+    notes: >
+      ~[02:25:40]-[02:26:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro (subscribe +
+      feedback/guest-suggestion + share), with a "what did you learn"
+      framing instead of the usual "what did we do right/wrong"
+      framing, plus the "keep figuring out" sign-off.
