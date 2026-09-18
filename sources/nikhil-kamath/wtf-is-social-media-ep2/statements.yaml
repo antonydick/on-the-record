@@ -15,12 +15,12 @@ statements:
       left -- as what reoriented him toward living in the present.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=SkU3J2vWUK8&t=4621s"
+      start_timestamp: "1:17:01"
+      end_timestamp: "1:18:23"
     evidence:
       excerpt: null
     notes: >
@@ -31,8 +31,17 @@ statements:
       host has, followed by a first-person answer including his stated
       age (36), which is internally consistent with nikhil-kamath-101
       (Kiran Mazumdar-Shaw episode, also age 36, published within three
-      months of this episode). Not confirmed via video. The author name
-      is garbled in the auto-transcript -- confirm during verification.
+      months of this episode). Confirmed via this video's dense
+      transcript (1221 segments) at 1:17:01-1:18:23: "be here now...
+      tell me the story behind it... there was this author I used to
+      read his books... maybe like 8, 9 years ago... his name was AK
+      ramdas[Ram Dass, confirming the garbled author name]... I spent a
+      disproportionately large amount of time... living like I will live
+      forever[,] so I would procrastinate[,] I would constantly worry
+      about what will happen 10, 20, 30, 40 years from now... I have
+      come to terms with the fact that we are Indians[,] we will on
+      average live... 70 years[,] so if I am 36 I have 34 years left[,]
+      so this is a reminder... that you're not here forever."
 
   - id: nikhil-kamath-155
     person: nikhil-kamath
@@ -46,17 +55,28 @@ statements:
       childhoods to outsized adult ambition/success.
     topic: personal habits
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=SkU3J2vWUK8&t=4963s"
+      start_timestamp: "1:22:43"
+      end_timestamp: "1:23:16"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154. Follows
-      directly on from the tattoo exchange, in the same speaking turn.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154. Confirmed
+      via this video's dense transcript at 1:22:43-1:23:16: "...my new
+      big thing is psychology[,] okay[,] I['m not] reading all books on
+      finance[,] economy[,] stock market[,] I just read psychology[,]
+      and this has been [my] deal for the last few years[,] so it talks
+      about people who are successful and correlates how horrible their
+      childhood was[.] It says most successful people, especially
+      startup founders and stuff like that..." -- confirming the shift
+      to psychology reading and the specific difficult-childhood/
+      success-correlation theory word-for-word. Note this occurs a few
+      minutes after nikhil-kamath-154 (both in the same broader
+      conversational stretch), not in the immediately adjacent speaking
+      turn as the draft's note suggested.
 
   - id: nikhil-kamath-156
     person: nikhil-kamath
@@ -70,19 +90,25 @@ statements:
       of scouting investment opportunities in the country.
     topic: travel
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=SkU3J2vWUK8&t=4250s"
+      start_timestamp: "1:10:50"
+      end_timestamp: "1:11:21"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154. The
-      project name is garbled in the auto-transcript ("Rosan," possibly
-      referring to Saudi Arabia's ROSHN development) -- confirm during
-      verification.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154. Confirmed
+      via this video's dense transcript at 1:10:50-1:11:21: "...I went
+      to a few of [the projects][,] I was there for a while and they
+      took me to show me different projects and investing
+      opportunities... we went to a villa project called rosan[,] you
+      know how many villas they're building at one time[?] 45,000..."
+      The project name is still rendered "rosan" in this dense
+      transcript rather than "Roshn," so the exact spelling remains
+      unconfirmed, but the villa-count figure (45,000) and Saudi
+      investment-scouting context are confirmed word-for-word.
 
   - id: nikhil-kamath-157
     person: nikhil-kamath
@@ -99,18 +125,33 @@ statements:
       zone had only a handful of tenants and has since grown rapidly.
     topic: investing
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=SkU3J2vWUK8&t=4520s"
+      start_timestamp: "1:15:20"
+      end_timestamp: "1:16:23"
     evidence:
       excerpt: null
     notes: >
       SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154.
       Cross-reference: corroborates his early presence in GIFT City,
       consistent with nikhil-kamath-059 (Ruchir Sharma episode).
+      Confirmed via this video's dense transcript at 1:15:20-1:16:23:
+      "...I was trying to create a company and a fund there[, Dubai]...
+      they take 3 months to create a bank account for a company[,]
+      D[I]FC license takes one month[,] for some reason you have to do
+      medical test[s] and prove you don't have certain kind of diseases
+      to get that license to open a company[,]... you're mandated to
+      have physical real estate inside D[I]FC to be able to operate a
+      company out of there... geographies like gift have totally
+      transformed[.] We were the first fund[,] first company[,] one of
+      the first to set up in gift maybe 3 years ago... there were maybe
+      four or five people... today... there [are] like 20-30,000 people
+      working there." Confirmed word-for-word, including the specific
+      three-month bank account wait, one-month DIFC license, medical
+      test requirement, physical-office mandate, and the ~3-year-old,
+      then-nearly-empty GIFT City comparison.
 
   - id: nikhil-kamath-158
     person: nikhil-kamath
@@ -125,7 +166,7 @@ statements:
       names using a similar method.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -134,4 +175,14 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-154. The
+      triggering anecdote is confirmed via this video's dense transcript
+      at 0:05:15-0:06:06: a guest recounts meeting someone at an event
+      of "a thousand" people who "named each person by name" after
+      overhearing introductions once, illustrating the memory technique
+      -- consistent with the draft's framing. However, Nikhil's own
+      first-person admission that he tried and failed to make a
+      similar visualization/mnemonic technique work was not located in
+      the surrounding transcript (the conversation pivots directly into
+      a dopamine/social-media theory discussion afterward). Left at
+      reviewed pending a further pass to locate this specific admission.
