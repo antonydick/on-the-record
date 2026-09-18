@@ -1,0 +1,65 @@
+statements:
+  - id: raj-shamani-13872
+    person: raj-shamani
+    source: raj-shamani-fo471-shekhar
+    type: observation
+    text: >
+      Raj introduces the guest as a global supply chain titan who grew
+      Walmart's business from $30 million to billions of dollars, born
+      in the slums, whose mother had to sell her jewelry for his
+      education, and who today is recognized as one of the pioneers who
+      helped develop modern package delivery systems — Shekhar
+      Natarajan, founder and CEO of Orchestro.AI; he says in this
+      episode they will learn why a giant company like NVIDIA could see
+      a downturn, what "angelic intelligence" is and whether it will
+      change the AI world, and how personal life pain points can
+      actually become billion-dollar business ideas; he asks viewers to
+      watch the episode to the end and click the link in the
+      description to learn more about Orchestro.AI.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=V7ZrhGma3l8"
+      start_timestamp: "00:02:43"
+      end_timestamp: "00:03:30"
+    evidence:
+      excerpt: "आज के हमारे गेस्ट एक ऐसे ग्लोबल सप्लाई चेन टाइटन है जिन्होंने Walmart की ग्रोथ ... शेखर नटराजजन फाउंडर एंड सीईओ ऑफ ऑर्केस्ट्रो एआई और इस एपिसोड में हम"
+    notes: >
+      ~[00:02:40]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close English rendering, not a verbatim
+      quote. Shekhar person record already existed from fo505-shekhar
+      (full name Shekhar Natarajan established here for the first time
+      in this corpus).
+
+  - id: raj-shamani-13873
+    person: raj-shamani
+    source: raj-shamani-fo471-shekhar
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the episode
+      to the end and says they have three things to do: subscribe to
+      the channel right now so the show can bring better and more
+      valuable guests, comment telling him what they liked or disliked
+      about the episode so mistakes aren't repeated and which guests
+      they want to see brought back on the podcast, and share the
+      episode with one person since one conversation can change
+      someone's life.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=V7ZrhGma3l8"
+      start_timestamp: "01:43:18"
+      end_timestamp: "01:43:40"
+    evidence:
+      excerpt: "गंदा लगा ताकि हम वो मिस्टेक्स रिपीट ना कर पाए। एंड कौन"
+    notes: >
+      ~[01:43:20]-[01:43:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close English rendering, not a verbatim
+      quote. Combined variant of the standard closing outro, wording
+      identical to fo472-tahir-majithia's outro.
