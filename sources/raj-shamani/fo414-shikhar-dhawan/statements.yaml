@@ -1,0 +1,99 @@
+statements:
+  - id: raj-shamani-14017
+    person: raj-shamani
+    source: raj-shamani-fo414-shikhar-dhawan
+    type: observation
+    text: >
+      Raj introduces the guest as a cricketer always seen in attack mode
+      on the field but smiling, joking, and fun off the field, though
+      nobody knows how he struggled behind the scenes with rejection,
+      loss, and insecurity: Shikhar Dhawan, Indian opener, a cricketer who
+      built his career through the strength of his mindset. He says the
+      episode will cover the most painful part of his public divorce, how
+      he handles being away from his son as a father, how he trains
+      himself to fight back after a bad innings, and how he developed a
+      mindset that lets external noise not affect him in cricket or life.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=J0TkybCKaJI"
+      start_timestamp: "00:02:20"
+      end_timestamp: "00:03:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...देखा है। और ऑफ फील्ड हमेशा स्माइलिंग, जोकिंग एंड फन..."
+    notes: >
+      ~[00:02:20]-[00:03:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. Verified via
+      on-screen YouTube caption at video timestamp ~155s, matching
+      exactly.
+
+  - id: raj-shamani-14018
+    person: raj-shamani
+    source: raj-shamani-fo414-shikhar-dhawan
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for the ASUS ExpertBook business
+      laptops, saying that performing in big moments requires
+      high-performance tools alongside the right mindset, which is why
+      high-performing professionals choose ASUS ExpertBook laptops built
+      for very-fast performance: the ASUS ExpertBook is up to 25% faster
+      than a standard laptop, has expandable RAM and SSD storage to keep
+      systems running smoothly, and a gaming-inspired cooling system to
+      keep the system cool so users can perform without stress, directing
+      viewers to check the link in the description to learn more about
+      the ASUS ExpertBook.
+    topic: sponsor-read
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=J0TkybCKaJI"
+      start_timestamp: "00:03:20"
+      end_timestamp: "00:03:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...स्मूथली। और गेमिंग इंस्पायर्ड कूलिंग सिस्टम आपके सिस्टम..."
+    notes: >
+      ~[00:03:20]-[00:03:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Shares the "25% faster than a standard laptop" headline claim with
+      the previously catalogued ASUS ExpertBook variant, but pairs it
+      here with different supporting details (expandable RAM/SSD storage,
+      gaming-inspired cooling system) not seen in that earlier variant,
+      so documented as a related but distinct claim-set. Verified via
+      on-screen YouTube caption at video timestamp ~215s, matching
+      exactly.
+
+  - id: raj-shamani-14019
+    person: raj-shamani
+    source: raj-shamani-fo414-shikhar-dhawan
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests and
+      ask the questions viewers want answered, comment on what other
+      guests they would like to see on the podcast, and share the episode
+      with at least one person whose life could see a positive change,
+      saying one conversation is enough to change someone's life. He
+      signs off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=J0TkybCKaJI"
+      start_timestamp: "01:55:00"
+      end_timestamp: "01:55:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...पूछ पाए जो आप चाहते हो। नंबर टू मुझे कमेंट्स में यह बताओ कि आप और..."
+    notes: >
+      ~[01:55:00]-[01:55:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + guest-suggestion +
+      share) plus the "keep figuring out" sign-off, wording near-identical
+      to other recent episodes' outros. Verified via on-screen YouTube
+      caption at video timestamp ~6906s, matching exactly.
