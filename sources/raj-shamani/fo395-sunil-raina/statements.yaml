@@ -1,0 +1,72 @@
+statements:
+  - id: raj-shamani-14072
+    person: raj-shamani
+    source: raj-shamani-fo395-sunil-raina
+    type: observation
+    text: >
+      Raj introduces the guest as Sunil Raina, Managing Director of Lava
+      International Limited, an Indian smartphone brand that is a
+      perfect example of a downfall and rise again, saying the episode
+      will cover what happened between 2014 and 2017 that caused Lava
+      and other brands to almost crash out of the market, why they
+      focused on feature phones after failing in the smartphone market,
+      how sponsoring The Kapil Sharma Show became a game changer for
+      them, and why they shifted from telecom to mobile manufacturing,
+      urging viewers to watch till the end to understand how to build a
+      business and turn around a downfall into profitability, and to
+      check the link in the description to learn more about Lava
+      smartphones.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=wVRoiMcaLAw"
+      start_timestamp: "00:01:20"
+      end_timestamp: "00:02:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...आज के एपिसोड में हमारे गेस्ट हैं सुनील रैना। मैनेजिंग डायरेक्टर ऑफ लावा..."
+    notes: >
+      ~[00:01:20]-[00:02:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. Combines the
+      guest-introduction and the sponsor/company-promotion CTA into a
+      single statement because the guest's own company (Lava) is
+      effectively this episode's sponsor and both were delivered as one
+      continuous narration in the source, matching the pattern used for
+      fo420-pankaj-balani/Delta Exchange, fo415-guru-n-reddy/Continental
+      Hospitals, and fo400-suresh-sethi/Protean. Verified via on-screen
+      YouTube caption at video timestamp ~85s, matching exactly.
+
+  - id: raj-shamani-14073
+    person: raj-shamani
+    source: raj-shamani-fo395-sunil-raina
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=wVRoiMcaLAw"
+      start_timestamp: "01:34:20"
+      end_timestamp: "01:34:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...और आपको ज्यादा से ज्यादा वैल्यू दे पाए। एंड नंबर..."
+    notes: >
+      ~[01:34:20]-[01:34:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share) plus the "keep figuring out" sign-off, wording
+      near-identical to other recent episodes' outros. Verified via
+      on-screen YouTube caption at video timestamp ~5664s, matching
+      exactly.
