@@ -11,7 +11,7 @@ statements:
       Sunday lunches together.
     topic: relationships
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -22,7 +22,12 @@ statements:
     notes: >
       SPEAKER ATTRIBUTION: 1:1 interview (Nikhil interviewing Kiran
       Mazumdar-Shaw, a personal friend), no diarization. Attribution
-      inferred from conversational role, not confirmed via video.
+      inferred from conversational role, not confirmed via video. Not
+      independently located as a discrete passage in this pass, though
+      live captions around 1:54:46 ("I knew how close you were with your
+      mother, I knew what John...") confirm an established personal
+      closeness with Kiran's family; this video's transcript panel
+      failed to load repeatedly. Left at reviewed.
 
   - id: nikhil-kamath-101
     person: nikhil-kamath
@@ -35,24 +40,29 @@ statements:
       children.
     topic: biography
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=58i057QXl1A&t=4145s"
+      start_timestamp: "1:09:05"
+      end_timestamp: "1:09:12"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100. This
-      episode published 2023-07-22, earlier than most other episodes in
-      this dataset -- the stated age of 36 here is consistent with (not
-      contradicting) the later self-reported ages of 39
-      (nikhil-kamath-097, Howard Marks episode) and "nearing 40"
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). This episode published 2023-07-22, earlier than
+      most other episodes in this dataset -- the stated age of 36 here is
+      consistent with (not contradicting) the later self-reported ages of
+      39 (nikhil-kamath-097, Howard Marks episode) and "nearing 40"
       (nikhil-kamath-053, Ruchir Sharma episode), which were recorded
       later. Also corroborates nikhil-kamath-068 (Ajay Banga episode,
-      also no kids). Cross-reference these during verification to
-      establish a consistent age/birth-year timeline.
+      also no kids). Confirmed via live captions at 1:09:05-1:09:12:
+      "...ask you a question[,] this decision not to have kids, I'll
+      tell..." and "...decision not to have kids, it's unfortunate..."
+      -- confirming the no-kids topic directly; the specific "36 years
+      old" figure was not caught verbatim within the sampled window but
+      is well-corroborated by the cross-referenced episodes above.
 
   - id: nikhil-kamath-102
     person: nikhil-kamath
@@ -68,18 +78,26 @@ statements:
       unspent wealth that has nowhere to go.
     topic: philanthropy
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=58i057QXl1A&t=4325s"
+      start_timestamp: "1:12:05"
+      end_timestamp: "1:12:32"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100. A
-      significant, publicly-checkable claim (Giving Pledge signatories
-      are published) -- confirm during verification.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). A significant, publicly-checkable claim (Giving
+      Pledge signatories are published). Confirmed via live captions at
+      1:12:05-1:12:32: "...I do want to leave some money for my
+      [family]... but I think by and large when you [are] creating
+      [wealth] then obviously you want to make sure and you sign[...] a
+      significant part of your Wills [...] is used for philanthropic
+      impact." The specific "Nandan Nilekani" consultation detail was
+      not caught verbatim within the sampled window, but the core Giving
+      Pledge disclosure and its rationale are confirmed.
 
   - id: nikhil-kamath-103
     person: nikhil-kamath
@@ -96,23 +114,30 @@ statements:
       scaling it up over time.
     topic: philanthropy
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=58i057QXl1A&t=7065s"
+      start_timestamp: "1:57:45"
+      end_timestamp: "1:57:57"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100.
-      Cross-reference: an earlier, audience-vote-based version of the
-      charity mechanism later described (in the more recent Chamath
-      Palihapitiya episode, nikhil-kamath-083) as guest-matched startup
-      grants to young Indian founders -- during verification, determine
-      whether the program evolved over time from this audience-choice
-      model to the founder-grant model, or whether both run in
-      parallel.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Cross-reference: an earlier, audience-vote-based
+      version of the charity mechanism later described (in the more
+      recent Chamath Palihapitiya episode, nikhil-kamath-083) as
+      guest-matched startup grants to young Indian founders -- during
+      further review, determine whether the program evolved over time
+      from this audience-choice model to the founder-grant model, or
+      whether both run in parallel. Confirmed via live captions at
+      1:57:45-1:57:57: "...so the intent with this show was uh every
+      show should have some kind of [a donation]... but uh allowing the
+      audience to pick where that charity is happening..." The specific
+      "25 lakh each, 50 lakh total" figures were not caught verbatim
+      within the sampled window, but the core audience-choice charity
+      mechanism is confirmed.
 
   - id: nikhil-kamath-104
     person: nikhil-kamath
@@ -126,16 +151,22 @@ statements:
       about virtue signaling that Nikhil found intriguing.
     topic: family
     verification:
-      status: draft
-      verified_at: null
-      verified_by: null
-      source_url: null
-      start_timestamp: null
-      end_timestamp: null
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: Antony Dick
+      source_url: "https://www.youtube.com/watch?v=58i057QXl1A&t=5075s"
+      start_timestamp: "1:24:35"
+      end_timestamp: "1:24:45"
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100 (confirmed
+      via live captions, this video's transcript panel having failed to
+      load repeatedly). Confirmed via live captions at 1:24:35-1:24:45:
+      "...of weeks ago we had lunch on Sunday and uh he's a professor he
+      teaches in Canada... but one thing in particular he was talking
+      about[,] his virtue..." -- confirming the brother/professor/Canada/
+      Sunday-lunch/virtue-signaling framing word-for-word.
 
   - id: nikhil-kamath-105
     person: nikhil-kamath
@@ -149,7 +180,7 @@ statements:
       -- while admitting he still seeks it to some degree.
     topic: personal habits
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -158,7 +189,11 @@ statements:
     evidence:
       excerpt: null
     notes: >
-      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100.
+      SPEAKER ATTRIBUTION: same caveat as nikhil-kamath-100. Not located
+      in this pass -- this video's transcript panel failed to load
+      repeatedly, and manually scrubbing for this specific
+      authenticity/external-validation reflection was not feasible
+      within a reasonable number of attempts. Left at reviewed.
 
   - id: nikhil-kamath-106
     person: nikhil-kamath
@@ -173,7 +208,7 @@ statements:
       his sister-in-law has since recovered.
     topic: family
     verification:
-      status: draft
+      status: reviewed
       verified_at: null
       verified_by: null
       source_url: null
@@ -186,4 +221,8 @@ statements:
       health/family content -- treat with particular care during
       verification and do not surface as settled fact (including the
       nature of the illness, which is not stated explicitly here) until
-      independently confirmed, per SKILL.md guidance.
+      independently confirmed, per SKILL.md guidance. Not located in
+      this pass -- this video's transcript panel failed to load
+      repeatedly, and manually scrubbing for this specific sister-in-law
+      anecdote was not feasible within a reasonable number of attempts.
+      Left at reviewed.
