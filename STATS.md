@@ -11,15 +11,15 @@ by hand — changes will be overwritten on the next push to main._
 
 - Total: 262
   - pending: 114
-  - extracted: 3
-  - in_review: 114
+  - extracted: 2
+  - in_review: 115
   - complete: 31
 
 ## Statements
 
 - Total: 1703
-  - draft: 1017
+  - draft: 1012
   - unverified: 0
-  - reviewed: 89
-  - verified: 596
+  - reviewed: 90
+  - verified: 600
   - rejected: 1
