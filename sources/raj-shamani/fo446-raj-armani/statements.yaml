@@ -1,0 +1,68 @@
+statements:
+  - id: raj-shamani-13938
+    person: raj-shamani
+    source: raj-shamani-fo446-raj-armani
+    type: observation
+    text: >
+      Raj introduces the guest as Raj Armani, co-founder of the sexual
+      wellness company IMbesharam, and says the episode will cover
+      India's sexual wellness industry and changing expectations around
+      relationships.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=_ObNMjRq_WM"
+      start_timestamp: "00:00:00"
+      end_timestamp: "00:00:20"
+    evidence:
+      excerpt: "Sex toys singles or couples between 65 to 70% people are singles ... sexual wellness changing expectations relationship"
+    notes: >
+      ~[00:00:00]-[00:00:20] Transcribed via YouTube English
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. Hindi
+      auto-captions were rate-limited (HTTP 429) on repeated attempts,
+      so English auto-captions were used as a fallback; the English
+      track garbles the cold-open guest mention (rendering the
+      company's name as "Bashar"), confirmed via web search to be
+      "IMbesharam" (Raj Armani, co-founder and COO). The sentences
+      immediately before and after the guest-name mention were
+      confirmed verbatim on-screen during browser verification,
+      bracketing it within the same caption block.
+
+  - id: raj-shamani-13939
+    person: raj-shamani
+    source: raj-shamani-fo446-raj-armani
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel, comment with feedback and guest suggestions, and share
+      the episode with at least one person because one conversation can
+      change someone's life. He signs off by telling viewers to keep
+      figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=_ObNMjRq_WM"
+      start_timestamp: "01:21:40"
+      end_timestamp: "01:22:40"
+    evidence:
+      excerpt: "coming here and spending time with us. And I hope ... one conversation can change someone's life. I'll"
+    notes: >
+      ~[01:21:40]-[01:22:40] The English auto-caption track largely
+      drops the middle of this segment (it appears to be spoken in
+      Hindi, and Hindi auto-captions were rate-limited (HTTP 429) on
+      repeated attempts), so the exact middle wording was not directly
+      read from clean captions for this specific episode. However, the
+      sentences immediately before and after the gap were confirmed
+      verbatim on-screen during browser verification, and the surviving
+      fragments ("number three episode...one conversation can change
+      someone's life...I'll see you next time. Until then, keep
+      figuring out") match the standard combined closing outro verified
+      byte-for-byte identical across many other episodes this session
+      (e.g. fo465-karan-sarin, fo466-ashish-chanchlani).
