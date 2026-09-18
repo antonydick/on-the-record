@@ -1,0 +1,88 @@
+statements:
+  - id: raj-shamani-14001
+    person: raj-shamani
+    source: raj-shamani-fo421-utkarsh-dave
+    type: observation
+    text: >
+      Raj introduces the guest as Utkarsh Dave, an advocate at the
+      Gujarat High Court, and says he explained that India has only 21
+      judges per 1 million people, that lower courts in India have 4.5
+      crore pending cases, and that even if the backlog were cleared at
+      the current pace with no new cases added, it would take 300 years
+      to close all cases.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=giZk-zQKGSI"
+      start_timestamp: "00:00:20"
+      end_timestamp: "00:00:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...है उसने कॉम्प्रोमाइज कर दिया। और हमारे आज के गेस्ट उत्कर्ष दवे..."
+    notes: >
+      ~[00:00:20]-[00:00:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote.
+      Verified via on-screen YouTube caption at video timestamp ~22s,
+      matching exactly.
+
+  - id: raj-shamani-14002
+    person: raj-shamani
+    source: raj-shamani-fo421-utkarsh-dave
+    type: recommendation
+    text: >
+      Early in the episode, Raj asks viewers to subscribe to the channel
+      so the show can keep making insightful and better podcasts, and
+      mentions that the full audio experience of the show is available on
+      Spotify.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=giZk-zQKGSI"
+      start_timestamp: "00:02:20"
+      end_timestamp: "00:02:40"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "आगे बढ़ने से पहले इस चैनल को सब्सक्राइब..."
+    notes: >
+      ~[00:02:20]-[00:02:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Wording matches the standard subscriber-goal-appeal seen in
+      fo442-runjhun-sharma and fo424-riyaaz-amlani almost verbatim.
+      Verified via on-screen YouTube caption at video timestamp ~145s,
+      matching exactly.
+
+  - id: raj-shamani-14003
+    person: raj-shamani
+    source: raj-shamani-fo421-utkarsh-dave
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=giZk-zQKGSI"
+      start_timestamp: "01:49:40"
+      end_timestamp: "01:50:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...लगाने देना है। थैंक यू सो मच ये एपिसोड एंड तक देखने के लिए।..."
+    notes: >
+      ~[01:49:40]-[01:50:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + feedback/guest-
+      suggestion + share), plus the "keep figuring out" sign-off, wording
+      near-identical to fo442-runjhun-sharma's and fo422-lakshya-
+      lalwani's outros. Verified via on-screen YouTube caption at video
+      timestamp ~6591s, matching exactly.
