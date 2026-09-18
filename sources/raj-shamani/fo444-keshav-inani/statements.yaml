@@ -1,0 +1,35 @@
+statements:
+  - id: raj-shamani-13943
+    person: raj-shamani
+    source: raj-shamani-fo444-keshav-inani
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=1_SmoGwqjd8"
+      start_timestamp: "01:49:20"
+      end_timestamp: "01:49:40"
+    evidence:
+      excerpt: "थैंक यू सो मच यह एपिसोड एंड तक देखने के लिए। अब आपको तीन चीजें करनी है। सबसे"
+    notes: >
+      ~[01:49:20]-[01:49:40] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro (subscribe +
+      feedback/guest-suggestion + share), plus the "keep figuring out"
+      sign-off, wording near-identical to fo465-karan-sarin's outro. No
+      separate formal guest-introduction narration or early
+      subscriber-goal-appeal was found in this episode (similar to
+      fo453-deepinder-goyal).
