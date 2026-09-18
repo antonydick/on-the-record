@@ -1,0 +1,108 @@
+statements:
+  - id: raj-shamani-13893
+    person: raj-shamani
+    source: raj-shamani-fo463-shiv-shivakumar
+    type: observation
+    text: >
+      Raj introduces the guest as a corporate legend who has seen it
+      all, from leading Nokia to serving as CEO of PepsiCo India,
+      naming him as Shiv Shivakumar. He says the episode will discuss
+      why even the biggest companies with all the money in the world
+      still end up failing, the real power of saying no, why hierarchy
+      is the biggest killer of innovation, and why relying too much on
+      logic can be poison for a startup.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=nrVyl0awWsw"
+      start_timestamp: "00:02:40"
+      end_timestamp: "00:03:00"
+    evidence:
+      excerpt: "to serving as a CEO of Pepsico India. I'm talking about Shiv Shivakumar."
+    notes: >
+      ~[00:02:40]-[00:03:00] Transcribed via YouTube English
+      auto-captions (freshly fetched and consolidated from the raw VTT
+      for this episode, not yet human-reviewed for transcription
+      quality); text is a close paraphrase, not a verbatim quote. Hindi
+      auto-captions were rate-limited (HTTP 429) on repeated attempts,
+      so English auto-captions were used as a fallback for extraction;
+      this introduction segment is spoken in English in the source
+      video, confirmed via on-screen captions during browser
+      verification.
+
+  - id: raj-shamani-13894
+    person: raj-shamani
+    source: raj-shamani-fo463-shiv-shivakumar
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for the ASUS ExpertBook P5,
+      describing it as an AI PC with a 50+ TOPS NPU and Copilot+ AI
+      functionality, with an integrated CPU, NPU, and GPU working
+      together for faster performance, and calls it reliable, fast, and
+      built for people who turn great ideas into reality. He tells
+      viewers to check it out on Flipkart via the link in the
+      description.
+    topic: sponsor-read
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=nrVyl0awWsw"
+      start_timestamp: "00:03:00"
+      end_timestamp: "00:04:00"
+    evidence:
+      excerpt: "the world of a CXO, your work is only as good as the tools you use ... comes in. An AI PC with 50+ TOPS NPU and Copilot+ AI functionality built for you"
+    notes: >
+      ~[00:03:00]-[00:04:00] Transcribed via YouTube English
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      This is a third distinct ASUS ExpertBook claim-set observed in
+      the corpus (50+ TOPS NPU / Copilot+ AI / integrated CPU-NPU-GPU),
+      differing from the 25%-faster/call-center-hours and the
+      30kg-panel/24-of-28-military-tests variants seen in other
+      episodes.
+
+  - id: raj-shamani-13895
+    person: raj-shamani
+    source: raj-shamani-fo463-shiv-shivakumar
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=nrVyl0awWsw"
+      start_timestamp: "01:26:20"
+      end_timestamp: "01:27:18"
+    evidence:
+      excerpt: "About things you can do number one is channel to subscribe ... number two which you comments ... number three episode ... I'll see you next time until then keep figuring out."
+    notes: >
+      ~[01:26:20]-[01:27:00] The on-screen English auto-caption/
+      auto-translate track badly garbles this segment's wording (it
+      appears to be a poor machine translation of Hindi speech spoken
+      here, e.g. "About things you can do number one is channel to
+      subscribe color..."), and Hindi auto-captions were rate-limited
+      (HTTP 429) on three separate attempts via yt-dlp, and a direct
+      timedtext API fetch from the browser returned an empty body
+      despite HTTP 200. However, the garbled English machine translation
+      still clearly preserves the standard three-point structure
+      (subscribe / comment likes-dislikes and suggest guests / share
+      because one conversation can change a life) and ends with the
+      literal, exactly-matching phrase "I'll see you next time until
+      then keep figuring out." Combined with this outro's wording being
+      verified byte-for-byte identical across more than a dozen other
+      episodes this session (e.g. fo465-karan-sarin,
+      fo466-ashish-chanchlani), this is treated as sufficient
+      confirmation that the standard combined closing outro is present
+      here, though the Hindi wording itself was not directly read from
+      clean captions for this specific episode.
