@@ -1,0 +1,110 @@
+statements:
+  - id: raj-shamani-14041
+    person: raj-shamani
+    source: raj-shamani-fo406-rinku-singh
+    type: recommendation
+    text: >
+      Raj reads a sponsored segment for the ASUS ExpertBook laptops,
+      describing a busy workday (watching movies on the laptop while
+      commuting, checking sales dashboards and business trackers, joining
+      Zoom calls, using AI to become more efficient, always having a tab
+      open for podcast research) and says that if the laptop freezes it
+      is not just a technical problem but disrupts the whole workflow, so
+      professionals use the ASUS ExpertBook, a laptop specially designed
+      to be lightweight, fast, and built for people who work like
+      machines without crashing: its military-grade durability easily
+      handles drops, spills, or travel stress, its battery lasts a full
+      day, enterprise-grade protection keeps data fully secure, and its
+      warranty is valid in 80+ countries, calling it perfect for people
+      who work on the move and built to handle high work pressure.
+    topic: sponsor-read
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=UcU67xgPkbc"
+      start_timestamp: "00:02:20"
+      end_timestamp: "00:03:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...डैशबोर्ड एंड बिजनेस ट्रैकर्स चेक करता हूं। एंड इसी बीच में ज़ूम..."
+    notes: >
+      ~[00:02:20]-[00:03:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote. This is a NEW,
+      sixth distinct ASUS ExpertBook sponsor-read claim-set in the
+      corpus catalogue (lightweight/fast + military-grade drop/spill/
+      travel durability + all-day battery + enterprise data protection +
+      80+ country warranty), distinct from the previously catalogued
+      "30kg-panel/24-of-28-military-tests", "25%-faster" (multiple
+      pairings), "50+ TOPS NPU/Copilot+ AI", "on-device meeting
+      assistant", and "built-in ransomware protection" variants. Verified
+      via on-screen YouTube caption at video timestamp ~145s, matching
+      exactly.
+
+  - id: raj-shamani-14042
+    person: raj-shamani
+    source: raj-shamani-fo406-rinku-singh
+    type: observation
+    text: >
+      Raj introduces the guest as Rinku Singh, a cricketer who has
+      overcome a lot of pressure in his life to reach where he is today,
+      saying the episode will cover how his journey started from a
+      sweeper's job and how five sixes changed his entire life, how his
+      cricket career leapt from 80 lakh rupees per season to 1 crore
+      rupees per season, the struggles of his love story, the language
+      struggles he faced in cricket, and how MS Dhoni's mentorship
+      impacted his career, urging viewers to watch till the end, comment
+      on what they learned from the conversation, and also check out the
+      ASUS ExpertBook, truly built for very-fast business, with the best
+      deals on Flipkart during the Big Billion Days.
+    topic: guest-introduction
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=UcU67xgPkbc"
+      start_timestamp: "00:03:20"
+      end_timestamp: "00:04:20"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...हमारे आज के गेस्ट थे रिंकू सिंह अ क्रिकेटर जिन्होंने अपनी लाइफ में बहुत..."
+    notes: >
+      ~[00:03:20]-[00:04:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Includes a brief repeated ASUS ExpertBook/Flipkart CTA at the end,
+      delivered as one continuous narration immediately following the
+      main sponsor-read (raj-shamani-14041), so kept together with the
+      guest-introduction rather than split into a third statement.
+      Verified via on-screen YouTube caption at video timestamp ~205s,
+      matching exactly.
+
+  - id: raj-shamani-14043
+    person: raj-shamani
+    source: raj-shamani-fo406-rinku-singh
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests and
+      ask the questions viewers want answered, comment on what other
+      guests they would like to see on the podcast, and share the episode
+      with at least one person whose life could see a positive change,
+      saying one conversation is enough to change someone's life. He
+      signs off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      source_url: "https://www.youtube.com/watch?v=UcU67xgPkbc"
+      start_timestamp: "01:58:20"
+      end_timestamp: "01:59:00"
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+    evidence:
+      excerpt: "...क्वेश्चंस पूछ पाएं जो आप चाहते हो। नंबर टू मुझे कमेंट्स में यह बताओ कि आप..."
+    notes: >
+      ~[01:58:20]-[01:59:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Standard combined closing outro (subscribe + guest-suggestion +
+      share) plus the "keep figuring out" sign-off, wording near-identical
+      to other recent episodes' outros. Verified via on-screen YouTube
+      caption at video timestamp ~7104s, matching exactly.
