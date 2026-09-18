@@ -1,0 +1,80 @@
+statements:
+  - id: raj-shamani-13884
+    person: raj-shamani
+    source: raj-shamani-fo466-ashish-chanchlani
+    type: observation
+    text: >
+      Raj introduces the guest as Ashish Chanchlani, an actor and
+      director, and says the episode will discuss his insecurities,
+      loneliness, and the controversies hidden behind his public image.
+    topic: guest-introduction
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=1Iz-wq5W4WE"
+      start_timestamp: "00:00:40"
+      end_timestamp: "00:01:00"
+    evidence:
+      excerpt: "आशीष चंचलानी एक एक्टर और डायरेक्टर। इस एपिसोड में हम बात करेंगे उनकी इनसिक्योरिटीज, लोनलीनेस और उन कंट्रोवर्सीज के बारे में"
+    notes: >
+      ~[00:00:40]-[00:01:00] Transcribed via YouTube Hindi/Hinglish
+      auto-captions (freshly fetched and consolidated from the raw VTT for
+      this episode, not yet human-reviewed for transcription quality);
+      text is a close paraphrase, not a verbatim quote.
+
+  - id: raj-shamani-13885
+    person: raj-shamani
+    source: raj-shamani-fo466-ashish-chanchlani
+    type: recommendation
+    text: >
+      Early in the episode, Raj asks viewers to subscribe to the channel
+      so the show can keep making insightful and better podcasts, and
+      mentions that the full audio experience of the show is available on
+      Spotify.
+    topic: subscriber-goal-appeal
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=1Iz-wq5W4WE"
+      start_timestamp: "00:03:00"
+      end_timestamp: "00:03:20"
+    evidence:
+      excerpt: "आगे बढ़ने से पहले इस चैनल को सब्सक्राइब कर लीजिए ताकि हम आपके लिए इसी तरह से और इनसाइटफुल और बेहतर पॉडकास्ट बनाते रहें"
+    notes: >
+      ~[00:03:00]-[00:03:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Wording matches the standard subscriber-goal-appeal seen in
+      fo468-aditya-s-rathore.
+
+  - id: raj-shamani-13886
+    person: raj-shamani
+    source: raj-shamani-fo466-ashish-chanchlani
+    type: recommendation
+    text: >
+      In his closing outro, Raj thanks viewers for watching the podcast
+      to the end and asks them to do three things: subscribe to the
+      channel so the show can bring better and more valuable guests,
+      comment on what they liked and disliked about the episode so the
+      show can avoid repeating mistakes and suggest guests they would
+      like to see on the podcast, and share the episode with at least one
+      person, saying one conversation can change someone's life. He signs
+      off by telling viewers to keep figuring out until next time.
+    topic: audience-engagement
+    verification:
+      status: verified
+      verified_at: "2026-09-18"
+      verified_by: "Antony Dick"
+      source_url: "https://www.youtube.com/watch?v=1Iz-wq5W4WE"
+      start_timestamp: "01:25:40"
+      end_timestamp: "01:26:20"
+    evidence:
+      excerpt: "थैंक यू सो मच ये एपिसोड एंड तक देखने के लिए। अब आपको तीन चीजें करनी है ... नंबर टू, मुझे कमेंट्स में बताओ इस एपिसोड में आपको क्या अच्छा लगा और"
+    notes: >
+      ~[01:25:40]-[01:26:20] Transcribed via YouTube Hindi/Hinglish
+      auto-captions; text is a close paraphrase, not a verbatim quote.
+      Combined variant of the standard closing outro (subscribe +
+      feedback/guest-suggestion + share), plus the "keep figuring out"
+      sign-off, wording near-identical to fo468-aditya-s-rathore's outro.
+      Video confirmed to end at 01:26:28 (moved to "Up next" screen).
