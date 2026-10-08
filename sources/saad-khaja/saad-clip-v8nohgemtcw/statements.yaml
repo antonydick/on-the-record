@@ -1,0 +1,82 @@
+statements:
+  - id: saad-khaja-01030
+    person: saad-khaja
+    source: saad-khaja-saad-clip-v8nohgemtcw
+    type: example
+    text: >
+      Saad, having reached the wrong person, says his company is out
+      of Dubai, does marketing for companies, and asks whether their
+      business might be looking for any kind of help.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:09]-[00:24] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01031
+    person: saad-khaja
+    source: saad-khaja-saad-clip-v8nohgemtcw
+    type: example
+    text: >
+      Saad jokes to a prospect that part of what they are thinking is
+      who this random stranger calling on a Monday morning is.
+    topic: cold-call-humor
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:28]-[00:32] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01032
+    person: saad-khaja
+    source: saad-khaja-saad-clip-v8nohgemtcw
+    type: example
+    text: >
+      Saad asks the prospect, who suggests calling back in a couple of
+      months, who he should say he should be speaking to.
+    topic: cold-call-followup
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:39]-[00:42] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01033
+    person: saad-khaja
+    source: saad-khaja-saad-clip-v8nohgemtcw
+    type: example
+    text: >
+      Saad asks the prospect whether he can say she recommended her as
+      the best manager to speak to.
+    topic: cold-call-referral
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:45]-[00:48] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+

@@ -1,0 +1,39 @@
+statements:
+  - id: saad-khaja-04010
+    person: saad-khaja
+    source: saad-khaja-saad-clip-nekh2quvlro
+    type: example
+    text: >
+      Saad asks a prospect who said they are open to content help whether they are currently open to someone who can have a conversation about more engagement.
+    topic: cold-call-discovery-question
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:17]-[00:24] Attributed to Saad because a question asked by the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04011
+    person: saad-khaja
+    source: saad-khaja-saad-clip-nekh2quvlro
+    type: example
+    text: >
+      When a prospect asks for an email with his profile, Saad says he will send it right away but that what has helped is a quick 15-minute call, and asks for Tuesday or Wednesday.
+    topic: meeting-ask
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:31]-[00:43] Attributed to Saad because the caller's response; the Wednesday 4 p.m. time was agreed with the prospect. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

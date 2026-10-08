@@ -1,0 +1,84 @@
+statements:
+  - id: saad-khaja-03027
+    person: saad-khaja
+    source: saad-khaja-saad-clip-nbueja3nm4m
+    type: example
+    text: >
+      On a cold call that reached a sales representative rather than the
+      intended person, Saad says it is a cold call and that he can ask
+      the representative instead of wasting time calling the marketing
+      manager, asking whether the company wants help with social media.
+    topic: wrong-person-pitch
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:12]-[00:24] Saad is the caller on this cold call; the other speaker is a sales representative."
+
+  - id: saad-khaja-03028
+    person: saad-khaja
+    source: saad-khaja-saad-clip-nbueja3nm4m
+    type: example
+    text: >
+      When told that engagement is not there and asked who to call, Saad
+      asks "Can you do me a huge favor?" and then asks the
+      representative for the decision maker's number.
+    topic: asking-for-a-referral
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:25]-[00:38] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03029
+    person: saad-khaja
+    source: saad-khaja-saad-clip-nbueja3nm4m
+    type: example
+    text: >
+      Saad asks whether he can tell the decision maker that the
+      representative gave his number, and accepts the reply that he
+      should not.
+    topic: referral-name-drop
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:40]-[00:44] Saad is the caller on this cold call; contact details are not captured in the transcript."
+
+  - id: saad-khaja-03030
+    person: saad-khaja
+    source: saad-khaja-saad-clip-nbueja3nm4m
+    type: example
+    text: >
+      Saad closes the call by offering to send someone the
+      representative's way as well.
+    topic: reciprocity-close
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:48]-[00:53] Saad is the caller on this cold call."

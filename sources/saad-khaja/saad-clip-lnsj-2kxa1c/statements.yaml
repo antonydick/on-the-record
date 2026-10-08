@@ -1,0 +1,102 @@
+statements:
+  - id: saad-khaja-01010
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lnsj-2kxa1c
+    type: example
+    text: >
+      Saad tells a prospect his company also helps companies develop
+      in-house teams and consults with them.
+    topic: service-pitch
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:19]-[00:25] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01011
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lnsj-2kxa1c
+    type: assertion
+    text: >
+      Saad says his company mainly did content for larger creators for
+      the last few years and has now started working with companies on
+      building content and getting more reach.
+    topic: company-background
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:25]-[00:36] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01012
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lnsj-2kxa1c
+    type: example
+    text: >
+      Saad asks a prospect who already works with an agency what the
+      current timeline with that agency is.
+    topic: qualifying-question
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:40]-[00:44] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01013
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lnsj-2kxa1c
+    type: example
+    text: >
+      Saad asks the prospect whether they are looking to work with
+      other agencies as well.
+    topic: qualifying-question
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:46]-[00:50] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01014
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lnsj-2kxa1c
+    type: example
+    text: >
+      Saad proposes a quick 15 minute call in which he can show the
+      prospect some of the company's work.
+    topic: cold-call-booking
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:59]-[01:03] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+

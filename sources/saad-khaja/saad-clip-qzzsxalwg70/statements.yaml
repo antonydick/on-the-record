@@ -1,0 +1,58 @@
+statements:
+  - id: saad-khaja-04025
+    person: saad-khaja
+    source: saad-khaja-saad-clip-qzzsxalwg70
+    type: example
+    text: >
+      When a prospect says his team already handles social media and he is away until the 28th of August, Saad says that to help he would need a 15-minute conversation to understand whether they can help at all.
+    topic: handling-objection-have-team
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:30]-[00:36] Attributed to Saad because the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04026
+    person: saad-khaja
+    source: saad-khaja-saad-clip-qzzsxalwg70
+    type: example
+    text: >
+      Saad proposes that when the prospect is back they hop on a 15-minute conversation where he can show the things they have done, and then offers to put a calendar invite in the second half.
+    topic: meeting-ask
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:37]-[00:51] Attributed to Saad because the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04027
+    person: saad-khaja
+    source: saad-khaja-saad-clip-qzzsxalwg70
+    type: belief
+    text: >
+      Saad says that in this case he was low energy, with no energy, and that it did not feel like a meeting had been booked.
+    topic: cold-call-self-critique
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:54]-[00:59] Attributed to Saad because first-person self-assessment; the speaker of the question just before is unclear. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

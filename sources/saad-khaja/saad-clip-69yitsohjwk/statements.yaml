@@ -1,0 +1,142 @@
+statements:
+  - id: saad-khaja-03044
+    person: saad-khaja
+    source: saad-khaja-saad-clip-69yitsohjwk
+    type: observation
+    text: >
+      Saad, after listening to a colleague's practice call, tells him he
+      is too slow and needs to pick up the energy.
+    topic: pace-and-energy
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:27]-[00:31] Saad gives feedback on a colleague's call (he offers 'Do you want feedback?')."
+
+  - id: saad-khaja-03045
+    person: saad-khaja
+    source: saad-khaja-saad-clip-69yitsohjwk
+    type: mechanism
+    text: >
+      Saad says that the more lag time there is on a cold call, the more
+      anxiety it creates for the prospect, because the prospect has no
+      idea who is calling.
+    topic: lag-time-and-anxiety
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:31]-[00:38] Saad's feedback to colleague."
+
+  - id: saad-khaja-03046
+    person: saad-khaja
+    source: saad-khaja-saad-clip-69yitsohjwk
+    type: recommendation
+    text: >
+      Saad tells the caller to establish quickly who he is and give
+      context early on a call.
+    topic: establish-context-early
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:38]-[00:41] Saad's feedback to colleague."
+
+  - id: saad-khaja-03047
+    person: saad-khaja
+    source: saad-khaja-saad-clip-69yitsohjwk
+    type: example
+    text: >
+      On a demo call Saad says: "This is Saad. I'm calling you from HOS.
+      Do you have 30 seconds?" and then says the call is about content
+      and asks whether they need help with video content.
+    topic: cold-call-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:43]-[00:52] Saad takes the call himself after giving feedback; same voice as 'I'm calling you from HOS'."
+
+  - id: saad-khaja-03048
+    person: saad-khaja
+    source: saad-khaja-saad-clip-69yitsohjwk
+    type: belief
+    text: >
+      Saad says that when a company rebrands, it is generally a very
+      good time for him to call and ask what's up.
+    topic: rebranding-trigger
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:56]-[01:04] Saad speaking on the call about the prospect's new logo."
+
+  - id: saad-khaja-03049
+    person: saad-khaja
+    source: saad-khaja-saad-clip-69yitsohjwk
+    type: example
+    text: >
+      Saad tells a prospect on the call that his team is working with
+      Rebel Foods and asks to meet if a requirement comes up.
+    topic: name-dropping-client
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[01:05]-[01:13] Saad on the call; this is his own claim made on the call, not independently checked."
+
+  - id: saad-khaja-03050
+    person: saad-khaja
+    source: saad-khaja-saad-clip-69yitsohjwk
+    type: belief
+    text: >
+      Saad attributes the prospect's willingness to ask for the meeting
+      to energy, enthusiasm and pace.
+    topic: energy-enthusiasm-pace
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[01:22]-[01:28] Saad's closing commentary; caption partly garbled."

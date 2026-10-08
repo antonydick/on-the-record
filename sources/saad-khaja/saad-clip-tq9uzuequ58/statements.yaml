@@ -1,0 +1,96 @@
+statements:
+  - id: saad-khaja-04039
+    person: saad-khaja
+    source: saad-khaja-saad-clip-tq9uzuequ58
+    type: belief
+    text: >
+      Saad says extroverts should never be in sales because they cannot stop talking.
+    topic: sales-personality
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:03] Attributed to Saad because Saad speaking to camera. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04040
+    person: saad-khaja
+    source: saad-khaja-saad-clip-tq9uzuequ58
+    type: belief
+    text: >
+      Saad says introverts are incredible salespeople because they are curious and ask questions.
+    topic: sales-personality
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:04]-[00:09] Attributed to Saad because Saad speaking to camera. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04041
+    person: saad-khaja
+    source: saad-khaja-saad-clip-tq9uzuequ58
+    type: recommendation
+    text: >
+      Saad says that unless you learn to stop talking and ask questions, you will never understand the prospect's problem or the truth behind why they are there.
+    topic: discovery-questions
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:10]-[00:21] Attributed to Saad because Saad speaking to camera. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04042
+    person: saad-khaja
+    source: saad-khaja-saad-clip-tq9uzuequ58
+    type: example
+    text: >
+      Saad gives a tablet example: after asking questions you can tell a customer that they are trying to lose weight and list the five exact things the tablet does for the problem they described, then ask if they want it.
+    topic: discovery-questions
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:21]-[00:33] Attributed to Saad because Saad speaking to camera. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04043
+    person: saad-khaja
+    source: saad-khaja-saad-clip-tq9uzuequ58
+    type: belief
+    text: >
+      Saad says that if you do not ask questions and just push a product, a sale sometimes happens, but when it does it is probability, statistics and luck rather than skill.
+    topic: discovery-questions
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:33]-[00:48] Attributed to Saad because Saad speaking to camera. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

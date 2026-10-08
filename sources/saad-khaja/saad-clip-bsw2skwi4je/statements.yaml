@@ -1,0 +1,63 @@
+statements:
+  - id: saad-khaja-03051
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bsw2skwi4je
+    type: example
+    text: >
+      On a cold call Saad says his company is a social media company
+      and, knowing the prospect is in B2B, asks whether they would want
+      content for social media within the next one or two quarters.
+    topic: cold-call-pitch
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:04]-[00:14] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03052
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bsw2skwi4je
+    type: example
+    text: >
+      When a prospect says management lacks budget, Saad asks to give a
+      quick introduction and proposes a 15-minute conversation to show
+      some of the work they have done.
+    topic: budget-objection
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:20]-[00:31] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03053
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bsw2skwi4je
+    type: belief
+    text: >
+      Saad says that people complain they do not have time for cold
+      calling, and that if you spend 10 minutes a day you will probably
+      have more business than you ever thought of.
+    topic: ten-minutes-a-day
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:40]-[00:49] Saad's own commentary to camera; the clip frames a 10-minute cold-call challenge."

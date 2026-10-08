@@ -1,0 +1,84 @@
+statements:
+  - id: saad-khaja-02037
+    person: saad-khaja
+    source: saad-khaja-saad-clip-t3rnw2zosp0
+    type: example
+    text: >
+      Saad opens a call saying it is a cold call and asks if the prospect
+      has 30 seconds, and says they are a social media production company
+      asking if they need help with social media.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:02]-[00:10] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02038
+    person: saad-khaja
+    source: saad-khaja-saad-clip-t3rnw2zosp0
+    type: example
+    text: >
+      When told the company already has someone, Saad asks whether the
+      prospect is happy with the results that person is giving.
+    topic: already-have-an-agency
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:15]-[00:18] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02039
+    person: saad-khaja
+    source: saad-khaja-saad-clip-t3rnw2zosp0
+    type: example
+    text: >
+      Saad asks the contact who the right person would be, and gets the
+      managing director, using the gatekeeper as a route to the decision
+      maker.
+    topic: gatekeeper-handling
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:27]-[00:30] Saad asks the question; the answer is the other voice. Captions are partly missing. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02040
+    person: saad-khaja
+    source: saad-khaja-saad-clip-t3rnw2zosp0
+    type: example
+    text: >
+      Saad asks the contact to vouch for him and get him a meeting, saying
+      that is all he asks, and that he will send an email with an option to
+      book a meeting.
+    topic: gatekeeper-handling
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:47]-[00:54] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

@@ -1,0 +1,83 @@
+statements:
+  - id: saad-khaja-01039
+    person: saad-khaja
+    source: saad-khaja-saad-clip-gwosb-89ttg
+    type: example
+    text: >
+      Saad opens a call by asking whether he caught the prospect in a
+      meeting or can have 30 seconds, then says it is a cold call and
+      asks if they need help with social media.
+    topic: cold-call-opener
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:02]-[00:14] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'. Opening is partly garbled."
+
+  - id: saad-khaja-01040
+    person: saad-khaja
+    source: saad-khaja-saad-clip-gwosb-89ttg
+    type: example
+    text: >
+      Saad asks a prospect who says not at the moment whether that
+      means he can call back and check in in a couple of months.
+    topic: cold-call-followup
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:21]-[00:25] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01041
+    person: saad-khaja
+    source: saad-khaja-saad-clip-gwosb-89ttg
+    type: example
+    text: >
+      Saad compliments the prospect's company, saying they are killing
+      it, before asking for an email contact for the person who
+      handles social media.
+    topic: cold-call-rapport
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:38]-[00:42] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'. Compliment lines are interleaved with the prospect in the captions; medium confidence."
+
+  - id: saad-khaja-01042
+    person: saad-khaja
+    source: saad-khaja-saad-clip-gwosb-89ttg
+    type: example
+    text: >
+      Saad asks the prospect whether he can use the recommendation and
+      the call as a video, and the prospect agrees.
+    topic: cold-call-referral
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:50]-[00:58] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'. Attribution of the request to Saad is inferred from who would be posting the video."
+

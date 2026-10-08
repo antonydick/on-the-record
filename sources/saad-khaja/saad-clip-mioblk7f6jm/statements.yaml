@@ -1,0 +1,83 @@
+statements:
+  - id: saad-khaja-03009
+    person: saad-khaja
+    source: saad-khaja-saad-clip-mioblk7f6jm
+    type: example
+    text: >
+      Saad opens a cold call by saying he is calling from HOS and asking
+      for 30 seconds for a cold call on a Monday.
+    topic: cold-call-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:04] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03010
+    person: saad-khaja
+    source: saad-khaja-saad-clip-mioblk7f6jm
+    type: example
+    text: >
+      When a prospect says they are not looking for social media help
+      for now but it sounds cool for the future, Saad asks to make one
+      quick last-minute offer: to come in and shoot a video that they
+      can post.
+    topic: not-now-objection
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:13]-[00:28] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03011
+    person: saad-khaja
+    source: saad-khaja-saad-clip-mioblk7f6jm
+    type: example
+    text: >
+      Saad pitches to a prospect who is not ready now that a free shoot
+      works better than a portfolio and can give his company priority
+      whenever the prospect is ready to decide.
+    topic: free-sample-offer
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:28]-[00:32] Saad is the caller on this cold call; caption wording is rough."
+
+  - id: saad-khaja-03012
+    person: saad-khaja
+    source: saad-khaja-saad-clip-mioblk7f6jm
+    type: example
+    text: >
+      When the prospect asks for two weeks, Saad commits to call back in
+      the first half of 26 November and asks if that works.
+    topic: callback-commitment
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:34]-[00:42] Saad is the caller on this cold call."

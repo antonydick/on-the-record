@@ -1,0 +1,84 @@
+statements:
+  - id: saad-khaja-02012
+    person: saad-khaja
+    source: saad-khaja-saad-clip-jmml2e-1gvg
+    type: example
+    text: >
+      Saad opens a cold call by greeting the prospect and asking how the
+      Monday is going, then tells them it is going to get even more
+      exciting, and that it is a cold call and asks for 30 seconds.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:11] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02013
+    person: saad-khaja
+    source: saad-khaja-saad-clip-jmml2e-1gvg
+    type: example
+    text: >
+      Saad describes his company as a social media production company
+      specialising in engaging video content.
+    topic: pitch-description
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:11]-[00:17] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02014
+    person: saad-khaja
+    source: saad-khaja-saad-clip-jmml2e-1gvg
+    type: example
+    text: >
+      Saad tells a B2B prospect that he is just the sales guy while the
+      creators are in a think tank, so his job is to ask a couple of
+      questions to understand the prospect's product and service.
+    topic: pitch-description
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:21]-[00:30] Saad is the caller; some words are garbled. Auto-captions are imperfect. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02015
+    person: saad-khaja
+    source: saad-khaja-saad-clip-jmml2e-1gvg
+    type: example
+    text: >
+      Saad explains that his think tank comes up with ideas to present to
+      the prospect, and only after the prospect approves does the team come
+      in and shoot the video, which the prospect can then test.
+    topic: pitch-description
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:30]-[00:39] Saad is the caller describing his process. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

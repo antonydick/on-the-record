@@ -1,0 +1,106 @@
+statements:
+  - id: saad-khaja-02028
+    person: saad-khaja
+    source: saad-khaja-saad-clip-zmh7fwxpwsg
+    type: belief
+    text: >
+      Saad says that you cannot make anyone buy anything, and that the idea
+      of making someone do something they do not inherently need or want
+      does not work.
+    topic: sales-philosophy
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:13] Saad answers a sales question to camera; no other voice is present. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02029
+    person: saad-khaja
+    source: saad-khaja-saad-clip-zmh7fwxpwsg
+    type: belief
+    text: >
+      Saad says that even if you put pressure on someone and get the sale,
+      they will almost always be bad clients because they did not really
+      need it.
+    topic: sales-philosophy
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:13]-[00:22] Saad speaking to camera. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02030
+    person: saad-khaja
+    source: saad-khaja-saad-clip-zmh7fwxpwsg
+    type: recommendation
+    text: >
+      Saad says a salesperson's job is to ask questions in a way that lets
+      the prospect understand their own needs.
+    topic: discovery-questions
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:22]-[00:32] Saad speaking to camera. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02031
+    person: saad-khaja
+    source: saad-khaja-saad-clip-zmh7fwxpwsg
+    type: mechanism
+    text: >
+      Saad says that asking questions puts the prospect in a position of
+      reflection, making them understand their current situation and what
+      their ideal situation could be.
+    topic: discovery-questions
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:32]-[00:45] Saad speaking to camera. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02032
+    person: saad-khaja
+    source: saad-khaja-saad-clip-zmh7fwxpwsg
+    type: mechanism
+    text: >
+      Saad says that if you do a good enough job asking questions and
+      clarifying something, you establish trust, and once trust is
+      established it does not matter whether you sell chocolates, cakes or
+      buildings.
+    topic: trust-in-sales
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:45]-[00:59] Saad speaking to camera. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

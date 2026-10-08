@@ -1,0 +1,67 @@
+statements:
+  - id: saad-khaja-02001
+    person: saad-khaja
+    source: saad-khaja-saad-clip-sx8q2rfz3ky
+    type: example
+    text: >
+      Saad opens a cold call introducing himself as calling from a social
+      media production company, and before hanging up asks the prospect
+      one question: whether they are currently happy with their agency,
+      adding that if they are happy he will be on his way.
+    topic: cold-call-opener
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:13] Saad is the caller; the company name is garbled in the captions. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02002
+    person: saad-khaja
+    source: saad-khaja-saad-clip-sx8q2rfz3ky
+    type: example
+    text: >
+      When the prospect says social media does not reach their target
+      audience of senior-level executives and IT managers, Saad asks why the
+      prospect believes those people are not on socials, and says there is a
+      big misconception about it.
+    topic: objection-handling
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:29]-[00:39] Saad is the caller asking the follow-up question. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02003
+    person: saad-khaja
+    source: saad-khaja-saad-clip-sx8q2rfz3ky
+    type: recommendation
+    text: >
+      Saad proposes to the prospect that he comes in and shoots one video as
+      a reference point, framing it as best case a great video and worst
+      case 20 minutes of the prospect's time, and asks whether that sounds
+      fair.
+    topic: low-risk-offer-close
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:41]-[00:52] Saad is the caller making the offer. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

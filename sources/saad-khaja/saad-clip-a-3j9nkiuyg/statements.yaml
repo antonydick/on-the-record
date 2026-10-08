@@ -1,0 +1,85 @@
+statements:
+  - id: saad-khaja-01017
+    person: saad-khaja
+    source: saad-khaja-saad-clip-a-3j9nkiuyg
+    type: example
+    text: >
+      Saad tells the prospect it is a cold call, says they have 30
+      seconds, and says his company specializes in building video
+      content for social media.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:03]-[00:11] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01018
+    person: saad-khaja
+    source: saad-khaja-saad-clip-a-3j9nkiuyg
+    type: example
+    text: >
+      Saad asks a prospect who did not say yes whether that is because
+      they do not need the help or because it is a random cold caller.
+    topic: cold-call-objection-handling
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:15]-[00:21] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01019
+    person: saad-khaja
+    source: saad-khaja-saad-clip-a-3j9nkiuyg
+    type: example
+    text: >
+      Saad gives a 10-second pitch saying his company primarily works
+      with the big names in the content creation space and offering to
+      shoot one video for the prospect, with no obligation to work
+      together if they do not love it.
+    topic: cold-call-pitch
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:29]-[00:40] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01020
+    person: saad-khaja
+    source: saad-khaja-saad-clip-a-3j9nkiuyg
+    type: example
+    text: >
+      Saad asks the prospect to drop him a message with event details
+      and says he will show up, shoot a video, and then get on a call
+      afterwards.
+    topic: cold-call-booking
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:49]-[00:55] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'. Part of this exchange is hard to separate in the captions; the offer to show up and shoot is attributed to Saad."
+

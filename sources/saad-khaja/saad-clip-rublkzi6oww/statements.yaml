@@ -1,0 +1,42 @@
+statements:
+  - id: saad-khaja-02004
+    person: saad-khaja
+    source: saad-khaja-saad-clip-rublkzi6oww
+    type: example
+    text: >
+      On a cold call Saad introduces himself as calling from a video
+      production company that specialises in building organic content.
+    topic: cold-call-opener
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:10] Saad is the caller; the call is cut up and the caption text is jumbled. Auto-captions are imperfect. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02005
+    person: saad-khaja
+    source: saad-khaja-saad-clip-rublkzi6oww
+    type: example
+    text: >
+      When the prospect asks for a deck, Saad says he is sending it right
+      away, and for motion graphics he says he has no deck personally but
+      can connect the prospect with an agency that is really good at it.
+    topic: referral-to-partner
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:19]-[00:29] Saad is the caller offering the deck and referral; captions are garbled here. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

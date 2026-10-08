@@ -1,0 +1,80 @@
+statements:
+  - id: saad-khaja-03036
+    person: saad-khaja
+    source: saad-khaja-saad-clip-f-xxwejtw
+    type: example
+    text: >
+      Saad describes his company on a cold call as one that does organic
+      content and specializes in building ads.
+    topic: cold-call-pitch
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:05] Saad is the caller on this cold call; caption is clipped at the start."
+
+  - id: saad-khaja-03037
+    person: saad-khaja
+    source: saad-khaja-saad-clip-f-xxwejtw
+    type: example
+    text: >
+      Saad asks a prospect for permission to ask one or two questions to
+      give context for the email he is about to send.
+    topic: permission-to-ask
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:11]-[00:17] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03038
+    person: saad-khaja
+    source: saad-khaja-saad-clip-f-xxwejtw
+    type: example
+    text: >
+      Saad asks a prospect who currently works with an agency whether
+      that did not work out for them.
+    topic: probing-existing-agency
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:19]-[00:21] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03039
+    person: saad-khaja
+    source: saad-khaja-saad-clip-f-xxwejtw
+    type: example
+    text: >
+      Saad asks the prospect for 10 to 15 minutes of their time and to
+      send a WhatsApp message to his number.
+    topic: asking-for-meeting
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:43]-[00:47] Saad is the caller on this cold call; caption partly garbled."

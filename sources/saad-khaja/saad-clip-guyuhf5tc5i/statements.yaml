@@ -1,0 +1,104 @@
+statements:
+  - id: saad-khaja-01034
+    person: saad-khaja
+    source: saad-khaja-saad-clip-guyuhf5tc5i
+    type: example
+    text: >
+      Saad opens a cold call by asking whether the prospect can give
+      him 30 seconds or already feels like throwing their phone
+      outside.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:02]-[00:07] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01035
+    person: saad-khaja
+    source: saad-khaja-saad-clip-guyuhf5tc5i
+    type: example
+    text: >
+      Saad asks a prospect who says not at the moment whether that is
+      because they do not need the help or because it is a random cold
+      caller they want to get rid of.
+    topic: cold-call-objection-handling
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:20]-[00:28] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01036
+    person: saad-khaja
+    source: saad-khaja-saad-clip-guyuhf5tc5i
+    type: example
+    text: >
+      Saad asks whether it is okay to call back in a couple of months,
+      when the prospect may have a need.
+    topic: cold-call-followup
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:31]-[00:34] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01037
+    person: saad-khaja
+    source: saad-khaja-saad-clip-guyuhf5tc5i
+    type: example
+    text: >
+      Saad says he has one last, very important question before he
+      leaves and asks the prospect what their favorite food is.
+    topic: cold-call-rapport
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:37]-[00:43] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01038
+    person: saad-khaja
+    source: saad-khaja-saad-clip-guyuhf5tc5i
+    type: example
+    text: >
+      Saad tells the prospect, whose favorite food is biryani, that he
+      will call in two months and that the first thing he will do is
+      send them some biryani.
+    topic: cold-call-rapport
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:44]-[00:51] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+

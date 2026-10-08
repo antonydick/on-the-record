@@ -1,0 +1,58 @@
+statements:
+  - id: saad-khaja-04019
+    person: saad-khaja
+    source: saad-khaja-saad-clip-swlqnogqa-c
+    type: experience
+    text: >
+      After a prospect cut him off mid-pitch on a cold call in this challenge, Saad asks whether he was blabbing too much.
+    topic: cold-call-self-critique
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:23]-[00:25] Attributed to Saad because first-person reaction; another voice is also present so speaker is inferred. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04020
+    person: saad-khaja
+    source: saad-khaja-saad-clip-swlqnogqa-c
+    type: experience
+    text: >
+      Saad says he made so many mistakes in that round of calls that it is not even funny.
+    topic: cold-call-self-critique
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[01:13]-[01:15] Attributed to Saad because first-person reaction; another voice then calls it overconfidence, which is not attributed to Saad. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04021
+    person: saad-khaja
+    source: saad-khaja-saad-clip-swlqnogqa-c
+    type: example
+    text: >
+      When a prospect says they are not looking for anything right now, Saad says he will call back in 2 months when they have a crazy marketing position.
+    topic: handling-objection-not-now
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:36]-[00:41] Attributed to Saad because the caller's line; captions are rough. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

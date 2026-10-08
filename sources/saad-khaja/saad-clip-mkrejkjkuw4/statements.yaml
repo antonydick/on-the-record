@@ -1,0 +1,82 @@
+statements:
+  - id: saad-khaja-03040
+    person: saad-khaja
+    source: saad-khaja-saad-clip-mkrejkjkuw4
+    type: example
+    text: >
+      When a prospect returns his missed call, Saad jokes that it was
+      supposed to be a cold call but, since the prospect called back, he
+      assumes it is a warm call.
+    topic: returned-call-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:02]-[00:10] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03041
+    person: saad-khaja
+    source: saad-khaja-saad-clip-mkrejkjkuw4
+    type: example
+    text: >
+      After a prospect says no, Saad asks one question: whether it is
+      because it is a random cold call or it is genuinely not a
+      priority.
+    topic: probing-a-no
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:18]-[00:27] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03042
+    person: saad-khaja
+    source: saad-khaja-saad-clip-mkrejkjkuw4
+    type: example
+    text: >
+      Saad asks whether the prospect would be against seeing a video his
+      company did for them, to see whether it works better.
+    topic: free-sample-offer
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:35]-[00:45] Saad is the caller on this cold call; caption partly garbled."
+
+  - id: saad-khaja-03043
+    person: saad-khaja
+    source: saad-khaja-saad-clip-mkrejkjkuw4
+    type: example
+    text: >
+      When the prospect says they could revisit after February, Saad
+      commits to call back in February.
+    topic: callback-commitment
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:47]-[00:53] Saad is the caller on this cold call."

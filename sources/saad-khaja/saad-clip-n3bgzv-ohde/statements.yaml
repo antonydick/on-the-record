@@ -1,0 +1,58 @@
+statements:
+  - id: saad-khaja-04007
+    person: saad-khaja
+    source: saad-khaja-saad-clip-n3bgzv-ohde
+    type: example
+    text: >
+      Saad opens a call by saying he is from HOS, a content production company, and asks whether the prospect is looking for help with their social media.
+    topic: cold-call-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:02]-[00:12] Attributed to Saad because Saad is the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04008
+    person: saad-khaja
+    source: saad-khaja-saad-clip-n3bgzv-ohde
+    type: experience
+    text: >
+      After a short call ended in a no, Saad says he is out of sync because he has not cold called in so long.
+    topic: cold-call-self-critique
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:15]-[00:19] Attributed to Saad because first-person reaction after the call; speaker is presumably Saad, captions partly masked. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04009
+    person: saad-khaja
+    source: saad-khaja-saad-clip-n3bgzv-ohde
+    type: experience
+    text: >
+      Saad says that on that call he said okay and let the prospect go, and that he sounded like a cold caller.
+    topic: cold-call-self-critique
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:23]-[00:28] Attributed to Saad because first-person self-critique after the call; captions partly masked. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

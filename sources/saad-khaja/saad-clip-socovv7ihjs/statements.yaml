@@ -1,0 +1,58 @@
+statements:
+  - id: saad-khaja-04012
+    person: saad-khaja
+    source: saad-khaja-saad-clip-socovv7ihjs
+    type: example
+    text: >
+      Saad tells a prospect his company started by doing content for creators, then began working with companies.
+    topic: company-pitch
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:15]-[00:20] Attributed to Saad because the caller describing his company; a client name in the captions is garbled and not recorded. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04013
+    person: saad-khaja
+    source: saad-khaja-saad-clip-socovv7ihjs
+    type: example
+    text: >
+      Saad tells a prospect that the goal is a quick call to see whether they can help, saying sometimes they can and sometimes they can't, and the only way to figure that out is to have a conversation.
+    topic: meeting-ask
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:28]-[00:38] Attributed to Saad because the caller's pitch for the call. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04014
+    person: saad-khaja
+    source: saad-khaja-saad-clip-socovv7ihjs
+    type: example
+    text: >
+      Saad says he is super excited after working out who the prospect is, mentions synergies, and asks for a quick call the following week to walk them through some tech stuff.
+    topic: meeting-ask
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[01:02]-[01:11] Attributed to Saad because the caller; some captions in this stretch are muddled. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

@@ -1,0 +1,39 @@
+statements:
+  - id: saad-khaja-04015
+    person: saad-khaja
+    source: saad-khaja-saad-clip-tup3lxa-1j0
+    type: example
+    text: >
+      Saad introduces himself as calling from HOS, tells the prospect it is the first call of his day, and says they are a media company from Dubai asking if they need help with social media.
+    topic: cold-call-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:08]-[00:20] Attributed to Saad because Saad is the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04016
+    person: saad-khaja
+    source: saad-khaja-saad-clip-tup3lxa-1j0
+    type: example
+    text: >
+      After a prospect says she will speak to her marketing colleagues, Saad says he does not even have to ask for a meeting, and asks for a 15-minute call to show the work they have done with other brands in case the prospect later wants another agency.
+    topic: meeting-ask
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:36]-[00:49] Attributed to Saad because the caller; framing is Saad's. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

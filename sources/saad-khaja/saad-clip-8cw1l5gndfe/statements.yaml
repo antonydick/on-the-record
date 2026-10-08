@@ -1,0 +1,82 @@
+statements:
+  - id: saad-khaja-03017
+    person: saad-khaja
+    source: saad-khaja-saad-clip-8cw1l5gndfe
+    type: recommendation
+    text: >
+      Saad says cold callers should aim to get through 10 continuous
+      conversations in which the prospect says no, trying to get a no
+      rather than a yes, and treating each no as a win.
+    topic: count-your-nos
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:18] Saad is speaking directly to camera giving coaching advice."
+
+  - id: saad-khaja-03018
+    person: saad-khaja
+    source: saad-khaja-saad-clip-8cw1l5gndfe
+    type: observation
+    text: >
+      Saad says the biggest problem with cold calling is that callers
+      sound either too desperate or too salesy.
+    topic: cold-call-problem
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:18]-[00:24] Saad's coaching commentary."
+
+  - id: saad-khaja-03019
+    person: saad-khaja
+    source: saad-khaja-saad-clip-8cw1l5gndfe
+    type: belief
+    text: >
+      Saad says that when you take the pressure off, you perform much
+      better on cold calls.
+    topic: pressure-and-performance
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:24]-[00:26] Saad's coaching commentary."
+
+  - id: saad-khaja-03020
+    person: saad-khaja
+    source: saad-khaja-saad-clip-8cw1l5gndfe
+    type: recommendation
+    text: >
+      Saad says the no-counting game is for people with a fear of
+      rejection, because the game becomes embracing rejection rather
+      than getting a yes.
+    topic: fear-of-rejection
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:26]-[00:34] Saad's coaching commentary."

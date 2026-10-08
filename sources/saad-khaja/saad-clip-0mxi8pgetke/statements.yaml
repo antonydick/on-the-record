@@ -1,0 +1,39 @@
+statements:
+  - id: saad-khaja-04031
+    person: saad-khaja
+    source: saad-khaja-saad-clip-0mxi8pgetke
+    type: example
+    text: >
+      When a prospect says they already have an agency, Saad asks whether they are happy with them.
+    topic: handling-objection-have-agency
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:50]-[00:51] Attributed to Saad because the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04032
+    person: saad-khaja
+    source: saad-khaja-saad-clip-0mxi8pgetke
+    type: example
+    text: >
+      When a prospect says he does not handle social and refers him to the corporate team, Saad asks whether the prospect can give him a name.
+    topic: getting-referral
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[01:05]-[01:09] Attributed to Saad because the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

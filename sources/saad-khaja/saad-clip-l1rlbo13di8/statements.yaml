@@ -1,0 +1,125 @@
+statements:
+  - id: saad-khaja-02006
+    person: saad-khaja
+    source: saad-khaja-saad-clip-l1rlbo13di8
+    type: example
+    text: >
+      On a call where the prospect says they have no need now, Saad asks
+      whether that is because everything is going amazingly, in which case
+      he will be on his way, or because of the random cold call.
+    topic: objection-handling
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:14]-[00:19] Saad is the caller asking the question. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02007
+    person: saad-khaja
+    source: saad-khaja-saad-clip-l1rlbo13di8
+    type: example
+    text: >
+      Saad opens a cold call by saying that it is a cold call and asking for
+      30 seconds.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:01]-[00:06] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02008
+    person: saad-khaja
+    source: saad-khaja-saad-clip-l1rlbo13di8
+    type: example
+    text: >
+      When asked to send a portfolio, Saad asks whether he can do something
+      better, offering to come in and shoot one video at no cost to the
+      prospect.
+    topic: low-risk-offer-close
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:23]-[00:31] Saad is the caller making the offer. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02009
+    person: saad-khaja
+    source: saad-khaja-saad-clip-l1rlbo13di8
+    type: belief
+    text: >
+      Saad says that sending a portfolio without context does not help
+      anybody, so he prefers a call to understand what the brand is trying
+      to sell, then shoots one video based on that context.
+    topic: portfolio-without-context
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:36]-[00:50] Saad is the caller explaining his reasoning to the prospect. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02010
+    person: saad-khaja
+    source: saad-khaja-saad-clip-l1rlbo13di8
+    type: example
+    text: >
+      Saad tells the prospect that they can love the video or not and do not
+      have to work with him, with the goal that when they see it perform
+      they come back asking for more videos.
+    topic: low-risk-offer-close
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:50]-[01:01] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02011
+    person: saad-khaja
+    source: saad-khaja-saad-clip-l1rlbo13di8
+    type: example
+    text: >
+      To close, Saad asks to book a call on a Tuesday and notes that the
+      same number can be used for WhatsApp.
+    topic: call-booking-close
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[01:01]-[01:07] Saad is the caller; the number detail is as heard in captions. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

@@ -1,0 +1,85 @@
+statements:
+  - id: saad-khaja-01021
+    person: saad-khaja
+    source: saad-khaja-saad-clip-hbe-mc5zp2o
+    type: example
+    text: >
+      Saad opens a cold call by asking whether the prospect has 30
+      seconds or already feels like throwing their phone outside the
+      window.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:02]-[00:07] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01022
+    person: saad-khaja
+    source: saad-khaja-saad-clip-hbe-mc5zp2o
+    type: example
+    text: >
+      Saad tells a prospect that he understands a lot of companies
+      already have an in-house team, and says his company built a
+      consulting program for that case.
+    topic: service-pitch
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:26]-[00:32] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01023
+    person: saad-khaja
+    source: saad-khaja-saad-clip-hbe-mc5zp2o
+    type: assertion
+    text: >
+      Saad says his company was founded by the head of production of a
+      large creator and was taught by the biggest creators, and that
+      it runs a program where it comes in and trains in-house teams.
+    topic: company-background
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:32]-[00:42] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'. The creator's name is garbled in the captions ('Khal Al'); check the audio before relying on it."
+
+  - id: saad-khaja-01024
+    person: saad-khaja
+    source: saad-khaja-saad-clip-hbe-mc5zp2o
+    type: example
+    text: >
+      Saad proposes booking a 15 minute call to walk the prospect
+      through the company's entire process and asks when the best time
+      would be.
+    topic: cold-call-booking
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:44]-[00:52] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+

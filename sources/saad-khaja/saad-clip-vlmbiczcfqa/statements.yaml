@@ -1,0 +1,83 @@
+statements:
+  - id: saad-khaja-03001
+    person: saad-khaja
+    source: saad-khaja-saad-clip-vlmbiczcfqa
+    type: example
+    text: >
+      Saad opens a cold call by saying he is calling from HOS, that it
+      is a cold call, and asking whether the person has 30 seconds.
+    topic: cold-call-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:03]-[00:06] Saad is the caller on this cold call; first-person opener."
+
+  - id: saad-khaja-03002
+    person: saad-khaja
+    source: saad-khaja-saad-clip-vlmbiczcfqa
+    type: example
+    text: >
+      Saad pitches on a cold call that his company did organic content
+      for the biggest creators and is now calling companies to shoot one
+      video at no cost so they can see the work.
+    topic: cold-call-pitch
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:08]-[00:17] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03003
+    person: saad-khaja
+    source: saad-khaja-saad-clip-vlmbiczcfqa
+    type: example
+    text: >
+      When a prospect says she will check with her marketing manager if
+      he sends something on WhatsApp, Saad instead proposes a 15-minute
+      conversation to understand what the company is trying to push
+      before the team comes in to shoot.
+    topic: redirect-to-call
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:29]-[00:39] Saad is the caller on this cold call; prospect's reply is paraphrased only as context."
+
+  - id: saad-khaja-03004
+    person: saad-khaja
+    source: saad-khaja-saad-clip-vlmbiczcfqa
+    type: example
+    text: >
+      Saad closes the call by asking the prospect to confirm her email
+      ID once a time for the 15-minute call has been agreed.
+    topic: confirming-email
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:42]-[00:47] Saad is the caller on this cold call."

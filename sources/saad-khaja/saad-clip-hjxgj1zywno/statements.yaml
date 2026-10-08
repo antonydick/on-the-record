@@ -1,0 +1,66 @@
+statements:
+  - id: saad-khaja-02044
+    person: saad-khaja
+    source: saad-khaja-saad-clip-hjxgj1zywno
+    type: example
+    text: >
+      When the prospect says they have a contract with another agency, Saad
+      asks a quick question: he observes that they have followers but their
+      engagement seems like something they are working on, and asks whether
+      that is a concern.
+    topic: engagement-question
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:13]-[00:23] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02045
+    person: saad-khaja
+    source: saad-khaja-saad-clip-hjxgj1zywno
+    type: example
+    text: >
+      When the prospect asks for an email with a brief, Saad says he wants
+      to do something a little better than an email: come in and shoot a
+      video, the prospect posts it, and if it performs that opens a
+      conversation about a potential partnership.
+    topic: email-objection
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:28]-[00:43] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02046
+    person: saad-khaja
+    source: saad-khaja-saad-clip-hjxgj1zywno
+    type: example
+    text: >
+      Saad suggests that the prospect talk to their team and, if they say
+      yes, he can set up a 20 minute call to see what they are looking at,
+      then they shoot a video.
+    topic: call-booking-close
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:45]-[00:51] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

@@ -1,0 +1,84 @@
+statements:
+  - id: saad-khaja-01043
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bfzbszydf4i
+    type: example
+    text: >
+      Saad tells a prospect who called back about a missed call that
+      it was a cold call and that he has kind of lost them in his
+      database.
+    topic: cold-call-callback
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:06]-[00:10] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01044
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bfzbszydf4i
+    type: example
+    text: >
+      Saad asks the prospect to give the excited little cold caller on
+      a Monday an opportunity.
+    topic: cold-call-objection-handling
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:37]-[00:41] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01045
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bfzbszydf4i
+    type: example
+    text: >
+      Saad tells the prospect he wants to give them the outcome they
+      want instead of randomly coming in and shooting a video, and
+      asks for a 20 minute meeting to understand what they are trying
+      to sell.
+    topic: cold-call-booking
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:53]-[01:02] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01046
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bfzbszydf4i
+    type: example
+    text: >
+      Saad asks to book the prospect into the calendar so that he does
+      not miss them.
+    topic: cold-call-booking
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[01:17]-[01:21] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'. Line follows the prospect recognising him from Instagram; attributed to Saad as the one requesting the booking."
+

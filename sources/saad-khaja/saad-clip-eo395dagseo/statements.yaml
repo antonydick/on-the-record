@@ -1,0 +1,64 @@
+statements:
+  - id: saad-khaja-02016
+    person: saad-khaja
+    source: saad-khaja-saad-clip-eo395dagseo
+    type: example
+    text: >
+      Saad introduces himself to a gatekeeper as a cold caller who has been
+      trying to get in touch with a couple of companies.
+    topic: gatekeeper-handling
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:02]-[00:06] Saad is the caller. Auto-captions are imperfect. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02017
+    person: saad-khaja
+    source: saad-khaja-saad-clip-eo395dagseo
+    type: example
+    text: >
+      Saad asks the prospect for one last question, whether engagement is an
+      issue, and when told it is something they think about, says that is
+      exactly what his company does and that they have done it for creators
+      and for businesses.
+    topic: engagement-question
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:25]-[00:44] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02018
+    person: saad-khaja
+    source: saad-khaja-saad-clip-eo395dagseo
+    type: example
+    text: >
+      Saad asks, when the prospect is in the middle of a celebration,
+      whether it is okay to call back so that they can have a meeting,
+      saying that would be a more useful way to take it forward.
+    topic: call-booking-close
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:46]-[00:53] Saad is the caller; the exchange is partly garbled. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

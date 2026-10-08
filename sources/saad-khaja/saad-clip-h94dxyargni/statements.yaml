@@ -1,0 +1,84 @@
+statements:
+  - id: saad-khaja-03054
+    person: saad-khaja
+    source: saad-khaja-saad-clip-h94dxyargni
+    type: example
+    text: >
+      Saad answers a prospect who asks how he found her number by saying
+      that right now privacy is a myth, mentioning GDPR and data
+      centers, and that people log into LinkedIn and give permission, so
+      it is always consent-oriented.
+    topic: where-did-you-get-my-number
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:43]-[00:54] Saad on the call; caption is garbled."
+
+  - id: saad-khaja-03055
+    person: saad-khaja
+    source: saad-khaja-saad-clip-h94dxyargni
+    type: example
+    text: >
+      In the booked call Saad says his company primarily did content for
+      larger creators and a bunch of businesses and asks for a 15-minute
+      exploration call to get to know each other.
+    topic: asking-for-meeting
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:35]-[00:43] Saad on the call."
+
+  - id: saad-khaja-03056
+    person: saad-khaja
+    source: saad-khaja-saad-clip-h94dxyargni
+    type: observation
+    text: >
+      Saad says he realized he had said somebody else's name while
+      running through the list and decided to call the prospect again.
+    topic: recovering-from-an-error
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[01:03]-[01:10] Saad speaking in his own voice after the first attempt."
+
+  - id: saad-khaja-03057
+    person: saad-khaja
+    source: saad-khaja-saad-clip-h94dxyargni
+    type: example
+    text: >
+      Saad describes the 10-minute cold-call challenge as ending with a
+      meeting booked in under 10 minutes, and asks the prospect to
+      confirm her email.
+    topic: ten-minute-challenge
+    speaker_confidence: low
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:57]-[01:26] Saad on the calls; final line 'booked under 10 minutes' is likely a colleague's remark, so medium confidence."

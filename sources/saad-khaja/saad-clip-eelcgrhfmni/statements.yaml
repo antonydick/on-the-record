@@ -1,0 +1,58 @@
+statements:
+  - id: saad-khaja-04001
+    person: saad-khaja
+    source: saad-khaja-saad-clip-eelcgrhfmni
+    type: example
+    text: >
+      Saad opens a cold call by saying he is calling from HOS, asks whether the prospect has 30 seconds, and says HOS is a company that does production for companies, asking if they have any requirement for Ramadan or anything coming up.
+    topic: cold-call-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:01]-[00:15] Attributed to Saad because Saad is the caller who introduces himself. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04002
+    person: saad-khaja
+    source: saad-khaja-saad-clip-eelcgrhfmni
+    type: example
+    text: >
+      Saad asks a prospect whether they have any other upcoming campaigns they would want another company to take a look at or give a different perspective on.
+    topic: cold-call-discovery-question
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:19]-[00:24] Attributed to Saad because a question put by the caller after the prospect says Ramadan is already covered. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04003
+    person: saad-khaja
+    source: saad-khaja-saad-clip-eelcgrhfmni
+    type: example
+    text: >
+      Saad asks for a quick 15-minute call to see what the prospect is trying to figure out, so he can come back with a pitch and showcase the kind of work his company has done, then asks when would be a good time.
+    topic: meeting-ask
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:30]-[00:45] Attributed to Saad because the caller's meeting ask. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

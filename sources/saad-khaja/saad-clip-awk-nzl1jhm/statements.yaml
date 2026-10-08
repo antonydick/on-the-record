@@ -1,0 +1,84 @@
+statements:
+  - id: saad-khaja-02021
+    person: saad-khaja
+    source: saad-khaja-saad-clip-awk-nzl1jhm
+    type: example
+    text: >
+      Saad asks a prospect who has said they are not looking for anyone
+      whether he can say one last thing before hopping off, and then asks
+      whether they have worked in education.
+    topic: objection-handling
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:09]-[00:18] Saad is the caller; the client names are missing from the captions. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02022
+    person: saad-khaja
+    source: saad-khaja-saad-clip-awk-nzl1jhm
+    type: example
+    text: >
+      Saad says that in the past they have worked with three companies
+      already and that, because the prospect does not know where they come
+      from, they want to make one video for them.
+    topic: objection-handling
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:19]-[00:32] Saad is the caller; the education sector exchange is garbled. Auto-captions are imperfect. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02023
+    person: saad-khaja
+    source: saad-khaja-saad-clip-awk-nzl1jhm
+    type: example
+    text: >
+      Saad frames the offer as worst case he makes a video and the prospect
+      never uses it, and best case they use it and it gives him an
+      opportunity to do something that might help them.
+    topic: low-risk-offer-close
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:32]-[00:41] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02024
+    person: saad-khaja
+    source: saad-khaja-saad-clip-awk-nzl1jhm
+    type: example
+    text: >
+      Saad closes by suggesting a quick call together to work it out after
+      taking the prospect's email.
+    topic: call-booking-close
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:50]-[00:54] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
