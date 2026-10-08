@@ -1,0 +1,81 @@
+statements:
+  - id: saad-khaja-01047
+    person: saad-khaja
+    source: saad-khaja-saad-clip-okogaxfwfce
+    type: example
+    text: >
+      Saad opens a cold call on a Wednesday, asking the prospect for
+      30 seconds.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:02]-[00:07] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01048
+    person: saad-khaja
+    source: saad-khaja-saad-clip-okogaxfwfce
+    type: example
+    text: >
+      Saad says his company is a social media production company that
+      specializes in building organic content.
+    topic: company-background
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:07]-[00:11] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01049
+    person: saad-khaja
+    source: saad-khaja-saad-clip-okogaxfwfce
+    type: example
+    text: >
+      Saad says there is an ongoing offer and that he wants a chance
+      to shoot one video for the prospect's team.
+    topic: cold-call-pitch
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:24]-[00:30] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01050
+    person: saad-khaja
+    source: saad-khaja-saad-clip-okogaxfwfce
+    type: example
+    text: >
+      Saad proposes setting up a call for Thursday or Friday and asks
+      whether 2:00 works.
+    topic: cold-call-booking
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:32]-[00:37] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+

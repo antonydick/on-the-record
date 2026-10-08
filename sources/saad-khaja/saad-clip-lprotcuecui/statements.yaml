@@ -1,0 +1,85 @@
+statements:
+  - id: saad-khaja-03013
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lprotcuecui
+    type: example
+    text: >
+      Saad opens a cold call by asking whether it is a good time and,
+      when asked where he got the number, jokes that he searched Google
+      for the most amazing marketing manager and the prospect kept
+      popping up.
+    topic: where-did-you-get-my-number
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:11] Saad is the caller on this cold call; the humour is his reply to the prospect."
+
+  - id: saad-khaja-03014
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lprotcuecui
+    type: example
+    text: >
+      Saad frames the call as a call to see whether the company is
+      looking for any help with social media right now.
+    topic: cold-call-pitch
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:19]-[00:23] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03015
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lprotcuecui
+    type: example
+    text: >
+      When a prospect says the business does not need social media
+      support, Saad asks whether there is any particular reason the
+      prospect has reached that conclusion.
+    topic: probing-a-no
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:29]-[00:33] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03016
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lprotcuecui
+    type: example
+    text: >
+      Saad tells a prospect that a bunch of companies have started
+      investing heavily in social media and get massive drop-shipping
+      offers from across the world on that basis, and asks whether that
+      could open the prospect up to new opportunities.
+    topic: reframing-with-peer-example
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:35]-[00:49] Saad is the caller on this cold call; captions look machine-garbled ('Drop Shipping')."

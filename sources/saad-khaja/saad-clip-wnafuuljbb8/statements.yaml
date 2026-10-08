@@ -1,0 +1,58 @@
+statements:
+  - id: saad-khaja-04022
+    person: saad-khaja
+    source: saad-khaja-saad-clip-wnafuuljbb8
+    type: example
+    text: >
+      Saad tells a prospect he does not want to waste their time, asks whether they are looking for any help with social, and says if not he does not want to call them.
+    topic: cold-call-qualifying
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:09]-[00:12] Attributed to Saad because the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04023
+    person: saad-khaja
+    source: saad-khaja-saad-clip-wnafuuljbb8
+    type: example
+    text: >
+      When a prospect says they already have agencies, Saad asks permission to ask one question, then says his company helps companies alongside agencies and specializes in organic engagement.
+    topic: handling-objection-have-agency
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:27]-[00:34] Attributed to Saad because the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04024
+    person: saad-khaja
+    source: saad-khaja-saad-clip-wnafuuljbb8
+    type: assertion
+    text: >
+      Saad says his company has helped creators and companies go from zero to 100,000 followers.
+    topic: company-claim
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:34]-[00:38] Attributed to Saad because the caller's pitch; claim is unverified and caption is rough. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

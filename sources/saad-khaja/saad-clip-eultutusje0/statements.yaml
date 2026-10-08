@@ -1,0 +1,84 @@
+statements:
+  - id: saad-khaja-01006
+    person: saad-khaja
+    source: saad-khaja-saad-clip-eultutusje0
+    type: example
+    text: >
+      Saad introduces himself on a cold call as calling from his
+      company, says it is a cold call, and says the company
+      specializes in building organic content.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:03]-[00:10] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01007
+    person: saad-khaja
+    source: saad-khaja-saad-clip-eultutusje0
+    type: example
+    text: >
+      Saad tells a prospect who says no for now that he only wants an
+      opportunity to pitch to their founders, with the worst case being
+      that they lose 15 (minutes, per context) and the best case being
+      that he helps the company.
+    topic: cold-call-objection-handling
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:22]-[00:34] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'. The unit after '15' is not in the caption; 'minutes' is inferred from context and should be checked against audio. Corrected after review: the preceding caption phrase 'it's not a paid promotion kind of a situation' is probably the prospect's line and was removed from this statement; confirm who says it in the audio."
+
+  - id: saad-khaja-01008
+    person: saad-khaja
+    source: saad-khaja-saad-clip-eultutusje0
+    type: example
+    text: >
+      Saad proposes locking in a 15 to 20 minute exploration call and
+      asks the prospect to confirm their email address.
+    topic: cold-call-booking
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:42]-[00:49] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01009
+    person: saad-khaja
+    source: saad-khaja-saad-clip-eultutusje0
+    type: example
+    text: >
+      Saad says he will send a calendar invite and also a text on
+      WhatsApp to confirm the meeting.
+    topic: cold-call-booking
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:54]-[01:01] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+

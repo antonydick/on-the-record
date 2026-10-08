@@ -1,0 +1,85 @@
+statements:
+  - id: saad-khaja-02033
+    person: saad-khaja
+    source: saad-khaja-saad-clip-j3trsquh3tk
+    type: experience
+    text: >
+      Saad says a prospect who almost bought and signed everything has been
+      avoiding his calls, and that he keeps calling him every once in a
+      while, planning to call every 2 weeks for at least the next 3 months.
+    topic: follow-up-cadence
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:16] Saad speaks about his own prospect to camera. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02034
+    person: saad-khaja
+    source: saad-khaja-saad-clip-j3trsquh3tk
+    type: observation
+    text: >
+      Saad says the biggest mistake people make on calls to someone who has
+      been ghosting them is going into attack mode, for example saying that
+      the person was supposed to sign.
+    topic: follow-up-mistakes
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:18]-[00:28] Saad speaking to camera. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02035
+    person: saad-khaja
+    source: saad-khaja-saad-clip-j3trsquh3tk
+    type: recommendation
+    text: >
+      Saad recommends that when a ghosting prospect picks up, you say that
+      you missed them and it has been a while, then ask whether they figured
+      out the solution they were looking for.
+    topic: follow-up-script
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:28]-[00:36] Saad speaking to camera. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02036
+    person: saad-khaja
+    source: saad-khaja-saad-clip-j3trsquh3tk
+    type: mechanism
+    text: >
+      Saad says the reason to ask whether they solved the problem is that
+      they were still trying to solve it, and he claims nine times out of 10
+      you never lose.
+    topic: follow-up-script
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:36]-[00:42] Saad speaking to camera; the nine in ten figure is his own claim. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

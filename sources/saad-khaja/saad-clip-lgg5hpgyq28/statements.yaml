@@ -1,0 +1,103 @@
+statements:
+  - id: saad-khaja-03058
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lgg5hpgyq28
+    type: example
+    text: >
+      Saad opens a call to a prospect with 600,000 followers by saying
+      he is not sure whether they need help because they are killing it
+      right now.
+    topic: compliment-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:10] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03059
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lgg5hpgyq28
+    type: example
+    text: >
+      When a prospect says they signed an agency for 4 months, Saad says
+      they are doing great with 600,000 followers and asks whether they
+      are boosting their content.
+    topic: existing-agency-objection
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:16]-[00:22] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03060
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lgg5hpgyq28
+    type: example
+    text: >
+      Saad asks whether he can call back in a couple of months to check
+      in and says he wants to call in 3 months.
+    topic: callback-commitment
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:23]-[00:28] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03061
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lgg5hpgyq28
+    type: example
+    text: >
+      To make sure the prospect remembers the conversation, Saad asks
+      about their favorite chocolate and then their favorite biryani,
+      and says they will meet at the restaurant named in 3 months.
+    topic: memorable-callback
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:29]-[00:48] Saad is the caller on this cold call; restaurant name is garbled in the captions."
+
+  - id: saad-khaja-03062
+    person: saad-khaja
+    source: saad-khaja-saad-clip-lgg5hpgyq28
+    type: belief
+    text: >
+      Saad says the point of the chocolate and biryani questions is to
+      stay memorable.
+    topic: stay-memorable
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:50]-[00:54] Saad's closing line; caption is garbled."

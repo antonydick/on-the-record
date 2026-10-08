@@ -1,0 +1,115 @@
+statements:
+  - id: saad-khaja-04033
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bmof6bb8shq
+    type: belief
+    text: >
+      Saad says the biggest problem in the sales world today is not leads and not closing but data.
+    topic: sales-data
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:05] Attributed to Saad because Saad speaking to camera; the clip is a sponsored promo for Emergent. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04034
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bmof6bb8shq
+    type: assertion
+    text: >
+      Saad says that either sales teams have no idea what their data looks like, or it sits in a spreadsheet and they do not know what to do with it.
+    topic: sales-data
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:05]-[00:10] Attributed to Saad because Saad speaking to camera. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04035
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bmof6bb8shq
+    type: assertion
+    text: >
+      Saad says teams usually conclude they must either build a custom CRM costing thousands of dollars or use a pre-built tool that does not really fit their organization.
+    topic: sales-data
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:11]-[00:20] Attributed to Saad because Saad speaking to camera. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04036
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bmof6bb8shq
+    type: example
+    text: >
+      Saad says he built a custom CRM on Emergent by pasting a prompt, with a Kanban view of new deals, proposals stuck, deposits taken and follow-ups, plus team and individual views, daily activities, rep management and best-case revenue projections.
+    topic: sponsor-read
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:26]-[01:08] Attributed to Saad because Saad demonstrating the product in a sponsored clip. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04037
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bmof6bb8shq
+    type: assertion
+    text: >
+      Saad says the CRM took 10 to 15 minutes to build and ended up as a fully customizable dashboard.
+    topic: sponsor-read
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[01:08]-[01:13] Attributed to Saad because Saad speaking to camera. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04038
+    person: saad-khaja
+    source: saad-khaja-saad-clip-bmof6bb8shq
+    type: recommendation
+    text: >
+      Saad recommends Emergent, stating that it has about 10 million users and has raised $130 million at a $1.5 billion valuation.
+    topic: sponsor-read
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[01:15]-[01:25] Attributed to Saad because Saad's sponsor read; the figures are his claims and are unverified. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

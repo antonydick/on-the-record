@@ -1,0 +1,102 @@
+statements:
+  - id: saad-khaja-01025
+    person: saad-khaja
+    source: saad-khaja-saad-clip-7bafudhzobg
+    type: example
+    text: >
+      Saad opens a cold call by saying it is a cold call and asking
+      for 30 seconds.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:02]-[00:05] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01026
+    person: saad-khaja
+    source: saad-khaja-saad-clip-7bafudhzobg
+    type: example
+    text: >
+      Saad tells a prospect who says maybe in another month that he
+      will not take more than 20 seconds.
+    topic: cold-call-objection-handling
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:10]-[00:14] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01027
+    person: saad-khaja
+    source: saad-khaja-saad-clip-7bafudhzobg
+    type: example
+    text: >
+      Saad tells the prospect his company just shot on a yacht with a
+      Lamborghini and models and offers to share that work.
+    topic: cold-call-pitch
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:17]-[00:24] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'. Prospect first asks about Dubai destination work; the reply about the yacht is attributed to Saad; medium because of caption quality."
+
+  - id: saad-khaja-01028
+    person: saad-khaja
+    source: saad-khaja-saad-clip-7bafudhzobg
+    type: example
+    text: >
+      Saad asks whether they can do a quick 15 minutes on Zoom anytime
+      this week.
+    topic: cold-call-booking
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:24]-[00:27] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01029
+    person: saad-khaja
+    source: saad-khaja-saad-clip-7bafudhzobg
+    type: example
+    text: >
+      Saad tells a prospect who is in another meeting that he will
+      shoot a portfolio, not waste much of their time, and call them
+      back in mid-October.
+    topic: cold-call-followup
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:36]-[00:41] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+

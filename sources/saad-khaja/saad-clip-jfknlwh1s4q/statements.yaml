@@ -1,0 +1,58 @@
+statements:
+  - id: saad-khaja-04004
+    person: saad-khaja
+    source: saad-khaja-saad-clip-jfknlwh1s4q
+    type: example
+    text: >
+      Saad tells a prospect that his company does video production for corporates across Dubai and asks if they have any requirement for production.
+    topic: cold-call-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:04]-[00:11] Attributed to Saad because Saad is the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04005
+    person: saad-khaja
+    source: saad-khaja-saad-clip-jfknlwh1s4q
+    type: example
+    text: >
+      After a prospect says they do everything in house, Saad offers to keep them in the loop by calling back in a couple of months or sending his portfolio in case another requirement comes up.
+    topic: handling-objection-in-house
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:15]-[00:22] Attributed to Saad because the caller's response to the objection. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04006
+    person: saad-khaja
+    source: saad-khaja-saad-clip-jfknlwh1s4q
+    type: example
+    text: >
+      When a prospect asks how he got their email, Saad says data is a scam at this point and everybody's data is out there, says his company uses a tool called Apollo that holds databases of almost all major companies, and offers to help take the prospect's email off.
+    topic: email-source-objection
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:38]-[00:50] Attributed to Saad because the caller answers the prospect's question; Apollo name from captions. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

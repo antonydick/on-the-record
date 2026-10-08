@@ -1,0 +1,63 @@
+statements:
+  - id: saad-khaja-02041
+    person: saad-khaja
+    source: saad-khaja-saad-clip-orego8-qx4a
+    type: example
+    text: >
+      In a post-event follow-up call, Saad starts by saying what a pleasure
+      it was to meet the prospect at an event, then asks how everything is
+      going.
+    topic: post-event-followup
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:02]-[00:09] Saad is the caller; the event name is garbled in the captions. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02042
+    person: saad-khaja
+    source: saad-khaja-saad-clip-orego8-qx4a
+    type: example
+    text: >
+      When the prospect says they have about 700 leads and about 100
+      meetings lined up from sending a WhatsApp, Saad says there is still a
+      lot they can do together and suggests that they sit and strategize.
+    topic: post-event-followup
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:11]-[00:30] Saad is the caller; captions have some machine-translated lines. Auto-captions are imperfect. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02043
+    person: saad-khaja
+    source: saad-khaja-saad-clip-orego8-qx4a
+    type: example
+    text: >
+      Saad asks what the prospect is doing tonight to set a meeting, and
+      agrees to 7:00 pm the next day when told they are booked out.
+    topic: call-booking-close
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:30]-[00:40] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

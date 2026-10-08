@@ -1,0 +1,58 @@
+statements:
+  - id: saad-khaja-04028
+    person: saad-khaja
+    source: saad-khaja-saad-clip-ysd4yflhoi0
+    type: example
+    text: >
+      After a prospect says they are not looking for these services, Saad asks permission to ask one question before he lets them go.
+    topic: handling-objection-not-looking
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:18]-[00:20] Attributed to Saad because the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04029
+    person: saad-khaja
+    source: saad-khaja-saad-clip-ysd4yflhoi0
+    type: example
+    text: >
+      Saad asks a prospect whether they are saying no because they are tired of cold calls or whether he should just not bother them right now.
+    topic: handling-objection-not-looking
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:21]-[00:27] Attributed to Saad because a question aimed at the prospect; captions are rough. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04030
+    person: saad-khaja
+    source: saad-khaja-saad-clip-ysd4yflhoi0
+    type: example
+    text: >
+      When a prospect says she is traveling and to send a WhatsApp note, Saad asks whether he can schedule a call on her calendar since he already has her mail.
+    topic: meeting-ask
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:59]-[01:02] Attributed to Saad because the caller. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

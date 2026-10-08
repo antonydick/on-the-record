@@ -1,0 +1,65 @@
+statements:
+  - id: saad-khaja-02025
+    person: saad-khaja
+    source: saad-khaja-saad-clip-gceqn5ufwye
+    type: example
+    text: >
+      Saad opens by asking if it is a good time, and describes his company
+      as a content creation company, calling the call a shot in the dark.
+    topic: cold-call-opener
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:08] Saad is the caller; the captions say shoot in the dark and the company name is garbled. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02026
+    person: saad-khaja
+    source: saad-khaja-saad-clip-gceqn5ufwye
+    type: example
+    text: >
+      When asked to send an email, Saad says he does not want to send a
+      brief that makes no sense, and suggests a 15 to 20 minute Zoom call
+      where he gets an understanding of what is going on, after which his
+      team will come up with a brief.
+    topic: call-booking-close
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:18]-[00:40] Saad is the caller proposing the call. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02027
+    person: saad-khaja
+    source: saad-khaja-saad-clip-gceqn5ufwye
+    type: example
+    text: >
+      Saad says to the prospect that they are a serious, well-established
+      company and do not need some random person coming with a new idea,
+      using that to explain why he would rather first understand them on a
+      call.
+    topic: email-objection
+    speaker_confidence: low
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:20]-[00:28] This line is Saad speaking on the call; the transcript is machine-translated and jumbled. Auto-captions are imperfect. Transcribed from YouTube auto-captions; text is a close paraphrase."
+

@@ -1,0 +1,39 @@
+statements:
+  - id: saad-khaja-04017
+    person: saad-khaja
+    source: saad-khaja-saad-clip-vdodj5i2mks
+    type: recommendation
+    text: >
+      Saad says that when a prospect tells you to call back after an hour, you should check their intent, because there is no point calling back unless they actually have a requirement.
+    topic: cold-call-callback-intent
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:19]-[00:28] Attributed to Saad because spoken as coaching directly to camera after the call. YouTube auto-captions, not reviewed; text is a close paraphrase."
+
+  - id: saad-khaja-04018
+    person: saad-khaja
+    source: saad-khaja-saad-clip-vdodj5i2mks
+    type: recommendation
+    text: >
+      Saad suggests asking the prospect whether this is something they are even looking for, and saying you do not want to waste their time, which he says makes it more real.
+    topic: cold-call-callback-intent
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:27]-[00:31] Attributed to Saad because spoken as coaching directly to camera. YouTube auto-captions, not reviewed; text is a close paraphrase."
+

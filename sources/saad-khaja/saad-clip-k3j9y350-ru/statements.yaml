@@ -1,0 +1,101 @@
+statements:
+  - id: saad-khaja-01001
+    person: saad-khaja
+    source: saad-khaja-saad-clip-k3j9y350-ru
+    type: example
+    text: >
+      Saad opens a cold call to a prospect by saying it is a cold call
+      and asking whether the person has 30 seconds.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:08]-[00:12] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01002
+    person: saad-khaja
+    source: saad-khaja-saad-clip-k3j9y350-ru
+    type: example
+    text: >
+      Saad offers to tell the prospect what the call is about so that
+      he does not bother them later if it is not necessary for them.
+    topic: cold-call-respect-for-time
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:18]-[00:22] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01003
+    person: saad-khaja
+    source: saad-khaja-saad-clip-k3j9y350-ru
+    type: example
+    text: >
+      Saad asks the prospect whether they are currently looking for
+      any kind of help with social media.
+    topic: qualifying-question
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:24]-[00:26] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01004
+    person: saad-khaja
+    source: saad-khaja-saad-clip-k3j9y350-ru
+    type: belief
+    text: >
+      Saad says that to people who claim cold calling in India does
+      not work, his reply is to just have a conversation.
+    topic: cold-calling-india
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:40]-[00:46] Voiceover commentary after the call, attributed to Saad as the video's creator; captions contain a censored word."
+
+  - id: saad-khaja-01005
+    person: saad-khaja
+    source: saad-khaja-saad-clip-k3j9y350-ru
+    type: experience
+    text: >
+      Saad says the call was to India and that he called India just to
+      prove a point.
+    topic: cold-calling-india
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:46]-[00:50] Voiceover commentary after the call, attributed to Saad as the video's creator."
+

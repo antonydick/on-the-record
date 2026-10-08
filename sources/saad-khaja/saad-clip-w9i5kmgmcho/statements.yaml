@@ -1,0 +1,103 @@
+statements:
+  - id: saad-khaja-03031
+    person: saad-khaja
+    source: saad-khaja-saad-clip-w9i5kmgmcho
+    type: example
+    text: >
+      Saad opens a cold call saying he is calling from HOS about social
+      media and asking for 30 seconds, and the prospect says they are
+      busy.
+    topic: cold-call-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:01]-[00:08] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03032
+    person: saad-khaja
+    source: saad-khaja-saad-clip-w9i5kmgmcho
+    type: example
+    text: >
+      When a busy prospect asks him to call back, Saad says he does not
+      want to waste their time on Monday and asks whether this is
+      something they are even looking for.
+    topic: qualify-before-callback
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:11]-[00:16] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03033
+    person: saad-khaja
+    source: saad-khaja-saad-clip-w9i5kmgmcho
+    type: example
+    text: >
+      After the prospect says they are not looking for outsourced social
+      media, Saad says his company also does training, as the same
+      people who worked with the biggest creators in the GCC.
+    topic: pivot-to-training
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:26]-[00:31] Saad is the caller on this cold call; the claim about GCC creators is his own on-call statement."
+
+  - id: saad-khaja-03034
+    person: saad-khaja
+    source: saad-khaja-saad-clip-w9i5kmgmcho
+    type: example
+    text: >
+      Saad asks the prospect whether they need help training the team in
+      editing, production and concept creation.
+    topic: training-offer
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:31]-[00:37] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03035
+    person: saad-khaja
+    source: saad-khaja-saad-clip-w9i5kmgmcho
+    type: example
+    text: >
+      Saad ends by saying he will WhatsApp the details and call back on
+      Monday and asking whether that is okay.
+    topic: callback-commitment
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:47]-[00:52] Saad is the caller on this cold call."

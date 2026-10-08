@@ -1,0 +1,43 @@
+statements:
+  - id: saad-khaja-01015
+    person: saad-khaja
+    source: saad-khaja-saad-clip-hxyxjaj-lmw
+    type: example
+    text: >
+      Saad introduces his company as one that specializes in building
+      organic content and asks the prospect whether they are looking
+      for any kind of help with social media for their company.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:06]-[00:14] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'."
+
+  - id: saad-khaja-01016
+    person: saad-khaja
+    source: saad-khaja-saad-clip-hxyxjaj-lmw
+    type: example
+    text: >
+      Saad asks a prospect who wants to be contacted over WhatsApp
+      what exactly they do, so that he sends them things that are
+      relevant.
+    topic: cold-call-followup
+    speaker_confidence: medium
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:23]-[00:27] Speaker is the caller (Saad) on his own cold call; auto-captions render his name as 'sad' and his company as 'hos'. Wording is garbled in captions; line is his because he is the one who will send the WhatsApp message."
+

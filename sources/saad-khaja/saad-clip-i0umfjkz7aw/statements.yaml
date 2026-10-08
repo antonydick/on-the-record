@@ -1,0 +1,84 @@
+statements:
+  - id: saad-khaja-03005
+    person: saad-khaja
+    source: saad-khaja-saad-clip-i0umfjkz7aw
+    type: example
+    text: >
+      On a cold call Saad opens by saying it is a cold call and asking
+      whether the person has 30 seconds, then says his company does
+      organic content.
+    topic: cold-call-opening
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:03]-[00:11] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03006
+    person: saad-khaja
+    source: saad-khaja-saad-clip-i0umfjkz7aw
+    type: example
+    text: >
+      When a prospect says they have an in-house content team, Saad asks
+      to put one last question before hopping off and says they have
+      started working with businesses that have in-house teams.
+    topic: in-house-team-objection
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:16]-[00:25] Saad is the caller on this cold call; the prospect's line is captured in the same stretch, caption is run together."
+
+  - id: saad-khaja-03007
+    person: saad-khaja
+    source: saad-khaja-saad-clip-i0umfjkz7aw
+    type: example
+    text: >
+      Saad offers to come in and shoot videos that the prospect can
+      upload and see how they engage with their content, and then have a
+      conversation, using the claim that they are the same team that did
+      content for the biggest creators as proof of quality.
+    topic: free-sample-offer
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:25]-[00:38] Saad is the caller on this cold call."
+
+  - id: saad-khaja-03008
+    person: saad-khaja
+    source: saad-khaja-saad-clip-i0umfjkz7aw
+    type: example
+    text: >
+      Saad asks the prospect whether they could set up a 15-minute call
+      this week once the prospect says they would try it.
+    topic: asking-for-meeting
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:47]-[00:51] Saad is the caller on this cold call."

@@ -1,0 +1,123 @@
+statements:
+  - id: saad-khaja-03021
+    person: saad-khaja
+    source: saad-khaja-saad-clip-2aapb0ibxvq
+    type: observation
+    text: >
+      Saad says there are two schools of objection handling, non-
+      aggressive and aggressive.
+    topic: objection-handling-styles
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:05] Saad is speaking to camera."
+
+  - id: saad-khaja-03022
+    person: saad-khaja
+    source: saad-khaja-saad-clip-2aapb0ibxvq
+    type: assertion
+    text: >
+      Saad says the non-aggressive style is built on relationships and
+      on giving people time to come back, so over time they feel
+      comfortable enough to have a conversation.
+    topic: non-aggressive-objection-handling
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:05]-[00:14] Saad's commentary."
+
+  - id: saad-khaja-03023
+    person: saad-khaja
+    source: saad-khaja-saad-clip-2aapb0ibxvq
+    type: assertion
+    text: >
+      Saad says the aggressive style has only one objective, getting a
+      meeting, regardless of the relationship.
+    topic: aggressive-objection-handling
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:14]-[00:20] Saad's commentary."
+
+  - id: saad-khaja-03024
+    person: saad-khaja
+    source: saad-khaja-saad-clip-2aapb0ibxvq
+    type: belief
+    text: >
+      Saad says the aggressive approach ends up getting a lot more
+      meetings in the long term than the non-aggressive one, while non-
+      aggressive sets fewer meetings but has more show-ups.
+    topic: meetings-vs-show-ups
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:20]-[00:32] Saad's commentary; caption wording around which style is which is ambiguous ('here/here')."
+
+  - id: saad-khaja-03025
+    person: saad-khaja
+    source: saad-khaja-saad-clip-2aapb0ibxvq
+    type: mechanism
+    text: >
+      Saad says that past a certain level of aggression people are
+      conflict-averse, so to get off the call they agree to a time such
+      as 2:00 and then stop picking up calls, producing no-shows.
+    topic: aggression-and-no-shows
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:32]-[00:45] Saad's commentary."
+
+  - id: saad-khaja-03026
+    person: saad-khaja
+    source: saad-khaja-saad-clip-2aapb0ibxvq
+    type: belief
+    text: >
+      Saad says both objection-handling styles have pros and cons and
+      the question is which one you want to play.
+    topic: objection-handling-styles
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:44]-[00:48] Saad's commentary."

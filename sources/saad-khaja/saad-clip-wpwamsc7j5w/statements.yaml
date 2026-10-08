@@ -1,0 +1,42 @@
+statements:
+  - id: saad-khaja-02019
+    person: saad-khaja
+    source: saad-khaja-saad-clip-wpwamsc7j5w
+    type: example
+    text: >
+      Saad opens a cold call by saying it is a cold call and asking if the
+      prospect has 30 seconds or already feels like throwing their phone out
+      of the window.
+    topic: cold-call-opener
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:00]-[00:07] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
+  - id: saad-khaja-02020
+    person: saad-khaja
+    source: saad-khaja-saad-clip-wpwamsc7j5w
+    type: example
+    text: >
+      When the prospect says to call after three, Saad says he will call at
+      four because he has a meeting at 3, and says he is excited to call.
+    topic: call-booking-close
+    speaker_confidence: high
+    verification:
+      status: draft
+      verified_at: null
+      verified_by: null
+      source_url: null
+      start_timestamp: null
+      end_timestamp: null
+    evidence:
+      excerpt: null
+    notes: "~[00:22]-[00:27] Saad is the caller. Transcribed from YouTube auto-captions; text is a close paraphrase."
+
